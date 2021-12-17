@@ -41,3 +41,13 @@ String inputWord = in.next();
 int inputInt = in.nextInt();
 ```
 
+### File Input and Output
+
+```java
+// read from file
+Scanner in = new Scanner(Path.of("myfile.txt"), StandardCharsets.UTF_8);
+// write to a file
+PrintWriter out = new PrintWriter("myfile.txt", StandardCharsets.UTF_8);
+out.println("output a new line");
+```
+
