@@ -51,3 +51,27 @@ PrintWriter out = new PrintWriter("myfile.txt", StandardCharsets.UTF_8);
 out.println("output a new line");
 ```
 
+## Big Numbers
+
+If the precision of the basic integer and floating-point types is no sufficient, you can turn to a couple of handy classes in the java.math package: BigInteger and BigDecimal.
+
+```java
+BigInteger bigInt = BigInteger.valueof(100);
+BigInteger bigLong = new BigInteger("100000000")
+```
+
+## Arrays
+
+An array is a data structure that stores a collection of values of the same types.
+
+```java
+int[] array = new int[10];
+```
+
+You can copy all values of one array to a new array.
+
+```java
+int[] newArray = Arrays.copyOf(oldArray, 2 * oldArray.length);
+```
+
+By which you can increase the size of your old array.
