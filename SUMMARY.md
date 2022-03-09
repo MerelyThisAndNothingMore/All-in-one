@@ -2,11 +2,11 @@
 
 ## Work
 
-* [Basic Coding](README.md)
-  * [Java](work/basic-coding/java/README.md)
-    * [Fundamental Programming Structures](work/basic-coding/java/fundamental-programming-structures.md)
-    * [Objects and Classes](work/basic-coding/java/objects-and-classes.md)
-* [Abstract Tools](work/abstract-tools.md)
+* [Java](README.md)
+  * [Objects and Classes](work/java/objects-and-classes.md)
+  * [Fundamental Programming Structures](work/java/fundamental-programming-structures.md)
+* [React Native](work/react-native.md)
+* [React](work/react.md)
 
 ## Reading
 
