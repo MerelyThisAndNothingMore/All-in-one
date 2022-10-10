@@ -75,3 +75,12 @@ int[] newArray = Arrays.copyOf(oldArray, 2 * oldArray.length);
 ```
 
 By which you can increase the size of your old array.
+
+### Array Sorting
+
+To sort an array of numbers, you can use one of the sort() method in the Array class:
+
+```java
+int[] a = new int[10000];
+Arrays.sort(a);   // sort an array with QuickSort algorithm
+```
