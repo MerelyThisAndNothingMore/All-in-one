@@ -11,6 +11,7 @@
 ## Reading
 
 * [History](reading/history/README.md)
+  * [中国历代政治得失](reading/history/zhong-guo-li-dai-zheng-zhi-de-shi.md)
   * [Sapiens: A Brief History of Humankind](reading/history/sapiens-a-brief-history-of-humankind.md)
   * [枪炮、病菌与钢铁](reading/history/qiang-pao-bing-jun-yu-gang-tie.md)
 * [哲学](reading/zhe-xue/README.md)
