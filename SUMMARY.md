@@ -13,6 +13,7 @@
 * [Computer Science](reading/computer-science/README.md)
   * [CS:APP](reading/computer-science/cs-app.md)
 * [History](reading/history/README.md)
+  * [THE RISE OF ADOLF HITLER](reading/history/the-rise-of-adolf-hitler.md)
   * [万历十五年](reading/history/wan-li-shi-wu-nian.md)
   * [中国近代史](reading/history/zhong-guo-jin-dai-shi.md)
   * [中国历代政治得失](reading/history/zhong-guo-li-dai-zheng-zhi-de-shi.md)
