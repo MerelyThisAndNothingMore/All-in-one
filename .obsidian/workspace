@@ -1,0 +1,122 @@
+{
+  "main": {
+    "id": "351039fa1156bc12",
+    "type": "split",
+    "children": [
+      {
+        "id": "b18b7cd905d9bb26",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "reading/zhe-xue/ma-ke-si-en-ge-si-wen-ji/1844-nian-jing-ji-xue-zhe-xue-shou-gao.md",
+            "mode": "preview"
+          }
+        },
+        "group": "fbf23c4115b9bb2f"
+      },
+      {
+        "id": "03d0abf24cbce39a",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "reading/zhe-xue/ma-ke-si-en-ge-si-wen-ji/1844-nian-jing-ji-xue-zhe-xue-shou-gao.md"
+          }
+        },
+        "group": "fbf23c4115b9bb2f"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b5e0f3eb2f29dcd",
+    "type": "split",
+    "children": [
+      {
+        "id": "42b40a03c38ba4ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9efb66c5acbe3c31",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5e5fea182599fa5c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5686aed80dfb294e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9e446419254498f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47447ecee5b498c3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "reading/zhe-xue/ma-ke-si-en-ge-si-wen-ji/1844-nian-jing-ji-xue-zhe-xue-shou-gao.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d5a2eab4a62db16d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "reading/zhe-xue/ma-ke-si-en-ge-si-wen-ji/1844-nian-jing-ji-xue-zhe-xue-shou-gao.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "03d0abf24cbce39a",
+  "lastOpenFiles": [
+    "reading/zhe-xue/ma-ke-si-en-ge-si-wen-ji/1844-nian-jing-ji-xue-zhe-xue-shou-gao.md",
+    "work/java/fundamental-programming-structures.md",
+    "work/java/objects-and-classes.md",
+    "work/react.md",
+    "work/react-native.md",
+    "SUMMARY.md",
+    "reading/computer-science/cs-app.md",
+    "reading/computer-science/README.md"
+  ]
+}

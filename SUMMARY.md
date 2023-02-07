@@ -3,9 +3,9 @@
 ## Work
 
 * [Android](README.md)
-* [Java](work/java/README.md)
-  * [Objects and Classes](work/java/objects-and-classes.md)
-  * [Fundamental Programming Structures](work/java/fundamental-programming-structures.md)
+* [Java](Computer/java/README.md)
+  * [Objects and Classes](objects-and-classes.md)
+  * [Fundamental Programming Structures](fundamental-programming-structures.md)
 * [React Native](work/react-native.md)
 * [React](work/react.md)
 
