@@ -33,14 +33,53 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/Android/Dependency injection in Android.md",
-                "mode": "preview",
+                "file": "DataBase/Investment/Stock/换手率.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49fb92dec3985e4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Investment/Stock/海康威视.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6bf92a28c347e94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Configuration/Templates/A股模板.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23f772eb454f87a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Investment/Stock/海康威视.md",
+                "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -69,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Diary",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/Android/Dependency injection in Android.md",
+                "file": "DataBase/Investment/Stock/海康威视.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/Android/Dependency injection in Android.md"
+                "file": "DataBase/Investment/Stock/海康威视.md"
               }
             }
           },
@@ -155,11 +194,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 366.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,17 +217,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "74a8810d57b709f8",
+  "active": "23f772eb454f87a0",
   "lastOpenFiles": [
-    "DataBase/Knowledge/Computer/Software Engineering/Software engineering.md",
-    "DataBase/Knowledge/Computer/Software Engineering/Dependency Injection.md",
-    "SUMMARY.md",
+    "Configuration/Templates/films_and_television_works.md",
+    "Configuration/Templates/entertainment star template.md",
+    "Configuration/Templates/coding_qusitions.md",
+    "Configuration/Templates/A股模板.md",
+    "DataBase/Investment/Stock/海康威视.md",
+    "DataBase/Investment/StockWorkdesk.md",
+    "DataBase/Reality/Enterprises/Data/海康威视.md",
+    "DataBase/Investment/Stock/换手率.md",
     "DataBase/Knowledge/Computer/Android/Dependency injection in Android.md",
-    "DataBase/Knowledge/Computer/Software Engineering/Object.md",
-    "DataBase/Knowledge/Computer/Software Engineering/Function.md",
-    "DataBase/Knowledge/Computer/Software Engineering/Design pattern.md",
-    "DataBase/Knowledge/Computer/Software Engineering/Inversion of control.md",
-    "DataBase/life/diary/2023-W07.md",
-    "DataBase/Knowledge/Computer/Software Engineering/class.md"
+    "DataBase/Knowledge/Computer/Software Engineering/Software engineering.md"
   ]
 }
