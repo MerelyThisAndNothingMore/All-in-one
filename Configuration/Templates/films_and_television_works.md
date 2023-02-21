@@ -1,5 +1,5 @@
 ---
-creation_date: 
-directors:
-actors: 
+release_date: 
+directors: [""]
+actors: [""]
 ---

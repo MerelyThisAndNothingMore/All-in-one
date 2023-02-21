@@ -8,39 +8,139 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7c7e32f725c3ed7f",
-            "type": "leaf",
-            "state": {
-              "type": "memos_view",
-              "state": {}
-            }
-          },
-          {
             "id": "ac63fa328ed4dbc0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/Software Engineering/Dependency Injection.md",
+                "file": "DataBase/Reality/Literature/Films and Television/黄飞鸿.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "74a8810d57b709f8",
+            "id": "a8e5d28937da3fb9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/Android/Dependency injection in Android.md",
-                "mode": "preview",
+                "file": "DataBase/Reality/Literature/Films and Television/The Fire Within-A Requiem for Katia and Maurice Krafft.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c74675414e985162",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Reality/Literature/Films and Television/The Fire Within-A Requiem for Katia and Maurice Krafft.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b52873927191054",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Configuration/Templates/entertainment star template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd4046a00fc20ab7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer System/Computer System.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2042877b501f7d05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Hello World.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cda708eebf11049d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer System/Source program.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e24fd995550dd96d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Reality/Persons/Data/Lenin, Vladimir llyich.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52882c22f9ff0f72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Tasks/LoogTermPlan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83d56307b21f662c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Tasks/WorkDesk.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a491838048ca9a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Utils/Git.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -69,7 +169,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Diary",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/Android/Dependency injection in Android.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer System/Source program.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/Android/Dependency injection in Android.md"
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer System/Source program.md"
               }
             }
           },
@@ -155,7 +255,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -177,17 +277,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "74a8810d57b709f8",
+  "active": "cda708eebf11049d",
   "lastOpenFiles": [
-    "DataBase/Knowledge/Computer/Software Engineering/Software engineering.md",
-    "DataBase/Knowledge/Computer/Software Engineering/Dependency Injection.md",
-    "SUMMARY.md",
-    "DataBase/Knowledge/Computer/Android/Dependency injection in Android.md",
-    "DataBase/Knowledge/Computer/Software Engineering/Object.md",
-    "DataBase/Knowledge/Computer/Software Engineering/Function.md",
-    "DataBase/Knowledge/Computer/Software Engineering/Design pattern.md",
-    "DataBase/Knowledge/Computer/Software Engineering/Inversion of control.md",
-    "DataBase/life/diary/2023-W07.md",
-    "DataBase/Knowledge/Computer/Software Engineering/class.md"
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Hello World.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer System/Computer System.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Software engineering.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Object.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design pattern.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/class.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Dependency Injection.md",
+    "Configuration/Templates/entertainment star template.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/编程题/0001. 两数之和.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/编程题/0020. 有效的括号.md"
   ]
 }
