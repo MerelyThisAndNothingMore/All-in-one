@@ -6,5 +6,9 @@
   "defaultViewMode": "preview",
   "showLineNumber": true,
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "spellcheckLanguages": [
+    "zh-CN",
+    "en-US"
+  ]
 }

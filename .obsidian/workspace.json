@@ -11,148 +11,194 @@
             "id": "ac63fa328ed4dbc0",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "74a8810d57b709f8",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Reality/Literature/Films and Television/黄飞鸿.md",
+                "file": "DataBase/Investment/Stock/换手率.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "a8e5d28937da3fb9",
+            "id": "49fb92dec3985e4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Reality/Literature/Films and Television/The Fire Within-A Requiem for Katia and Maurice Krafft.md",
+                "file": "DataBase/Investment/Stock/海康威视.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "c74675414e985162",
+            "id": "a6bf92a28c347e94",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Reality/Literature/Films and Television/The Fire Within-A Requiem for Katia and Maurice Krafft.md",
+                "file": "Configuration/Templates/A股模板.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "7b52873927191054",
+            "id": "23f772eb454f87a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Configuration/Templates/entertainment star template.md",
+                "file": "DataBase/Investment/Stock/换手率.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "bd4046a00fc20ab7",
+            "id": "d6711dcb7293808f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer System/Computer System.md",
+                "file": "DataBase/Reality/Literature/Books/THE PRINCIPIA.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "2042877b501f7d05",
+            "id": "6b138c9c7ffed203",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Hello World.md",
+                "file": "DataBase/Reality/Literature/Books/THE PRINCIPIA.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "cda708eebf11049d",
+            "id": "893c0da7eadbb980",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer System/Source program.md",
+                "file": "DataBase/Reality/Literature/Books/THE PRINCIPIA.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "e24fd995550dd96d",
+            "id": "2564d33978493e69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Reality/Persons/Data/Lenin, Vladimir llyich.md",
+                "file": "DataBase/Reality/Literature/Books/THE PRINCIPIA.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "52882c22f9ff0f72",
+            "id": "d8b84d007b0ede9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer System/Source program.md",
+                "file": "DataBase/Reality/Literature/Books/THE PRINCIPIA.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "227da5904f3b331f",
+            "id": "e68460dfa690ab21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Tasks/data/Interview preparation.md",
+                "file": "DataBase/Reality/Literature/Books/THE PRINCIPIA.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "8ecbda4e5fcc386f",
+            "id": "36b736a8b81aa397",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer System/Computer System.md",
+                "file": "DataBase/Reality/Literature/Books/THE PRINCIPIA.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "a2f3a3c422c853b1",
+            "id": "90525f1d6782a203",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Coding/C programing language.md",
+                "file": "DataBase/Reality/Literature/Books/THE PRINCIPIA.md",
                 "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f180e11911a7a17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/NaturalScience/TheoreticalLayer/Mathematics/Mathematics.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9eb44269af18ee80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Reality/Literature/Books/THE PRINCIPIA.md",
+                "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -181,7 +227,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#softwareEngineering",
+                "query": "tag:#language",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -210,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Coding/C programing language.md",
+                "file": "DataBase/Reality/Literature/Books/THE PRINCIPIA.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +273,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Coding/C programing language.md"
+                "file": "DataBase/Reality/Literature/Books/THE PRINCIPIA.md"
               }
             }
           },
@@ -267,11 +313,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 366.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -289,17 +336,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a2f3a3c422c853b1",
+  "active": "9eb44269af18ee80",
   "lastOpenFiles": [
-    "DataBase/Knowledge/Computer/BaseLayer/Computer System/Computer System.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer System/Source program.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer System/Text File.md",
-    "DataBase/Tasks/data/Interview preparation.md",
-    "DataBase/Tasks/LoogTermPlan.md",
-    "DataBase/Tasks/WorkDesk.md",
-    "DataBase/life/diary/2023-02-21.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer System/ASCII.md",
-    "DataBase/reading/computer-science/core-java-11th/1.-an-introduction-to-java.md",
-    "README.md"
+    "DataBase/Knowledge/NaturalScience/TheoreticalLayer/Mathematics/Newton's theorem about ovals.md",
+    "DataBase/Knowledge/NaturalScience/TheoreticalLayer/Mathematics/Mathematics.md",
+    "DataBase/Reality/Literature/Books/THE PRINCIPIA.md",
+    "DataBase/Knowledge/NaturalScience/TheoreticalLayer/Physics/laws of planetary motion.md",
+    "DataBase/Reality/Persons/Isaac Newton.md",
+    "DataBase/Reality/Persons/Johannes Kepler.md",
+    "DataBase/Knowledge/NaturalScience/TheoreticalLayer/Physics/classical mechanics.md",
+    "DataBase/Reality/Language/Latin/Latin.md",
+    "DataBase/Reality/Untitled.md",
+    "DataBase/Knowledge/NaturalScience/TheoreticalLayer/Physics/Law of universal gravitation.md"
   ]
 }
