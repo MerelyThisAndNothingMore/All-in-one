@@ -190,7 +190,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Reality/Literature/Books/THE PRINCIPIA.md",
+                "file": "DataBase/Knowledge/NaturalScience/TheoreticalLayer/Physics/Newton's laws of motion.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -227,7 +227,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#language",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -256,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Reality/Literature/Books/THE PRINCIPIA.md",
+                "file": "DataBase/Knowledge/NaturalScience/TheoreticalLayer/Physics/Newton's laws of motion.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +273,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Reality/Literature/Books/THE PRINCIPIA.md"
+                "file": "DataBase/Knowledge/NaturalScience/TheoreticalLayer/Physics/Newton's laws of motion.md"
               }
             }
           },
@@ -338,15 +338,15 @@
   },
   "active": "9eb44269af18ee80",
   "lastOpenFiles": [
+    "DataBase/Reality/Persons/Isaac Newton.md",
+    "DataBase/Reality/Literature/Books/THE PRINCIPIA.md",
+    "Isaac Newton.png",
     "DataBase/Knowledge/NaturalScience/TheoreticalLayer/Mathematics/Newton's theorem about ovals.md",
     "DataBase/Knowledge/NaturalScience/TheoreticalLayer/Mathematics/Mathematics.md",
-    "DataBase/Reality/Literature/Books/THE PRINCIPIA.md",
     "DataBase/Knowledge/NaturalScience/TheoreticalLayer/Physics/laws of planetary motion.md",
-    "DataBase/Reality/Persons/Isaac Newton.md",
     "DataBase/Reality/Persons/Johannes Kepler.md",
     "DataBase/Knowledge/NaturalScience/TheoreticalLayer/Physics/classical mechanics.md",
     "DataBase/Reality/Language/Latin/Latin.md",
-    "DataBase/Reality/Untitled.md",
-    "DataBase/Knowledge/NaturalScience/TheoreticalLayer/Physics/Law of universal gravitation.md"
+    "DataBase/Reality/Untitled.md"
   ]
 }
