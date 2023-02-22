@@ -1,4 +1,6 @@
-# Work
+# Content
+[[StockWorkdesk]]
+
 
 # Reference
-[[LoogTermPlan]]
+[[LongTermPlan]]
