@@ -1,0 +1,7 @@
+#computer 
+![[Hardware Organization.png]]
+
+
+
+
+

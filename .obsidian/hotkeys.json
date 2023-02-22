@@ -20,7 +20,24 @@
       "modifiers": [
         "Mod"
       ],
+      "key": "Q"
+    }
+  ],
+  "random-note": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
       "key": "R"
     }
-  ]
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "I"
+    }
+  ],
+  "editor:toggle-italics": []
 }

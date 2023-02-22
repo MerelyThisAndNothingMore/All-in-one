@@ -11,17 +11,9 @@
             "id": "ac63fa328ed4dbc0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "74a8810d57b709f8",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Investment/Stock/换手率.md",
+                "file": "DataBase/Reality/Literature/Films and Television/黄飞鸿.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -29,12 +21,12 @@
             }
           },
           {
-            "id": "49fb92dec3985e4f",
+            "id": "a8e5d28937da3fb9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Investment/Stock/海康威视.md",
+                "file": "DataBase/Reality/Literature/Films and Television/The Fire Within-A Requiem for Katia and Maurice Krafft.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -42,12 +34,12 @@
             }
           },
           {
-            "id": "a6bf92a28c347e94",
+            "id": "c74675414e985162",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Configuration/Templates/A股模板.md",
+                "file": "DataBase/Reality/Literature/Films and Television/The Fire Within-A Requiem for Katia and Maurice Krafft.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -55,12 +47,12 @@
             }
           },
           {
-            "id": "23f772eb454f87a0",
+            "id": "7b52873927191054",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Investment/Stock/换手率.md",
+                "file": "Configuration/Templates/entertainment star template.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -68,12 +60,12 @@
             }
           },
           {
-            "id": "d6711dcb7293808f",
+            "id": "bd4046a00fc20ab7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Reality/Literature/Books/THE PRINCIPIA.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer System/Computer System.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -81,12 +73,12 @@
             }
           },
           {
-            "id": "6b138c9c7ffed203",
+            "id": "2042877b501f7d05",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Reality/Literature/Books/THE PRINCIPIA.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Hello World.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,12 +86,12 @@
             }
           },
           {
-            "id": "893c0da7eadbb980",
+            "id": "cda708eebf11049d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Reality/Literature/Books/THE PRINCIPIA.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer System/Source program.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -107,12 +99,12 @@
             }
           },
           {
-            "id": "2564d33978493e69",
+            "id": "e24fd995550dd96d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Reality/Literature/Books/THE PRINCIPIA.md",
+                "file": "DataBase/Reality/Persons/Data/Lenin, Vladimir llyich.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -120,12 +112,12 @@
             }
           },
           {
-            "id": "d8b84d007b0ede9a",
+            "id": "52882c22f9ff0f72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Reality/Literature/Books/THE PRINCIPIA.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer System/Source program.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -133,12 +125,12 @@
             }
           },
           {
-            "id": "e68460dfa690ab21",
+            "id": "227da5904f3b331f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Reality/Literature/Books/THE PRINCIPIA.md",
+                "file": "DataBase/Tasks/data/Interview preparation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -146,12 +138,12 @@
             }
           },
           {
-            "id": "36b736a8b81aa397",
+            "id": "8ecbda4e5fcc386f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Reality/Literature/Books/THE PRINCIPIA.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer System/Computer System.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -159,12 +151,12 @@
             }
           },
           {
-            "id": "90525f1d6782a203",
+            "id": "a2f3a3c422c853b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Reality/Literature/Books/THE PRINCIPIA.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Dependency Injection.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -172,12 +164,12 @@
             }
           },
           {
-            "id": "1f180e11911a7a17",
+            "id": "6f1416bc0bd217c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/NaturalScience/TheoreticalLayer/Mathematics/Mathematics.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Utils/GitHub Copilot.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -185,12 +177,155 @@
             }
           },
           {
-            "id": "9eb44269af18ee80",
+            "id": "4b88390a0047aa60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/NaturalScience/TheoreticalLayer/Physics/Newton's laws of motion.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Utils/GitHub Copilot.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f58c9c61a039bcdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Utils/GitHub Copilot.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6d7447e8f1c8475",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Utils/GitHub Copilot.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af7e6843878abbee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer System/Source program.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15403750ecf2f09b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer System/Compile.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f7f2ea58549b456",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Reality/Literature/Films and Television/2001-A Space Odyssey(film).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16ed0734b090a45d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer System/Compile.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5632661c8666b152",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer System/Hardware organization.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b786187516438da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer System/Computer System.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "118052c2619aa9c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer System/CPU.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47269ea0d5d0dd8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer System/Hardware organization.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "62c07da30db41066",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer System/Buses.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -198,7 +333,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 24
       }
     ],
     "direction": "vertical"
@@ -256,7 +391,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/NaturalScience/TheoreticalLayer/Physics/Newton's laws of motion.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer System/Buses.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +408,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/NaturalScience/TheoreticalLayer/Physics/Newton's laws of motion.md"
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer System/Buses.md"
               }
             }
           },
@@ -313,7 +448,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -336,17 +471,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9eb44269af18ee80",
+  "active": "62c07da30db41066",
   "lastOpenFiles": [
-    "DataBase/Reality/Persons/Isaac Newton.md",
-    "DataBase/Reality/Literature/Books/THE PRINCIPIA.md",
-    "Isaac Newton.png",
-    "DataBase/Knowledge/NaturalScience/TheoreticalLayer/Mathematics/Newton's theorem about ovals.md",
-    "DataBase/Knowledge/NaturalScience/TheoreticalLayer/Mathematics/Mathematics.md",
-    "DataBase/Knowledge/NaturalScience/TheoreticalLayer/Physics/laws of planetary motion.md",
-    "DataBase/Reality/Persons/Johannes Kepler.md",
-    "DataBase/Knowledge/NaturalScience/TheoreticalLayer/Physics/classical mechanics.md",
-    "DataBase/Reality/Language/Latin/Latin.md",
-    "DataBase/Reality/Untitled.md"
+    "DataBase/Knowledge/Computer/BaseLayer/Computer System/Hardware organization.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer System/Computer System.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Utils/Git.md",
+    "Untitled.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer System/CPU.md",
+    "jj.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer System/ASCII.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer System/Compile.md",
+    "Resources/Images/The Compilation system.png",
+    "DataBase/Reality/Persons/Data/Isaac Newton.md"
   ]
 }

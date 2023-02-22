@@ -10,5 +10,7 @@
   "spellcheckLanguages": [
     "zh-CN",
     "en-US"
-  ]
+  ],
+  "attachmentFolderPath": "Resources/Images",
+  "newFileLocation": "current"
 }
