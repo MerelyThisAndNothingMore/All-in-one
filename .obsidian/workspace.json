@@ -117,7 +117,137 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Reality/Literature/Books/The Year of Magical Thinking.md",
+                "file": "Outputs/BooksTranslation/奇想之年/奇想之年.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9cf5997e408ad464",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/BooksTranslation/奇想之年/奇想之年.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de0b972532af12ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Reality/Literature/Films and Television/2001-A Space Odyssey(film).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d749b41860d8f9e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/SOLID.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ca28b774dd513a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/SOLID.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "85e787f8091b4d64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/SOLID.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f1e7e323c2645ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/SOLID.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "960c024eec3cb656",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/SOLID.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1371a4062cfe80b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/SOLID.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "78f258904eb2bff9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/SOLID.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2cbec109514c0ace",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/SOLID.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -130,7 +260,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Outputs/BooksTranslation/奇想之年.md",
+                "file": "DataBase/Knowledge/Society/ideology/Marxism.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -138,7 +268,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -167,7 +297,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "output",
+                "query": "pass",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,8 +310,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5,
-    "collapsed": true
+    "width": 301.5
   },
   "right": {
     "id": "5686aed80dfb294e",
@@ -197,7 +326,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Outputs/BooksTranslation/奇想之年.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/SOLID.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +343,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Outputs/BooksTranslation/奇想之年.md"
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/SOLID.md"
               }
             }
           },
@@ -252,17 +381,25 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "c3e93fd2d69b5d79",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 366.5,
-    "collapsed": true
+    "width": 366.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-spaced-repetition:Review flashcards": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
@@ -277,17 +414,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d32b97cbebce3336",
+  "active": "2cbec109514c0ace",
   "lastOpenFiles": [
-    "DataBase/Reality/Literature/Books/The Year of Magical Thinking.md",
-    "DataBase/Reality/Literature/Books/THE PRINCIPIA.md",
-    "DataBase/Reality/Literature/Web/Coding Interview University.md",
-    "DataBase/Tasks/WorkDesk.md",
-    "DataBase/Reality/Literature/Web/Computer Science Roadmap.md",
-    "DataBase/Tasks/data/Interview preparation.md",
-    "DataBase/Tasks/LongTermPlan.md",
-    "DataBase/Tasks/data/身体状态管理.md",
-    "DataBase/Investment/StockWorkdesk.md",
-    "DataBase/Investment/Stock/药明康德(Stock).md"
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Object-oriented.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/Fundamentals/static in Java.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/SOLID.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Dependency inversion principle.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Interface segregation principle.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Liskov substitution principle.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Open-closed principle.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Single-responsibility principle.md",
+    "DataBase/Reality/Literature/Films and Television/2001-A Space Odyssey(film).md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer System/Buses.md"
   ]
 }
