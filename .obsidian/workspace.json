@@ -247,7 +247,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/SOLID.md",
+                "file": "DataBase/life/Passwords.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -306,7 +306,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -326,7 +327,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/SOLID.md",
+                "file": "DataBase/life/Passwords.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -343,7 +344,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/SOLID.md"
+                "file": "DataBase/life/Passwords.md"
               }
             }
           },
@@ -416,15 +417,20 @@
   },
   "active": "2cbec109514c0ace",
   "lastOpenFiles": [
+    "DataBase/Reality/Literature/Books/THE PRINCIPIA.md",
+    "DataBase/Reality/Literature/Books/The Year of Magical Thinking.md",
+    "DataBase/Reality/Literature/Films and Television/2001-A Space Odyssey(film).md",
+    "DataBase/Reality/Literature/Films and Television/黄飞鸿.md",
+    "DataBase/Reality/Literature/Web/马克思主义文库.md",
+    "DataBase/life/Passwords.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/SOLID.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Object-oriented.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/Fundamentals/static in Java.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/SOLID.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Dependency inversion principle.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Interface segregation principle.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Liskov substitution principle.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Open-closed principle.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Single-responsibility principle.md",
-    "DataBase/Reality/Literature/Films and Television/2001-A Space Odyssey(film).md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer System/Buses.md"
   ]
 }
