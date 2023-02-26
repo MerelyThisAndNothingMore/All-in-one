@@ -8,214 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8ecbda4e5fcc386f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Investment/Stock/海康威视(Stock).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6a355fb9ccf2e55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Configuration/Templates/StockSectorTemplate.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4474938ec05b0d2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Investment/StockWorkdesk.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d5c63907d743328",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Investment/Stock/格力电器(Stock).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a1f2c13923301d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Investment/Stock/药明康德(Stock).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "243244a6fcbc3aac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Tasks/data/Interview preparation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "106756fb508aca24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Reality/Literature/Web/Coding Interview University.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fbf949c70261591b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Reality/Literature/Web/Coding Interview University.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a114329d8b6b01e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/BooksTranslation/奇想之年/奇想之年.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9cf5997e408ad464",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/BooksTranslation/奇想之年/奇想之年.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de0b972532af12ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Reality/Literature/Films and Television/2001-A Space Odyssey(film).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d749b41860d8f9e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/SOLID.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ca28b774dd513a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/SOLID.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "85e787f8091b4d64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/SOLID.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f1e7e323c2645ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/SOLID.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "960c024eec3cb656",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/SOLID.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c1371a4062cfe80b",
             "type": "leaf",
             "state": {
@@ -229,38 +21,12 @@
             }
           },
           {
-            "id": "78f258904eb2bff9",
+            "id": "3cd26828a27acfe6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/SOLID.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2cbec109514c0ace",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/life/Passwords.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d32b97cbebce3336",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Society/ideology/Marxism.md",
+                "file": "Outputs/BooksTranslation/奇想之年/第一章.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -268,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -306,8 +72,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -327,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/life/Passwords.md",
+                "file": "Outputs/BooksTranslation/奇想之年/第一章.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -344,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/life/Passwords.md"
+                "file": "Outputs/BooksTranslation/奇想之年/第一章.md"
               }
             }
           },
@@ -415,22 +180,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2cbec109514c0ace",
+  "active": "3cd26828a27acfe6",
   "lastOpenFiles": [
-    "DataBase/Reality/Literature/Books/THE PRINCIPIA.md",
-    "DataBase/Reality/Literature/Books/The Year of Magical Thinking.md",
-    "DataBase/Reality/Literature/Films and Television/2001-A Space Odyssey(film).md",
-    "DataBase/Reality/Literature/Films and Television/黄飞鸿.md",
-    "DataBase/Reality/Literature/Web/马克思主义文库.md",
-    "DataBase/life/Passwords.md",
+    "Outputs/BooksTranslation/奇想之年/奇想之年.md",
+    "Outputs/BooksTranslation/奇想之年/Chapter 1(Original Text).md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Utils/LaTeX.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/SOLID.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Object-oriented.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/Fundamentals/static in Java.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Dependency inversion principle.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Interface segregation principle.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Liskov substitution principle.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Open-closed principle.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Single-responsibility principle.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer System/Buses.md"
+    "DataBase/Tasks/data/历史学习.md",
+    "DataBase/Tasks/data/付费直播-直播间内创建预售门票.md",
+    "DataBase/Tasks/data/付费直播-埋点补齐.md",
+    "DataBase/Tasks/data/付费直播业务分享.md",
+    "DataBase/Tasks/data/身体状态管理.md",
+    "DataBase/Tasks/data/政治理论学习.md"
   ]
 }
