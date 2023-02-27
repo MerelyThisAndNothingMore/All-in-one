@@ -5,7 +5,7 @@
 ```dataview
 TABLE Evaluation, Turnover, PE, MarketValue, Sectors
 FROM #stockInFocus  
-WHERE PE
+WHERE Evaluation
 SORT MarketValue DESC
 ```
 

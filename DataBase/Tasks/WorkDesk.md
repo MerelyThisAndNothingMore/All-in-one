@@ -1,6 +1,5 @@
 # Content
-[[StockWorkdesk]]
-[[Coding Interview University]]
+[[TasksBoard]]
 
 # Reference
 [[LongTermPlan]]

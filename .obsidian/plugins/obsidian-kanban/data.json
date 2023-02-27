@@ -1,0 +1,5 @@
+{
+  "new-note-template": "Configuration/Templates/tasks.md",
+  "new-note-folder": "DataBase/Tasks/data",
+  "show-checkboxes": true
+}

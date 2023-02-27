@@ -11,5 +11,11 @@
   "dataview",
   "multi-column-markdown",
   "obsidian-git",
-  "obsidian-spaced-repetition"
+  "obsidian-spaced-repetition",
+  "obsidian-advanced-slides",
+  "templater-obsidian",
+  "obsidian-outliner",
+  "obsidian-excalidraw-plugin",
+  "various-complements",
+  "quick-latex"
 ]
