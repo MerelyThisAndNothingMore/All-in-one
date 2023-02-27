@@ -1,2 +1,2 @@
 # All-in-one
-Trying to put all my knowledge in one place.
+Trying to put all the information in one place.
