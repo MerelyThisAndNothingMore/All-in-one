@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e83b46960cd1f969",
+        "id": "468bf810c81737d1",
         "type": "tabs",
         "children": [
           {
-            "id": "c1371a4062cfe80b",
+            "id": "eefa8b50b9a66513",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/SOLID.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Utils/GitHub Copilot.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -57,6 +57,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "d9d3b4bf4d982975",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
@@ -81,6 +89,29 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true
               }
+            }
+          },
+          {
+            "id": "c1371a4062cfe80b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "1ae32eceb2a7d7a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d656586d1c5c6c6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -108,14 +139,15 @@
   },
   "active": "c1371a4062cfe80b",
   "lastOpenFiles": [
-    "DataBase/reading/history/the-rise-of-adolf-hitler.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Utils/GitHub Copilot.md",
     "README.md",
     "SUMMARY.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/SOLID.md",
+    "DataBase/reading/history/the-rise-of-adolf-hitler.md",
     "Outputs/BooksTranslation/奇想之年/第一章.md",
     "Outputs/BooksTranslation/奇想之年/奇想之年.md",
     "Outputs/BooksTranslation/奇想之年/Chapter 1(Original Text).md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Utils/LaTeX.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/SOLID.md",
     "DataBase/Tasks/data/历史学习.md",
     "DataBase/Tasks/data/付费直播-直播间内创建预售门票.md",
     "DataBase/Tasks/data/付费直播-埋点补齐.md",
