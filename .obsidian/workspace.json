@@ -153,8 +153,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Reality/Persons/Data/徐童.md",
-                "mode": "source",
+                "file": "DataBase/Investment/StockWorkdesk.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Reality/Persons/Data/徐童.md",
+                "file": "DataBase/Investment/StockWorkdesk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +263,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Reality/Persons/Data/徐童.md"
+                "file": "DataBase/Investment/StockWorkdesk.md"
               }
             }
           },
@@ -325,12 +325,17 @@
   },
   "active": "5aae97249780a0db",
   "lastOpenFiles": [
-    "DataBase/Reality/Literature/Poetry/宋词/念奴娇·登多景楼.md",
+    "DataBase/Tasks/TasksBoard.md",
+    "DataBase/Tasks/WorkDesk.md",
+    "DataBase/Investment/Stock/药明康德(Stock).md",
+    "DataBase/Investment/Stock/江海股份(Stock).md",
+    "DataBase/Investment/Stock/格力电器(Stock).md",
+    "DataBase/Investment/Stock/海康威视(Stock).md",
     "DataBase/Reality/Persons/Data/徐童.md",
+    "DataBase/Reality/Literature/Poetry/宋词/念奴娇·登多景楼.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Object-oriented programming.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/programming paradigm.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Object-oriented.md",
-    "DataBase/Tasks/TasksBoard.md",
     "DataBase/Reality/Literature/Books/毛泽东选集.md",
     "DataBase/Reality/Literature/Articles",
     "DataBase/Reality/Literature/Books/毛泽东语录.md",
@@ -338,7 +343,6 @@
     "DataBase/Reality/Literature/Books/The Year of Magical Thinking.md",
     "DataBase/Reality/Literature/Books/THE PRINCIPIA.md",
     "Resources/pdfs/Michael T Goodrich Roberto Tamassia Michael H Goldwasser - Data Structures and Algorithms in Java-Wiley 2014 1.pdf",
-    "DataBase/Tasks/WorkDesk.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer System/executable.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design pattern.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Coding/software testing.md",
@@ -349,11 +353,7 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Computer programming.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer System/Source program.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer System/Buses.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Utils/LaTeX.md",
-    "README.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithm Analysis/Big-O notation.md",
     "Resources/pdfs",
-    "DataBase/Reality/Literature/Web/Coding Interview University.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithm Analysis"
   ]
 }
