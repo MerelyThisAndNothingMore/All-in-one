@@ -8,160 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eefa8b50b9a66513",
+            "id": "2b1b684aab96b96f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Utils/LaTeX.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/数据结构和方法/Array.md",
                 "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "28f98df6e007f27f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Unit testing.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d51cec00d4898016",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Unit testing.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "54678138739073b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer System/Buses.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e0753389b7244a72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer System/Source code.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3160af5246deb380",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Tasks/WorkDesk.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7e386efffeed146",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "DataBase/Tasks/TasksBoard.md"
-              }
-            }
-          },
-          {
-            "id": "13702a90ea071497",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Reality/Literature/Books/毛泽东语录.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6bc8e6522f22c933",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Object-oriented.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "90b60f3bc843e57c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Object-oriented programming.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d0e88cca78ef66ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Reality/Literature/Poetry/宋词/念奴娇·登多景楼.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5aae97249780a0db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Investment/StockWorkdesk.md",
-                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,11 +92,38 @@
             }
           },
           {
-            "id": "c1371a4062cfe80b",
+            "id": "30aacb282a5134e5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "localgraph",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/数据结构和方法/Array.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.1826153014182013,
+                  "close": true
+                }
+              }
             }
           },
           {
@@ -246,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Investment/StockWorkdesk.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/数据结构和方法/Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Investment/StockWorkdesk.md"
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/数据结构和方法/Array.md"
               }
             }
           },
@@ -282,8 +168,17 @@
               "type": "review-queue-list-view",
               "state": {}
             }
+          },
+          {
+            "id": "342d7957e967057b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1ae32eceb2a7d7a3",
@@ -323,36 +218,37 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5aae97249780a0db",
+  "active": "2b1b684aab96b96f",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/Fundamentals/objects-and-classes.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/数据结构和方法/Array.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/Fundamentals/Wrapper Types.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/Fundamentals/The String Class.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/class.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Modifiers.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Static modifier.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Access Control Modifiers.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Computer programming.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Code Comments.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Unit testing.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Coding/software testing.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/encapsulation.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Inversion of control.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Modifiers.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design pattern.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/Fundamentals/signature in java.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/Java.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Object.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Method.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/Fundamentals/Base types in Java.md",
+    "Untitled.canvas",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/Fundamentals/static in Java.md",
+    "DataBase/Reality/Literature/Books/Data Structures and Algorithms In Java.md",
     "DataBase/Tasks/TasksBoard.md",
-    "DataBase/Tasks/WorkDesk.md",
-    "DataBase/Investment/Stock/药明康德(Stock).md",
-    "DataBase/Investment/Stock/江海股份(Stock).md",
-    "DataBase/Investment/Stock/格力电器(Stock).md",
-    "DataBase/Investment/Stock/海康威视(Stock).md",
     "DataBase/Reality/Persons/Data/徐童.md",
     "DataBase/Reality/Literature/Poetry/宋词/念奴娇·登多景楼.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Object-oriented programming.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/programming paradigm.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Object-oriented.md",
-    "DataBase/Reality/Literature/Books/毛泽东选集.md",
     "DataBase/Reality/Literature/Articles",
-    "DataBase/Reality/Literature/Books/毛泽东语录.md",
-    "DataBase/Reality/Literature/Books/Data Structures and Algorithms In Java.md",
-    "DataBase/Reality/Literature/Books/The Year of Magical Thinking.md",
-    "DataBase/Reality/Literature/Books/THE PRINCIPIA.md",
     "Resources/pdfs/Michael T Goodrich Roberto Tamassia Michael H Goldwasser - Data Structures and Algorithms in Java-Wiley 2014 1.pdf",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer System/executable.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design pattern.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Coding/software testing.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Unit testing.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer System/Computer System.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer System/Computing.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer System/Source code.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Computer programming.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer System/Source program.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer System/Buses.md",
     "Resources/pdfs",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithm Analysis"
   ]
