@@ -13,14 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/数据结构和方法/Array.md",
+                "file": "DataBase/Reality/Literature/Films and Television/2001-A Space Odyssey(film).md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b89f5c41ae532a93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Reality/Literature/Films and Television/铁路沿线.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "70510d563a1555f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Reality/Literature/Films and Television/铁路沿线.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ccd2289ac540d47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Reality/Literature/Films and Television/铁路沿线.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -97,7 +137,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/数据结构和方法/Array.md",
+                "file": "DataBase/Reality/Literature/Films and Television/铁路沿线.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -132,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/数据结构和方法/Array.md",
+                "file": "DataBase/Reality/Literature/Films and Television/铁路沿线.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/数据结构和方法/Array.md"
+                "file": "DataBase/Reality/Literature/Films and Television/铁路沿线.md"
               }
             }
           },
@@ -196,7 +236,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 366.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,10 +259,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2b1b684aab96b96f",
+  "active": "30aacb282a5134e5",
   "lastOpenFiles": [
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/Fundamentals/objects-and-classes.md",
+    "DataBase/Reality/Persons/Data/孙岁雄.md",
+    "DataBase/Reality/Literature/Films and Television/铁路沿线.md",
+    "DataBase/Reality/Persons/Data/杜海滨.md",
+    "DataBase/Reality/Literature/Films and Television/2001-A Space Odyssey(film).md",
+    "DataBase/Reality/Literature/Films and Television/黄飞鸿.md",
+    "DataBase/Reality/Literature/Films and Television/The Fire Within-A Requiem for Katia and Maurice Krafft.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Coding/C programing language.md",
+    "DataBase/Tasks/TasksBoard.md",
+    "DataBase/Investment/StockWorkdesk.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/数据结构和方法/Array.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/Fundamentals/objects-and-classes.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/Fundamentals/Wrapper Types.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/Fundamentals/The String Class.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/class.md",
@@ -237,16 +287,7 @@
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Modifiers.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design pattern.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/Fundamentals/signature in java.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/Java.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Object.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Method.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/Fundamentals/Base types in Java.md",
     "Untitled.canvas",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/Fundamentals/static in Java.md",
-    "DataBase/Reality/Literature/Books/Data Structures and Algorithms In Java.md",
-    "DataBase/Tasks/TasksBoard.md",
-    "DataBase/Reality/Persons/Data/徐童.md",
-    "DataBase/Reality/Literature/Poetry/宋词/念奴娇·登多景楼.md",
     "DataBase/Reality/Literature/Articles",
     "Resources/pdfs/Michael T Goodrich Roberto Tamassia Michael H Goldwasser - Data Structures and Algorithms in Java-Wiley 2014 1.pdf",
     "Resources/pdfs",
