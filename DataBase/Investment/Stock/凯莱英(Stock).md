@@ -1,12 +1,12 @@
 ---
-PE: 27
-MarketValue: 2483.5 
-Turnover: "平稳低量"
-Evaluation: "近期下跌中，等待机会"
+PE: 17
+MarketValue: 527
+Turnover: "底部"
+Evaluation: "周线比较健康，观望"
 Sectors: ["[[医疗服务]]"]
 ---
 #A股 #stockInFocus 
-
+> see enterprise here: 
 - Daily Line
 - Weekly Line
 - Moon Line

@@ -104,7 +104,98 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/State pattern.md",
+                "file": "DataBase/Investment/Stock/江海股份(Stock).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "602860966767ae57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Investment/Stock/中兴通讯(Stock).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d3927bc070910700",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Investment/Stock/中国联通(Stock).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed6d8337c618259d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Investment/StockWorkdesk.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9725f6ac7dc25c25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Reality/Literature/Films and Television/铁路沿线.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a6ae850a9b8c526",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Reality/Persons/Data/杜海滨.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a62ed878e7c62e07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design pattern.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d9de062e64c2bc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design pattern.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,7 +216,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -154,7 +245,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:(state)",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,8 +262,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -203,7 +293,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/State pattern.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design pattern.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -238,7 +328,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/State pattern.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +345,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/State pattern.md"
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design pattern.md"
               }
             }
           },
@@ -302,7 +392,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 366.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -324,37 +415,40 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fb4d00cdc86c009d",
+  "active": "8d9de062e64c2bc1",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Abstract Factory.md",
+    "Resources/Images/Abstract_factory.svg",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/class.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design pattern.md",
+    "DataBase/Investment/Stock/中兴通讯(Stock).md",
+    "DataBase/Investment/Stock/中国联通(Stock).md",
+    "DataBase/Investment/Stock/医疗服务.md",
+    "DataBase/Investment/Stock/药明康德(Stock).md",
+    "DataBase/Investment/Stock/江海股份(Stock).md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Static modifier.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Coding/software testing.md",
+    "Resources/Images/Abstract_factory 1.svg",
+    "Resources/Images/Pasted image 20230302235129.png",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/interface.md",
+    "DataBase/Reality/Literature/Books/Computer Science Design Patterns.md",
+    "DataBase/Tasks/TasksBoard.md",
+    "DataBase/Reality/Literature/Web/Coding Interview University.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/encapsulation.md",
+    "Configuration/Templates/A股模板.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Modifiers.md",
+    "DataBase/Reality/Persons/Data/钟楚红.md",
+    "DataBase/life/diary/2023-02-14.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Science/Model of Computation.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Science/Finite-state machine.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Science/Virtual finite-state machine.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Science/Event-driven finite-state matchine.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Science/computer science.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithm Analysis/Computational complexity.md",
     "Resources/canvas/UML of state pattern structure.canvas",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/State pattern.md",
     "Untitled.canvas",
     "Resources/canvas",
-    "DataBase/Reality/Persons/Data/Katia Krafft.md",
-    "DataBase/Reality/Literature/Books/毛泽东语录.md",
-    "DataBase/Tasks/TasksBoard.md",
-    "DataBase/Reality/Literature/Books/Computer Science Design Patterns.md",
-    "DataBase/Reality/Literature/Books/毛泽东选集.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Strategy pattern.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design pattern.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Behavioral pattern.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Software design pattern.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Science/Virtual finite-state machine.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Science/Finite-state machine.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Science/Model of Computation.md",
-    "DataBase/Knowledge/NaturalScience/TheoreticalLayer/Mathematics/Mathematical function.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Science/computer science.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Science",
-    "DataBase/life/Passwords.md",
-    "Configuration/Templates/StockSectorTemplate.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Interface segregation principle.md",
-    "DataBase/reading/zhe-xue/ma-ke-si-en-ge-si-wen-ji/README.md",
-    "DataBase/reading/history/sapiens-a-brief-history-of-humankind.md",
-    "DataBase/Reality/Persons/Data/杜海滨.md",
-    "DataBase/Reality/Literature/Films and Television/铁路沿线.md",
-    "DataBase/Reality/Literature/Films and Television/孙岁雄.md",
-    "DataBase/Reality/Persons/Data/孙岁雄.md",
     "DataBase/Reality/Literature/Articles",
     "Resources/pdfs/Michael T Goodrich Roberto Tamassia Michael H Goldwasser - Data Structures and Algorithms in Java-Wiley 2014 1.pdf",
     "Resources/pdfs",

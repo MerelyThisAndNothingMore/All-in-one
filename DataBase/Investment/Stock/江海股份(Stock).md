@@ -2,7 +2,7 @@
 PE: 
 MarketValue: 
 Turnover: "放量下跌，可能要出现拐点"
-Evaluation: "处在下跌趋势，观望"
+Evaluation: "放量天线，短期内可能下降"
 Sectors: [""]
 ---
 #A股 #stockInFocus 

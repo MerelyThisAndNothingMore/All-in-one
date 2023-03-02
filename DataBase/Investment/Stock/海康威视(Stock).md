@@ -2,7 +2,7 @@
 PE: 24.36
 MarketValue: 3574.2
 Turnover: "缩量下跌中"
-Evaluation: "持仓股，近一周连跌"
+Evaluation: "高点天线，比较危险"
 Sectors: ["[[计算机设备]]"]
 ---
 #A股 #stockInFocus 

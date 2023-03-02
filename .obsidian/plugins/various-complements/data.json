@@ -138,8 +138,8 @@
     "Introduction": {
       "Introduction": {
         "customDictionary": {
-          "count": 23,
-          "lastUpdated": 1677754455217
+          "count": 28,
+          "lastUpdated": 1677771866680
         }
       }
     },
@@ -234,8 +234,8 @@
     "are": {
       "are": {
         "customDictionary": {
-          "count": 6,
-          "lastUpdated": 1677671688236
+          "count": 8,
+          "lastUpdated": 1677771630223
         }
       }
     },
@@ -498,8 +498,8 @@
     "that": {
       "that": {
         "customDictionary": {
-          "count": 7,
-          "lastUpdated": 1677753114911
+          "count": 9,
+          "lastUpdated": 1677771689521
         }
       }
     },
@@ -570,8 +570,8 @@
     "can": {
       "can": {
         "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1677753208122
+          "count": 3,
+          "lastUpdated": 1677771691558
         }
       }
     },
@@ -586,8 +586,8 @@
     "and": {
       "and": {
         "customDictionary": {
-          "count": 10,
-          "lastUpdated": 1677675175412
+          "count": 13,
+          "lastUpdated": 1677771698553
         }
       }
     },
@@ -1250,8 +1250,8 @@
     "named": {
       "named": {
         "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1677671193065
+          "count": 2,
+          "lastUpdated": 1677771658966
         }
       }
     },
@@ -1434,8 +1434,8 @@
     "than": {
       "than": {
         "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1677673812423
+          "count": 2,
+          "lastUpdated": 1677771610509
         }
       }
     },
@@ -1626,8 +1626,8 @@
     "allows": {
       "allows": {
         "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1677753120595
+          "count": 2,
+          "lastUpdated": 1677771690508
         }
       }
     },
@@ -1746,8 +1746,128 @@
     "Structure": {
       "Structure": {
         "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1677772215810
+        }
+      }
+    },
+    "1210-01-26": {
+      "1210-01-26": {
+        "frontMatter": {
+          "count": 4,
+          "lastUpdated": 1677771405917
+        }
+      }
+    },
+    "Design": {
+      "Design": {
+        "customDictionary": {
           "count": 1,
-          "lastUpdated": 1677754598722
+          "lastUpdated": 1677771596663
+        }
+      }
+    },
+    "Design pattern": {
+      "Design pattern": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1677771598246
+        }
+      }
+    },
+    "nothing": {
+      "nothing": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677771605861
+        }
+      }
+    },
+    "more": {
+      "more": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677771607870
+        }
+      }
+    },
+    "commonly": {
+      "commonly": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1677771693257
+        }
+      }
+    },
+    "patterns": {
+      "patterns": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677771617847
+        }
+      }
+    },
+    "design": {
+      "design": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1677771671415
+        }
+      }
+    },
+    "enough": {
+      "enough": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677771645987
+        }
+      }
+    },
+    "written": {
+      "written": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677771652422
+        }
+      }
+    },
+    "down": {
+      "down": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677771653607
+        }
+      }
+    },
+    "software": {
+      "software": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677771664155
+        }
+      }
+    },
+    "constraints": {
+      "constraints": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677771678915
+        }
+      }
+    },
+    "identify": {
+      "identify": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677771696241
+        }
+      }
+    },
+    "Content": {
+      "Content": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677772826791
         }
       }
     }
