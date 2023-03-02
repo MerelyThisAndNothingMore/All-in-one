@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Reality/Literature/Films and Television/2001-A Space Odyssey(film).md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b89f5c41ae532a93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Reality/Literature/Films and Television/铁路沿线.md",
+                "file": "DataBase/life/Passwords.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +21,12 @@
             }
           },
           {
-            "id": "70510d563a1555f9",
+            "id": "0654c7d61f102070",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Reality/Literature/Films and Television/铁路沿线.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Science/Finite-state machine.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,12 +34,90 @@
             }
           },
           {
-            "id": "7ccd2289ac540d47",
+            "id": "5b55fbecc0281418",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Reality/Literature/Films and Television/铁路沿线.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/State pattern.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47f7366e6e3d461e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Science/Finite-state machine.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e5945276cdac959",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Science/Model of Computation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a1951462fe42ca0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Science/Model of Computation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca56a62135a0b8cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Science/Finite-state machine.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb4d00cdc86c009d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/State pattern.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b75b98977ed8e2f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Strategy pattern.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -89,7 +154,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "object-",
+                "query": "file:(state)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +171,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -137,7 +203,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Reality/Literature/Films and Television/铁路沿线.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/State pattern.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -172,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Reality/Literature/Films and Television/铁路沿线.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/State pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Reality/Literature/Films and Television/铁路沿线.md"
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/State pattern.md"
               }
             }
           },
@@ -236,8 +302,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5,
-    "collapsed": true
+    "width": 366.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -259,35 +324,37 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "30aacb282a5134e5",
+  "active": "fb4d00cdc86c009d",
   "lastOpenFiles": [
-    "DataBase/Reality/Persons/Data/孙岁雄.md",
-    "DataBase/Reality/Literature/Films and Television/铁路沿线.md",
-    "DataBase/Reality/Persons/Data/杜海滨.md",
-    "DataBase/Reality/Literature/Films and Television/2001-A Space Odyssey(film).md",
-    "DataBase/Reality/Literature/Films and Television/黄飞鸿.md",
-    "DataBase/Reality/Literature/Films and Television/The Fire Within-A Requiem for Katia and Maurice Krafft.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Coding/C programing language.md",
-    "DataBase/Tasks/TasksBoard.md",
-    "DataBase/Investment/StockWorkdesk.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/数据结构和方法/Array.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/Fundamentals/objects-and-classes.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/Fundamentals/Wrapper Types.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/Fundamentals/The String Class.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/class.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Modifiers.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Static modifier.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Access Control Modifiers.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Computer programming.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Code Comments.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Unit testing.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Coding/software testing.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/encapsulation.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Inversion of control.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Modifiers.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design pattern.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/Fundamentals/signature in java.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Science/Event-driven finite-state matchine.md",
+    "Resources/canvas/UML of state pattern structure.canvas",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/State pattern.md",
     "Untitled.canvas",
+    "Resources/canvas",
+    "DataBase/Reality/Persons/Data/Katia Krafft.md",
+    "DataBase/Reality/Literature/Books/毛泽东语录.md",
+    "DataBase/Tasks/TasksBoard.md",
+    "DataBase/Reality/Literature/Books/Computer Science Design Patterns.md",
+    "DataBase/Reality/Literature/Books/毛泽东选集.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Strategy pattern.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design pattern.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Behavioral pattern.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Software design pattern.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Science/Virtual finite-state machine.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Science/Finite-state machine.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Science/Model of Computation.md",
+    "DataBase/Knowledge/NaturalScience/TheoreticalLayer/Mathematics/Mathematical function.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Science/computer science.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Science",
+    "DataBase/life/Passwords.md",
+    "Configuration/Templates/StockSectorTemplate.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Interface segregation principle.md",
+    "DataBase/reading/zhe-xue/ma-ke-si-en-ge-si-wen-ji/README.md",
+    "DataBase/reading/history/sapiens-a-brief-history-of-humankind.md",
+    "DataBase/Reality/Persons/Data/杜海滨.md",
+    "DataBase/Reality/Literature/Films and Television/铁路沿线.md",
+    "DataBase/Reality/Literature/Films and Television/孙岁雄.md",
+    "DataBase/Reality/Persons/Data/孙岁雄.md",
     "DataBase/Reality/Literature/Articles",
     "Resources/pdfs/Michael T Goodrich Roberto Tamassia Michael H Goldwasser - Data Structures and Algorithms in Java-Wiley 2014 1.pdf",
     "Resources/pdfs",

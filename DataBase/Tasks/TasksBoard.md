@@ -9,6 +9,7 @@ kanban-plugin: basic
 - [ ] [[StockWorkdesk]]
 - [ ] [[Coding Interview University]]
 - [ ] [[Data Structures and Algorithms In Java]]
+- [ ] [[Computer Science Design Patterns]]
 
 
 ## Important but not urgent

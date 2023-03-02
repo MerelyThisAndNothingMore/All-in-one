@@ -138,8 +138,8 @@
     "Introduction": {
       "Introduction": {
         "customDictionary": {
-          "count": 21,
-          "lastUpdated": 1677679450313
+          "count": 23,
+          "lastUpdated": 1677754455217
         }
       }
     },
@@ -178,8 +178,8 @@
     "which": {
       "which": {
         "customDictionary": {
-          "count": 5,
-          "lastUpdated": 1677669387988
+          "count": 8,
+          "lastUpdated": 1677753254046
         }
       }
     },
@@ -498,8 +498,8 @@
     "that": {
       "that": {
         "customDictionary": {
-          "count": 6,
-          "lastUpdated": 1677673824827
+          "count": 7,
+          "lastUpdated": 1677753114911
         }
       }
     },
@@ -530,8 +530,8 @@
     "Object-oriented": {
       "Object-oriented": {
         "internalLink": {
-          "count": 3,
-          "lastUpdated": 1677670680270
+          "count": 4,
+          "lastUpdated": 1677753124013
         }
       }
     },
@@ -546,32 +546,32 @@
     "the": {
       "the": {
         "customDictionary": {
-          "count": 25,
-          "lastUpdated": 1677673799804
+          "count": 28,
+          "lastUpdated": 1677753299739
         }
       }
     },
     "concept": {
       "concept": {
         "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1677593381374
+          "count": 2,
+          "lastUpdated": 1677753179425
         }
       }
     },
     "Object": {
       "Object": {
         "internalLink": {
-          "count": 7,
-          "lastUpdated": 1677669541138
+          "count": 8,
+          "lastUpdated": 1677753128170
         }
       }
     },
     "can": {
       "can": {
         "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1677593414390
+          "count": 2,
+          "lastUpdated": 1677753208122
         }
       }
     },
@@ -602,8 +602,8 @@
     "The": {
       "The": {
         "customDictionary": {
-          "count": 6,
-          "lastUpdated": 1677673744833
+          "count": 8,
+          "lastUpdated": 1677753200545
         }
       }
     },
@@ -626,8 +626,8 @@
     "methods": {
       "methods": {
         "customDictionary": {
-          "count": 3,
-          "lastUpdated": 1677674242727
+          "count": 4,
+          "lastUpdated": 1677753294743
         }
       }
     },
@@ -650,8 +650,8 @@
     "This": {
       "This": {
         "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1677666768902
+          "count": 3,
+          "lastUpdated": 1677753164273
         }
       }
     },
@@ -1034,8 +1034,8 @@
     "its": {
       "its": {
         "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1677673785377
+          "count": 4,
+          "lastUpdated": 1677753144443
         }
       }
     },
@@ -1178,8 +1178,8 @@
     "Implementation": {
       "Implementation": {
         "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1677670762061
+          "count": 2,
+          "lastUpdated": 1677750788887
         }
       }
     },
@@ -1218,8 +1218,8 @@
     "defined": {
       "defined": {
         "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1677671183944
+          "count": 3,
+          "lastUpdated": 1677753297909
         }
       }
     },
@@ -1282,16 +1282,16 @@
     "given": {
       "given": {
         "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1677671745052
+          "count": 3,
+          "lastUpdated": 1677750648189
         }
       }
     },
     "through": {
       "through": {
         "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1677671714982
+          "count": 2,
+          "lastUpdated": 1677753276231
         }
       }
     },
@@ -1476,6 +1476,278 @@
         "customDictionary": {
           "count": 1,
           "lastUpdated": 1677675174526
+        }
+      }
+    },
+    "Computer": {
+      "Computer": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1677750492577
+        }
+      }
+    },
+    "computer science": {
+      "computer science": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1677750496545
+        }
+      }
+    },
+    "model": {
+      "model": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1677750541119
+        }
+      }
+    },
+    "Model of Computation": {
+      "Model of Computation": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1677750747427
+        }
+      }
+    },
+    "describes": {
+      "describes": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677750548048
+        }
+      }
+    },
+    "how": {
+      "how": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677750549264
+        }
+      }
+    },
+    "output": {
+      "output": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677750551335
+        }
+      }
+    },
+    "mathematical": {
+      "mathematical": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1677750743542
+        }
+      }
+    },
+    "Mathematical function": {
+      "Mathematical function": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1677750635604
+        }
+      }
+    },
+    "computed": {
+      "computed": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677750645251
+        }
+      }
+    },
+    "Finite-state machine": {
+      "Finite-state machine": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1677753184314
+        }
+      }
+    },
+    "Hardware": {
+      "Hardware": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677750802419
+        }
+      }
+    },
+    "Applications": {
+      "Applications": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1677750814344
+        }
+      }
+    },
+    "Software": {
+      "Software": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677750812514
+        }
+      }
+    },
+    "state": {
+      "state": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1677753152829
+        }
+      }
+    },
+    "State pattern": {
+      "State pattern": {
+        "internalLink": {
+          "count": 4,
+          "lastUpdated": 1677753204925
+        }
+      }
+    },
+    "Behavioral pattern": {
+      "Behavioral pattern": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1677753105265
+        }
+      }
+    },
+    "allow": {
+      "allow": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677753116755
+        }
+      }
+    },
+    "allows": {
+      "allows": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677753120595
+        }
+      }
+    },
+    "alter": {
+      "alter": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677753134529
+        }
+      }
+    },
+    "behavior": {
+      "behavior": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677753141279
+        }
+      }
+    },
+    "when": {
+      "when": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677753143333
+        }
+      }
+    },
+    "internal": {
+      "internal": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677753147024
+        }
+      }
+    },
+    "changes": {
+      "changes": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677753155874
+        }
+      }
+    },
+    "pattern": {
+      "pattern": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1677753302003
+        }
+      }
+    },
+    "close": {
+      "close": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677753170632
+        }
+      }
+    },
+    "interpreted": {
+      "interpreted": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677753214480
+        }
+      }
+    },
+    "Strategy pattern": {
+      "Strategy pattern": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1677753248905
+        }
+      }
+    },
+    "able": {
+      "able": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677753256268
+        }
+      }
+    },
+    "switch": {
+      "switch": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677753259959
+        }
+      }
+    },
+    "strategy": {
+      "strategy": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677753266272
+        }
+      }
+    },
+    "thorough": {
+      "thorough": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677753270770
+        }
+      }
+    },
+    "interface": {
+      "interface": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677753309458
+        }
+      }
+    },
+    "Structure": {
+      "Structure": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677754598722
         }
       }
     }
