@@ -2,4 +2,4 @@
 # Introduction 
 
 # Content 
-[[Abstract Factory]]
+[[Abstract Factory Pattern]]
