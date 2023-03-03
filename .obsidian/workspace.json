@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Science/Finite-state machine.md",
+                "file": "Configuration/Templates/tasks.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -186,7 +186,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Science/Finite-state machine.md",
+                "file": "Configuration/Templates/tasks.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -221,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Science/Finite-state machine.md",
+                "file": "Configuration/Templates/tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Science/Finite-state machine.md"
+                "file": "Configuration/Templates/tasks.md"
               }
             }
           },
@@ -309,9 +309,18 @@
   },
   "active": "ca56a62135a0b8cc",
   "lastOpenFiles": [
-    "DataBase/Tasks/TasksBoard.md",
+    "Configuration/Templates/films_and_television_works.md",
+    "Configuration/Templates/entertainment star template.md",
+    "Configuration/Templates/coding_qusitions.md",
+    "Configuration/Templates/A股模板.md",
+    "DataBase/Reality/Persons/Entertainment Stars.md",
     "DataBase/Reality/Places/北京.md",
+    "Outputs/BooksTranslation/奇想之年/Chapter 1(Original Text).md",
+    "Outputs/BooksTranslation/奇想之年/奇想之年.md",
+    "Outputs/BooksTranslation/奇想之年/第一章.md",
+    "DataBase/Tasks/TasksBoard.md",
     "DataBase/Tasks/WorkDesk.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Science/Finite-state machine.md",
     "DataBase/Knowledge/NaturalScience/TheoreticalLayer/Physics/classical mechanics.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/数据结构和方法/哈希表.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/State pattern.md",
@@ -326,20 +335,11 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/java/Fundamentals/Base types in Java.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Science/Virtual finite-state machine.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Science/Event-driven finite-state matchine.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Science/Finite-state machine.md",
     "Resources/Images/Hardware Organization.png",
     "Resources/Images/State_Design_Pattern_UML_Class_Diagram.svg",
     "Resources/Images/Pasted image 20230303101829.png",
     "Resources/Images/The Compilation system.png",
     "Resources/Images/Isaac Newton.png",
-    "DataBase/Reality/Persons/Data/周浩.md",
-    "DataBase/Investment/StockWorkdesk.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Abstract Factory Pattern.md",
-    "DataBase/Reality/Literature/Films and Television/差馆.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/interface.md",
-    "DataBase/Investment/Stock/凯莱英(Stock).md",
-    "DataBase/Investment/Stock/中国联通(Stock).md",
-    "DataBase/Investment/Stock/中兴通讯(Stock).md",
     "Resources/canvas/UML of state pattern structure.canvas",
     "Untitled.canvas",
     "Resources/canvas",
