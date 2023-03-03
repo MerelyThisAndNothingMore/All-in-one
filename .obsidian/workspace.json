@@ -102,17 +102,14 @@
             "id": "b75b98977ed8e2f5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "DataBase/Knowledge/NaturalScience/TheoreticalLayer/Physics/classical mechanics.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "DataBase/Tasks/TasksBoard.md"
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -189,7 +186,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/NaturalScience/TheoreticalLayer/Physics/classical mechanics.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Science/Finite-state machine.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -224,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/NaturalScience/TheoreticalLayer/Physics/classical mechanics.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Science/Finite-state machine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/NaturalScience/TheoreticalLayer/Physics/classical mechanics.md"
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Science/Finite-state machine.md"
               }
             }
           },
@@ -310,15 +307,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b75b98977ed8e2f5",
+  "active": "ca56a62135a0b8cc",
   "lastOpenFiles": [
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/数据结构和方法/哈希表.md",
+    "DataBase/Tasks/TasksBoard.md",
+    "DataBase/Reality/Places/北京.md",
+    "DataBase/Tasks/WorkDesk.md",
     "DataBase/Knowledge/NaturalScience/TheoreticalLayer/Physics/classical mechanics.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/数据结构和方法/哈希表.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/State pattern.md",
     "DataBase/Reality/Literature/Films and Television/The Fire Within-A Requiem for Katia and Maurice Krafft.md",
     "DataBase/work/react.md",
-    "DataBase/Tasks/WorkDesk.md",
-    "DataBase/Tasks/TasksBoard.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/Fundamentals/Wrapper Types.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/Fundamentals/objects-and-classes.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/Fundamentals/signature in java.md",
@@ -345,7 +343,6 @@
     "Resources/canvas/UML of state pattern structure.canvas",
     "Untitled.canvas",
     "Resources/canvas",
-    "DataBase/Reality/Persons/Data/Katia Krafft.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Science",
     "DataBase/Reality/Literature/Articles",
     "Resources/pdfs/Michael T Goodrich Roberto Tamassia Michael H Goldwasser - Data Structures and Algorithms in Java-Wiley 2014 1.pdf",
