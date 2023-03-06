@@ -114,8 +114,8 @@
     "References": {
       "References": {
         "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1677592679069
+          "count": 4,
+          "lastUpdated": 1678115656095
         }
       }
     },
@@ -546,8 +546,8 @@
     "the": {
       "the": {
         "customDictionary": {
-          "count": 29,
-          "lastUpdated": 1677942925020
+          "count": 30,
+          "lastUpdated": 1678115092327
         }
       }
     },
@@ -586,8 +586,8 @@
     "and": {
       "and": {
         "customDictionary": {
-          "count": 15,
-          "lastUpdated": 1678095821695
+          "count": 21,
+          "lastUpdated": 1678115200287
         }
       }
     },
@@ -602,8 +602,8 @@
     "The": {
       "The": {
         "customDictionary": {
-          "count": 8,
-          "lastUpdated": 1677753200545
+          "count": 14,
+          "lastUpdated": 1678115554304
         }
       }
     },
@@ -1074,8 +1074,8 @@
     "Access": {
       "Access": {
         "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1677670580787
+          "count": 3,
+          "lastUpdated": 1678114938884
         }
       }
     },
@@ -1178,8 +1178,8 @@
     "Implementation": {
       "Implementation": {
         "customDictionary": {
-          "count": 3,
-          "lastUpdated": 1677902530022
+          "count": 5,
+          "lastUpdated": 1678115164270
         }
       }
     },
@@ -1470,8 +1470,8 @@
           "lastUpdated": 1677675170101
         },
         "internalLink": {
-          "count": 2,
-          "lastUpdated": 1677902780787
+          "count": 3,
+          "lastUpdated": 1678114927471
         }
       }
     },
@@ -1486,16 +1486,16 @@
     "Computer": {
       "Computer": {
         "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1677750492577
+          "count": 3,
+          "lastUpdated": 1678114697567
         }
       }
     },
     "computer science": {
       "computer science": {
         "internalLink": {
-          "count": 1,
-          "lastUpdated": 1677750496545
+          "count": 2,
+          "lastUpdated": 1678112625123
         }
       }
     },
@@ -1574,8 +1574,8 @@
     "Hardware": {
       "Hardware": {
         "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1677750802419
+          "count": 2,
+          "lastUpdated": 1678115095011
         }
       }
     },
@@ -1744,22 +1744,26 @@
         "customDictionary": {
           "count": 1,
           "lastUpdated": 1677753309458
+        },
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1678115560957
         }
       }
     },
     "Structure": {
       "Structure": {
         "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1678095393526
+          "count": 3,
+          "lastUpdated": 1678114983962
         }
       }
     },
     "1210-01-26": {
       "1210-01-26": {
         "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1677808969079
+          "count": 2,
+          "lastUpdated": 1678114222327
         }
       }
     },
@@ -1790,8 +1794,8 @@
     "tags": {
       "tags": {
         "customDictionary": {
-          "count": 4,
-          "lastUpdated": 1678104600261
+          "count": 6,
+          "lastUpdated": 1678117027755
         }
       }
     },
@@ -1878,8 +1882,8 @@
     "g_7": {
       "g_7": {
         "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1677940133820
+          "count": 2,
+          "lastUpdated": 1678116189152
         }
       }
     },
@@ -2126,8 +2130,8 @@
     "Design": {
       "Design": {
         "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678095377793
+          "count": 3,
+          "lastUpdated": 1678115088201
         }
       }
     },
@@ -2142,8 +2146,8 @@
     "Data": {
       "Data": {
         "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678095387241
+          "count": 4,
+          "lastUpdated": 1678115007857
         }
       }
     },
@@ -2158,8 +2162,8 @@
     "Algorithm": {
       "Algorithm": {
         "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1678095788723
+          "count": 3,
+          "lastUpdated": 1678112507438
         }
       }
     },
@@ -2246,8 +2250,8 @@
     "Memory": {
       "Memory": {
         "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678095816228
+          "count": 5,
+          "lastUpdated": 1678115493912
         }
       }
     },
@@ -2272,6 +2276,542 @@
         "frontMatter": {
           "count": 1,
           "lastUpdated": 1678109919929
+        }
+      }
+    },
+    "Design pattern": {
+      "Design pattern": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1678112536541
+        }
+      }
+    },
+    "Database": {
+      "Database": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1678114955403
+        }
+      }
+    },
+    "Networking": {
+      "Networking": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678112591248
+        }
+      }
+    },
+    "Computer System": {
+      "Computer System": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1678114701468
+        }
+      }
+    },
+    "books": {
+      "books": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1678114165628
+        }
+      }
+    },
+    "Content": {
+      "Content": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678114648000
+        }
+      }
+    },
+    "Basic": {
+      "Basic": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678114705592
+        }
+      }
+    },
+    "Representing": {
+      "Representing": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678114743169
+        }
+      }
+    },
+    "Information": {
+      "Information": {
+        "customDictionary": {
+          "count": 3,
+          "lastUpdated": 1678114881778
+        }
+      }
+    },
+    "Storage": {
+      "Storage": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1678115318806
+        }
+      }
+    },
+    "Integer": {
+      "Integer": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1678114796422
+        }
+      }
+    },
+    "Floating": {
+      "Floating": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1678115020110
+        }
+      }
+    },
+    "Representation": {
+      "Representation": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678114839776
+        }
+      }
+    },
+    "Program": {
+      "Program": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1678115179823
+        }
+      }
+    },
+    "Accessing": {
+      "Accessing": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678114878567
+        }
+      }
+    },
+    "Arithmetic": {
+      "Arithmetic": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678114891739
+        }
+      }
+    },
+    "Logical": {
+      "Logical": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678114895385
+        }
+      }
+    },
+    "Operations": {
+      "Operations": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678114901592
+        }
+      }
+    },
+    "Control": {
+      "Control": {
+        "customDictionary": {
+          "count": 5,
+          "lastUpdated": 1678115469204
+        }
+      }
+    },
+    "Procedures": {
+      "Procedures": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678114919369
+        }
+      }
+    },
+    "Allocation": {
+      "Allocation": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678114933126
+        }
+      }
+    },
+    "Heterogeneous": {
+      "Heterogeneous": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678114971960
+        }
+      }
+    },
+    "Combining": {
+      "Combining": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678115002080
+        }
+      }
+    },
+    "Machine-Level": {
+      "Machine-Level": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678115013601
+        }
+      }
+    },
+    "Point": {
+      "Point": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678115022711
+        }
+      }
+    },
+    "Code": {
+      "Code": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1678115374517
+        }
+      }
+    },
+    "Processor": {
+      "Processor": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678115043107
+        }
+      }
+    },
+    "Architecture": {
+      "Architecture": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1678115074279
+        }
+      }
+    },
+    "Instruction": {
+      "Instruction": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678115069196
+        }
+      }
+    },
+    "Set": {
+      "Set": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678115071414
+        }
+      }
+    },
+    "Logic": {
+      "Logic": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678115083850
+        }
+      }
+    },
+    "Language": {
+      "Language": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678115100427
+        }
+      }
+    },
+    "Y86-64": {
+      "Y86-64": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1678115160953
+        }
+      }
+    },
+    "General": {
+      "General": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678115129618
+        }
+      }
+    },
+    "Principles": {
+      "Principles": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678115133818
+        }
+      }
+    },
+    "Pipeline": {
+      "Pipeline": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678115154956
+        }
+      }
+    },
+    "Performance": {
+      "Performance": {
+        "customDictionary": {
+          "count": 3,
+          "lastUpdated": 1678115263251
+        }
+      }
+    },
+    "Capabilities": {
+      "Capabilities": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678115199295
+        }
+      }
+    },
+    "Limitations": {
+      "Limitations": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678115205374
+        }
+      }
+    },
+    "Optimizing": {
+      "Optimizing": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678115210098
+        }
+      }
+    },
+    "Compiler": {
+      "Compiler": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678115215287
+        }
+      }
+    },
+    "Some": {
+      "Some": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678115236092
+        }
+      }
+    },
+    "Limiting": {
+      "Limiting": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678115239768
+        }
+      }
+    },
+    "Factors": {
+      "Factors": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678115243862
+        }
+      }
+    },
+    "Improvement": {
+      "Improvement": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678115271226
+        }
+      }
+    },
+    "Techniques": {
+      "Techniques": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678115277166
+        }
+      }
+    },
+    "Hierarchy": {
+      "Hierarchy": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1678115341713
+        }
+      }
+    },
+    "Technologies": {
+      "Technologies": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678115324702
+        }
+      }
+    },
+    "Cache": {
+      "Cache": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678115346884
+        }
+      }
+    },
+    "Memories": {
+      "Memories": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678115351479
+        }
+      }
+    },
+    "Writing": {
+      "Writing": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678115363103
+        }
+      }
+    },
+    "Exceptional": {
+      "Exceptional": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1678115422959
+        }
+      }
+    },
+    "Flow": {
+      "Flow": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678115411451
+        }
+      }
+    },
+    "Exceptions": {
+      "Exceptions": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678115431955
+        }
+      }
+    },
+    "Processes": {
+      "Processes": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678115439444
+        }
+      }
+    },
+    "System": {
+      "System": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678115445336
+        }
+      }
+    },
+    "Call": {
+      "Call": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678115447724
+        }
+      }
+    },
+    "Error": {
+      "Error": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678115450362
+        }
+      }
+    },
+    "Handling": {
+      "Handling": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678115458525
+        }
+      }
+    },
+    "Process": {
+      "Process": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678115467538
+        }
+      }
+    },
+    "Virtual": {
+      "Virtual": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678115490851
+        }
+      }
+    },
+    "Network": {
+      "Network": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678115523253
+        }
+      }
+    },
+    "Programming": {
+      "Programming": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678115526584
+        }
+      }
+    },
+    "Global": {
+      "Global": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678115544582
+        }
+      }
+    },
+    "Internet": {
+      "Internet": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678115551588
+        }
+      }
+    },
+    "Web": {
+      "Web": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678115569154
+        }
+      }
+    },
+    "banner": {
+      "banner": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678116182607
         }
       }
     }

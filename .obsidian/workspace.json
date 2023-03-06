@@ -13,7 +13,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Reality/Websites/Computer Science Roadmap.md",
+                "file": "DataBase/Reality/Literature/Books/The Year of Magical Thinking.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4fd0ff7d6f8d01e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Configuration/Templates/coding_qusitions.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f004faa12e6556e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Reality/Persons/Data/Isaac Newton.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d31b52a2254e2af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Reality/Persons/Data/小松菜奈.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be6732ec81f3d946",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/BooksTranslation/奇想之年/第一章.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "133d7cbd82d1e27b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/BooksTranslation/奇想之年/第二章.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -28,7 +93,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -105,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Reality/Websites/Computer Science Roadmap.md",
+                "file": "Outputs/BooksTranslation/奇想之年/第二章.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +194,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.1826153014182013,
+                  "scale": 1.1826153014182008,
                   "close": true
                 }
               }
@@ -140,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Reality/Websites/Computer Science Roadmap.md",
+                "file": "Outputs/BooksTranslation/奇想之年/第二章.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Reality/Websites/Computer Science Roadmap.md"
+                "file": "Outputs/BooksTranslation/奇想之年/第二章.md"
               }
             }
           },
@@ -191,14 +257,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Reality/Websites/Computer Science Roadmap.md",
+                "file": "Outputs/BooksTranslation/奇想之年/第二章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "1ae32eceb2a7d7a3",
@@ -238,41 +304,41 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2a6e41bc47968300",
+  "active": "133d7cbd82d1e27b",
   "lastOpenFiles": [
-    "DataBase/Reality/Websites/Coding Interview University.md",
-    "DataBase/Reality/Websites/Computer Science Roadmap.md",
-    "DataBase/Reality/Websites/马克思主义文库.md",
-    "DataBase/Reality/Web/Untitled",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Utils/GitHub.md",
-    "DataBase/Tasks/data/Interview preparation.md",
-    "DataBase/Tasks/LongTermPlan.md",
-    "DataBase/Tasks/TasksBoard.md",
-    "DataBase/Tasks/WorkDesk.md",
+    "Outputs/BooksTranslation/奇想之年/第三章.md",
+    "Outputs/BooksTranslation/奇想之年/第一章.md",
+    "Outputs/BooksTranslation/奇想之年/第二章.md",
+    "Outputs/BooksTranslation/奇想之年/奇想之年.md",
+    "Outputs/BooksTranslation/奇想之年/Chapter 1(Original Text).md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/programming paradigm.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Object-oriented programming.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Object-oriented.md",
     "DataBase/Reality/Literature/Books/Data Structures and Algorithms In Java.md",
-    "DataBase/Reality/Persons/Entertainment Stars.md",
-    "DataBase/life/diary/Diary Template.md",
-    "DataBase/life/diary/2023-03-05.md",
-    "DataBase/life/diary/2023-03-06.md",
-    "DataBase/life/diary/Weekly Template.md",
-    "DataBase/life/diary/2023-W09.md",
-    "DataBase/Reality/Persons/Data/Stanley Kubrick.md",
-    "DataBase/Knowledge/Society/literature/Utopia.md",
-    "DataBase/Reality/Places/New World.md",
-    "DataBase/Reality/Places/北京.md",
-    "DataBase/Reality/Literature/Books/Utopia(book).md",
-    "DataBase/Reality/Persons/Data/Thomas More.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/SOLID.md",
+    "README.md",
+    "SUMMARY.md",
+    "DataBase/Reality/Persons/Data/Isaac Newton.md",
+    "DataBase/Reality/Persons/Data/Johannes Kepler.md",
+    "DataBase/Reality/Persons/Data/桥本环奈 はしもと かんな.md",
+    "DataBase/Reality/Persons/Data/小松菜奈.md",
+    "DataBase/Reality/Persons/Data/王晶.md",
+    "DataBase/Reality/Persons/Data/清野菜名 せいの なな.md",
     "DataBase/Reality/Persons/Data/徐童.md",
-    "DataBase/Reality/Literature/Films and Television/A Clockwork Orange(film).md",
-    "DataBase/Knowledge/Society/literature",
-    "DataBase/Reality/Literature/Films and Television/2001-A Space Odyssey(film).md",
-    "DataBase/Reality/Literature/Films and Television/恋如雨止.md",
-    "DataBase/Reality/Literature/films and Television.md",
-    "Resources/Images/Hardware Organization.png",
-    "Resources/Images/State_Design_Pattern_UML_Class_Diagram.svg",
-    "Resources/Images/Pasted image 20230303101829.png",
+    "DataBase/Reality/Persons/Data/徐克.md",
+    "DataBase/Reality/Persons/Data/张曼玉.md",
+    "DataBase/Reality/Persons/Data/钟楚红.md",
+    "DataBase/Reality/Persons/Data/周润发.md",
+    "DataBase/Tasks/data/付费直播业务分享.md",
+    "DataBase/Tasks/data/付费直播-埋点补齐.md",
+    "DataBase/Tasks/data/付费直播-直播间内创建预售门票.md",
     "Resources/Images/The Compilation system.png",
+    "Resources/Images/State_Design_Pattern_UML_Class_Diagram.svg",
     "Resources/Images/Isaac Newton.png",
+    "Resources/Images/Hardware Organization.png",
+    "DataBase/Reality/Web/Untitled",
+    "DataBase/Knowledge/Society/literature",
+    "Resources/Images/Pasted image 20230303101829.png",
     "Resources/canvas/UML of state pattern structure.canvas",
     "Untitled.canvas",
     "Resources/canvas",
