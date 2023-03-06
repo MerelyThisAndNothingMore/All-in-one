@@ -1,5 +1,7 @@
-#Diary 
+---
+tags:
+- Diary
+---
 [[WorkDesk]]
-# Plan
-
-# Journal
+# Plan 
+# Summarize

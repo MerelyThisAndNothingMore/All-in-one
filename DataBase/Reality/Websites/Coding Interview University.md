@@ -1,4 +1,9 @@
-#coding #computer #codingInterview #selfStudy 
+---
+tags:
+- computer
+- studyResources 
+- codingInterview
+---
 # Introduction
 A study plan for becoming a software engineer.
 https://github.com/jwasham/coding-interview-university

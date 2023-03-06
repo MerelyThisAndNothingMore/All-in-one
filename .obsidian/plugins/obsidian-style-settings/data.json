@@ -1,7 +1,11 @@
 {
   "blue-topaz-theme@@transparent-setting-panel": false,
-  "Blue-Topaz-Codebox-Highlight@@code-line-number": true,
-  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-autumn-topaz",
-  "blue-topaz-theme@@layout-style-options": "asymmetric-split-left",
-  "blue-topaz-theme@@toggle-calendar-shadow": true
+  "blue-topaz-theme@@background-image-settings-switch": false,
+  "blue-topaz-theme@@toggle-nonoverlapping-bg": false,
+  "blue-topaz-theme@@background-image-settings-markdown-page-options": "background-image-settings-markdown-page-default",
+  "blue-topaz-theme@@background-notebook-liked-switch": false,
+  "blue-topaz-theme@@show-full-metadata": true,
+  "blue-topaz-theme@@table-style-options": "table-style-one",
+  "blue-topaz-theme@@file-bg-shape-option": "file-bg-pill",
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-autumn-topaz"
 }

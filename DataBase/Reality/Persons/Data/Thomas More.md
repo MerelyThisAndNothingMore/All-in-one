@@ -1,0 +1,6 @@
+---
+birth: 
+death:
+tags:
+- celebrities 
+---

@@ -1,5 +1,7 @@
 ---
 birth: 
 death:
+tags: 
+- Entertainers
+- celebrities
 ---
-#celebrities #Entertainers 

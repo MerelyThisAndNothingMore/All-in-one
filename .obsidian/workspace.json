@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2b1b684aab96b96f",
+            "id": "2a6e41bc47968300",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/life/Passwords.md",
+                "file": "DataBase/Reality/Websites/Computer Science Roadmap.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,95 +21,14 @@
             }
           },
           {
-            "id": "0654c7d61f102070",
+            "id": "06b1d6c65c8ef9c2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Science/Finite-state machine.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b55fbecc0281418",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/State pattern.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "47f7366e6e3d461e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Science/Finite-state machine.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e5945276cdac959",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Science/Model of Computation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a1951462fe42ca0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Science/Model of Computation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca56a62135a0b8cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Configuration/Templates/tasks.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b75b98977ed8e2f5",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "DataBase/Tasks/TasksBoard.md"
-              }
+              "type": "memos_view",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:(state)",
+                "query": "tag:#selfStudy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Configuration/Templates/tasks.md",
+                "file": "DataBase/Reality/Websites/Computer Science Roadmap.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -221,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Configuration/Templates/tasks.md",
+                "file": "DataBase/Reality/Websites/Computer Science Roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Configuration/Templates/tasks.md"
+                "file": "DataBase/Reality/Websites/Computer Science Roadmap.md"
               }
             }
           },
@@ -265,9 +184,21 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "98eea7a948c0d1dc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DataBase/Reality/Websites/Computer Science Roadmap.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "1ae32eceb2a7d7a3",
@@ -307,34 +238,36 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ca56a62135a0b8cc",
+  "active": "2a6e41bc47968300",
   "lastOpenFiles": [
-    "Configuration/Templates/films_and_television_works.md",
-    "Configuration/Templates/entertainment star template.md",
-    "Configuration/Templates/coding_qusitions.md",
-    "Configuration/Templates/A股模板.md",
-    "DataBase/Reality/Persons/Entertainment Stars.md",
-    "DataBase/Reality/Places/北京.md",
-    "Outputs/BooksTranslation/奇想之年/Chapter 1(Original Text).md",
-    "Outputs/BooksTranslation/奇想之年/奇想之年.md",
-    "Outputs/BooksTranslation/奇想之年/第一章.md",
+    "DataBase/Reality/Websites/Coding Interview University.md",
+    "DataBase/Reality/Websites/Computer Science Roadmap.md",
+    "DataBase/Reality/Websites/马克思主义文库.md",
+    "DataBase/Reality/Web/Untitled",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Utils/GitHub.md",
+    "DataBase/Tasks/data/Interview preparation.md",
+    "DataBase/Tasks/LongTermPlan.md",
     "DataBase/Tasks/TasksBoard.md",
     "DataBase/Tasks/WorkDesk.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Science/Finite-state machine.md",
-    "DataBase/Knowledge/NaturalScience/TheoreticalLayer/Physics/classical mechanics.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/数据结构和方法/哈希表.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/State pattern.md",
-    "DataBase/Reality/Literature/Films and Television/The Fire Within-A Requiem for Katia and Maurice Krafft.md",
-    "DataBase/work/react.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/Fundamentals/Wrapper Types.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/Fundamentals/objects-and-classes.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/Fundamentals/signature in java.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Modifiers.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Code Comments.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Coding/software testing.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/Fundamentals/Base types in Java.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Science/Virtual finite-state machine.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Science/Event-driven finite-state matchine.md",
+    "DataBase/Reality/Literature/Books/Data Structures and Algorithms In Java.md",
+    "DataBase/Reality/Persons/Entertainment Stars.md",
+    "DataBase/life/diary/Diary Template.md",
+    "DataBase/life/diary/2023-03-05.md",
+    "DataBase/life/diary/2023-03-06.md",
+    "DataBase/life/diary/Weekly Template.md",
+    "DataBase/life/diary/2023-W09.md",
+    "DataBase/Reality/Persons/Data/Stanley Kubrick.md",
+    "DataBase/Knowledge/Society/literature/Utopia.md",
+    "DataBase/Reality/Places/New World.md",
+    "DataBase/Reality/Places/北京.md",
+    "DataBase/Reality/Literature/Books/Utopia(book).md",
+    "DataBase/Reality/Persons/Data/Thomas More.md",
+    "DataBase/Reality/Persons/Data/徐童.md",
+    "DataBase/Reality/Literature/Films and Television/A Clockwork Orange(film).md",
+    "DataBase/Knowledge/Society/literature",
+    "DataBase/Reality/Literature/Films and Television/2001-A Space Odyssey(film).md",
+    "DataBase/Reality/Literature/Films and Television/恋如雨止.md",
+    "DataBase/Reality/Literature/films and Television.md",
     "Resources/Images/Hardware Organization.png",
     "Resources/Images/State_Design_Pattern_UML_Class_Diagram.svg",
     "Resources/Images/Pasted image 20230303101829.png",
