@@ -8,8 +8,6 @@ kanban-plugin: basic
 
 - [ ] [[StockWorkdesk]]
 - [ ] [[Coding Interview University]]
-- [ ] [[Computer System]]
-- [ ] [[Design Patterns]]
 - [ ] [[computer science]]
 
 

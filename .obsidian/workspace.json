@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2a6e41bc47968300",
+            "id": "09ab6d0b78e48f5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Reality/Literature/Books/The Year of Magical Thinking.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4fd0ff7d6f8d01e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Configuration/Templates/coding_qusitions.md",
+                "file": "DataBase/Reality/Websites/Computer Science Roadmap.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +21,12 @@
             }
           },
           {
-            "id": "f004faa12e6556e5",
+            "id": "491de737067f46cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Reality/Persons/Data/Isaac Newton.md",
+                "file": "Configuration/Templates/A股模板.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,25 +34,12 @@
             }
           },
           {
-            "id": "6d31b52a2254e2af",
+            "id": "73629a64c82b6341",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Reality/Persons/Data/小松菜奈.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be6732ec81f3d946",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/BooksTranslation/奇想之年/第一章.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Science/computer science.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,12 +47,12 @@
             }
           },
           {
-            "id": "133d7cbd82d1e27b",
+            "id": "0d9ea167930ed63d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Outputs/BooksTranslation/奇想之年/第二章.md",
+                "file": "DataBase/Reality/Websites/Teach Yourself Computer Science.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -171,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Outputs/BooksTranslation/奇想之年/第二章.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Science/computer science.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -194,7 +168,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.1826153014182008,
+                  "scale": 1.1826153014182013,
                   "close": true
                 }
               }
@@ -206,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Outputs/BooksTranslation/奇想之年/第二章.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Science/computer science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Outputs/BooksTranslation/奇想之年/第二章.md"
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Science/computer science.md"
               }
             }
           },
@@ -257,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Outputs/BooksTranslation/奇想之年/第二章.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Science/computer science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -304,41 +278,42 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "133d7cbd82d1e27b",
+  "active": "73629a64c82b6341",
   "lastOpenFiles": [
-    "Outputs/BooksTranslation/奇想之年/第三章.md",
-    "Outputs/BooksTranslation/奇想之年/第一章.md",
-    "Outputs/BooksTranslation/奇想之年/第二章.md",
-    "Outputs/BooksTranslation/奇想之年/奇想之年.md",
-    "Outputs/BooksTranslation/奇想之年/Chapter 1(Original Text).md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/programming paradigm.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Object-oriented programming.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Object-oriented.md",
-    "DataBase/Reality/Literature/Books/Data Structures and Algorithms In Java.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/SOLID.md",
-    "README.md",
-    "SUMMARY.md",
-    "DataBase/Reality/Persons/Data/Isaac Newton.md",
-    "DataBase/Reality/Persons/Data/Johannes Kepler.md",
-    "DataBase/Reality/Persons/Data/桥本环奈 はしもと かんな.md",
-    "DataBase/Reality/Persons/Data/小松菜奈.md",
-    "DataBase/Reality/Persons/Data/王晶.md",
+    "DataBase/Reality/Websites/Coding Interview University.md",
+    "DataBase/Reality/Websites/Teach Yourself Computer Science.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Science/computer science.md",
+    "DataBase/Tasks/data/Interview preparation.md",
+    "DataBase/Tasks/TasksBoard.md",
+    "DataBase/Reality/Websites/OSSU.md",
+    "DataBase/Knowledge/Society/literature/Utopia.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Utils/LaTeX.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Utils/GitHub.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Java/Fundamentals/fundamental-programming-structures.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Composite Pattern.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Builder Pattern.md",
+    "Configuration/Templates/BaseTemplate.md",
+    "Configuration/Templates/A股模板.md",
+    "Configuration/Templates/tasks.md",
+    "Configuration/Templates/StockSectorTemplate.md",
+    "Configuration/Templates/KnowledgeCards.md",
+    "Configuration/Templates/films_and_television_works.md",
+    "Configuration/Templates/entertainment star template.md",
+    "Configuration/Templates/coding_qusitions.md",
+    "Configuration/Templates/celebrity.md",
+    "Configuration/Templates/bookTemplate.md",
+    "Configuration/Templates/AuthorsTemplate.md",
+    "DataBase/Knowledge/NaturalScience/TheoreticalLayer/Physics/Law of universal gravitation.md",
     "DataBase/Reality/Persons/Data/清野菜名 せいの なな.md",
-    "DataBase/Reality/Persons/Data/徐童.md",
-    "DataBase/Reality/Persons/Data/徐克.md",
-    "DataBase/Reality/Persons/Data/张曼玉.md",
-    "DataBase/Reality/Persons/Data/钟楚红.md",
-    "DataBase/Reality/Persons/Data/周润发.md",
-    "DataBase/Tasks/data/付费直播业务分享.md",
-    "DataBase/Tasks/data/付费直播-埋点补齐.md",
-    "DataBase/Tasks/data/付费直播-直播间内创建预售门票.md",
-    "Resources/Images/The Compilation system.png",
-    "Resources/Images/State_Design_Pattern_UML_Class_Diagram.svg",
+    "DataBase/Investment/Stock/中兴通讯(Stock).md",
     "Resources/Images/Isaac Newton.png",
-    "Resources/Images/Hardware Organization.png",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns",
     "DataBase/Reality/Web/Untitled",
     "DataBase/Knowledge/Society/literature",
+    "Resources/Images/Hardware Organization.png",
+    "Resources/Images/State_Design_Pattern_UML_Class_Diagram.svg",
     "Resources/Images/Pasted image 20230303101829.png",
+    "Resources/Images/The Compilation system.png",
     "Resources/canvas/UML of state pattern structure.canvas",
     "Untitled.canvas",
     "Resources/canvas",

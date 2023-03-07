@@ -1,5 +1,9 @@
 ---
 ---
+# Work Desk
+
+
+
 # [[Computer System]] 
 # Data Structure
 # Algorithm 
@@ -8,3 +12,6 @@
 # Networking 
 
 # References 
+[[Coding Interview University]]
+[[OSSU]]
+[[Teach Yourself Computer Science]]
