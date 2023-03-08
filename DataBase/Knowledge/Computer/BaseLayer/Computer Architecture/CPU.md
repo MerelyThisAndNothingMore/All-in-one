@@ -1,1 +1,4 @@
-#computer 
+---
+tags: 
+---
+short for Central Processing Unit 

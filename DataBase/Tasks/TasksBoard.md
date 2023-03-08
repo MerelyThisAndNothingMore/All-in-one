@@ -7,8 +7,8 @@ kanban-plugin: basic
 ## Important and urgent
 
 - [ ] [[StockWorkdesk]]
-- [ ] [[Coding Interview University]]
 - [ ] [[computer science]]
+- [ ] [[Interview preparation]]
 
 
 ## Important but not urgent

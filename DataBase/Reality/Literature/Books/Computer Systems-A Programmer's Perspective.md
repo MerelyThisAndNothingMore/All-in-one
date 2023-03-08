@@ -4,7 +4,7 @@ tags:
 - books 
 ---
 # Content 
-1. [[Computer System]] Basic 
+1. A Tour of [[Computer System]] 
 2. Representing and Manipulating Information 
 	1. Information Storage 
 	2. Integer Representations
