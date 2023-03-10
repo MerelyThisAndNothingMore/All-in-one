@@ -1,5 +1,6 @@
 ```dataview
-TABLE authors, XiaLian, HengPi
+TABLE authors
 FROM #books 
 SORT creation_date ASC
 ```
+
