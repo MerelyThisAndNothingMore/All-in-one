@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c2282d310ea78475",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Amdahl's law.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -63,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:(netw)",
+                "query": "file:(latex)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +93,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -111,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Files.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Amdahl's law.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -146,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Files.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Amdahl's law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Files.md"
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Amdahl's law.md"
               }
             }
           },
@@ -197,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Files.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Amdahl's law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,15 +258,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "bcf111a04821fbb5",
+  "active": "c2282d310ea78475",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Computer/ApplicationLayer/Utils/LaTeX-Mathematics.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Files.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Amdahl's law.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Kernel.md",
     "DataBase/Life/diary/Diary Template.md",
     "DataBase/Life/diary/2023-W09.md",
     "DataBase/Life/diary/Weekly Template.md",
     "DataBase/Life/diary/2023-03-10.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Networks.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Files.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Virtual Memory.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Virtual Address Space.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Threads.md",
@@ -270,8 +286,6 @@
     "DataBase/Investment/Stock/海康威视(Stock).md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/编程题预览.md",
     "DataBase/Literature/films and Television.md",
-    "DataBase/Reality/Persons/Entertainment Stars.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/插件化.md",
     "DataBase/Literature/Text/对联",
     "DataBase/Literature/Text",
     "DataBase/Literature/Text/Books/毛泽东选集",

@@ -2987,8 +2987,8 @@
     "computerArchitecture": {
       "computerArchitecture": {
         "frontMatter": {
-          "count": 14,
-          "lastUpdated": 1678415891190
+          "count": 15,
+          "lastUpdated": 1678419636052
         }
       }
     },
@@ -3117,6 +3117,14 @@
         "customDictionary": {
           "count": 1,
           "lastUpdated": 1678415898240
+        }
+      }
+    },
+    "S_latency": {
+      "S_latency": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678420426154
         }
       }
     }
