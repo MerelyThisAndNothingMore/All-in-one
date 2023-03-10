@@ -1,5 +1,4 @@
 ---
-title: 
 classification: 
 authors: ["",]
 tags:

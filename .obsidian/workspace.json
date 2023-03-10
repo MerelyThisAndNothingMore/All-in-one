@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Configuration/Templates/BookTemplate.md",
+                "file": "DataBase/Literature/Text/Books.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -137,7 +137,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Configuration/Templates/BookTemplate.md",
+                "file": "DataBase/Literature/Text/Books.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Configuration/Templates/BookTemplate.md",
+                "file": "DataBase/Literature/Text/Books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Configuration/Templates/BookTemplate.md"
+                "file": "DataBase/Literature/Text/Books.md"
               }
             }
           },
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Configuration/Templates/BookTemplate.md",
+                "file": "DataBase/Literature/Text/Books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -272,10 +272,17 @@
   },
   "active": "23e6d85c14de0983",
   "lastOpenFiles": [
-    "Configuration/Templates/BaseTemplate.md",
+    "DataBase/Literature/Text/Books/The Year of Magical Thinking.md",
     "DataBase/Literature/Text/Books.md",
-    "DataBase/Literature/Text/Books/Data Structures and Algorithms In Java.md",
+    "DataBase/Literature/Text/对联.md",
     "Configuration/Templates/BookTemplate.md",
+    "Configuration/Templates/tasks.md",
+    "Configuration/Templates/StockSectorTemplate.md",
+    "Configuration/Templates/KnowledgeCards.md",
+    "Configuration/Templates/entertainment star template.md",
+    "Configuration/Templates/films_and_television_works.md",
+    "Configuration/Templates/BaseTemplate.md",
+    "DataBase/Literature/Text/Books/Data Structures and Algorithms In Java.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Amdahl's law.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Utils/LaTeX-Mathematics.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Files.md",
@@ -291,13 +298,6 @@
     "DataBase/Literature/Text/Books/Computer Systems-A Programmer's Perspective.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Processes.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Computer System.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Science/computer science.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation/Interview preparation.md",
-    "DataBase/Tasks/TasksBoard.md",
-    "DataBase/Investment/StockWorkdesk.md",
-    "DataBase/Literature/Text/Books/Operating Systems-Three Easy Pieces.md",
-    "DataBase/Literature/Text/对联.md",
-    "DataBase/Literature/Text/对联/躺平是福.md",
     "DataBase/Literature/Text/对联",
     "DataBase/Literature/Text",
     "DataBase/Literature/Text/Books/毛泽东选集",
