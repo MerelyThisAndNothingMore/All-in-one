@@ -1,6 +1,8 @@
 {
   "strategy": "default",
+  "cedictPath": "./cedict_ts.u8",
   "matchStrategy": "prefix",
+  "fuzzyMatch": true,
   "maxNumberOfSuggestions": 5,
   "maxNumberOfWordsAsPhrase": 3,
   "minNumberOfCharactersTriggered": 0,
@@ -10,6 +12,11 @@
   "disableSuggestionsDuringImeOn": false,
   "insertAfterCompletion": true,
   "firstCharactersDisableSuggestions": ":/^",
+  "useCommonPrefixCompletionOfSuggestion": false,
+  "patternsToSuppressTrigger": [
+    "^~~~.*",
+    "^```.*"
+  ],
   "showMatchStrategy": true,
   "showComplementAutomatically": true,
   "showIndexingStatus": true,
@@ -36,8 +43,14 @@
   "caretLocationSymbolAfterComplement": "",
   "displayedTextSuffix": " => ...",
   "enableInternalLinkComplement": true,
-  "suggestInternalLinkWithAlias": false,
+  "suggestInternalLinkWithAlias": true,
   "excludeInternalLinkPathPrefixPatterns": "",
+  "updateInternalLinksOnSave": true,
+  "insertAliasTransformedFromDisplayedInternalLink": {
+    "enabled": true,
+    "beforeRegExp": "",
+    "after": ""
+  },
   "enableFrontMatterComplement": true,
   "frontMatterComplementMatchStrategy": "inherit",
   "insertCommaAfterFrontMatterCompletion": false,
@@ -114,8 +127,8 @@
     "References": {
       "References": {
         "customDictionary": {
-          "count": 5,
-          "lastUpdated": 1678281498019
+          "count": 6,
+          "lastUpdated": 1678354435924
         }
       }
     },
@@ -550,8 +563,8 @@
     "the": {
       "the": {
         "customDictionary": {
-          "count": 32,
-          "lastUpdated": 1678275266673
+          "count": 33,
+          "lastUpdated": 1678329570686
         }
       }
     },
@@ -590,8 +603,8 @@
     "and": {
       "and": {
         "customDictionary": {
-          "count": 16,
-          "lastUpdated": 1678275419555
+          "count": 18,
+          "lastUpdated": 1678414222004
         }
       }
     },
@@ -966,8 +979,8 @@
     "memory": {
       "memory": {
         "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1677669524758
+          "count": 2,
+          "lastUpdated": 1678333917603
         }
       }
     },
@@ -1114,8 +1127,8 @@
     "access": {
       "access": {
         "customDictionary": {
-          "count": 3,
-          "lastUpdated": 1677670848585
+          "count": 4,
+          "lastUpdated": 1678329569457
         }
       }
     },
@@ -1910,8 +1923,8 @@
     "Timeline": {
       "Timeline": {
         "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1677940536712
+          "count": 3,
+          "lastUpdated": 1678416066344
         }
       }
     },
@@ -2974,8 +2987,136 @@
     "computerArchitecture": {
       "computerArchitecture": {
         "frontMatter": {
+          "count": 14,
+          "lastUpdated": 1678415891190
+        }
+      }
+    },
+    "hierarchy": {
+      "hierarchy": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678329325643
+        }
+      }
+    },
+    "Programs": {
+      "Programs": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678329543699
+        }
+      }
+    },
+    "keyboard": {
+      "keyboard": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678329572892
+        }
+      }
+    },
+    "display": {
+      "display": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678329577496
+        }
+      }
+    },
+    "disk": {
+      "disk": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678329580120
+        }
+      }
+    },
+    "main": {
+      "main": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678329585419
+        }
+      }
+    },
+    "Memory Hierarchy": {
+      "Memory Hierarchy": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1678329589404
+        }
+      }
+    },
+    "processes": {
+      "processes": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678333906693
+        }
+      }
+    },
+    "virtual": {
+      "virtual": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678333910675
+        }
+      }
+    },
+    "Data Structure": {
+      "Data Structure": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1678354524963
+        }
+      }
+    },
+    "Kernel": {
+      "Kernel": {
+        "internalLink": {
           "count": 2,
-          "lastUpdated": 1678288659066
+          "lastUpdated": 1678415219309
+        }
+      }
+    },
+    "Threads": {
+      "Threads": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1678414614689
+        }
+      }
+    },
+    "Virtual Address Space": {
+      "Virtual Address Space": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1678414932322
+        }
+      }
+    },
+    "device": {
+      "device": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678415713655
+        }
+      }
+    },
+    "I-O Devices": {
+      "I-O Devices": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1678415725977
+        }
+      }
+    },
+    "practice": {
+      "practice": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678415898240
         }
       }
     }

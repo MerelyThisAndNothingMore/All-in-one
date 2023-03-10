@@ -7,7 +7,6 @@ kanban-plugin: basic
 ## Important and urgent
 
 - [ ] [[StockWorkdesk]]
-- [ ] [[computer science]]
 - [ ] [[Interview preparation]]
 
 

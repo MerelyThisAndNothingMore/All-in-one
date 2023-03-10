@@ -5,7 +5,7 @@
 
 # Programming 
 # [[Computer System]] 
-# Data Structure
+# [[Data Structure]] 
 # Algorithm 
 # [[Design pattern]] 
 # Database 

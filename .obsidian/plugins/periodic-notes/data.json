@@ -3,32 +3,32 @@
   "hasMigratedDailyNoteSettings": true,
   "hasMigratedWeeklyNoteSettings": true,
   "daily": {
-    "folder": "DataBase/life/diary",
+    "folder": "DataBase/Life/diary",
     "template": "life/diary/Diary Template",
     "enabled": true
   },
   "weekly": {
     "format": "",
-    "folder": "DataBase/life/diary",
+    "folder": "DataBase/Life/diary",
     "template": "DataBase/life/diary/Weekly Template.md",
     "enabled": true
   },
   "monthly": {
     "format": "",
     "template": "",
-    "folder": "DataBase/life/diary",
+    "folder": "DataBase/Life/diary",
     "enabled": true
   },
   "quarterly": {
     "format": "",
     "template": "",
-    "folder": "DataBase/life/diary",
+    "folder": "DataBase/Life/diary",
     "enabled": true
   },
   "yearly": {
     "format": "",
     "template": "",
-    "folder": "DataBase/life/diary",
+    "folder": "DataBase/Life/diary",
     "enabled": true
   }
 }

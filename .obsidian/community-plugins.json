@@ -22,5 +22,7 @@
   "obsidian-banners",
   "quickadd",
   "obsidian-charts",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "obsidian-minimal-settings",
+  "cm-editor-syntax-highlight-obsidian"
 ]
