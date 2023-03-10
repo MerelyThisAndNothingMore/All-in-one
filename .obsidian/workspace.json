@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c54656b24353d25d",
+        "id": "41b68a9c2a2e25e3",
         "type": "tabs",
         "children": [
           {
-            "id": "fa50bd3af21b13f9",
+            "id": "e9e1b25cac926cf7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5,
-    "collapsed": true
+    "width": 301.5
   },
   "right": {
     "id": "5686aed80dfb294e",
@@ -232,7 +231,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fa50bd3af21b13f9",
+  "active": "e9e1b25cac926cf7",
   "lastOpenFiles": [
     "README.md",
     "Home Page.md",
