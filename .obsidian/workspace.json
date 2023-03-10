@@ -4,63 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "468bf810c81737d1",
+        "id": "c54656b24353d25d",
         "type": "tabs",
         "children": [
           {
-            "id": "c48faf6276dea11f",
+            "id": "fa50bd3af21b13f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Files.md",
+                "file": "Home Page.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "bcf111a04821fbb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Files.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2282d310ea78475",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Literature/Text/Books/Data Structures and Algorithms In Java.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "23e6d85c14de0983",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Literature/Text/Books.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 301.5,
+    "collapsed": true
   },
   "right": {
     "id": "5686aed80dfb294e",
@@ -137,7 +98,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Literature/Text/Books.md",
+                "file": "Home Page.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -172,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Literature/Text/Books.md",
+                "file": "Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Literature/Text/Books.md"
+                "file": "Home Page.md"
               }
             }
           },
@@ -223,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Literature/Text/Books.md",
+                "file": "Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,7 +209,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 366.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -257,23 +219,27 @@
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "random-note:Open random note": false,
-      "workspaces:Manage workspace layouts": false,
       "canvas:Create new canvas": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
+      "homepage:Open homepage": false,
+      "workspaces:Manage workspace layouts": false,
       "obsidian-memos:Memos": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "23e6d85c14de0983",
+  "active": "fa50bd3af21b13f9",
   "lastOpenFiles": [
-    "DataBase/Literature/Text/Books/The Year of Magical Thinking.md",
+    "README.md",
+    "Home Page.md",
+    "SUMMARY.md",
+    "DataBase/Literature/Text/HomePage.md",
     "DataBase/Literature/Text/Books.md",
+    "DataBase/Literature/Text/Books/The Year of Magical Thinking.md",
     "DataBase/Literature/Text/对联.md",
     "Configuration/Templates/BookTemplate.md",
     "Configuration/Templates/tasks.md",
@@ -294,10 +260,6 @@
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Networks.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Virtual Memory.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Virtual Address Space.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Threads.md",
-    "DataBase/Literature/Text/Books/Computer Systems-A Programmer's Perspective.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Processes.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Computer System.md",
     "DataBase/Literature/Text/对联",
     "DataBase/Literature/Text",
     "DataBase/Literature/Text/Books/毛泽东选集",

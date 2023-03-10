@@ -24,5 +24,7 @@
   "obsidian-charts",
   "obsidian-style-settings",
   "obsidian-minimal-settings",
-  "cm-editor-syntax-highlight-obsidian"
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-activity-history",
+  "homepage"
 ]
