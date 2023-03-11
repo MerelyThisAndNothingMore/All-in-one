@@ -1,28 +1,72 @@
 {
   "recentFiles": [
     {
-      "basename": "奇想之年",
-      "path": "Outputs/BooksTranslation/奇想之年/奇想之年.md"
+      "basename": "Interview preparation",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation/Interview preparation.md"
     },
     {
-      "basename": "Home Page",
-      "path": "Home Page.md"
+      "basename": "TasksBoard",
+      "path": "DataBase/Tasks/TasksBoard.md"
     },
     {
-      "basename": "The Year of Magical Thinking",
-      "path": "DataBase/Literature/Text/Books/The Year of Magical Thinking.md"
+      "basename": "Stack",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Stack.md"
     },
     {
-      "basename": "第一章",
-      "path": "Outputs/BooksTranslation/奇想之年/第一章.md"
+      "basename": "Heap",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Heap.md"
+    },
+    {
+      "basename": "Trees",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Trees.md"
+    },
+    {
+      "basename": "Data Structure",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Data Structure.md"
+    },
+    {
+      "basename": "Coding Interview University",
+      "path": "DataBase/Reality/Websites/Coding Interview University.md"
+    },
+    {
+      "basename": "DataStructureTemplate",
+      "path": "Configuration/Templates/DataStructureTemplate.md"
+    },
+    {
+      "basename": "BaseTemplate",
+      "path": "Configuration/Templates/BaseTemplate.md"
+    },
+    {
+      "basename": "Algorithm",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithm.md"
     },
     {
       "basename": "computer science",
       "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Science/computer science.md"
     },
     {
-      "basename": "Interview preparation",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation/Interview preparation.md"
+      "basename": "Teach Yourself Computer Science",
+      "path": "DataBase/Reality/Websites/Teach Yourself Computer Science.md"
+    },
+    {
+      "basename": "Computer System",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Computer System.md"
+    },
+    {
+      "basename": "Home Page",
+      "path": "Home Page.md"
+    },
+    {
+      "basename": "第一章",
+      "path": "Outputs/BooksTranslation/奇想之年/第一章.md"
+    },
+    {
+      "basename": "奇想之年",
+      "path": "Outputs/BooksTranslation/奇想之年/奇想之年.md"
+    },
+    {
+      "basename": "The Year of Magical Thinking",
+      "path": "DataBase/Literature/Text/Books/The Year of Magical Thinking.md"
     },
     {
       "basename": "Main Memory",
@@ -43,10 +87,6 @@
     {
       "basename": "BookTemplate",
       "path": "Configuration/Templates/BookTemplate.md"
-    },
-    {
-      "basename": "BaseTemplate",
-      "path": "Configuration/Templates/BaseTemplate.md"
     },
     {
       "basename": "AuthorsTemplate",
@@ -73,20 +113,12 @@
       "path": "DataBase/Investment/StockWorkdesk.md"
     },
     {
-      "basename": "TasksBoard",
-      "path": "DataBase/Tasks/TasksBoard.md"
-    },
-    {
       "basename": "Buses",
       "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Buses.md"
     },
     {
       "basename": "Computing",
       "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Computing.md"
-    },
-    {
-      "basename": "Computer System",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Computer System.md"
     },
     {
       "basename": "CPU",

@@ -17,6 +17,10 @@
     {
       "folder": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture",
       "template": "Configuration/Templates/ComputerArchitectureTemplate.md"
+    },
+    {
+      "folder": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure",
+      "template": "Configuration/Templates/DataStructureTemplate.md"
     }
   ],
   "syntax_highlighting": true,

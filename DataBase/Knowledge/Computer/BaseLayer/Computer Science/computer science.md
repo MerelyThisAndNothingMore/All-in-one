@@ -1,4 +1,6 @@
 ---
+tags:
+- computer 
 ---
 # Work Desk
 
@@ -6,7 +8,7 @@
 # Programming 
 # [[Computer System]] 
 # [[Data Structure]] 
-# Algorithm 
+# [[Algorithm|Algorithm]] 
 # [[Design pattern]] 
 # Database 
 # Networking 

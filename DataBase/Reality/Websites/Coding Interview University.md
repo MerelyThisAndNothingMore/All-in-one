@@ -8,6 +8,8 @@ tags:
 A study plan for becoming a software engineer.
 https://github.com/jwasham/coding-interview-university
 # Content
+## Algorithmic complexity 
+[[Big-O notation]]
 
 # CheckList
 - [ ]   [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)

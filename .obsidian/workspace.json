@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "740aa5b079a2f2df",
+        "id": "82d77114ef6c06e5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Outputs/BooksTranslation/奇想之年/奇想之年.md",
-            "mode": "preview",
+            "file": "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation/Interview preparation.md",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#translationWork",
+                "query": "tag:#computer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "2f7e2e24ad04b6ba",
@@ -108,7 +107,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Outputs/BooksTranslation/奇想之年/奇想之年.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation/Interview preparation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -143,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Outputs/BooksTranslation/奇想之年/奇想之年.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation/Interview preparation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Outputs/BooksTranslation/奇想之年/奇想之年.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation/Interview preparation.md"
               }
             }
           },
@@ -194,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Outputs/BooksTranslation/奇想之年/奇想之年.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation/Interview preparation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +218,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 366.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,34 +241,35 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "740aa5b079a2f2df",
+  "active": "82d77114ef6c06e5",
   "lastOpenFiles": [
-    "Home Page.md",
-    "DataBase/Literature/Text/Books/The Year of Magical Thinking.md",
-    "Outputs/BooksTranslation/奇想之年/奇想之年.md",
-    "Outputs/BooksTranslation/奇想之年/Untitled.md",
-    "Outputs/BooksTranslation/奇想之年/第一章.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Science/computer science.md",
+    "Resources/text/Coding-Interview-University checklist.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation/Interview preparation.md",
+    "DataBase/Tasks/TasksBoard.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Stack.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Heap.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Trees.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Data Structure.md",
+    "DataBase/Reality/Websites/Coding Interview University.md",
+    "Configuration/Templates/DataStructureTemplate.md",
+    "Configuration/Templates/BaseTemplate.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithm.md",
+    "Resources/text",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Science/computer science.md",
+    "DataBase/Reality/Websites/Teach Yourself Computer Science.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Computer System.md",
+    "Home Page.md",
+    "Outputs/BooksTranslation/奇想之年/第一章.md",
+    "Outputs/BooksTranslation/奇想之年/奇想之年.md",
+    "DataBase/Literature/Text/Books/The Year of Magical Thinking.md",
+    "Outputs/BooksTranslation/奇想之年/Untitled.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Main Memory.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Java/Fundamentals/Arrays In Java.md",
     "Configuration/Templates/KnowledgeCards.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android Development.md",
     "Configuration/Templates/BookTemplate.md",
-    "Configuration/Templates/BaseTemplate.md",
     "Configuration/Templates/AuthorsTemplate.md",
     "Configuration/Templates/A股模板.md",
-    "Configuration/Templates/ComputerArchitectureTemplate.md",
-    "Configuration/Templates/tasks.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Processes.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Concurrency.md",
-    "DataBase/Investment/StockWorkdesk.md",
-    "DataBase/Tasks/TasksBoard.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Buses.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Computing.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Computer System.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/CPU.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Files.md",
     "daily notes",
     "Test/daily notes",
     "Test",
@@ -278,7 +279,6 @@
     "DataBase/Literature/Text/Books/毛泽东选集",
     "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation",
     "DataBase/Knowledge/Computer/BaseLayer/Distributed Systems",
-    "DataBase/Knowledge/Computer/BaseLayer/Languages and Compilers",
     "Resources/Images/The Compilation system.png",
     "Resources/Images/State_Design_Pattern_UML_Class_Diagram.svg",
     "Resources/Images/Isaac Newton.png",
