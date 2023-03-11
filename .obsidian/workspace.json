@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
-                "mode": "preview",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Amdahl's law.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "booktem",
+                "query": "amda",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,17 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "6991d9dceabd9c8e",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Amdahl's law.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -132,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Amdahl's law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Amdahl's law.md"
               }
             }
           },
@@ -183,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Amdahl's law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,42 +242,42 @@
   },
   "active": "e9e1b25cac926cf7",
   "lastOpenFiles": [
-    "README.md",
     "Home Page.md",
-    "SUMMARY.md",
-    "DataBase/Literature/Text/HomePage.md",
-    "DataBase/Literature/Text/Books.md",
-    "DataBase/Literature/Text/Books/The Year of Magical Thinking.md",
-    "DataBase/Literature/Text/对联.md",
-    "Configuration/Templates/BookTemplate.md",
-    "Configuration/Templates/tasks.md",
-    "Configuration/Templates/StockSectorTemplate.md",
+    "daily notes/2023-01-03.md",
+    "Overview.md",
+    "Overview extended.md",
     "Configuration/Templates/KnowledgeCards.md",
-    "Configuration/Templates/entertainment star template.md",
-    "Configuration/Templates/films_and_television_works.md",
-    "Configuration/Templates/BaseTemplate.md",
-    "DataBase/Literature/Text/Books/Data Structures and Algorithms In Java.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Amdahl's law.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Utils/LaTeX-Mathematics.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Files.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Kernel.md",
-    "DataBase/Life/diary/Diary Template.md",
-    "DataBase/Life/diary/2023-W09.md",
-    "DataBase/Life/diary/Weekly Template.md",
-    "DataBase/Life/diary/2023-03-10.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Networks.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Virtual Memory.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Virtual Address Space.md",
+    "daily notes/2022-04-15.md",
+    "daily notes/2022-04-14.md",
+    "daily notes/2022-04-13.md",
+    "daily notes/2022-04-12.md",
+    "daily notes/2022-04-11.md",
+    "daily notes/2022-04-10.md",
+    "daily notes/2022-04-09.md",
+    "daily notes/2022-04-08.md",
+    "daily notes/2022-04-07.md",
+    "daily notes/2022-04-06.md",
+    "daily notes/2022-04-05.md",
+    "daily notes/2022-04-04.md",
+    "daily notes/2022-04-03.md",
+    "daily notes/2022-04-02.md",
+    "daily notes/2022-04-01.md",
+    "daily notes/2022-03-31.md",
+    "daily notes/2022-03-30.md",
+    "daily notes/2022-03-29.md",
+    "daily notes/2022-03-28.md",
+    "daily notes/2022-03-27.md",
+    "daily notes/2022-03-26.md",
+    "daily notes",
+    "Test/daily notes",
+    "Test",
+    "未命名文件夹",
     "DataBase/Literature/Text/对联",
     "DataBase/Literature/Text",
     "DataBase/Literature/Text/Books/毛泽东选集",
     "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation",
     "DataBase/Knowledge/Computer/BaseLayer/Distributed Systems",
     "DataBase/Knowledge/Computer/BaseLayer/Languages and Compilers",
-    "DataBase/Knowledge/Computer/BaseLayer/Databases",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Networking",
-    "DataBase/Knowledge/Computer/BaseLayer/Operating Systems",
-    "DataBase/Knowledge/Computer/BaseLayer/Math for CS",
     "Resources/Images/The Compilation system.png",
     "Resources/Images/State_Design_Pattern_UML_Class_Diagram.svg",
     "Resources/Images/Isaac Newton.png",

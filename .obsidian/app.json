@@ -12,5 +12,6 @@
     "en-US"
   ],
   "attachmentFolderPath": "Resources/Images",
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "livePreview": true
 }
