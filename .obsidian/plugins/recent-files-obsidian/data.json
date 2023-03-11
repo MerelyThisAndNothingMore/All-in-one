@@ -1,16 +1,112 @@
 {
   "recentFiles": [
     {
-      "basename": "Amdahl's law",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Amdahl's law.md"
+      "basename": "奇想之年",
+      "path": "Outputs/BooksTranslation/奇想之年/奇想之年.md"
     },
     {
       "basename": "Home Page",
       "path": "Home Page.md"
     },
     {
+      "basename": "The Year of Magical Thinking",
+      "path": "DataBase/Literature/Text/Books/The Year of Magical Thinking.md"
+    },
+    {
+      "basename": "第一章",
+      "path": "Outputs/BooksTranslation/奇想之年/第一章.md"
+    },
+    {
+      "basename": "computer science",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Science/computer science.md"
+    },
+    {
+      "basename": "Interview preparation",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation/Interview preparation.md"
+    },
+    {
+      "basename": "Main Memory",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Main Memory.md"
+    },
+    {
+      "basename": "Arrays In Java",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Java/Fundamentals/Arrays In Java.md"
+    },
+    {
       "basename": "KnowledgeCards",
       "path": "Configuration/Templates/KnowledgeCards.md"
+    },
+    {
+      "basename": "Android Development",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android Development.md"
+    },
+    {
+      "basename": "BookTemplate",
+      "path": "Configuration/Templates/BookTemplate.md"
+    },
+    {
+      "basename": "BaseTemplate",
+      "path": "Configuration/Templates/BaseTemplate.md"
+    },
+    {
+      "basename": "AuthorsTemplate",
+      "path": "Configuration/Templates/AuthorsTemplate.md"
+    },
+    {
+      "basename": "A股模板",
+      "path": "Configuration/Templates/A股模板.md"
+    },
+    {
+      "basename": "ComputerArchitectureTemplate",
+      "path": "Configuration/Templates/ComputerArchitectureTemplate.md"
+    },
+    {
+      "basename": "Processes",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Processes.md"
+    },
+    {
+      "basename": "Concurrency",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Concurrency.md"
+    },
+    {
+      "basename": "StockWorkdesk",
+      "path": "DataBase/Investment/StockWorkdesk.md"
+    },
+    {
+      "basename": "TasksBoard",
+      "path": "DataBase/Tasks/TasksBoard.md"
+    },
+    {
+      "basename": "Buses",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Buses.md"
+    },
+    {
+      "basename": "Computing",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Computing.md"
+    },
+    {
+      "basename": "Computer System",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Computer System.md"
+    },
+    {
+      "basename": "CPU",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/CPU.md"
+    },
+    {
+      "basename": "Files",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Files.md"
+    },
+    {
+      "basename": "executable",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/executable.md"
+    },
+    {
+      "basename": "Amdahl's law",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Amdahl's law.md"
+    },
+    {
+      "basename": "LaTeX-Mathematics",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Utils/LaTeX-Mathematics.md"
     }
   ],
   "omittedPaths": [],

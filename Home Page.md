@@ -1,3 +1,4 @@
+
 ```dataviewjs
 // Render Title 
 dv.span("**Daily Work**")
@@ -21,7 +22,8 @@ const calendarData = {
         ]
     },
     entries: [],
-    showCurrentDayBorder: true
+    showCurrentDayBorder: false,
+    intensityScaleEnd: 50
 }
 
 // Get files data
@@ -37,5 +39,5 @@ renderHeatmapCalendar(this.container, calendarData)
 
 ```
 
-
+![[TasksBoard]]
 

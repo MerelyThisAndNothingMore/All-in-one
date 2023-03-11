@@ -1,4 +1,6 @@
 ---
+alias: 
+- process
 tags: 
 - computerArchitecture 
 ---

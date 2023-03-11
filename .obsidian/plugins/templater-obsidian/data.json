@@ -15,8 +15,8 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
+      "folder": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture",
+      "template": "Configuration/Templates/ComputerArchitectureTemplate.md"
     }
   ],
   "syntax_highlighting": true,
