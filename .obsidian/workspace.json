@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "82d77114ef6c06e5",
+        "id": "73a420b0565960a4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation/Interview preparation.md",
+            "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Concurrency.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -107,7 +107,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation/Interview preparation.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Concurrency.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation/Interview preparation.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Concurrency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation/Interview preparation.md"
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Concurrency.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation/Interview preparation.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Concurrency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,24 +241,24 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "82d77114ef6c06e5",
+  "active": "73a420b0565960a4",
   "lastOpenFiles": [
-    "Resources/text/Coding-Interview-University checklist.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Science/computer science.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Data Structure.md",
+    "DataBase/Reality/Websites/Coding Interview University.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation/Interview preparation.md",
+    "Home Page.md",
+    "Resources/text/Coding-Interview-University checklist.md",
     "DataBase/Tasks/TasksBoard.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Stack.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Heap.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Trees.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Data Structure.md",
-    "DataBase/Reality/Websites/Coding Interview University.md",
     "Configuration/Templates/DataStructureTemplate.md",
     "Configuration/Templates/BaseTemplate.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithm.md",
     "Resources/text",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Science/computer science.md",
     "DataBase/Reality/Websites/Teach Yourself Computer Science.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Computer System.md",
-    "Home Page.md",
     "Outputs/BooksTranslation/奇想之年/第一章.md",
     "Outputs/BooksTranslation/奇想之年/奇想之年.md",
     "DataBase/Literature/Text/Books/The Year of Magical Thinking.md",
