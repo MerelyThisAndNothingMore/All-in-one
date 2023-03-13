@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0b6590bb5ec41fd8",
+        "id": "2cc69e8e06bc318d",
         "type": "tabs",
         "children": [
           {
-            "id": "0fedef2bc0ac3cc6",
+            "id": "cd805c2f410b90b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View可见性检测.md",
-                "mode": "preview",
+                "file": "Home Page.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View可见性检测.md",
+                "file": "Home Page.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View可见性检测.md",
+                "file": "Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View可见性检测.md"
+                "file": "Home Page.md"
               }
             }
           },
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View可见性检测.md",
+                "file": "Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,7 +248,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0fedef2bc0ac3cc6",
+  "active": "cd805c2f410b90b2",
   "lastOpenFiles": [
     "DataBase/Investment/Sectors/上证指数.md",
     "DataBase/Investment/Sectors/计算机设备.md",
