@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DataBase/Investment/StockEvaluation/市盈率.md",
+            "file": "DataBase/Investment/Stock/海康威视(Stock).md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -107,7 +107,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Investment/StockEvaluation/市盈率.md",
+                "file": "DataBase/Investment/Stock/海康威视(Stock).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Investment/StockEvaluation/市盈率.md",
+                "file": "DataBase/Investment/Stock/海康威视(Stock).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Investment/StockEvaluation/市盈率.md"
+                "file": "DataBase/Investment/Stock/海康威视(Stock).md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Investment/StockEvaluation/市盈率.md",
+                "file": "DataBase/Investment/Stock/海康威视(Stock).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,6 +243,8 @@
   },
   "active": "290421c3137ee58e",
   "lastOpenFiles": [
+    "Configuration/Templates/A股模板.md",
+    "DataBase/Investment/Stock/海康威视(Stock).md",
     "DataBase/Investment/StockWorkdesk.md",
     "DataBase/Investment/StockEvaluation/市盈率.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Array.md",
@@ -269,8 +271,6 @@
     "Outputs/BooksTranslation/奇想之年/奇想之年.md",
     "DataBase/Literature/Text/Books/The Year of Magical Thinking.md",
     "Outputs/BooksTranslation/奇想之年/Untitled.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Main Memory.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Java/Fundamentals/Arrays In Java.md",
     "daily notes",
     "Test/daily notes",
     "Test",

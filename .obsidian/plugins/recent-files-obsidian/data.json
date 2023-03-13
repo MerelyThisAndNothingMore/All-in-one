@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "市盈率",
-      "path": "DataBase/Investment/StockEvaluation/市盈率.md"
+      "basename": "海康威视(Stock)",
+      "path": "DataBase/Investment/Stock/海康威视(Stock).md"
+    },
+    {
+      "basename": "A股模板",
+      "path": "Configuration/Templates/A股模板.md"
     },
     {
       "basename": "StockWorkdesk",
       "path": "DataBase/Investment/StockWorkdesk.md"
+    },
+    {
+      "basename": "市盈率",
+      "path": "DataBase/Investment/StockEvaluation/市盈率.md"
     },
     {
       "basename": "Array",
@@ -107,10 +115,6 @@
     {
       "basename": "AuthorsTemplate",
       "path": "Configuration/Templates/AuthorsTemplate.md"
-    },
-    {
-      "basename": "A股模板",
-      "path": "Configuration/Templates/A股模板.md"
     },
     {
       "basename": "ComputerArchitectureTemplate",
