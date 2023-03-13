@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Investment/Sectors/上证指数.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View可见性检测.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#stockInFocus",
+                "query": "visib",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +67,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "2f7e2e24ad04b6ba",
@@ -113,7 +114,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Investment/Sectors/上证指数.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View可见性检测.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Investment/Sectors/上证指数.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View可见性检测.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Investment/Sectors/上证指数.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View可见性检测.md"
               }
             }
           },
@@ -199,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Investment/Sectors/上证指数.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View可见性检测.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,9 +250,9 @@
   },
   "active": "0fedef2bc0ac3cc6",
   "lastOpenFiles": [
+    "DataBase/Investment/Sectors/上证指数.md",
     "DataBase/Investment/Sectors/计算机设备.md",
     "DataBase/Investment/Sectors/医疗服务.md",
-    "DataBase/Investment/Sectors/上证指数.md",
     "DataBase/Investment/StockWorkdesk.md",
     "DataBase/Investment/Stocks/海康威视(Stock).md",
     "DataBase/Investment/Stocks/江海股份(Stock).md",
