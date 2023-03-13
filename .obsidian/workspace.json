@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "73a420b0565960a4",
+        "id": "290421c3137ee58e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Concurrency.md",
+            "file": "DataBase/Investment/StockEvaluation/市盈率.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -107,7 +107,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Concurrency.md",
+                "file": "DataBase/Investment/StockEvaluation/市盈率.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Concurrency.md",
+                "file": "DataBase/Investment/StockEvaluation/市盈率.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Concurrency.md"
+                "file": "DataBase/Investment/StockEvaluation/市盈率.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Concurrency.md",
+                "file": "DataBase/Investment/StockEvaluation/市盈率.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,8 +241,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "73a420b0565960a4",
+  "active": "290421c3137ee58e",
   "lastOpenFiles": [
+    "DataBase/Investment/StockWorkdesk.md",
+    "DataBase/Investment/StockEvaluation/市盈率.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Array.md",
+    "DataBase/Investment/StockEvaluation",
+    "DataBase/Investment/Untitled.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Concurrency.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Science/computer science.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Data Structure.md",
     "DataBase/Reality/Websites/Coding Interview University.md",
@@ -265,11 +271,6 @@
     "Outputs/BooksTranslation/奇想之年/Untitled.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Main Memory.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Java/Fundamentals/Arrays In Java.md",
-    "Configuration/Templates/KnowledgeCards.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android Development.md",
-    "Configuration/Templates/BookTemplate.md",
-    "Configuration/Templates/AuthorsTemplate.md",
-    "Configuration/Templates/A股模板.md",
     "daily notes",
     "Test/daily notes",
     "Test",
@@ -278,7 +279,6 @@
     "DataBase/Literature/Text",
     "DataBase/Literature/Text/Books/毛泽东选集",
     "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation",
-    "DataBase/Knowledge/Computer/BaseLayer/Distributed Systems",
     "Resources/Images/The Compilation system.png",
     "Resources/Images/State_Design_Pattern_UML_Class_Diagram.svg",
     "Resources/Images/Isaac Newton.png",
