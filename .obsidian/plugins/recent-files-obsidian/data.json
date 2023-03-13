@@ -1,20 +1,72 @@
 {
   "recentFiles": [
     {
-      "basename": "海康威视(Stock)",
-      "path": "DataBase/Investment/Stock/海康威视(Stock).md"
+      "basename": "上证指数",
+      "path": "DataBase/Investment/Sectors/上证指数.md"
     },
     {
-      "basename": "A股模板",
-      "path": "Configuration/Templates/A股模板.md"
+      "basename": "计算机设备",
+      "path": "DataBase/Investment/Sectors/计算机设备.md"
+    },
+    {
+      "basename": "医疗服务",
+      "path": "DataBase/Investment/Sectors/医疗服务.md"
     },
     {
       "basename": "StockWorkdesk",
       "path": "DataBase/Investment/StockWorkdesk.md"
     },
     {
+      "basename": "海康威视(Stock)",
+      "path": "DataBase/Investment/Stocks/海康威视(Stock).md"
+    },
+    {
+      "basename": "江海股份(Stock)",
+      "path": "DataBase/Investment/Stocks/江海股份(Stock).md"
+    },
+    {
+      "basename": "浪潮信息(Stock)",
+      "path": "DataBase/Investment/Stocks/浪潮信息(Stock).md"
+    },
+    {
+      "basename": "格力电器(Stock)",
+      "path": "DataBase/Investment/Stocks/格力电器(Stock).md"
+    },
+    {
+      "basename": "中国联通(Stock)",
+      "path": "DataBase/Investment/Stocks/中国联通(Stock).md"
+    },
+    {
+      "basename": "药明康德(Stock)",
+      "path": "DataBase/Investment/Stocks/药明康德(Stock).md"
+    },
+    {
+      "basename": "凯莱英(Stock)",
+      "path": "DataBase/Investment/Stocks/凯莱英(Stock).md"
+    },
+    {
+      "basename": "中兴通讯(Stock)",
+      "path": "DataBase/Investment/Stocks/中兴通讯(Stock).md"
+    },
+    {
+      "basename": "StockTemplate",
+      "path": "Configuration/Templates/StockTemplate.md"
+    },
+    {
+      "basename": "StockSectorTemplate",
+      "path": "Configuration/Templates/StockSectorTemplate.md"
+    },
+    {
+      "basename": "BaseTemplate",
+      "path": "Configuration/Templates/BaseTemplate.md"
+    },
+    {
+      "basename": "AuthorsTemplate",
+      "path": "Configuration/Templates/AuthorsTemplate.md"
+    },
+    {
       "basename": "市盈率",
-      "path": "DataBase/Investment/StockEvaluation/市盈率.md"
+      "path": "DataBase/Investment/StockEvaluationKnowledge/市盈率.md"
     },
     {
       "basename": "Array",
@@ -65,10 +117,6 @@
       "path": "Configuration/Templates/DataStructureTemplate.md"
     },
     {
-      "basename": "BaseTemplate",
-      "path": "Configuration/Templates/BaseTemplate.md"
-    },
-    {
       "basename": "Algorithm",
       "path": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithm.md"
     },
@@ -111,10 +159,6 @@
     {
       "basename": "BookTemplate",
       "path": "Configuration/Templates/BookTemplate.md"
-    },
-    {
-      "basename": "AuthorsTemplate",
-      "path": "Configuration/Templates/AuthorsTemplate.md"
     },
     {
       "basename": "ComputerArchitectureTemplate",

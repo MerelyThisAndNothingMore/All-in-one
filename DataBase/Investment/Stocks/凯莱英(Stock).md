@@ -1,0 +1,11 @@
+---
+PE: 16.17
+MarketValue: 500
+Sectors: ["[[医疗服务]]"]
+medianPE: 54.6
+estimatedEearningsGrowth: -0.4
+tags:
+- stock
+- stockInFocus 
+---
+

@@ -1,11 +1,20 @@
-# 大盘
-大盘连跌一周
-
-# 关注股票
+---
+SCIPE: 13.09
+SCIMedianPE: 13.52
+---
+CalibrationFactor:: `= round(this.SCIPE / this.SCIMedianPE, 3)`
+# Stocks
 ```dataview
-TABLE Evaluation, Turnover, PE, MarketValue, Sectors
+TABLE 
+	Sectors, 
+	PE, 
+	(round(medianPE * (estimatedEearningsGrowth + 1), 2)) AS EstimatedPE,
+	MarketValue,
+	medianPE AS MedianPE,
+	estimatedEearningsGrowth AS EstimatedEearningsGrowth
 FROM #stockInFocus  
-WHERE Evaluation
+Where MarketValue
 SORT MarketValue DESC
 ```
+# Sectors
 

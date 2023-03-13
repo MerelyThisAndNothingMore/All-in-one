@@ -21,6 +21,14 @@
     {
       "folder": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure",
       "template": "Configuration/Templates/DataStructureTemplate.md"
+    },
+    {
+      "folder": "DataBase/Investment/Stocks",
+      "template": "Configuration/Templates/StockTemplate.md"
+    },
+    {
+      "folder": "DataBase/Investment/Sectors",
+      "template": "Configuration/Templates/StockSectorTemplate.md"
     }
   ],
   "syntax_highlighting": true,

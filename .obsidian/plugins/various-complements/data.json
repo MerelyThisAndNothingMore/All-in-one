@@ -3335,6 +3335,78 @@
           "lastUpdated": 1678511960460
         }
       }
+    },
+    "stockInFocus": {
+      "stockInFocus": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1678703626510
+        }
+      }
+    },
+    "this": {
+      "this": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678704546653
+        }
+      }
+    },
+    "medianPE": {
+      "medianPE": {
+        "currentFile": {
+          "count": 4,
+          "lastUpdated": 1678705579404
+        }
+      }
+    },
+    "estimatedEearningsGrowth": {
+      "estimatedEearningsGrowth": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1678705592530
+        }
+      }
+    },
+    "meian": {
+      "meian": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678704708075
+        }
+      }
+    },
+    "Where": {
+      "Where": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1678706661933
+        }
+      }
+    },
+    "MedianPE": {
+      "MedianPE": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678705542654
+        }
+      }
+    },
+    "Stocks": {
+      "Stocks": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678705794878
+        }
+      }
+    },
+    "SCIPE": {
+      "SCIPE": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678707594107
+        }
+      }
     }
   }
 }

@@ -1,0 +1,12 @@
+---
+PE: 22.66
+MarketValue: 498
+Sectors: ["[[计算机设备]]"]
+medianPE: 52.8
+estimatedEearningsGrowth: 0.2
+tags:
+- stock
+- stockInFocus 
+---
+
+

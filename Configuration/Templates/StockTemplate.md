@@ -5,5 +5,8 @@ Sectors: [""]
 medianPE: 0
 estimatedEearningsGrowth: 0
 tags:
-- sector 
+- stock
+- stockInFocus 
 ---
+
+
