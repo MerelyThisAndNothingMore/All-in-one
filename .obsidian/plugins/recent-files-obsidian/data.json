@@ -1,68 +1,104 @@
 {
   "recentFiles": [
     {
+      "basename": "StockWorkdesk",
+      "path": "DataBase/Investment/StockWorkdesk.md"
+    },
+    {
       "basename": "Home Page",
       "path": "Home Page.md"
     },
     {
-      "basename": "View可见性检测",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View可见性检测.md"
-    },
-    {
-      "basename": "上证指数",
-      "path": "DataBase/Investment/Sectors/上证指数.md"
-    },
-    {
-      "basename": "计算机设备",
-      "path": "DataBase/Investment/Sectors/计算机设备.md"
+      "basename": "中天科技",
+      "path": "DataBase/Investment/Stocks/中天科技.md"
     },
     {
       "basename": "医疗服务",
       "path": "DataBase/Investment/Sectors/医疗服务.md"
     },
     {
-      "basename": "StockWorkdesk",
-      "path": "DataBase/Investment/StockWorkdesk.md"
+      "basename": "中兴通讯",
+      "path": "DataBase/Investment/Stocks/中兴通讯.md"
     },
     {
-      "basename": "海康威视(Stock)",
-      "path": "DataBase/Investment/Stocks/海康威视(Stock).md"
+      "basename": "中国移动",
+      "path": "DataBase/Investment/Stocks/中国移动.md"
     },
     {
-      "basename": "江海股份(Stock)",
-      "path": "DataBase/Investment/Stocks/江海股份(Stock).md"
+      "basename": "中国联通",
+      "path": "DataBase/Investment/Stocks/中国联通.md"
     },
     {
-      "basename": "浪潮信息(Stock)",
-      "path": "DataBase/Investment/Stocks/浪潮信息(Stock).md"
+      "basename": "药明康德",
+      "path": "DataBase/Investment/Stocks/药明康德.md"
     },
     {
-      "basename": "格力电器(Stock)",
-      "path": "DataBase/Investment/Stocks/格力电器(Stock).md"
+      "basename": "浪潮信息",
+      "path": "DataBase/Investment/Stocks/浪潮信息.md"
     },
     {
-      "basename": "中国联通(Stock)",
-      "path": "DataBase/Investment/Stocks/中国联通(Stock).md"
+      "basename": "凯莱英",
+      "path": "DataBase/Investment/Stocks/凯莱英.md"
     },
     {
-      "basename": "药明康德(Stock)",
-      "path": "DataBase/Investment/Stocks/药明康德(Stock).md"
+      "basename": "江海股份",
+      "path": "DataBase/Investment/Stocks/江海股份.md"
     },
     {
-      "basename": "凯莱英(Stock)",
-      "path": "DataBase/Investment/Stocks/凯莱英(Stock).md"
+      "basename": "海康威视",
+      "path": "DataBase/Investment/Stocks/海康威视.md"
     },
     {
-      "basename": "中兴通讯(Stock)",
-      "path": "DataBase/Investment/Stocks/中兴通讯(Stock).md"
+      "basename": "格力电器",
+      "path": "DataBase/Investment/Stocks/格力电器.md"
     },
     {
-      "basename": "StockTemplate",
-      "path": "Configuration/Templates/StockTemplate.md"
+      "basename": "特变电工",
+      "path": "DataBase/Investment/Stocks/特变电工.md"
+    },
+    {
+      "basename": "电力设备",
+      "path": "DataBase/Investment/Sectors/电力设备.md"
+    },
+    {
+      "basename": "通信服务",
+      "path": "DataBase/Investment/Sectors/通信服务.md"
+    },
+    {
+      "basename": "通信设备",
+      "path": "DataBase/Investment/Sectors/通信设备.md"
+    },
+    {
+      "basename": "白色家电",
+      "path": "DataBase/Investment/Sectors/白色家电.md"
+    },
+    {
+      "basename": "计算机设备",
+      "path": "DataBase/Investment/Sectors/计算机设备.md"
+    },
+    {
+      "basename": "半导体及元件",
+      "path": "DataBase/Investment/Sectors/半导体及元件.md"
+    },
+    {
+      "basename": "上证指数",
+      "path": "DataBase/Investment/Sectors/上证指数.md"
     },
     {
       "basename": "StockSectorTemplate",
       "path": "Configuration/Templates/StockSectorTemplate.md"
+    },
+    {
+      "basename": "TasksBoard",
+      "path": "DataBase/Tasks/TasksBoard.md"
+    },
+    {
+      "basename": "View可见性检测",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View可见性检测.md"
+    },
+    {
+      "basename": "StockTemplate",
+      "path": "Configuration/Templates/StockTemplate.md"
     },
     {
       "basename": "BaseTemplate",
@@ -99,10 +135,6 @@
     {
       "basename": "Interview preparation",
       "path": "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation/Interview preparation.md"
-    },
-    {
-      "basename": "TasksBoard",
-      "path": "DataBase/Tasks/TasksBoard.md"
     },
     {
       "basename": "Stack",
@@ -167,38 +199,6 @@
     {
       "basename": "ComputerArchitectureTemplate",
       "path": "Configuration/Templates/ComputerArchitectureTemplate.md"
-    },
-    {
-      "basename": "Processes",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Processes.md"
-    },
-    {
-      "basename": "Buses",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Buses.md"
-    },
-    {
-      "basename": "Computing",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Computing.md"
-    },
-    {
-      "basename": "CPU",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/CPU.md"
-    },
-    {
-      "basename": "Files",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Files.md"
-    },
-    {
-      "basename": "executable",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/executable.md"
-    },
-    {
-      "basename": "Amdahl's law",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Amdahl's law.md"
-    },
-    {
-      "basename": "LaTeX-Mathematics",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Utils/LaTeX-Mathematics.md"
     }
   ],
   "omittedPaths": [],

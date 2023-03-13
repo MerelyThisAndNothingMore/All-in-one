@@ -1,20 +1,29 @@
----
-SCIPE: 13.09
-SCIMedianPE: 13.52
----
-CalibrationFactor:: `= round(this.SCIPE / this.SCIMedianPE, 3)`
 # Stocks
 ```dataview
 TABLE 
 	Sectors, 
 	PE, 
 	(round(medianPE * (estimatedEearningsGrowth + 1), 2)) AS EstimatedPE,
+	(round((((round(medianPE * (estimatedEearningsGrowth + 1), 2)) - PE) / PE) * 100, 2)) AS PEDiff,
 	MarketValue,
 	medianPE AS MedianPE,
 	estimatedEearningsGrowth AS EstimatedEearningsGrowth
-FROM #stockInFocus  
+FROM #stock   
 Where MarketValue
 SORT MarketValue DESC
 ```
 # Sectors
+
+```dataview
+TABLE 
+	PE, 
+	(round(medianPE * (estimatedEearningsGrowth + 1), 2)) AS EstimatedPE,
+	(round((((round(medianPE * (estimatedEearningsGrowth + 1), 2)) - PE) / PE) * 100, 2)) AS PEDiff,
+	MarketValue,
+	medianPE AS MedianPE,
+	estimatedEearningsGrowth AS EstimatedEearningsGrowth
+FROM #stockSector   
+Where MarketValue
+SORT MarketValue DESC
+```
 
