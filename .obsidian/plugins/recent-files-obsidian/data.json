@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home Page",
+      "path": "Home Page.md"
+    },
+    {
       "basename": "StockWorkdesk",
       "path": "DataBase/Investment/StockWorkdesk.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "Interview preparation",
       "path": "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation/Interview preparation.md"
-    },
-    {
-      "basename": "Home Page",
-      "path": "Home Page.md"
     },
     {
       "basename": "TasksBoard",
