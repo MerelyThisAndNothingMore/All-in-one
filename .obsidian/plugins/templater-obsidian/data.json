@@ -29,6 +29,10 @@
     {
       "folder": "DataBase/Investment/Sectors",
       "template": "Configuration/Templates/StockSectorTemplate.md"
+    },
+    {
+      "folder": "DataBase/Literature/Text/Books",
+      "template": "Configuration/Templates/bookTemplate.md"
     }
   ],
   "syntax_highlighting": true,

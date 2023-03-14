@@ -22,7 +22,7 @@ const calendarData = {
         ]
     },
     entries: [],
-    showCurrentDayBorder: false,
+    showCurrentDayBorder: true,
     intensityScaleEnd: 50
 }
 
