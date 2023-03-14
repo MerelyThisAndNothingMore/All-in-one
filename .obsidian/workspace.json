@@ -4,16 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "2cc69e8e06bc318d",
+        "id": "0b6590bb5ec41fd8",
         "type": "tabs",
         "children": [
           {
-            "id": "cd805c2f410b90b2",
+            "id": "0fedef2bc0ac3cc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Investment/Sectors/计算机设备.md",
+                "file": "DataBase/Investment/Sectors/通信服务.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "038b1f22c9176bf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Investment/Sectors/上证指数.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,46 +34,7 @@
             }
           },
           {
-            "id": "c930cf41fb679929",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Investment/Sectors/白色家电.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c93f1a1836badeb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Investment/Sectors/计算机设备.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e72b1f8adb8be8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Investment/Sectors/白色家电.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef4fbf7be7f5a018",
+            "id": "6355413194849b09",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -73,12 +47,12 @@
             }
           },
           {
-            "id": "db2002b31d0beef8",
+            "id": "e376278e053c02a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Investment/Stocks/江海股份.md",
+                "file": "DataBase/Investment/Stocks/特变电工.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,46 +60,7 @@
             }
           },
           {
-            "id": "d7988f80f5eae654",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Investment/Stocks/浪潮信息.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d5ed2f42d9f756d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Investment/Sectors/通信服务.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce11724b449339aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Investment/StockWorkdesk.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a5f935c830d8c5e",
+            "id": "41089a51ff9b59ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -138,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -168,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "visib",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -365,35 +300,35 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7a5f935c830d8c5e",
+  "active": "41089a51ff9b59ea",
   "lastOpenFiles": [
-    "Home Page.md",
-    "DataBase/Investment/StockWorkdesk.md",
-    "DataBase/Investment/Stocks/中天科技.md",
-    "DataBase/Investment/Sectors/医疗服务.md",
-    "DataBase/Investment/Stocks/中兴通讯.md",
-    "DataBase/Investment/Stocks/中国移动.md",
-    "DataBase/Investment/Stocks/中国联通.md",
-    "DataBase/Investment/Stocks/药明康德.md",
-    "DataBase/Investment/Stocks/浪潮信息.md",
-    "DataBase/Investment/Stocks/凯莱英.md",
-    "DataBase/Investment/Stocks/江海股份.md",
-    "DataBase/Investment/Stocks/海康威视.md",
-    "DataBase/Investment/Stocks/格力电器.md",
+    "DataBase/Investment/Stocks/韦尔股份.md",
     "DataBase/Investment/Stocks/特变电工.md",
-    "DataBase/Investment/Sectors/电力设备.md",
+    "DataBase/Investment/Stocks/中金黄金.md",
+    "DataBase/Investment/Stocks/凯莱英.md",
+    "DataBase/Investment/StockWorkdesk.md",
+    "DataBase/Investment/Stocks/银泰黄金.md",
+    "DataBase/Investment/Sectors/贵金属.md",
+    "DataBase/Investment/Sectors/上证指数.md",
+    "DataBase/Investment/Stocks/药明康德.md",
     "DataBase/Investment/Sectors/通信服务.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View可见性检测.md",
+    "DataBase/Investment/Stocks/海康威视.md",
+    "DataBase/Investment/Stocks/浪潮信息.md",
+    "DataBase/Investment/Stocks/江海股份.md",
+    "DataBase/Investment/Stocks/格力电器.md",
+    "DataBase/Investment/Stocks/中天科技.md",
+    "DataBase/Investment/Stocks/中国联通.md",
+    "DataBase/Investment/Stocks/中国移动.md",
+    "DataBase/Investment/Stocks/中兴通讯.md",
     "DataBase/Investment/Sectors/通信设备.md",
     "DataBase/Investment/Sectors/白色家电.md",
-    "DataBase/Investment/Sectors/计算机设备.md",
+    "DataBase/Investment/Sectors/电力设备.md",
     "DataBase/Investment/Sectors/半导体及元件.md",
-    "DataBase/Investment/Sectors/上证指数.md",
-    "Configuration/Templates/StockSectorTemplate.md",
-    "DataBase/Tasks/TasksBoard.md",
-    "Configuration/Templates/StockTemplate.md",
+    "DataBase/Investment/Sectors/计算机设备.md",
+    "DataBase/Investment/Sectors/医疗服务.md",
+    "DataBase/Investment/Stocks/海康威视(Stock).md",
     "DataBase/Investment/Sectors",
-    "Configuration/Templates/BaseTemplate.md",
-    "Configuration/Templates/AuthorsTemplate.md",
     "DataBase/Investment/StockEvaluationKnowledge",
     "Resources/text",
     "daily notes",
