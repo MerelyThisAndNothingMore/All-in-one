@@ -1,4 +1,12 @@
-#physics
+---
+classification: 
+authors: ["[[Isaac Newton]]",]
+tags:
+- books 
+- physic 
+alias:
+- 自然哲学的数学原理
+---
 # Introduction
 *The Mathematical Principles of Natural Philosophy* often referred to as simply the Principia, is a book by [[Isaac Newton]] that expounds [[Newton's laws of motion]] and his [[Law of universal gravitation]]. The *Principia* is written in [[Latin]] and comprises three volumes, and was first published on 5 July 1687.
 The *Principia* forms the foundation of [[classical mechanics]]. Among other achievements, it explains [[Johannes Kepler]]'s [[laws of planetary motion]], which Kepler had first obtained empirically.
