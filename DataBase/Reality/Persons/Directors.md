@@ -1,11 +1,11 @@
-# 演艺明星
+
 ```dataview
 TABLE 
-	birth
-FROM #Entertainers   
+	birth,
+	masterpieces
+FROM #directors    
 WHERE birth
 SORT birth ASC
 ```
-
 
 

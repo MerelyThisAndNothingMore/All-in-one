@@ -1,8 +1,8 @@
 
 ```dataview
-TABLE creation_date, directors, actors
-FROM #Films 
-SORT creation_date ASC
+TABLE release_date, directors, actors
+FROM #films  
+SORT release_date ASC
 ```
 
 

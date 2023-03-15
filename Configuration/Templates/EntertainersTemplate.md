@@ -4,4 +4,5 @@ death:
 tags: 
 - Entertainers
 - celebrities
+masterpieces:
 ---

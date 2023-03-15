@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "Authors",
-      "path": "DataBase/Reality/Persons/Authors.md"
+      "basename": "杜海滨",
+      "path": "DataBase/Reality/Persons/Entertainers/杜海滨.md"
     },
     {
-      "basename": "太宰治",
-      "path": "DataBase/Reality/Persons/Authors/太宰治.md"
+      "basename": "WorkDesk",
+      "path": "DataBase/Tasks/WorkDesk.md"
     },
     {
-      "basename": "鲁迅",
-      "path": "DataBase/Reality/Persons/Authors/鲁迅.md"
+      "basename": "范冰冰",
+      "path": "DataBase/Reality/Persons/Entertainers/范冰冰.md"
     },
     {
-      "basename": "People Desk",
-      "path": "DataBase/Reality/Persons/People Desk.md"
+      "basename": "Saying0001",
+      "path": "DataBase/Literature/Text/Sayings/Saying0001.md"
     },
     {
-      "basename": "人间失格",
-      "path": "DataBase/Literature/Text/Books/人间失格.md"
-    },
-    {
-      "basename": "bookTemplate",
-      "path": "Configuration/Templates/bookTemplate.md"
-    },
-    {
-      "basename": "BaseTemplate",
-      "path": "Configuration/Templates/BaseTemplate.md"
-    },
-    {
-      "basename": "毛泽东选集",
-      "path": "DataBase/Literature/Text/Books/毛泽东选集/毛泽东选集.md"
-    },
-    {
-      "basename": "毛泽东语录",
-      "path": "DataBase/Literature/Text/Books/毛泽东语录.md"
-    },
-    {
-      "basename": "THE PRINCIPIA",
-      "path": "DataBase/Literature/Text/Books/THE PRINCIPIA.md"
-    },
-    {
-      "basename": "The Year of Magical Thinking",
-      "path": "DataBase/Literature/Text/Books/The Year of Magical Thinking.md"
-    },
-    {
-      "basename": "查拉图斯特拉如是说",
-      "path": "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md"
-    },
-    {
-      "basename": "Data Structures and Algorithms In Java",
-      "path": "DataBase/Literature/Text/Books/Data Structures and Algorithms In Java.md"
-    },
-    {
-      "basename": "AuthorsTemplate",
-      "path": "Configuration/Templates/AuthorsTemplate.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "DataBase/Reality/Persons/Data/Untitled.md"
-    },
-    {
-      "basename": "Randal Bryant",
-      "path": "DataBase/Reality/Persons/Data/Randal Bryant.md"
-    },
-    {
-      "basename": "Computer Systems-A Programmer's Perspective",
-      "path": "DataBase/Literature/Text/Books/Computer Systems-A Programmer's Perspective.md"
-    },
-    {
-      "basename": "LongTermPlan",
-      "path": "DataBase/Tasks/LongTermPlan.md"
-    },
-    {
-      "basename": "TasksBoard",
-      "path": "DataBase/Tasks/TasksBoard.md"
-    },
-    {
-      "basename": "夏目簌石",
-      "path": "DataBase/Reality/Persons/Data/夏目簌石.md"
-    },
-    {
-      "basename": "吴倩莲",
-      "path": "DataBase/Reality/Persons/Data/吴倩莲.md"
-    },
-    {
-      "basename": "林青霞",
-      "path": "DataBase/Reality/Persons/Data/林青霞.md"
-    },
-    {
-      "basename": "尼采",
-      "path": "DataBase/Reality/Persons/Data/尼采.md"
-    },
-    {
-      "basename": "梅艳芳",
-      "path": "DataBase/Reality/Persons/Data/梅艳芳.md"
-    },
-    {
-      "basename": "陆游",
-      "path": "DataBase/Reality/Persons/Data/陆游.md"
-    },
-    {
-      "basename": "李连杰",
-      "path": "DataBase/Reality/Persons/Data/李连杰.md"
-    },
-    {
-      "basename": "成龙",
-      "path": "DataBase/Reality/Persons/Data/成龙.md"
-    },
-    {
-      "basename": "李小龙",
-      "path": "DataBase/Reality/Persons/Data/李小龙.md"
-    },
-    {
-      "basename": "身体状态管理",
-      "path": "DataBase/Tasks/data/身体状态管理.md"
-    },
-    {
-      "basename": "历史学习",
-      "path": "DataBase/Tasks/data/历史学习.md"
-    },
-    {
-      "basename": "Buses",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Buses.md"
-    },
-    {
-      "basename": "Object-oriented",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Object-oriented.md"
-    },
-    {
-      "basename": "知识成长",
-      "path": "DataBase/Tasks/data/知识成长.md"
-    },
-    {
-      "basename": "政治理论学习",
-      "path": "DataBase/Tasks/data/政治理论学习.md"
-    },
-    {
-      "basename": "StockWorkdesk",
-      "path": "DataBase/Investment/StockWorkdesk.md"
-    },
-    {
-      "basename": "Home Page",
-      "path": "Home Page.md"
-    },
-    {
-      "basename": "Utopia(book)",
-      "path": "DataBase/Literature/Text/Books/Utopia(book).md"
-    },
-    {
-      "basename": "Design Patterns Wiki Book",
-      "path": "DataBase/Literature/Text/Books/Design Patterns Wiki Book.md"
-    },
-    {
-      "basename": "Operating Systems-Three Easy Pieces",
-      "path": "DataBase/Literature/Text/Books/Operating Systems-Three Easy Pieces.md"
+      "basename": "王晶",
+      "path": "DataBase/Reality/Persons/Entertainers/王晶.md"
     },
     {
       "basename": "Books",
       "path": "DataBase/Literature/Text/Books.md"
     },
     {
-      "basename": "Thomas More",
-      "path": "DataBase/Reality/Persons/Data/Thomas More.md"
+      "basename": "饮食男女",
+      "path": "DataBase/Literature/Films/饮食男女.md"
     },
     {
-      "basename": "Werner Herzog",
-      "path": "DataBase/Reality/Persons/Data/Werner Herzog.md"
+      "basename": "铁路沿线",
+      "path": "DataBase/Literature/Films/铁路沿线.md"
     },
     {
-      "basename": "清野菜名",
-      "path": "DataBase/Reality/Persons/Data/清野菜名.md"
+      "basename": "恋如雨止",
+      "path": "DataBase/Literature/Films/恋如雨止.md"
     },
     {
-      "basename": "桥本环奈",
-      "path": "DataBase/Reality/Persons/Data/桥本环奈.md"
+      "basename": "Authors",
+      "path": "DataBase/Reality/Persons/Authors.md"
     },
     {
-      "basename": "徐童",
-      "path": "DataBase/Reality/Persons/Data/徐童.md"
+      "basename": "川端康成",
+      "path": "DataBase/Reality/Persons/Authors/川端康成.md"
     },
     {
-      "basename": "中国社会各阶级的分析",
-      "path": "DataBase/Literature/Text/Books/毛泽东选集/中国社会各阶级的分析.md"
+      "basename": "老舍",
+      "path": "DataBase/Reality/Persons/Authors/老舍.md"
     },
     {
-      "basename": "对联",
-      "path": "DataBase/Literature/Text/对联.md"
+      "basename": "Home Page",
+      "path": "Home Page.md"
     },
     {
-      "basename": "entertainment star template",
-      "path": "Configuration/Templates/entertainment star template.md"
+      "basename": "TasksBoard",
+      "path": "DataBase/Tasks/TasksBoard.md"
     },
     {
-      "basename": "杜海滨",
-      "path": "DataBase/Reality/Persons/Data/杜海滨.md"
+      "basename": "Directors",
+      "path": "DataBase/Reality/Persons/Directors.md"
     },
     {
-      "basename": "韦尔股份",
-      "path": "DataBase/Investment/Stocks/韦尔股份.md"
+      "basename": "李安",
+      "path": "DataBase/Reality/Persons/Entertainers/李安.md"
+    },
+    {
+      "basename": "Stanley Kubrick",
+      "path": "DataBase/Reality/Persons/Entertainers/Stanley Kubrick.md"
+    },
+    {
+      "basename": "People Desk",
+      "path": "DataBase/Reality/Persons/People Desk.md"
+    },
+    {
+      "basename": "Films and Television",
+      "path": "DataBase/Literature/Films and Television.md"
+    },
+    {
+      "basename": "梅艳芳",
+      "path": "DataBase/Reality/Persons/Entertainers/梅艳芳.md"
+    },
+    {
+      "basename": "不能说的秘密",
+      "path": "DataBase/Literature/Films/不能说的秘密.md"
+    },
+    {
+      "basename": "周杰伦",
+      "path": "DataBase/Reality/Persons/Entertainers/周杰伦.md"
+    },
+    {
+      "basename": "A Clockwork Orange(film)",
+      "path": "DataBase/Literature/Films/A Clockwork Orange(film).md"
+    },
+    {
+      "basename": "The Fire Within-A Requiem for Katia and Maurice Krafft",
+      "path": "DataBase/Literature/Films/The Fire Within-A Requiem for Katia and Maurice Krafft.md"
+    },
+    {
+      "basename": "2001-A Space Odyssey(film)",
+      "path": "DataBase/Literature/Films/2001-A Space Odyssey(film).md"
+    },
+    {
+      "basename": "身体状态管理",
+      "path": "DataBase/Tasks/data/身体状态管理.md"
+    },
+    {
+      "basename": "Hardware Organization",
+      "path": "Resources/Images/Hardware Organization.png"
+    },
+    {
+      "basename": "State_Design_Pattern_UML_Class_Diagram",
+      "path": "Resources/Images/State_Design_Pattern_UML_Class_Diagram.svg"
+    },
+    {
+      "basename": "The Compilation system",
+      "path": "Resources/Images/The Compilation system.png"
+    },
+    {
+      "basename": "TVDramaTemplate",
+      "path": "Configuration/Templates/TVDramaTemplate.md"
+    },
+    {
+      "basename": "FilmsTemplate",
+      "path": "Configuration/Templates/FilmsTemplate.md"
+    },
+    {
+      "basename": "ComputerArchitectureTemplate",
+      "path": "Configuration/Templates/ComputerArchitectureTemplate.md"
+    },
+    {
+      "basename": "差馆",
+      "path": "DataBase/Literature/Films/差馆.md"
+    },
+    {
+      "basename": "黄飞鸿",
+      "path": "DataBase/Literature/Films/黄飞鸿.md"
+    },
+    {
+      "basename": "EntertainersTemplate",
+      "path": "Configuration/Templates/EntertainersTemplate.md"
+    },
+    {
+      "basename": "桂纶镁",
+      "path": "DataBase/Reality/Persons/Entertainers/桂纶镁.md"
+    },
+    {
+      "basename": "成龙",
+      "path": "DataBase/Reality/Persons/Entertainers/成龙.md"
+    },
+    {
+      "basename": "小松菜奈",
+      "path": "DataBase/Reality/Persons/Entertainers/小松菜奈.md"
+    },
+    {
+      "basename": "全智贤",
+      "path": "DataBase/Reality/Persons/Entertainers/全智贤.md"
+    },
+    {
+      "basename": "夏目簌石",
+      "path": "DataBase/Reality/Persons/Authors/夏目簌石.md"
+    },
+    {
+      "basename": "尼采",
+      "path": "DataBase/Reality/Persons/Authors/尼采.md"
+    },
+    {
+      "basename": "Randal Bryant",
+      "path": "DataBase/Reality/Persons/Authors/Randal Bryant.md"
+    },
+    {
+      "basename": "Lenin, Vladimir llyich",
+      "path": "DataBase/Reality/Persons/Politician/Lenin, Vladimir llyich.md"
+    },
+    {
+      "basename": "Johannes Kepler",
+      "path": "DataBase/Reality/Persons/Scientists/Johannes Kepler.md"
+    },
+    {
+      "basename": "Isaac Newton",
+      "path": "DataBase/Reality/Persons/Scientists/Isaac Newton.md"
+    },
+    {
+      "basename": "陆游",
+      "path": "DataBase/Reality/Persons/Authors/陆游.md"
+    },
+    {
+      "basename": "陈亮",
+      "path": "DataBase/Reality/Persons/Authors/陈亮.md"
+    },
+    {
+      "basename": "林青霞",
+      "path": "DataBase/Reality/Persons/Entertainers/林青霞.md"
+    },
+    {
+      "basename": "Maurice Krafft",
+      "path": "DataBase/Reality/Persons/Scientists/Maurice Krafft.md"
+    },
+    {
+      "basename": "Katia Krafft",
+      "path": "DataBase/Reality/Persons/Scientists/Katia Krafft.md"
     }
   ],
   "omittedPaths": [],
