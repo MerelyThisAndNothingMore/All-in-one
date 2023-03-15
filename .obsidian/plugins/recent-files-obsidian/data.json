@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Home Page",
+      "path": "Home Page.md"
+    },
+    {
       "basename": "StockWorkdesk",
       "path": "DataBase/Investment/StockWorkdesk.md"
+    },
+    {
+      "basename": "中金黄金",
+      "path": "DataBase/Investment/Stocks/中金黄金.md"
     },
     {
       "basename": "韦尔股份",
@@ -11,10 +19,6 @@
     {
       "basename": "特变电工",
       "path": "DataBase/Investment/Stocks/特变电工.md"
-    },
-    {
-      "basename": "中金黄金",
-      "path": "DataBase/Investment/Stocks/中金黄金.md"
     },
     {
       "basename": "凯莱英",
@@ -95,10 +99,6 @@
     {
       "basename": "Interview preparation",
       "path": "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation/Interview preparation.md"
-    },
-    {
-      "basename": "Home Page",
-      "path": "Home Page.md"
     },
     {
       "basename": "TasksBoard",
