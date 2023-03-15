@@ -1,40 +1,148 @@
 {
   "recentFiles": [
     {
+      "basename": "知识成长",
+      "path": "DataBase/Tasks/data/知识成长.md"
+    },
+    {
+      "basename": "政治理论学习",
+      "path": "DataBase/Tasks/data/政治理论学习.md"
+    },
+    {
+      "basename": "身体状态管理",
+      "path": "DataBase/Tasks/data/身体状态管理.md"
+    },
+    {
       "basename": "StockWorkdesk",
       "path": "DataBase/Investment/StockWorkdesk.md"
-    },
-    {
-      "basename": "隆基绿能",
-      "path": "DataBase/Investment/Stocks/隆基绿能.md"
-    },
-    {
-      "basename": "银泰黄金",
-      "path": "DataBase/Investment/Stocks/银泰黄金.md"
-    },
-    {
-      "basename": "Passwords",
-      "path": "DataBase/Life/Passwords.md"
-    },
-    {
-      "basename": "韦尔股份",
-      "path": "DataBase/Investment/Stocks/韦尔股份.md"
     },
     {
       "basename": "Home Page",
       "path": "Home Page.md"
     },
     {
-      "basename": "中金黄金",
-      "path": "DataBase/Investment/Stocks/中金黄金.md"
+      "basename": "Utopia(book)",
+      "path": "DataBase/Literature/Text/Books/Utopia(book).md"
+    },
+    {
+      "basename": "The Year of Magical Thinking",
+      "path": "DataBase/Literature/Text/Books/The Year of Magical Thinking.md"
+    },
+    {
+      "basename": "THE PRINCIPIA",
+      "path": "DataBase/Literature/Text/Books/THE PRINCIPIA.md"
+    },
+    {
+      "basename": "Data Structures and Algorithms In Java",
+      "path": "DataBase/Literature/Text/Books/Data Structures and Algorithms In Java.md"
+    },
+    {
+      "basename": "Design Patterns Wiki Book",
+      "path": "DataBase/Literature/Text/Books/Design Patterns Wiki Book.md"
+    },
+    {
+      "basename": "Operating Systems-Three Easy Pieces",
+      "path": "DataBase/Literature/Text/Books/Operating Systems-Three Easy Pieces.md"
+    },
+    {
+      "basename": "尼采",
+      "path": "DataBase/Reality/Persons/Data/尼采.md"
+    },
+    {
+      "basename": "Books",
+      "path": "DataBase/Literature/Text/Books.md"
+    },
+    {
+      "basename": "查拉图斯特拉如是说",
+      "path": "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md"
+    },
+    {
+      "basename": "Thomas More",
+      "path": "DataBase/Reality/Persons/Data/Thomas More.md"
+    },
+    {
+      "basename": "Werner Herzog",
+      "path": "DataBase/Reality/Persons/Data/Werner Herzog.md"
+    },
+    {
+      "basename": "Entertainment Stars",
+      "path": "DataBase/Reality/Persons/Entertainment Stars.md"
+    },
+    {
+      "basename": "清野菜名",
+      "path": "DataBase/Reality/Persons/Data/清野菜名.md"
+    },
+    {
+      "basename": "桥本环奈",
+      "path": "DataBase/Reality/Persons/Data/桥本环奈.md"
+    },
+    {
+      "basename": "徐童",
+      "path": "DataBase/Reality/Persons/Data/徐童.md"
+    },
+    {
+      "basename": "Computer Systems-A Programmer's Perspective",
+      "path": "DataBase/Literature/Text/Books/Computer Systems-A Programmer's Perspective.md"
+    },
+    {
+      "basename": "中国社会各阶级的分析",
+      "path": "DataBase/Literature/Text/Books/毛泽东选集/中国社会各阶级的分析.md"
+    },
+    {
+      "basename": "毛泽东选集",
+      "path": "DataBase/Literature/Text/Books/毛泽东选集/毛泽东选集.md"
+    },
+    {
+      "basename": "对联",
+      "path": "DataBase/Literature/Text/对联.md"
+    },
+    {
+      "basename": "AuthorsTemplate",
+      "path": "Configuration/Templates/AuthorsTemplate.md"
+    },
+    {
+      "basename": "BaseTemplate",
+      "path": "Configuration/Templates/BaseTemplate.md"
+    },
+    {
+      "basename": "entertainment star template",
+      "path": "Configuration/Templates/entertainment star template.md"
+    },
+    {
+      "basename": "杜海滨",
+      "path": "DataBase/Reality/Persons/Data/杜海滨.md"
+    },
+    {
+      "basename": "陆游",
+      "path": "DataBase/Reality/Persons/Data/陆游.md"
+    },
+    {
+      "basename": "毛泽东语录",
+      "path": "DataBase/Literature/Text/Books/毛泽东语录.md"
+    },
+    {
+      "basename": "bookTemplate",
+      "path": "Configuration/Templates/bookTemplate.md"
+    },
+    {
+      "basename": "韦尔股份",
+      "path": "DataBase/Investment/Stocks/韦尔股份.md"
     },
     {
       "basename": "特变电工",
       "path": "DataBase/Investment/Stocks/特变电工.md"
     },
     {
+      "basename": "中金黄金",
+      "path": "DataBase/Investment/Stocks/中金黄金.md"
+    },
+    {
       "basename": "凯莱英",
       "path": "DataBase/Investment/Stocks/凯莱英.md"
+    },
+    {
+      "basename": "银泰黄金",
+      "path": "DataBase/Investment/Stocks/银泰黄金.md"
     },
     {
       "basename": "贵金属",
@@ -73,14 +181,6 @@
       "path": "Configuration/Templates/StockSectorTemplate.md"
     },
     {
-      "basename": "BaseTemplate",
-      "path": "Configuration/Templates/BaseTemplate.md"
-    },
-    {
-      "basename": "AuthorsTemplate",
-      "path": "Configuration/Templates/AuthorsTemplate.md"
-    },
-    {
       "basename": "市盈率",
       "path": "DataBase/Investment/StockEvaluationKnowledge/市盈率.md"
     },
@@ -99,106 +199,6 @@
     {
       "basename": "Data Structure",
       "path": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Data Structure.md"
-    },
-    {
-      "basename": "Coding Interview University",
-      "path": "DataBase/Reality/Websites/Coding Interview University.md"
-    },
-    {
-      "basename": "Interview preparation",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation/Interview preparation.md"
-    },
-    {
-      "basename": "TasksBoard",
-      "path": "DataBase/Tasks/TasksBoard.md"
-    },
-    {
-      "basename": "Stack",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Stack.md"
-    },
-    {
-      "basename": "Heap",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Heap.md"
-    },
-    {
-      "basename": "Trees",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Trees.md"
-    },
-    {
-      "basename": "DataStructureTemplate",
-      "path": "Configuration/Templates/DataStructureTemplate.md"
-    },
-    {
-      "basename": "Algorithm",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithm.md"
-    },
-    {
-      "basename": "Teach Yourself Computer Science",
-      "path": "DataBase/Reality/Websites/Teach Yourself Computer Science.md"
-    },
-    {
-      "basename": "Computer System",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Computer System.md"
-    },
-    {
-      "basename": "第一章",
-      "path": "Outputs/BooksTranslation/奇想之年/第一章.md"
-    },
-    {
-      "basename": "奇想之年",
-      "path": "Outputs/BooksTranslation/奇想之年/奇想之年.md"
-    },
-    {
-      "basename": "The Year of Magical Thinking",
-      "path": "DataBase/Literature/Text/Books/The Year of Magical Thinking.md"
-    },
-    {
-      "basename": "Main Memory",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Main Memory.md"
-    },
-    {
-      "basename": "Arrays In Java",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Java/Fundamentals/Arrays In Java.md"
-    },
-    {
-      "basename": "KnowledgeCards",
-      "path": "Configuration/Templates/KnowledgeCards.md"
-    },
-    {
-      "basename": "Android Development",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android Development.md"
-    },
-    {
-      "basename": "BookTemplate",
-      "path": "Configuration/Templates/BookTemplate.md"
-    },
-    {
-      "basename": "ComputerArchitectureTemplate",
-      "path": "Configuration/Templates/ComputerArchitectureTemplate.md"
-    },
-    {
-      "basename": "Processes",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Processes.md"
-    },
-    {
-      "basename": "Buses",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Buses.md"
-    },
-    {
-      "basename": "Computing",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Computing.md"
-    },
-    {
-      "basename": "CPU",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/CPU.md"
-    },
-    {
-      "basename": "Files",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Files.md"
-    },
-    {
-      "basename": "executable",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/executable.md"
     }
   ],
   "omittedPaths": [],
