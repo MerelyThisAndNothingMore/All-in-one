@@ -13,14 +13,106 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Tasks/data/知识成长.md",
+                "file": "DataBase/Reality/Persons/Data/林青霞.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "7b603d55c105e5b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Reality/Persons/Data/吴倩莲.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5174092b3532da4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Reality/Persons/Data/Randal Bryant.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ab25948d2f43de3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Configuration/Templates/AuthorsTemplate.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6164243b735c5b04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Literature/Text/Books/Data Structures and Algorithms In Java.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1971a4d0f72c262",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Reality/Persons/Authors/太宰治.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "098211ae3001c252",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Reality/Persons/People Desk.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0583b53807ad471",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Reality/Persons/Authors.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -50,7 +142,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "visib",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +205,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Tasks/data/知识成长.md",
+                "file": "DataBase/Reality/Persons/Authors.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Tasks/data/知识成长.md",
+                "file": "DataBase/Reality/Persons/Authors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Tasks/data/知识成长.md"
+                "file": "DataBase/Reality/Persons/Authors.md"
               }
             }
           },
@@ -199,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Tasks/data/知识成长.md",
+                "file": "DataBase/Reality/Persons/Authors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,34 +339,35 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "878194d156ebf4d9",
+  "active": "b0583b53807ad471",
   "lastOpenFiles": [
-    "DataBase/Tasks/data/政治理论学习.md",
-    "DataBase/Tasks/data/知识成长.md",
-    "DataBase/Tasks/data/身体状态管理.md",
-    "DataBase/Investment/StockWorkdesk.md",
-    "Home Page.md",
-    "DataBase/Investment/Stocks/隆基绿能.md",
-    "DataBase/Literature/Text/Books/The Year of Magical Thinking.md",
-    "DataBase/Literature/Text/Books/THE PRINCIPIA.md",
-    "DataBase/Literature/Text/Books/Data Structures and Algorithms In Java.md",
-    "DataBase/Literature/Text/Books/Design Patterns Wiki Book.md",
-    "DataBase/Literature/Text/Books/Operating Systems-Three Easy Pieces.md",
-    "DataBase/Literature/Text/Books/Utopia(book).md",
-    "DataBase/Reality/Persons/Data/尼采.md",
-    "DataBase/Literature/Text/Books.md",
-    "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md",
-    "DataBase/Reality/Persons/Data/Thomas More.md",
-    "DataBase/Reality/Persons/Data/Werner Herzog.md",
-    "DataBase/Reality/Persons/Entertainment Stars.md",
-    "DataBase/Reality/Persons/Data/清野菜名.md",
-    "DataBase/Reality/Persons/Data/桥本环奈.md",
-    "DataBase/Reality/Persons/Data/徐童.md",
-    "DataBase/Literature/Text/Books/Computer Systems-A Programmer's Perspective.md",
-    "DataBase/Literature/Text/Books/毛泽东选集/中国社会各阶级的分析.md",
+    "DataBase/Reality/Persons/Authors/太宰治.md",
+    "DataBase/Reality/Persons/Authors/鲁迅.md",
+    "DataBase/Reality/Persons/Authors.md",
+    "DataBase/Reality/Persons/People Desk.md",
+    "DataBase/Literature/Text/Books/人间失格.md",
+    "Configuration/Templates/bookTemplate.md",
+    "Configuration/Templates/BaseTemplate.md",
     "DataBase/Literature/Text/Books/毛泽东选集/毛泽东选集.md",
-    "DataBase/Literature/Text/对联.md",
+    "DataBase/Literature/Text/Books/毛泽东语录.md",
+    "DataBase/Literature/Text/Books/THE PRINCIPIA.md",
+    "DataBase/Literature/Text/Books/The Year of Magical Thinking.md",
+    "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md",
+    "DataBase/Literature/Text/Books/Data Structures and Algorithms In Java.md",
     "Configuration/Templates/AuthorsTemplate.md",
+    "DataBase/Reality/Persons/Data/Untitled.md",
+    "DataBase/Reality/Persons/Authors",
+    "DataBase/Reality/Persons/Data/Randal Bryant.md",
+    "DataBase/Literature/Text/Books/Computer Systems-A Programmer's Perspective.md",
+    "DataBase/Tasks/LongTermPlan.md",
+    "DataBase/Tasks/TasksBoard.md",
+    "DataBase/Reality/Persons/Data/夏目簌石.md",
+    "DataBase/Reality/Persons/Data/吴倩莲.md",
+    "DataBase/Reality/Persons/Data/林青霞.md",
+    "DataBase/Reality/Persons/Data/尼采.md",
+    "DataBase/Reality/Persons/Data/梅艳芳.md",
+    "DataBase/Reality/Persons/Data/陆游.md",
+    "DataBase/Reality/Persons/Data/李连杰.md",
     "DataBase/Investment/Sectors",
     "DataBase/Investment/StockEvaluationKnowledge",
     "Resources/text",
@@ -284,7 +377,6 @@
     "未命名文件夹",
     "DataBase/Literature/Text/对联",
     "DataBase/Literature/Text",
-    "DataBase/Literature/Text/Books/毛泽东选集",
     "Resources/Images/The Compilation system.png",
     "Resources/Images/State_Design_Pattern_UML_Class_Diagram.svg",
     "Resources/Images/Isaac Newton.png",
