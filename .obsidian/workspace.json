@@ -23,15 +23,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
-                "mode": "preview",
+                "file": "Configuration/Templates/coding_qusitions.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "b925af0fa49bd01f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Literature/Text/Sayings/Saying0001.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75a5626d9ce65aa1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Literature/Text/Sayings/全世界无产者，联合起来.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bbf625f89eef686e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Literature/Text/Sayings/Saying0002.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "112f3ee3082a5cc8",
+            "type": "leaf",
+            "state": {
+              "type": "memos_view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -124,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Literature/Text/Sayings/Saying0002.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -159,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Literature/Text/Sayings/Saying0002.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "DataBase/Literature/Text/Sayings/Saying0002.md"
               }
             }
           },
@@ -210,14 +257,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Literature/Text/Sayings/Saying0002.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       },
       {
         "id": "1ae32eceb2a7d7a3",
@@ -235,7 +282,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 366.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -257,35 +305,35 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9ff0f1be190e44fb",
+  "active": "112f3ee3082a5cc8",
   "lastOpenFiles": [
+    "DataBase/life/diary/2023-03-06.md",
+    "DataBase/Literature/Text/Sayings/Saying0002.md",
+    "DataBase/Literature/Text/Sayings/Saying0003.md",
+    "DataBase/Literature/Text/Sayings/Saying0004.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Main Memory.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/Fundamentals/Arrays In Java.md",
+    "Configuration/Templates/KnowledgeCards.md",
+    "DataBase/Literature/Text/Sayings/Saying0001.md",
+    "Configuration/Templates/SayingTemplate.md",
+    "DataBase/Literature/Text/Sayings/全世界无产者，联合起来.md",
+    "Configuration/Templates/coding_qusitions.md",
+    "DataBase/Literature/Text/Books/毛主席语录.md",
+    "DataBase/Literature/Text/BooksAll.md",
+    "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md",
+    "DataBase/Reality/Persons/Entertainers/范冰冰.md",
+    "DataBase/Reality/Persons/Entertainers/桂纶镁.md",
+    "DataBase/Reality/Persons/Entertainers/王晶.md",
+    "DataBase/Reality/Persons/Entertainers/沃纳·赫尔佐格.md",
+    "DataBase/Reality/Persons/Entertainers/吴倩莲.md",
+    "DataBase/Tasks/TasksBoard.md",
+    "Home Page.md",
     "Outputs/BooksTranslation/奇想之年/第三章.md",
     "DataBase/Reality/Persons/Entrepreneurs/Steve Jobs.md",
     "DataBase/Reality/Persons/Directors.md",
     "DataBase/Reality/Persons/Authors.md",
     "DataBase/Reality/Persons/People Desk.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Java/Fundamentals/The String Class.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Coding/software testing.md",
-    "DataBase/Reality/Groups/Bolshevik.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Object.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Abstract Factory Pattern.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Creational patterns.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Design pattern.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Interpreter Pattern.md",
-    "Configuration/Templates/StockTemplate.md",
-    "DataBase/Investment/StockEvaluationKnowledge/换手率.md",
-    "DataBase/Reality/Places/Countries/中华人民共和国.md",
-    "DataBase/Reality/Places/北京.md",
     "DataBase/Reality/Places/Countries",
-    "DataBase/Reality/Places/New World.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Computer programming.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Behavioral patterns.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Structural patterns.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Software design pattern.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Command Pattern.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Decorator Pattern.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Flyweight Pattern.md",
-    "DataBase/Literature/Films/The Fire Within-A Requiem for Katia and Maurice Krafft.md",
     "DataBase/Reality/Persons/Scientists",
     "DataBase/Reality/Persons/Politician",
     "DataBase/Reality/Persons/Entrepreneurs",

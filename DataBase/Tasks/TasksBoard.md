@@ -13,8 +13,7 @@ kanban-plugin: basic
 ## Important but not urgent
 
 - [ ] [[毛泽东选集]]
-- [ ] [[毛泽东语录]]
-- [ ] 清空gitbook
+- [ ] [[毛主席语录]]
 
 
 ## not important but urgent
@@ -27,7 +26,11 @@ kanban-plugin: basic
 - [ ] [[THE PRINCIPIA]]
 
 
+***
 
+## Archive
+
+- [x] 清空gitbook
 
 %% kanban:settings
 ```
