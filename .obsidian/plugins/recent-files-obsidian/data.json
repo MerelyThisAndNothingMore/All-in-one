@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "Creational patterns",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Creational patterns.md"
+    },
+    {
+      "basename": "Design pattern",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Design pattern.md"
+    },
+    {
+      "basename": "Computer programming",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Computer programming.md"
+    },
+    {
+      "basename": "Behavioral patterns",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Behavioral patterns.md"
+    },
+    {
+      "basename": "Structural patterns",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Structural patterns.md"
+    },
+    {
+      "basename": "Software design pattern",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Software design pattern.md"
+    },
+    {
+      "basename": "Command Pattern",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Command Pattern.md"
+    },
+    {
+      "basename": "Decorator Pattern",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Decorator Pattern.md"
+    },
+    {
       "basename": "Flyweight Pattern",
       "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Flyweight Pattern.md"
     },
@@ -167,38 +199,6 @@
     {
       "basename": "StockWorkdesk",
       "path": "DataBase/Investment/StockWorkdesk.md"
-    },
-    {
-      "basename": "中润资源",
-      "path": "DataBase/Investment/Stocks/中润资源.md"
-    },
-    {
-      "basename": "中金黄金",
-      "path": "DataBase/Investment/Stocks/中金黄金.md"
-    },
-    {
-      "basename": "银泰黄金",
-      "path": "DataBase/Investment/Stocks/银泰黄金.md"
-    },
-    {
-      "basename": "贵金属",
-      "path": "DataBase/Investment/Sectors/贵金属.md"
-    },
-    {
-      "basename": "WorkDesk",
-      "path": "DataBase/Tasks/WorkDesk.md"
-    },
-    {
-      "basename": "范冰冰",
-      "path": "DataBase/Reality/Persons/Entertainers/范冰冰.md"
-    },
-    {
-      "basename": "Saying0001",
-      "path": "DataBase/Literature/Text/Sayings/Saying0001.md"
-    },
-    {
-      "basename": "王晶",
-      "path": "DataBase/Reality/Persons/Entertainers/王晶.md"
     }
   ],
   "omittedPaths": [],
