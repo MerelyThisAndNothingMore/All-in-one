@@ -1,5 +1,5 @@
 ---
-authors: ["",]
+authors:
 tags:
 - books 
 alias:

@@ -14,6 +14,7 @@ kanban-plugin: basic
 
 - [ ] [[毛泽东选集]]
 - [ ] [[毛泽东语录]]
+- [ ] 清空gitbook
 
 
 ## not important but urgent

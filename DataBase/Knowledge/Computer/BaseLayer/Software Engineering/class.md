@@ -5,3 +5,10 @@ When defining a class, we can declare any number of instance variables. An impor
 ## Declaring methods 
 A method definition has two parts: the signature, which defines the name and parameters for a method, and the body, which defines what the method does. The method signature specifies how the method is called, and the method body specifies what the object will do when it is called.
 
+## Relationships between Classes
+
+The most common relationships between classes are
+
+* Dependence("uses-a")
+* Aggregation("has-a")
+* Inheritance("is-a")
