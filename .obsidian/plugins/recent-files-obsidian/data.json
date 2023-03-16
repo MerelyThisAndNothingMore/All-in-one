@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home Page",
+      "path": "Home Page.md"
+    },
+    {
       "basename": "第二章",
       "path": "Outputs/BooksTranslation/奇想之年/第二章.md"
     },
@@ -135,10 +139,6 @@
     {
       "basename": "README",
       "path": "DataBase/Knowledge/Computer/ApplicationLayer/java/README.md"
-    },
-    {
-      "basename": "Home Page",
-      "path": "Home Page.md"
     },
     {
       "basename": "Hardware organization",
