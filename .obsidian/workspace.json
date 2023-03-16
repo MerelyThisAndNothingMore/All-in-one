@@ -49,7 +49,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Creational patterns.md",
+                "file": "DataBase/Reality/Places/北京.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c0a2ab3113e8b55b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/BooksTranslation/奇想之年/第二章.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "179e8fd84a2df982",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Object.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -57,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -150,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Creational patterns.md",
+                "file": "Outputs/BooksTranslation/奇想之年/第二章.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -185,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Creational patterns.md",
+                "file": "Outputs/BooksTranslation/奇想之年/第二章.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Creational patterns.md"
+                "file": "Outputs/BooksTranslation/奇想之年/第二章.md"
               }
             }
           },
@@ -236,7 +262,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Creational patterns.md",
+                "file": "Outputs/BooksTranslation/奇想之年/第二章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -283,10 +309,27 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "da767dd6ee7dab01",
+  "active": "c0a2ab3113e8b55b",
   "lastOpenFiles": [
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Design pattern.md",
+    "Outputs/BooksTranslation/奇想之年/第三章.md",
+    "DataBase/Reality/Persons/Entrepreneurs/Steve Jobs.md",
+    "DataBase/Reality/Persons/Directors.md",
+    "DataBase/Reality/Persons/Authors.md",
+    "DataBase/Reality/Persons/People Desk.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Java/Fundamentals/The String Class.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Coding/software testing.md",
+    "DataBase/Reality/Groups/Bolshevik.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Object.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Abstract Factory Pattern.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Creational patterns.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Design pattern.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Interpreter Pattern.md",
+    "Configuration/Templates/StockTemplate.md",
+    "DataBase/Investment/StockEvaluationKnowledge/换手率.md",
+    "DataBase/Reality/Places/Countries/中华人民共和国.md",
+    "DataBase/Reality/Places/北京.md",
+    "DataBase/Reality/Places/Countries",
+    "DataBase/Reality/Places/New World.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Computer programming.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Behavioral patterns.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Structural patterns.md",
@@ -295,22 +338,6 @@
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Decorator Pattern.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Flyweight Pattern.md",
     "DataBase/Literature/Films/The Fire Within-A Requiem for Katia and Maurice Krafft.md",
-    "DataBase/Tasks/data/付费直播-埋点补齐.md",
-    "DataBase/Tasks/data/付费直播-直播间内创建预售门票.md",
-    "DataBase/Tasks/data/历史学习.md",
-    "DataBase/Tasks/data/付费直播业务分享.md",
-    "DataBase/Investment/Stocks/浪潮信息.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Object.md",
-    "Configuration/Templates/BaseTemplate.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Iterator Pattern.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Interpreter Pattern.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Java/README.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/README.md",
-    "Home Page.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Hardware organization.md",
-    "DataBase/Reality/Persons/Entertainers/钟楚红.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Object-oriented programming.md",
-    "DataBase/reading/zheng-zhi-jing-ji-xue/21-shi-ji-zi-ben-lun.md",
     "DataBase/Reality/Persons/Scientists",
     "DataBase/Reality/Persons/Politician",
     "DataBase/Reality/Persons/Entrepreneurs",
@@ -320,7 +347,6 @@
     "DataBase/Literature/Films",
     "DataBase/Investment/Sectors",
     "DataBase/Investment/StockEvaluationKnowledge",
-    "Resources/text",
     "Resources/Images/The Compilation system.png",
     "Resources/Images/State_Design_Pattern_UML_Class_Diagram.svg",
     "Resources/Images/Isaac Newton.png",
