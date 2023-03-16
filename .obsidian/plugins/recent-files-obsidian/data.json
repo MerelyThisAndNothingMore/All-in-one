@@ -9,196 +9,196 @@
       "path": "DataBase/Investment/StockWorkdesk.md"
     },
     {
-      "basename": "隆基绿能",
-      "path": "DataBase/Investment/Stocks/隆基绿能.md"
+      "basename": "WorkDesk",
+      "path": "DataBase/Tasks/WorkDesk.md"
     },
     {
-      "basename": "银泰黄金",
-      "path": "DataBase/Investment/Stocks/银泰黄金.md"
+      "basename": "范冰冰",
+      "path": "DataBase/Reality/Persons/Entertainers/范冰冰.md"
     },
     {
-      "basename": "Passwords",
-      "path": "DataBase/Life/Passwords.md"
+      "basename": "Saying0001",
+      "path": "DataBase/Literature/Text/Sayings/Saying0001.md"
     },
     {
-      "basename": "韦尔股份",
-      "path": "DataBase/Investment/Stocks/韦尔股份.md"
+      "basename": "王晶",
+      "path": "DataBase/Reality/Persons/Entertainers/王晶.md"
     },
     {
-      "basename": "中金黄金",
-      "path": "DataBase/Investment/Stocks/中金黄金.md"
+      "basename": "Books",
+      "path": "DataBase/Literature/Text/Books.md"
     },
     {
-      "basename": "特变电工",
-      "path": "DataBase/Investment/Stocks/特变电工.md"
+      "basename": "饮食男女",
+      "path": "DataBase/Literature/Films/饮食男女.md"
     },
     {
-      "basename": "凯莱英",
-      "path": "DataBase/Investment/Stocks/凯莱英.md"
+      "basename": "铁路沿线",
+      "path": "DataBase/Literature/Films/铁路沿线.md"
     },
     {
-      "basename": "贵金属",
-      "path": "DataBase/Investment/Sectors/贵金属.md"
+      "basename": "恋如雨止",
+      "path": "DataBase/Literature/Films/恋如雨止.md"
     },
     {
-      "basename": "上证指数",
-      "path": "DataBase/Investment/Sectors/上证指数.md"
+      "basename": "Authors",
+      "path": "DataBase/Reality/Persons/Authors.md"
     },
     {
-      "basename": "药明康德",
-      "path": "DataBase/Investment/Stocks/药明康德.md"
+      "basename": "川端康成",
+      "path": "DataBase/Reality/Persons/Authors/川端康成.md"
     },
     {
-      "basename": "通信服务",
-      "path": "DataBase/Investment/Sectors/通信服务.md"
-    },
-    {
-      "basename": "View可见性检测",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View可见性检测.md"
-    },
-    {
-      "basename": "计算机设备",
-      "path": "DataBase/Investment/Sectors/计算机设备.md"
-    },
-    {
-      "basename": "医疗服务",
-      "path": "DataBase/Investment/Sectors/医疗服务.md"
-    },
-    {
-      "basename": "StockTemplate",
-      "path": "Configuration/Templates/StockTemplate.md"
-    },
-    {
-      "basename": "StockSectorTemplate",
-      "path": "Configuration/Templates/StockSectorTemplate.md"
-    },
-    {
-      "basename": "BaseTemplate",
-      "path": "Configuration/Templates/BaseTemplate.md"
-    },
-    {
-      "basename": "AuthorsTemplate",
-      "path": "Configuration/Templates/AuthorsTemplate.md"
-    },
-    {
-      "basename": "市盈率",
-      "path": "DataBase/Investment/StockEvaluationKnowledge/市盈率.md"
-    },
-    {
-      "basename": "Array",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Array.md"
-    },
-    {
-      "basename": "Concurrency",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Concurrency.md"
-    },
-    {
-      "basename": "computer science",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Science/computer science.md"
-    },
-    {
-      "basename": "Data Structure",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Data Structure.md"
-    },
-    {
-      "basename": "Coding Interview University",
-      "path": "DataBase/Reality/Websites/Coding Interview University.md"
-    },
-    {
-      "basename": "Interview preparation",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation/Interview preparation.md"
+      "basename": "老舍",
+      "path": "DataBase/Reality/Persons/Authors/老舍.md"
     },
     {
       "basename": "TasksBoard",
       "path": "DataBase/Tasks/TasksBoard.md"
     },
     {
-      "basename": "Stack",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Stack.md"
+      "basename": "Directors",
+      "path": "DataBase/Reality/Persons/Directors.md"
     },
     {
-      "basename": "Heap",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Heap.md"
+      "basename": "李安",
+      "path": "DataBase/Reality/Persons/Entertainers/李安.md"
     },
     {
-      "basename": "Trees",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Trees.md"
+      "basename": "Stanley Kubrick",
+      "path": "DataBase/Reality/Persons/Entertainers/Stanley Kubrick.md"
     },
     {
-      "basename": "DataStructureTemplate",
-      "path": "Configuration/Templates/DataStructureTemplate.md"
+      "basename": "People Desk",
+      "path": "DataBase/Reality/Persons/People Desk.md"
     },
     {
-      "basename": "Algorithm",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithm.md"
+      "basename": "Films and Television",
+      "path": "DataBase/Literature/Films and Television.md"
     },
     {
-      "basename": "Teach Yourself Computer Science",
-      "path": "DataBase/Reality/Websites/Teach Yourself Computer Science.md"
+      "basename": "梅艳芳",
+      "path": "DataBase/Reality/Persons/Entertainers/梅艳芳.md"
     },
     {
-      "basename": "Computer System",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Computer System.md"
+      "basename": "不能说的秘密",
+      "path": "DataBase/Literature/Films/不能说的秘密.md"
     },
     {
-      "basename": "第一章",
-      "path": "Outputs/BooksTranslation/奇想之年/第一章.md"
+      "basename": "周杰伦",
+      "path": "DataBase/Reality/Persons/Entertainers/周杰伦.md"
     },
     {
-      "basename": "奇想之年",
-      "path": "Outputs/BooksTranslation/奇想之年/奇想之年.md"
+      "basename": "A Clockwork Orange(film)",
+      "path": "DataBase/Literature/Films/A Clockwork Orange(film).md"
     },
     {
-      "basename": "The Year of Magical Thinking",
-      "path": "DataBase/Literature/Text/Books/The Year of Magical Thinking.md"
+      "basename": "The Fire Within-A Requiem for Katia and Maurice Krafft",
+      "path": "DataBase/Literature/Films/The Fire Within-A Requiem for Katia and Maurice Krafft.md"
     },
     {
-      "basename": "Main Memory",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Main Memory.md"
+      "basename": "2001-A Space Odyssey(film)",
+      "path": "DataBase/Literature/Films/2001-A Space Odyssey(film).md"
     },
     {
-      "basename": "Arrays In Java",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Java/Fundamentals/Arrays In Java.md"
+      "basename": "身体状态管理",
+      "path": "DataBase/Tasks/data/身体状态管理.md"
     },
     {
-      "basename": "KnowledgeCards",
-      "path": "Configuration/Templates/KnowledgeCards.md"
+      "basename": "Hardware Organization",
+      "path": "Resources/Images/Hardware Organization.png"
     },
     {
-      "basename": "Android Development",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android Development.md"
+      "basename": "State_Design_Pattern_UML_Class_Diagram",
+      "path": "Resources/Images/State_Design_Pattern_UML_Class_Diagram.svg"
     },
     {
-      "basename": "BookTemplate",
-      "path": "Configuration/Templates/BookTemplate.md"
+      "basename": "The Compilation system",
+      "path": "Resources/Images/The Compilation system.png"
+    },
+    {
+      "basename": "TVDramaTemplate",
+      "path": "Configuration/Templates/TVDramaTemplate.md"
+    },
+    {
+      "basename": "FilmsTemplate",
+      "path": "Configuration/Templates/FilmsTemplate.md"
     },
     {
       "basename": "ComputerArchitectureTemplate",
       "path": "Configuration/Templates/ComputerArchitectureTemplate.md"
     },
     {
-      "basename": "Processes",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Processes.md"
+      "basename": "差馆",
+      "path": "DataBase/Literature/Films/差馆.md"
     },
     {
-      "basename": "Buses",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Buses.md"
+      "basename": "黄飞鸿",
+      "path": "DataBase/Literature/Films/黄飞鸿.md"
     },
     {
-      "basename": "Computing",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Computing.md"
+      "basename": "EntertainersTemplate",
+      "path": "Configuration/Templates/EntertainersTemplate.md"
     },
     {
-      "basename": "CPU",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/CPU.md"
+      "basename": "桂纶镁",
+      "path": "DataBase/Reality/Persons/Entertainers/桂纶镁.md"
     },
     {
-      "basename": "Files",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Files.md"
+      "basename": "成龙",
+      "path": "DataBase/Reality/Persons/Entertainers/成龙.md"
     },
     {
-      "basename": "executable",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/executable.md"
+      "basename": "小松菜奈",
+      "path": "DataBase/Reality/Persons/Entertainers/小松菜奈.md"
+    },
+    {
+      "basename": "全智贤",
+      "path": "DataBase/Reality/Persons/Entertainers/全智贤.md"
+    },
+    {
+      "basename": "夏目簌石",
+      "path": "DataBase/Reality/Persons/Authors/夏目簌石.md"
+    },
+    {
+      "basename": "尼采",
+      "path": "DataBase/Reality/Persons/Authors/尼采.md"
+    },
+    {
+      "basename": "Randal Bryant",
+      "path": "DataBase/Reality/Persons/Authors/Randal Bryant.md"
+    },
+    {
+      "basename": "Lenin, Vladimir llyich",
+      "path": "DataBase/Reality/Persons/Politician/Lenin, Vladimir llyich.md"
+    },
+    {
+      "basename": "Johannes Kepler",
+      "path": "DataBase/Reality/Persons/Scientists/Johannes Kepler.md"
+    },
+    {
+      "basename": "Isaac Newton",
+      "path": "DataBase/Reality/Persons/Scientists/Isaac Newton.md"
+    },
+    {
+      "basename": "陆游",
+      "path": "DataBase/Reality/Persons/Authors/陆游.md"
+    },
+    {
+      "basename": "陈亮",
+      "path": "DataBase/Reality/Persons/Authors/陈亮.md"
+    },
+    {
+      "basename": "林青霞",
+      "path": "DataBase/Reality/Persons/Entertainers/林青霞.md"
+    },
+    {
+      "basename": "Maurice Krafft",
+      "path": "DataBase/Reality/Persons/Scientists/Maurice Krafft.md"
+    },
+    {
+      "basename": "Katia Krafft",
+      "path": "DataBase/Reality/Persons/Scientists/Katia Krafft.md"
     }
   ],
   "omittedPaths": [],

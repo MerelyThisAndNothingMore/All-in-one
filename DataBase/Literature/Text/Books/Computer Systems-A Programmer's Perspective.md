@@ -1,7 +1,9 @@
 ---
 authors: ["[[Randal Bryant]]",]
 tags:
-- books 
+- books
+alias:
+- CS-APP
 ---
 # Content 
 1. A Tour of [[Computer System]] 

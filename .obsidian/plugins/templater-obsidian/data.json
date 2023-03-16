@@ -33,6 +33,22 @@
     {
       "folder": "DataBase/Literature/Text/Books",
       "template": "Configuration/Templates/bookTemplate.md"
+    },
+    {
+      "folder": "DataBase/Reality/Persons/Authors",
+      "template": "Configuration/Templates/AuthorsTemplate.md"
+    },
+    {
+      "folder": "DataBase/Reality/Persons/Entertainers",
+      "template": "Configuration/Templates/EntertainersTemplate.md"
+    },
+    {
+      "folder": "DataBase/Literature/Films",
+      "template": "Configuration/Templates/FilmsTemplate.md"
+    },
+    {
+      "folder": "DataBase/Literature/TV Drama",
+      "template": "Configuration/Templates/TVDramaTemplate.md"
     }
   ],
   "syntax_highlighting": true,
