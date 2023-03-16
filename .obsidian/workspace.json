@@ -70,6 +70,32 @@
             }
           },
           {
+            "id": "4dd6d227fadcd1d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Concurrency.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "223be8eadea649e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Parallelism.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "112f3ee3082a5cc8",
             "type": "leaf",
             "state": {
@@ -78,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -108,7 +134,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "concurr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,7 +197,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Literature/Text/Sayings/Saying0002.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Parallelism.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -206,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Literature/Text/Sayings/Saying0002.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Parallelism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Literature/Text/Sayings/Saying0002.md"
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Parallelism.md"
               }
             }
           },
@@ -257,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Literature/Text/Sayings/Saying0002.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Parallelism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -305,10 +331,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "112f3ee3082a5cc8",
+  "active": "223be8eadea649e7",
   "lastOpenFiles": [
-    "DataBase/life/diary/2023-03-06.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Concurrency.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Parallelism.md",
+    "DataBase/Literature/Text/SayingView.md",
     "DataBase/Literature/Text/Sayings/Saying0002.md",
+    "DataBase/life/diary/2023-03-06.md",
+    "DataBase/life/diary/2023-02-15.md",
     "DataBase/Literature/Text/Sayings/Saying0003.md",
     "DataBase/Literature/Text/Sayings/Saying0004.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Main Memory.md",
@@ -329,10 +359,6 @@
     "DataBase/Tasks/TasksBoard.md",
     "Home Page.md",
     "Outputs/BooksTranslation/奇想之年/第三章.md",
-    "DataBase/Reality/Persons/Entrepreneurs/Steve Jobs.md",
-    "DataBase/Reality/Persons/Directors.md",
-    "DataBase/Reality/Persons/Authors.md",
-    "DataBase/Reality/Persons/People Desk.md",
     "DataBase/Reality/Places/Countries",
     "DataBase/Reality/Persons/Scientists",
     "DataBase/Reality/Persons/Politician",
