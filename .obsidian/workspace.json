@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "9ff0f1be190e44fb",
+            "id": "9198e8693602269b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Configuration/Templates/coding_qusitions.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Command Pattern.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -31,12 +31,12 @@
             }
           },
           {
-            "id": "b925af0fa49bd01f",
+            "id": "b3373acfb837c20f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Literature/Text/Sayings/Saying0001.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Software design pattern.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -44,12 +44,12 @@
             }
           },
           {
-            "id": "75a5626d9ce65aa1",
+            "id": "da767dd6ee7dab01",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Literature/Text/Sayings/全世界无产者，联合起来.md",
+                "file": "DataBase/Reality/Places/北京.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -57,54 +57,33 @@
             }
           },
           {
-            "id": "bbf625f89eef686e",
+            "id": "c0a2ab3113e8b55b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Literature/Text/Sayings/Saying0002.md",
-                "mode": "source",
+                "file": "DataBase/Reality/Persons/Entertainers/吴倩莲.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "4dd6d227fadcd1d1",
+            "id": "179e8fd84a2df982",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Concurrency.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Object.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
-            }
-          },
-          {
-            "id": "223be8eadea649e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Parallelism.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "112f3ee3082a5cc8",
-            "type": "leaf",
-            "state": {
-              "type": "memos_view",
-              "state": {}
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +113,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "concurr",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -197,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Parallelism.md",
+                "file": "DataBase/Reality/Persons/Entertainers/吴倩莲.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -232,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Parallelism.md",
+                "file": "DataBase/Reality/Persons/Entertainers/吴倩莲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Parallelism.md"
+                "file": "DataBase/Reality/Persons/Entertainers/吴倩莲.md"
               }
             }
           },
@@ -283,14 +262,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Parallelism.md",
+                "file": "DataBase/Reality/Persons/Entertainers/吴倩莲.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       },
       {
         "id": "1ae32eceb2a7d7a3",
@@ -308,8 +287,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5,
-    "collapsed": true
+    "width": 366.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -328,37 +306,38 @@
       "homepage:Open homepage": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-memos:Memos": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "223be8eadea649e7",
+  "active": "c0a2ab3113e8b55b",
   "lastOpenFiles": [
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Concurrency.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Parallelism.md",
-    "DataBase/Literature/Text/SayingView.md",
-    "DataBase/Literature/Text/Sayings/Saying0002.md",
-    "DataBase/life/diary/2023-03-06.md",
-    "DataBase/life/diary/2023-02-15.md",
-    "DataBase/Literature/Text/Sayings/Saying0003.md",
-    "DataBase/Literature/Text/Sayings/Saying0004.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Main Memory.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/Fundamentals/Arrays In Java.md",
-    "Configuration/Templates/KnowledgeCards.md",
-    "DataBase/Literature/Text/Sayings/Saying0001.md",
-    "Configuration/Templates/SayingTemplate.md",
     "DataBase/Literature/Text/Sayings/全世界无产者，联合起来.md",
-    "Configuration/Templates/coding_qusitions.md",
-    "DataBase/Literature/Text/Books/毛主席语录.md",
+    "DataBase/Literature/Text/Sayings/Saying0004.md",
+    "DataBase/Literature/Text/Sayings/Saying0003.md",
+    "DataBase/Literature/Text/Sayings/Saying0002.md",
+    "DataBase/Literature/Text/SayingView.md",
     "DataBase/Literature/Text/BooksAll.md",
-    "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md",
-    "DataBase/Reality/Persons/Entertainers/范冰冰.md",
-    "DataBase/Reality/Persons/Entertainers/桂纶镁.md",
-    "DataBase/Reality/Persons/Entertainers/王晶.md",
-    "DataBase/Reality/Persons/Entertainers/沃纳·赫尔佐格.md",
-    "DataBase/Reality/Persons/Entertainers/吴倩莲.md",
-    "DataBase/Tasks/TasksBoard.md",
-    "Home Page.md",
+    "DataBase/Literature/Text/Books/毛主席语录.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Parallelism.md",
+    "Configuration/Templates/SayingTemplate.md",
+    "DataBase/Literature/Text/Sayings/Saying0001.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Software engineering.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Static modifier.md",
+    "Outputs/BooksTranslation/奇想之年/第二章.md",
     "Outputs/BooksTranslation/奇想之年/第三章.md",
+    "DataBase/Reality/Persons/Entrepreneurs/Steve Jobs.md",
+    "DataBase/Reality/Persons/Directors.md",
+    "DataBase/Reality/Persons/Authors.md",
+    "DataBase/Reality/Persons/People Desk.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Java/Fundamentals/The String Class.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Coding/software testing.md",
+    "DataBase/Reality/Groups/Bolshevik.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Object.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Abstract Factory Pattern.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Creational patterns.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Design pattern.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Interpreter Pattern.md",
     "DataBase/Reality/Places/Countries",
     "DataBase/Reality/Persons/Scientists",
     "DataBase/Reality/Persons/Politician",
