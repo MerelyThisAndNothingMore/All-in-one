@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "The Year of Magical Thinking",
+      "path": "DataBase/Literature/Text/Books/The Year of Magical Thinking.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "DataStructureTemplate",
       "path": "Configuration/Templates/DataStructureTemplate.md"
     },
@@ -75,10 +83,6 @@
     {
       "basename": "Text File",
       "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Text File.md"
-    },
-    {
-      "basename": "The Year of Magical Thinking",
-      "path": "DataBase/Literature/Text/Books/The Year of Magical Thinking.md"
     },
     {
       "basename": "THE PRINCIPIA",
@@ -195,10 +199,6 @@
     {
       "basename": "Computer programming",
       "path": "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Computer programming.md"
-    },
-    {
-      "basename": "Behavioral patterns",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Behavioral patterns.md"
     }
   ],
   "omittedPaths": [],

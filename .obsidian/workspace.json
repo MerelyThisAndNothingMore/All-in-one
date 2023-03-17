@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Configuration/Templates/DataStructureTemplate.md",
+                "file": "DataBase/Literature/Text/Books/The Year of Magical Thinking.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -124,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Configuration/Templates/DataStructureTemplate.md",
+                "file": "DataBase/Literature/Text/Books/The Year of Magical Thinking.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Configuration/Templates/DataStructureTemplate.md",
+                "file": "DataBase/Literature/Text/Books/The Year of Magical Thinking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Configuration/Templates/DataStructureTemplate.md"
+                "file": "DataBase/Literature/Text/Books/The Year of Magical Thinking.md"
               }
             }
           },
@@ -210,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Configuration/Templates/DataStructureTemplate.md",
+                "file": "DataBase/Literature/Text/Books/The Year of Magical Thinking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,6 +259,8 @@
   },
   "active": "1ec0c5c46767274d",
   "lastOpenFiles": [
+    "README.md",
+    "Configuration/Templates/DataStructureTemplate.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View可见性检测.md",
     "DataBase/Life/diary/2023-03-05.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Liskov substitution principle.md",
@@ -283,8 +285,6 @@
     "DataBase/Literature/Text/Books/Computer Systems-A Programmer's Perspective.md",
     "DataBase/Literature/Text/Books/骆驼祥子.md",
     "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md",
-    "DataBase/Literature/Text/Books/茶馆.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Java/Fundamentals/Arrays In Java.md",
     "DataBase/Reality/Persons/Scientists",
     "DataBase/Reality/Persons/Politician",
     "DataBase/Reality/Persons/Entrepreneurs",

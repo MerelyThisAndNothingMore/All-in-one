@@ -1,2 +1,1 @@
-# All-in-one
-Trying to put all the information in one place.
+真正重要的是“我”，记笔记时谨记。
