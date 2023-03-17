@@ -27,5 +27,6 @@
   "cm-editor-syntax-highlight-obsidian",
   "homepage",
   "recent-files-obsidian",
-  "heatmap-calendar"
+  "heatmap-calendar",
+  "obsidian-book-search-plugin"
 ]
