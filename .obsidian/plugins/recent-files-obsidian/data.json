@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "The Year of Magical Thinking",
+      "path": "DataBase/Literature/Text/Books/The Year of Magical Thinking.md"
+    },
+    {
+      "basename": "THE PRINCIPIA",
+      "path": "DataBase/Literature/Text/Books/THE PRINCIPIA.md"
+    },
+    {
+      "basename": "Operating Systems-Three Easy Pieces",
+      "path": "DataBase/Literature/Text/Books/Operating Systems-Three Easy Pieces.md"
+    },
+    {
+      "basename": "Design Patterns Wiki Book",
+      "path": "DataBase/Literature/Text/Books/Design Patterns Wiki Book.md"
+    },
+    {
+      "basename": "Computer Systems-A Programmer's Perspective",
+      "path": "DataBase/Literature/Text/Books/Computer Systems-A Programmer's Perspective.md"
+    },
+    {
+      "basename": "骆驼祥子",
+      "path": "DataBase/Literature/Text/Books/骆驼祥子.md"
+    },
+    {
+      "basename": "查拉图斯特拉如是说",
+      "path": "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md"
+    },
+    {
+      "basename": "茶馆",
+      "path": "DataBase/Literature/Text/Books/茶馆.md"
+    },
+    {
+      "basename": "Arrays In Java",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Java/Fundamentals/Arrays In Java.md"
+    },
+    {
       "basename": "Home Page",
       "path": "Home Page.md"
     },
@@ -163,38 +199,6 @@
     {
       "basename": "钟楚红",
       "path": "DataBase/Reality/Persons/Entertainers/钟楚红.md"
-    },
-    {
-      "basename": "Object-oriented programming",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Object-oriented programming.md"
-    },
-    {
-      "basename": "films and Television",
-      "path": "DataBase/Literature/films and Television.md"
-    },
-    {
-      "basename": "鲁迅",
-      "path": "DataBase/Reality/Persons/Authors/鲁迅.md"
-    },
-    {
-      "basename": "react",
-      "path": "DataBase/work/react.md"
-    },
-    {
-      "basename": "Java",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Java/Java.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "class",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/class.md"
-    },
-    {
-      "basename": "TasksBoard",
-      "path": "DataBase/Tasks/TasksBoard.md"
     }
   ],
   "omittedPaths": [],

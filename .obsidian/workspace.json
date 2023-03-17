@@ -23,8 +23,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
-                "mode": "preview",
+                "file": "DataBase/Literature/Text/Books/The Year of Magical Thinking.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "状态",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Literature/Text/Books/The Year of Magical Thinking.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Literature/Text/Books/The Year of Magical Thinking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "DataBase/Literature/Text/Books/The Year of Magical Thinking.md"
               }
             }
           },
@@ -210,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Literature/Text/Books/The Year of Magical Thinking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,13 +253,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "homepage:Open homepage": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-book-search-plugin:Create new book note": false,
       "obsidian-memos:Memos": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "1ec0c5c46767274d",
+  "active": "9efb66c5acbe3c31",
   "lastOpenFiles": [
+    "DataBase/Literature/Text/Books/THE PRINCIPIA.md",
+    "DataBase/Literature/Text/Books/Operating Systems-Three Easy Pieces.md",
+    "DataBase/Literature/Text/Books/Design Patterns Wiki Book.md",
+    "DataBase/Literature/Text/Books/Computer Systems-A Programmer's Perspective.md",
+    "DataBase/Literature/Text/Books/骆驼祥子.md",
+    "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md",
+    "DataBase/Literature/Text/Books/茶馆.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Java/Fundamentals/Arrays In Java.md",
+    "Home Page.md",
     "DataBase/Literature/Text/Sayings/全世界无产者，联合起来.md",
     "DataBase/Literature/Text/Sayings/Saying0004.md",
     "DataBase/Literature/Text/Sayings/Saying0003.md",
