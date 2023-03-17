@@ -1,6 +1,82 @@
 {
   "recentFiles": [
     {
+      "basename": "DataStructureTemplate",
+      "path": "Configuration/Templates/DataStructureTemplate.md"
+    },
+    {
+      "basename": "View可见性检测",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View可见性检测.md"
+    },
+    {
+      "basename": "2023-03-05",
+      "path": "DataBase/Life/diary/2023-03-05.md"
+    },
+    {
+      "basename": "Liskov substitution principle",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Liskov substitution principle.md"
+    },
+    {
+      "basename": "Parallelism",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Parallelism.md"
+    },
+    {
+      "basename": "KnowledgeCards",
+      "path": "Configuration/Templates/KnowledgeCards.md"
+    },
+    {
+      "basename": "陈亮",
+      "path": "DataBase/Reality/Persons/Authors/陈亮.md"
+    },
+    {
+      "basename": "海康威视",
+      "path": "DataBase/Investment/Stocks/海康威视.md"
+    },
+    {
+      "basename": "Template Method Pattern",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Template Method Pattern.md"
+    },
+    {
+      "basename": "Design Patterns Wiki Book",
+      "path": "DataBase/Literature/Text/Books/Design Patterns Wiki Book.md"
+    },
+    {
+      "basename": "市盈率",
+      "path": "DataBase/Investment/StockEvaluationKnowledge/市盈率.md"
+    },
+    {
+      "basename": "Saying0001",
+      "path": "DataBase/Literature/Text/Sayings/Saying0001.md"
+    },
+    {
+      "basename": "Concurrency",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Concurrency.md"
+    },
+    {
+      "basename": "New World",
+      "path": "DataBase/Reality/Places/New World.md"
+    },
+    {
+      "basename": "2023-02-09",
+      "path": "DataBase/Life/diary/2023-02-09.md"
+    },
+    {
+      "basename": "Creational patterns",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Creational patterns.md"
+    },
+    {
+      "basename": "Interface segregation principle",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Interface segregation principle.md"
+    },
+    {
+      "basename": "Computational complexity",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithm Analysis/Computational complexity.md"
+    },
+    {
+      "basename": "Text File",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Text File.md"
+    },
+    {
       "basename": "The Year of Magical Thinking",
       "path": "DataBase/Literature/Text/Books/The Year of Magical Thinking.md"
     },
@@ -11,10 +87,6 @@
     {
       "basename": "Operating Systems-Three Easy Pieces",
       "path": "DataBase/Literature/Text/Books/Operating Systems-Three Easy Pieces.md"
-    },
-    {
-      "basename": "Design Patterns Wiki Book",
-      "path": "DataBase/Literature/Text/Books/Design Patterns Wiki Book.md"
     },
     {
       "basename": "Computer Systems-A Programmer's Perspective",
@@ -43,10 +115,6 @@
     {
       "basename": "吴倩莲",
       "path": "DataBase/Reality/Persons/Entertainers/吴倩莲.md"
-    },
-    {
-      "basename": "Saying0001",
-      "path": "DataBase/Literature/Text/Sayings/Saying0001.md"
     },
     {
       "basename": "Software engineering",
@@ -101,10 +169,6 @@
       "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Abstract Factory Pattern.md"
     },
     {
-      "basename": "Creational patterns",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Creational patterns.md"
-    },
-    {
       "basename": "Design pattern",
       "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Design pattern.md"
     },
@@ -129,76 +193,12 @@
       "path": "DataBase/Reality/Places/北京.md"
     },
     {
-      "basename": "New World",
-      "path": "DataBase/Reality/Places/New World.md"
-    },
-    {
       "basename": "Computer programming",
       "path": "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Computer programming.md"
     },
     {
       "basename": "Behavioral patterns",
       "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Behavioral patterns.md"
-    },
-    {
-      "basename": "Structural patterns",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Structural patterns.md"
-    },
-    {
-      "basename": "Software design pattern",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Software design pattern.md"
-    },
-    {
-      "basename": "Command Pattern",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Command Pattern.md"
-    },
-    {
-      "basename": "Decorator Pattern",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Decorator Pattern.md"
-    },
-    {
-      "basename": "Flyweight Pattern",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Flyweight Pattern.md"
-    },
-    {
-      "basename": "The Fire Within-A Requiem for Katia and Maurice Krafft",
-      "path": "DataBase/Literature/Films/The Fire Within-A Requiem for Katia and Maurice Krafft.md"
-    },
-    {
-      "basename": "付费直播-埋点补齐",
-      "path": "DataBase/Tasks/data/付费直播-埋点补齐.md"
-    },
-    {
-      "basename": "付费直播-直播间内创建预售门票",
-      "path": "DataBase/Tasks/data/付费直播-直播间内创建预售门票.md"
-    },
-    {
-      "basename": "历史学习",
-      "path": "DataBase/Tasks/data/历史学习.md"
-    },
-    {
-      "basename": "浪潮信息",
-      "path": "DataBase/Investment/Stocks/浪潮信息.md"
-    },
-    {
-      "basename": "BaseTemplate",
-      "path": "Configuration/Templates/BaseTemplate.md"
-    },
-    {
-      "basename": "Iterator Pattern",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Iterator Pattern.md"
-    },
-    {
-      "basename": "README",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/java/README.md"
-    },
-    {
-      "basename": "Hardware organization",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Hardware organization.md"
-    },
-    {
-      "basename": "钟楚红",
-      "path": "DataBase/Reality/Persons/Entertainers/钟楚红.md"
     }
   ],
   "omittedPaths": [],
