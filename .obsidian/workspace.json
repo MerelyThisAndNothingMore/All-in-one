@@ -31,15 +31,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Facts/中国地理.md",
                 "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16b1eb80e2f2a971",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Facts/中国地理.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -132,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Facts/中国地理.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -167,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Facts/中国地理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Facts/中国地理.md"
               }
             }
           },
@@ -218,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Facts/中国地理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +256,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 366.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -265,11 +279,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "074d1ec094e3d095",
+  "active": "16b1eb80e2f2a971",
   "lastOpenFiles": [
     "Home Page.md",
-    "DataBase/Tasks/TasksBoard.md",
     "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Facts/中国地理.md",
+    "DataBase/Tasks/TasksBoard.md",
     "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Facts/青藏高原.md",
     "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Facts/印度洋板块.md",
     "Resources/Images/The Compilation system.png",
