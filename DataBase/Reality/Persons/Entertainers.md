@@ -1,5 +1,6 @@
-# 演艺明星
+# 名录
 ```dataview
+
 TABLE 
 	birth
 FROM #Entertainers   

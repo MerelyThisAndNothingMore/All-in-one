@@ -31,15 +31,93 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Knowledge/NaturalScience/TheoreticalLayer/Physics/Law of universal gravitation.md",
                 "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e152fe8b277955fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Facts/印度洋板块.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f52d63c3602a498",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Reality/Persons/Entertainers/徐克.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74bbd6b1d798788d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Reality/Persons/Entertainers/周迅.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "62e3d74713f75f99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Reality/Persons/Entertainers/全智贤.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a04191f62f29162",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Reality/Persons/Entertainers/桥本环奈.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "333cd1ce09e0136d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Reality/Persons/Entertainers.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -69,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "状态",
+                "query": "青藏高原",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,7 +210,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Reality/Persons/Entertainers.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -167,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Reality/Persons/Entertainers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +262,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "DataBase/Reality/Persons/Entertainers.md"
               }
             }
           },
@@ -218,7 +296,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Reality/Persons/Entertainers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +321,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 366.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -265,44 +344,44 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ac4383b28dc4cfb0",
+  "active": "333cd1ce09e0136d",
   "lastOpenFiles": [
-    "DataBase/Life/diary/Diary Template.md",
-    "DataBase/Life/diary/2023-03-20.md",
-    "Home Page.md",
-    "DataBase/Life/diary/2023-03-18.md",
-    "DataBase/Literature/Text/Books/这里是中国.md",
-    "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Theory/行星风系.md",
-    "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Facts/青藏高原.md",
-    "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Facts/欧亚大陆板块.md",
+    "DataBase/Reality/Persons/Entertainers/赵丽颖.md",
+    "DataBase/Reality/Persons/Entertainers/桥本环奈.md",
+    "DataBase/Reality/Persons/Entertainers.md",
+    "DataBase/Reality/Persons/Entertainers/林允儿.md",
+    "DataBase/Reality/Persons/Entertainers/全智贤.md",
+    "DataBase/Reality/Persons/Entertainers/孙艺珍.md",
+    "DataBase/Reality/Persons/Entertainers/周迅.md",
+    "DataBase/Reality/Persons/Directors.md",
+    "DataBase/Reality/Persons/Authors.md",
+    "DataBase/Reality/Persons/Entertainers/Stanley Kubrick.md",
+    "DataBase/Reality/Persons/Entertainers/徐克.md",
+    "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Facts/可可西里.md",
     "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Facts/印度洋板块.md",
     "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Facts/中国地理.md",
+    "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Facts/青藏高原.md",
+    "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Theory/行星风系.md",
     "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Facts/三级阶梯.md",
+    "DataBase/Life/diary/2023-03-20.md",
+    "Home Page.md",
+    "DataBase/Knowledge/NaturalScience/TheoreticalLayer/Physics/Law of universal gravitation.md",
+    "DataBase/Reality/News",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation/Interview preparation.md",
+    "DataBase/Reality/Persons/Entertainers/小松菜奈.md",
+    "DataBase/Life/diary/Diary Template.md",
+    "DataBase/Life/diary/2023-03-18.md",
+    "DataBase/Literature/Text/Books/这里是中国.md",
+    "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Facts/欧亚大陆板块.md",
     "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Theory",
     "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Facts",
     "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography",
     "DataBase/Knowledge/NaturalScience/ApplicationLayer",
-    "DataBase/Literature/Text/Books/The Year of Magical Thinking.md",
-    "README.md",
-    "Configuration/Templates/DataStructureTemplate.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View可见性检测.md",
-    "DataBase/Life/diary/2023-03-05.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Liskov substitution principle.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Parallelism.md",
-    "Configuration/Templates/KnowledgeCards.md",
-    "DataBase/Reality/Persons/Authors/陈亮.md",
-    "DataBase/Investment/Stocks/海康威视.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Template Method Pattern.md",
-    "DataBase/Literature/Text/Books/Design Patterns Wiki Book.md",
-    "DataBase/Investment/StockEvaluationKnowledge/市盈率.md",
-    "DataBase/Literature/Text/Sayings/Saying0001.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Concurrency.md",
     "DataBase/Reality/Persons/Scientists",
     "DataBase/Reality/Persons/Politician",
     "DataBase/Reality/Persons/Entrepreneurs",
     "DataBase/Reality/Persons/Entertainers",
     "DataBase/Reality/Persons/Authors",
-    "DataBase/Literature/Text/Sayings",
     "Resources/Images/The Compilation system.png",
     "Resources/Images/State_Design_Pattern_UML_Class_Diagram.svg",
     "Resources/Images/Isaac Newton.png",
