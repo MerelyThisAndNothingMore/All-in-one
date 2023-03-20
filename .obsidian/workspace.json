@@ -18,28 +18,15 @@
             }
           },
           {
-            "id": "a862ce47daf1b2ec",
+            "id": "69aad05bc8dd2a36",
             "type": "leaf",
             "state": {
               "type": "memos_view",
               "state": {}
             }
-          },
-          {
-            "id": "9f0794af46e21ecb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home Page.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +119,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home Page.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -167,7 +153,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,9 +168,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Home Page.md"
-              }
+              "state": {}
             }
           },
           {
@@ -218,7 +201,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,8 +225,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5,
-    "collapsed": true
+    "width": 366.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -266,49 +247,48 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9f0794af46e21ecb",
+  "active": "69aad05bc8dd2a36",
   "lastOpenFiles": [
+    "DataBase/Life/diary/2023-03-20.md",
     "Home Page.md",
-    "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Facts/中国地理.md",
-    "DataBase/Tasks/TasksBoard.md",
-    "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Facts/青藏高原.md",
-    "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Facts/印度洋板块.md",
-    "Resources/Images/The Compilation system.png",
-    "Resources/Images/State_Design_Pattern_UML_Class_Diagram.svg",
-    "Resources/Images/Hardware Organization.png",
-    "Resources/Images/Pasted image 20230318231949.png",
-    "Resources/Images/Pasted image 20230318231804.png",
+    "DataBase/Life/diary/2023-03-18.md",
+    "DataBase/Literature/Text/Books/这里是中国.md",
     "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Theory/行星风系.md",
-    "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Untitled.md",
-    "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Theory",
-    "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Facts/三级阶梯.md",
+    "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Facts/青藏高原.md",
     "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Facts/欧亚大陆板块.md",
-    "DataBase/Reality/Places/Countries/中华人民共和国.md",
-    "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Untitled/Untitled",
+    "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Facts/印度洋板块.md",
+    "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Facts/中国地理.md",
+    "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Facts/三级阶梯.md",
+    "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Theory",
     "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Facts",
     "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography",
-    "DataBase/Literature/Text/Books/这里是中国.md",
-    "DataBase/Literature/Text/Books/茶馆.md",
-    "DataBase/Literature/Text/Books/骆驼祥子.md",
-    "DataBase/Literature/Text/Books/人间失格.md",
-    "DataBase/Literature/Text/Books/四世同堂.md",
-    "DataBase/Literature/Text/Books/毛主席语录.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Files.md",
-    "DataBase/Literature/Text/Books/Untitled",
-    "Configuration/Templates/SayingTemplate.md",
-    "Configuration/Templates/StockTemplate.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation/Interview preparation.md",
-    "Configuration/Templates/DataStructureTemplate.md",
-    "Configuration/Templates/KnowledgeCards.md",
-    "DataBase/life/diary/2023-03-18.md",
+    "DataBase/Knowledge/NaturalScience/ApplicationLayer",
+    "DataBase/Literature/Text/Books/The Year of Magical Thinking.md",
     "README.md",
+    "Configuration/Templates/DataStructureTemplate.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View可见性检测.md",
+    "DataBase/Life/diary/2023-03-05.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Liskov substitution principle.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Parallelism.md",
+    "Configuration/Templates/KnowledgeCards.md",
+    "DataBase/Reality/Persons/Authors/陈亮.md",
+    "DataBase/Investment/Stocks/海康威视.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Template Method Pattern.md",
+    "DataBase/Literature/Text/Books/Design Patterns Wiki Book.md",
+    "DataBase/Investment/StockEvaluationKnowledge/市盈率.md",
+    "DataBase/Literature/Text/Sayings/Saying0001.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Concurrency.md",
+    "DataBase/Reality/Places/New World.md",
     "DataBase/Reality/Persons/Scientists",
     "DataBase/Reality/Persons/Politician",
     "DataBase/Reality/Persons/Entrepreneurs",
     "DataBase/Reality/Persons/Entertainers",
     "DataBase/Reality/Persons/Authors",
+    "DataBase/Literature/Text/Sayings",
+    "Resources/Images/The Compilation system.png",
+    "Resources/Images/State_Design_Pattern_UML_Class_Diagram.svg",
     "Resources/Images/Isaac Newton.png",
+    "Resources/Images/Hardware Organization.png",
     "Resources/Images/Pasted image 20230303101829.png",
     "Resources/canvas/UML of state pattern structure.canvas",
     "Untitled.canvas"

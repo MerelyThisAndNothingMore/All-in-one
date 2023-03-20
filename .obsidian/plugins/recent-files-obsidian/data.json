@@ -5,104 +5,16 @@
       "path": "Home Page.md"
     },
     {
-      "basename": "中国地理",
-      "path": "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Facts/中国地理.md"
-    },
-    {
-      "basename": "TasksBoard",
-      "path": "DataBase/Tasks/TasksBoard.md"
-    },
-    {
-      "basename": "青藏高原",
-      "path": "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Facts/青藏高原.md"
-    },
-    {
-      "basename": "印度洋板块",
-      "path": "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Facts/印度洋板块.md"
-    },
-    {
-      "basename": "The Compilation system",
-      "path": "Resources/Images/The Compilation system.png"
-    },
-    {
-      "basename": "State_Design_Pattern_UML_Class_Diagram",
-      "path": "Resources/Images/State_Design_Pattern_UML_Class_Diagram.svg"
-    },
-    {
-      "basename": "Hardware Organization",
-      "path": "Resources/Images/Hardware Organization.png"
-    },
-    {
-      "basename": "行星风系",
-      "path": "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Theory/行星风系.md"
-    },
-    {
-      "basename": "三级阶梯",
-      "path": "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Facts/三级阶梯.md"
-    },
-    {
-      "basename": "欧亚大陆板块",
-      "path": "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Facts/欧亚大陆板块.md"
-    },
-    {
-      "basename": "中华人民共和国",
-      "path": "DataBase/Reality/Places/Countries/中华人民共和国.md"
-    },
-    {
-      "basename": "这里是中国",
-      "path": "DataBase/Literature/Text/Books/这里是中国.md"
-    },
-    {
-      "basename": "茶馆",
-      "path": "DataBase/Literature/Text/Books/茶馆.md"
-    },
-    {
-      "basename": "骆驼祥子",
-      "path": "DataBase/Literature/Text/Books/骆驼祥子.md"
-    },
-    {
-      "basename": "人间失格",
-      "path": "DataBase/Literature/Text/Books/人间失格.md"
-    },
-    {
-      "basename": "四世同堂",
-      "path": "DataBase/Literature/Text/Books/四世同堂.md"
-    },
-    {
-      "basename": "毛主席语录",
-      "path": "DataBase/Literature/Text/Books/毛主席语录.md"
-    },
-    {
-      "basename": "Files",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Files.md"
-    },
-    {
-      "basename": "SayingTemplate",
-      "path": "Configuration/Templates/SayingTemplate.md"
-    },
-    {
-      "basename": "StockTemplate",
-      "path": "Configuration/Templates/StockTemplate.md"
-    },
-    {
-      "basename": "Interview preparation",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation/Interview preparation.md"
-    },
-    {
-      "basename": "DataStructureTemplate",
-      "path": "Configuration/Templates/DataStructureTemplate.md"
-    },
-    {
-      "basename": "KnowledgeCards",
-      "path": "Configuration/Templates/KnowledgeCards.md"
-    },
-    {
       "basename": "The Year of Magical Thinking",
       "path": "DataBase/Literature/Text/Books/The Year of Magical Thinking.md"
     },
     {
       "basename": "README",
       "path": "README.md"
+    },
+    {
+      "basename": "DataStructureTemplate",
+      "path": "Configuration/Templates/DataStructureTemplate.md"
     },
     {
       "basename": "View可见性检测",
@@ -119,6 +31,10 @@
     {
       "basename": "Parallelism",
       "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Parallelism.md"
+    },
+    {
+      "basename": "KnowledgeCards",
+      "path": "Configuration/Templates/KnowledgeCards.md"
     },
     {
       "basename": "陈亮",
@@ -185,8 +101,16 @@
       "path": "DataBase/Literature/Text/Books/Computer Systems-A Programmer's Perspective.md"
     },
     {
+      "basename": "骆驼祥子",
+      "path": "DataBase/Literature/Text/Books/骆驼祥子.md"
+    },
+    {
       "basename": "查拉图斯特拉如是说",
       "path": "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md"
+    },
+    {
+      "basename": "茶馆",
+      "path": "DataBase/Literature/Text/Books/茶馆.md"
     },
     {
       "basename": "Arrays In Java",
@@ -199,6 +123,82 @@
     {
       "basename": "Software engineering",
       "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Software engineering.md"
+    },
+    {
+      "basename": "Static modifier",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Static modifier.md"
+    },
+    {
+      "basename": "第二章",
+      "path": "Outputs/BooksTranslation/奇想之年/第二章.md"
+    },
+    {
+      "basename": "第三章",
+      "path": "Outputs/BooksTranslation/奇想之年/第三章.md"
+    },
+    {
+      "basename": "Steve Jobs",
+      "path": "DataBase/Reality/Persons/Entrepreneurs/Steve Jobs.md"
+    },
+    {
+      "basename": "Directors",
+      "path": "DataBase/Reality/Persons/Directors.md"
+    },
+    {
+      "basename": "Authors",
+      "path": "DataBase/Reality/Persons/Authors.md"
+    },
+    {
+      "basename": "People Desk",
+      "path": "DataBase/Reality/Persons/People Desk.md"
+    },
+    {
+      "basename": "The String Class",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Java/Fundamentals/The String Class.md"
+    },
+    {
+      "basename": "software testing",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Coding/software testing.md"
+    },
+    {
+      "basename": "Bolshevik",
+      "path": "DataBase/Reality/Groups/Bolshevik.md"
+    },
+    {
+      "basename": "Object",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Object.md"
+    },
+    {
+      "basename": "Abstract Factory Pattern",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Abstract Factory Pattern.md"
+    },
+    {
+      "basename": "Design pattern",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Design pattern.md"
+    },
+    {
+      "basename": "Interpreter Pattern",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Interpreter Pattern.md"
+    },
+    {
+      "basename": "StockTemplate",
+      "path": "Configuration/Templates/StockTemplate.md"
+    },
+    {
+      "basename": "换手率",
+      "path": "DataBase/Investment/StockEvaluationKnowledge/换手率.md"
+    },
+    {
+      "basename": "中华人民共和国",
+      "path": "DataBase/Reality/Places/Countries/中华人民共和国.md"
+    },
+    {
+      "basename": "北京",
+      "path": "DataBase/Reality/Places/北京.md"
+    },
+    {
+      "basename": "Computer programming",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Computer programming.md"
     }
   ],
   "omittedPaths": [],
