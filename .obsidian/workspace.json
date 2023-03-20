@@ -31,8 +31,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Life/diary/2023-03-20.md",
-                "mode": "source",
+                "file": "Home Page.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Life/diary/2023-03-20.md",
+                "file": "Home Page.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Life/diary/2023-03-20.md",
+                "file": "Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Life/diary/2023-03-20.md"
+                "file": "Home Page.md"
               }
             }
           },
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Life/diary/2023-03-20.md",
+                "file": "Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
