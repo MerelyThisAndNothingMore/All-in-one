@@ -24,9 +24,22 @@
               "type": "memos_view",
               "state": {}
             }
+          },
+          {
+            "id": "ac4383b28dc4cfb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Life/diary/2023-03-20.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,6 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "DataBase/Life/diary/2023-03-20.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -153,6 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DataBase/Life/diary/2023-03-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +183,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DataBase/Life/diary/2023-03-20.md"
+              }
             }
           },
           {
@@ -201,6 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DataBase/Life/diary/2023-03-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,8 +265,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "69aad05bc8dd2a36",
+  "active": "ac4383b28dc4cfb0",
   "lastOpenFiles": [
+    "DataBase/Life/diary/Diary Template.md",
     "DataBase/Life/diary/2023-03-20.md",
     "Home Page.md",
     "DataBase/Life/diary/2023-03-18.md",
@@ -278,7 +297,6 @@
     "DataBase/Investment/StockEvaluationKnowledge/市盈率.md",
     "DataBase/Literature/Text/Sayings/Saying0001.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Concurrency.md",
-    "DataBase/Reality/Places/New World.md",
     "DataBase/Reality/Persons/Scientists",
     "DataBase/Reality/Persons/Politician",
     "DataBase/Reality/Persons/Entrepreneurs",
