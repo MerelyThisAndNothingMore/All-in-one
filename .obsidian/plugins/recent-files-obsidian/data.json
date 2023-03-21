@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "将进酒",
+      "path": "DataBase/Literature/Text/Poetry/古典诗/将进酒.md"
+    },
+    {
+      "basename": "示儿",
+      "path": "DataBase/Literature/Text/Poetry/古典诗/示儿.md"
+    },
+    {
+      "basename": "念奴娇·登多景楼",
+      "path": "DataBase/Literature/Text/Poetry/词/念奴娇·登多景楼.md"
+    },
+    {
+      "basename": "Poetry",
+      "path": "DataBase/Literature/Text/Poetry.md"
+    },
+    {
+      "basename": "SayingView",
+      "path": "DataBase/Literature/Text/SayingView.md"
+    },
+    {
+      "basename": "BooksAll",
+      "path": "DataBase/Literature/Text/BooksAll.md"
+    },
+    {
+      "basename": "李白",
+      "path": "DataBase/Reality/Persons/Authors/李白.md"
+    },
+    {
+      "basename": "夏目簌石",
+      "path": "DataBase/Reality/Persons/Authors/夏目簌石.md"
+    },
+    {
       "basename": "中华人民共和国",
       "path": "DataBase/Reality/Places/Countries/中华人民共和国.md"
     },
@@ -167,38 +199,6 @@
     {
       "basename": "Authors",
       "path": "DataBase/Reality/Persons/Authors.md"
-    },
-    {
-      "basename": "The String Class",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Java/Fundamentals/The String Class.md"
-    },
-    {
-      "basename": "software testing",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Coding/software testing.md"
-    },
-    {
-      "basename": "Bolshevik",
-      "path": "DataBase/Reality/Groups/Bolshevik.md"
-    },
-    {
-      "basename": "Object",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Object.md"
-    },
-    {
-      "basename": "Abstract Factory Pattern",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Abstract Factory Pattern.md"
-    },
-    {
-      "basename": "Design pattern",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Design pattern.md"
-    },
-    {
-      "basename": "Interpreter Pattern",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Interpreter Pattern.md"
-    },
-    {
-      "basename": "StockTemplate",
-      "path": "Configuration/Templates/StockTemplate.md"
     }
   ],
   "omittedPaths": [],

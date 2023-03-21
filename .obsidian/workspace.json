@@ -31,7 +31,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Reality/Places/Countries/中华人民共和国.md",
+                "file": "DataBase/Reality/Persons/Authors/夏目簌石.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfbfb89416cbbf99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Literature/Text/Poetry/古典诗/示儿.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81c6a5ee84e59b9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Literature/Text/SayingView.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "91147c45450cf434",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Literature/Text/Poetry/古典诗/将进酒.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -132,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Reality/Places/Countries/中华人民共和国.md",
+                "file": "DataBase/Literature/Text/Poetry/古典诗/将进酒.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -167,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Reality/Places/Countries/中华人民共和国.md",
+                "file": "DataBase/Literature/Text/Poetry/古典诗/将进酒.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Reality/Places/Countries/中华人民共和国.md"
+                "file": "DataBase/Literature/Text/Poetry/古典诗/将进酒.md"
               }
             }
           },
@@ -218,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Reality/Places/Countries/中华人民共和国.md",
+                "file": "DataBase/Literature/Text/Poetry/古典诗/将进酒.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,8 +304,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ac4383b28dc4cfb0",
+  "active": "91147c45450cf434",
   "lastOpenFiles": [
+    "DataBase/Literature/Text/Poetry/古典诗/示儿.md",
+    "DataBase/Literature/Text/Poetry/古典诗/将进酒.md",
+    "DataBase/Literature/Text/Poetry/词/念奴娇·登多景楼.md",
+    "DataBase/Literature/Text/Poetry.md",
+    "DataBase/Literature/Text/SayingView.md",
+    "DataBase/Literature/Text/BooksAll.md",
+    "DataBase/Reality/Persons/Authors/李白.md",
+    "DataBase/Reality/Persons/Authors/夏目簌石.md",
+    "DataBase/Reality/Places/Countries/中华人民共和国.md",
     "DataBase/Literature/Text/Books/The Year of Magical Thinking.md",
     "DataBase/Life/diary/2023-02-16.md",
     "DataBase/Reality/Persons/Entertainers/吴倩莲.md",
@@ -284,19 +332,10 @@
     "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Theory/行星风系.md",
     "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Facts/青藏高原.md",
     "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Facts/欧亚大陆板块.md",
-    "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Facts/印度洋板块.md",
-    "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Facts/中国地理.md",
-    "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Facts/三级阶梯.md",
     "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Theory",
     "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Facts",
     "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography",
     "DataBase/Knowledge/NaturalScience/ApplicationLayer",
-    "README.md",
-    "Configuration/Templates/DataStructureTemplate.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View可见性检测.md",
-    "DataBase/Life/diary/2023-03-05.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Liskov substitution principle.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Parallelism.md",
     "DataBase/Reality/Persons/Scientists",
     "DataBase/Reality/Persons/Politician",
     "DataBase/Reality/Persons/Entrepreneurs",
