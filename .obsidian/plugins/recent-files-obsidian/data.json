@@ -1,100 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Entertainers",
-      "path": "DataBase/Reality/Persons/Entertainers.md"
+      "basename": "中华人民共和国",
+      "path": "DataBase/Reality/Places/Countries/中华人民共和国.md"
     },
     {
-      "basename": "赵丽颖",
-      "path": "DataBase/Reality/Persons/Entertainers/赵丽颖.md"
+      "basename": "The Year of Magical Thinking",
+      "path": "DataBase/Literature/Text/Books/The Year of Magical Thinking.md"
     },
     {
-      "basename": "桥本环奈",
-      "path": "DataBase/Reality/Persons/Entertainers/桥本环奈.md"
+      "basename": "2023-02-16",
+      "path": "DataBase/Life/diary/2023-02-16.md"
     },
     {
-      "basename": "林允儿",
-      "path": "DataBase/Reality/Persons/Entertainers/林允儿.md"
+      "basename": "吴倩莲",
+      "path": "DataBase/Reality/Persons/Entertainers/吴倩莲.md"
     },
     {
-      "basename": "全智贤",
-      "path": "DataBase/Reality/Persons/Entertainers/全智贤.md"
-    },
-    {
-      "basename": "孙艺珍",
-      "path": "DataBase/Reality/Persons/Entertainers/孙艺珍.md"
-    },
-    {
-      "basename": "周迅",
-      "path": "DataBase/Reality/Persons/Entertainers/周迅.md"
-    },
-    {
-      "basename": "Directors",
-      "path": "DataBase/Reality/Persons/Directors.md"
-    },
-    {
-      "basename": "Authors",
-      "path": "DataBase/Reality/Persons/Authors.md"
-    },
-    {
-      "basename": "Stanley Kubrick",
-      "path": "DataBase/Reality/Persons/Entertainers/Stanley Kubrick.md"
-    },
-    {
-      "basename": "徐克",
-      "path": "DataBase/Reality/Persons/Entertainers/徐克.md"
-    },
-    {
-      "basename": "可可西里",
-      "path": "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Facts/可可西里.md"
-    },
-    {
-      "basename": "印度洋板块",
-      "path": "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Facts/印度洋板块.md"
-    },
-    {
-      "basename": "中国地理",
-      "path": "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Facts/中国地理.md"
-    },
-    {
-      "basename": "青藏高原",
-      "path": "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Facts/青藏高原.md"
-    },
-    {
-      "basename": "行星风系",
-      "path": "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Theory/行星风系.md"
-    },
-    {
-      "basename": "三级阶梯",
-      "path": "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Facts/三级阶梯.md"
+      "basename": "这里是中国",
+      "path": "DataBase/Literature/Text/Books/这里是中国.md"
     },
     {
       "basename": "2023-03-20",
       "path": "DataBase/Life/diary/2023-03-20.md"
     },
     {
-      "basename": "Home Page",
-      "path": "Home Page.md"
-    },
-    {
-      "basename": "Law of universal gravitation",
-      "path": "DataBase/Knowledge/NaturalScience/TheoreticalLayer/Physics/Law of universal gravitation.md"
-    },
-    {
-      "basename": "Interview preparation",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation/Interview preparation.md"
-    },
-    {
-      "basename": "小松菜奈",
-      "path": "DataBase/Reality/Persons/Entertainers/小松菜奈.md"
-    },
-    {
       "basename": "Diary Template",
       "path": "DataBase/Life/diary/Diary Template.md"
     },
     {
-      "basename": "The Year of Magical Thinking",
-      "path": "DataBase/Literature/Text/Books/The Year of Magical Thinking.md"
+      "basename": "Home Page",
+      "path": "Home Page.md"
     },
     {
       "basename": "README",
@@ -199,6 +135,70 @@
     {
       "basename": "茶馆",
       "path": "DataBase/Literature/Text/Books/茶馆.md"
+    },
+    {
+      "basename": "Arrays In Java",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Java/Fundamentals/Arrays In Java.md"
+    },
+    {
+      "basename": "Software engineering",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Software engineering.md"
+    },
+    {
+      "basename": "Static modifier",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Static modifier.md"
+    },
+    {
+      "basename": "第二章",
+      "path": "Outputs/BooksTranslation/奇想之年/第二章.md"
+    },
+    {
+      "basename": "第三章",
+      "path": "Outputs/BooksTranslation/奇想之年/第三章.md"
+    },
+    {
+      "basename": "Steve Jobs",
+      "path": "DataBase/Reality/Persons/Entrepreneurs/Steve Jobs.md"
+    },
+    {
+      "basename": "Directors",
+      "path": "DataBase/Reality/Persons/Directors.md"
+    },
+    {
+      "basename": "Authors",
+      "path": "DataBase/Reality/Persons/Authors.md"
+    },
+    {
+      "basename": "The String Class",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Java/Fundamentals/The String Class.md"
+    },
+    {
+      "basename": "software testing",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Coding/software testing.md"
+    },
+    {
+      "basename": "Bolshevik",
+      "path": "DataBase/Reality/Groups/Bolshevik.md"
+    },
+    {
+      "basename": "Object",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Object.md"
+    },
+    {
+      "basename": "Abstract Factory Pattern",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Abstract Factory Pattern.md"
+    },
+    {
+      "basename": "Design pattern",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Design pattern.md"
+    },
+    {
+      "basename": "Interpreter Pattern",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Interpreter Pattern.md"
+    },
+    {
+      "basename": "StockTemplate",
+      "path": "Configuration/Templates/StockTemplate.md"
     }
   ],
   "omittedPaths": [],
