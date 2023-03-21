@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Static modifier",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Static modifier.md"
+    },
+    {
+      "basename": "恋如雨止",
+      "path": "DataBase/Literature/Films/恋如雨止.md"
+    },
+    {
+      "basename": "梅艳芳",
+      "path": "DataBase/Reality/Persons/Entertainers/梅艳芳.md"
+    },
+    {
+      "basename": "Home Page",
+      "path": "Home Page.md"
+    },
+    {
       "basename": "The Raven",
       "path": "DataBase/Literature/Text/Poem/现代诗/The Raven.md"
     },
@@ -71,10 +87,6 @@
     {
       "basename": "将进酒",
       "path": "DataBase/Literature/Text/Poem/古典诗/将进酒.md"
-    },
-    {
-      "basename": "Home Page",
-      "path": "Home Page.md"
     },
     {
       "basename": "念奴娇·登多景楼",
@@ -187,18 +199,6 @@
     {
       "basename": "Creational patterns",
       "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Creational patterns.md"
-    },
-    {
-      "basename": "Interface segregation principle",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Interface segregation principle.md"
-    },
-    {
-      "basename": "Computational complexity",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithm Analysis/Computational complexity.md"
-    },
-    {
-      "basename": "Text File",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Text File.md"
     }
   ],
   "omittedPaths": [],

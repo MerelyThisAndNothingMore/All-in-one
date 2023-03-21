@@ -26,98 +26,20 @@
             }
           },
           {
-            "id": "ac4383b28dc4cfb0",
+            "id": "c350ef67636b1988",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Reality/Persons/Authors/夏目簌石.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cfbfb89416cbbf99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Literature/Text/Poem/古典诗/示儿.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "81c6a5ee84e59b9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Literature/Text/SayingView.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "91147c45450cf434",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Literature/Text/Poem/词/念奴娇·登多景楼.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "11f862c68e2ab105",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Literature/Text/Poem/古典诗/将进酒.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4fa23be04840efd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Reality/Persons/Authors/毛泽东.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "90ed19d56c195b26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Literature/Text/Poem/现代诗/The Raven.md",
-                "mode": "source",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Static modifier.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -210,7 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Literature/Text/Poem/现代诗/The Raven.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Static modifier.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -245,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Literature/Text/Poem/现代诗/The Raven.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Static modifier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Literature/Text/Poem/现代诗/The Raven.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Static modifier.md"
               }
             }
           },
@@ -296,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Literature/Text/Poem/现代诗/The Raven.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Static modifier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -343,8 +265,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "90ed19d56c195b26",
+  "active": "c350ef67636b1988",
   "lastOpenFiles": [
+    "DataBase/Literature/Films/恋如雨止.md",
+    "DataBase/Reality/Persons/Entertainers/梅艳芳.md",
+    "Home Page.md",
     "DataBase/Tasks/WorkDesk.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Files.md",
     "DataBase/Literature/Films/铁路沿线.md",
@@ -367,14 +292,11 @@
     "DataBase/Literature/Text/Poem/古典诗/示儿.md",
     "DataBase/Literature/Text/Poem/古典诗/将进酒.md",
     "DataBase/Literature/Text/Poem/现代诗",
-    "Home Page.md",
     "DataBase/Literature/Text/Poem/词/念奴娇·登多景楼.md",
     "DataBase/Literature/Text/Poetry.md",
     "DataBase/Literature/Text/BooksAll.md",
     "DataBase/Reality/Persons/Authors/李白.md",
     "DataBase/Reality/Persons/Authors/夏目簌石.md",
-    "DataBase/Reality/Places/Countries/中华人民共和国.md",
-    "DataBase/Literature/Text/Books/The Year of Magical Thinking.md",
     "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Theory",
     "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Facts",
     "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography",
