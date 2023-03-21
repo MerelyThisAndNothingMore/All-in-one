@@ -31,7 +31,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Static modifier.md",
+                "file": "DataBase/Reality/Persons/Authors/李白.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6e09cb8a07bc5cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Reality/Persons/Authors/休谟.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92151380a4adb29b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Reality/Persons/Authors/休谟.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b42f832ccf8970d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Literature/Text/Books/毛主席语录.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69781d249db56219",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Literature/Text/Books/人性论.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc723b4af7e8fc9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Investment/Stocks/浪潮信息.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -39,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -132,7 +197,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Static modifier.md",
+                "file": "DataBase/Investment/Stocks/浪潮信息.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -167,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Static modifier.md",
+                "file": "DataBase/Investment/Stocks/浪潮信息.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Static modifier.md"
+                "file": "DataBase/Investment/Stocks/浪潮信息.md"
               }
             }
           },
@@ -218,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Static modifier.md",
+                "file": "DataBase/Investment/Stocks/浪潮信息.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,38 +330,38 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c350ef67636b1988",
+  "active": "bc723b4af7e8fc9a",
   "lastOpenFiles": [
-    "DataBase/Literature/Films/恋如雨止.md",
-    "DataBase/Reality/Persons/Entertainers/梅艳芳.md",
     "Home Page.md",
+    "DataBase/Literature/Text/Books/人性论.md",
+    "DataBase/Reality/Persons/Authors/休谟.md",
+    "DataBase/Literature/Text/Books/毛主席语录.md",
+    "DataBase/Reality/Persons/Authors/乔治·贝克莱.md",
+    "DataBase/Reality/Persons/Authors/约翰洛克.md",
+    "DataBase/Reality/Persons/Authors/李白.md",
+    "DataBase/Reality/Persons/Entertainers/梅艳芳.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Concurrency.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation/Interview preparation.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/AI/autocompleting.md",
+    "DataBase/Literature/Text/Poem/现代诗/The Raven.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Static modifier.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Computer programming.md",
+    "DataBase/Reality/Persons/Entertainers/周浩.md",
+    "DataBase/Literature/Films/恋如雨止.md",
     "DataBase/Tasks/WorkDesk.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Files.md",
     "DataBase/Literature/Films/铁路沿线.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Unit testing.md",
     "DataBase/Tasks/data/付费直播-直播间内创建预售门票.md",
-    "DataBase/Literature/Text/Poem/现代诗/The Raven.md",
     "DataBase/Literature/Text/SayingView.md",
     "DataBase/Literature/Text/Sayings/Saying0004.md",
     "DataBase/Literature/Text/Sayings/Saying0003.md",
     "DataBase/Literature/Text/Sayings/Saying0002.md",
     "DataBase/Literature/Text/Sayings/Saying0001.md",
-    "DataBase/Literature/Text/Sayings/全世界无产者，联合起来.md",
-    "DataBase/Knowledge/Humanities/Literature/Theory/narrative poem.md",
     "DataBase/Knowledge/Humanities/Literature/Theory",
     "DataBase/Knowledge/Humanities/Literature",
     "DataBase/Knowledge/Humanities",
-    "DataBase/Reality/Persons/Authors/太宰治.md",
-    "DataBase/Reality/Persons/Authors/Edgar Allan Poe.md",
-    "DataBase/Reality/Persons/Authors/毛泽东.md",
-    "DataBase/Literature/Text/Poem/古典诗/示儿.md",
-    "DataBase/Literature/Text/Poem/古典诗/将进酒.md",
     "DataBase/Literature/Text/Poem/现代诗",
-    "DataBase/Literature/Text/Poem/词/念奴娇·登多景楼.md",
-    "DataBase/Literature/Text/Poetry.md",
-    "DataBase/Literature/Text/BooksAll.md",
-    "DataBase/Reality/Persons/Authors/李白.md",
-    "DataBase/Reality/Persons/Authors/夏目簌石.md",
     "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Theory",
     "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Facts",
     "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography",
