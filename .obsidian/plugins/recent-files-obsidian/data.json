@@ -1,24 +1,88 @@
 {
   "recentFiles": [
     {
-      "basename": "将进酒",
-      "path": "DataBase/Literature/Text/Poetry/古典诗/将进酒.md"
+      "basename": "The Raven",
+      "path": "DataBase/Literature/Text/Poem/现代诗/The Raven.md"
     },
     {
-      "basename": "示儿",
-      "path": "DataBase/Literature/Text/Poetry/古典诗/示儿.md"
+      "basename": "WorkDesk",
+      "path": "DataBase/Tasks/WorkDesk.md"
     },
     {
-      "basename": "念奴娇·登多景楼",
-      "path": "DataBase/Literature/Text/Poetry/词/念奴娇·登多景楼.md"
+      "basename": "Files",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Files.md"
     },
     {
-      "basename": "Poetry",
-      "path": "DataBase/Literature/Text/Poetry.md"
+      "basename": "铁路沿线",
+      "path": "DataBase/Literature/Films/铁路沿线.md"
+    },
+    {
+      "basename": "Unit testing",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Unit testing.md"
+    },
+    {
+      "basename": "付费直播-直播间内创建预售门票",
+      "path": "DataBase/Tasks/data/付费直播-直播间内创建预售门票.md"
     },
     {
       "basename": "SayingView",
       "path": "DataBase/Literature/Text/SayingView.md"
+    },
+    {
+      "basename": "Saying0004",
+      "path": "DataBase/Literature/Text/Sayings/Saying0004.md"
+    },
+    {
+      "basename": "Saying0003",
+      "path": "DataBase/Literature/Text/Sayings/Saying0003.md"
+    },
+    {
+      "basename": "Saying0002",
+      "path": "DataBase/Literature/Text/Sayings/Saying0002.md"
+    },
+    {
+      "basename": "Saying0001",
+      "path": "DataBase/Literature/Text/Sayings/Saying0001.md"
+    },
+    {
+      "basename": "全世界无产者，联合起来",
+      "path": "DataBase/Literature/Text/Sayings/全世界无产者，联合起来.md"
+    },
+    {
+      "basename": "narrative poem",
+      "path": "DataBase/Knowledge/Humanities/Literature/Theory/narrative poem.md"
+    },
+    {
+      "basename": "太宰治",
+      "path": "DataBase/Reality/Persons/Authors/太宰治.md"
+    },
+    {
+      "basename": "Edgar Allan Poe",
+      "path": "DataBase/Reality/Persons/Authors/Edgar Allan Poe.md"
+    },
+    {
+      "basename": "毛泽东",
+      "path": "DataBase/Reality/Persons/Authors/毛泽东.md"
+    },
+    {
+      "basename": "示儿",
+      "path": "DataBase/Literature/Text/Poem/古典诗/示儿.md"
+    },
+    {
+      "basename": "将进酒",
+      "path": "DataBase/Literature/Text/Poem/古典诗/将进酒.md"
+    },
+    {
+      "basename": "Home Page",
+      "path": "Home Page.md"
+    },
+    {
+      "basename": "念奴娇·登多景楼",
+      "path": "DataBase/Literature/Text/Poem/词/念奴娇·登多景楼.md"
+    },
+    {
+      "basename": "Poetry",
+      "path": "DataBase/Literature/Text/Poetry.md"
     },
     {
       "basename": "BooksAll",
@@ -59,10 +123,6 @@
     {
       "basename": "Diary Template",
       "path": "DataBase/Life/diary/Diary Template.md"
-    },
-    {
-      "basename": "Home Page",
-      "path": "Home Page.md"
     },
     {
       "basename": "README",
@@ -113,10 +173,6 @@
       "path": "DataBase/Investment/StockEvaluationKnowledge/市盈率.md"
     },
     {
-      "basename": "Saying0001",
-      "path": "DataBase/Literature/Text/Sayings/Saying0001.md"
-    },
-    {
       "basename": "Concurrency",
       "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Concurrency.md"
     },
@@ -143,62 +199,6 @@
     {
       "basename": "Text File",
       "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Text File.md"
-    },
-    {
-      "basename": "THE PRINCIPIA",
-      "path": "DataBase/Literature/Text/Books/THE PRINCIPIA.md"
-    },
-    {
-      "basename": "Operating Systems-Three Easy Pieces",
-      "path": "DataBase/Literature/Text/Books/Operating Systems-Three Easy Pieces.md"
-    },
-    {
-      "basename": "Computer Systems-A Programmer's Perspective",
-      "path": "DataBase/Literature/Text/Books/Computer Systems-A Programmer's Perspective.md"
-    },
-    {
-      "basename": "骆驼祥子",
-      "path": "DataBase/Literature/Text/Books/骆驼祥子.md"
-    },
-    {
-      "basename": "查拉图斯特拉如是说",
-      "path": "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md"
-    },
-    {
-      "basename": "茶馆",
-      "path": "DataBase/Literature/Text/Books/茶馆.md"
-    },
-    {
-      "basename": "Arrays In Java",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Java/Fundamentals/Arrays In Java.md"
-    },
-    {
-      "basename": "Software engineering",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Software engineering.md"
-    },
-    {
-      "basename": "Static modifier",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Static modifier.md"
-    },
-    {
-      "basename": "第二章",
-      "path": "Outputs/BooksTranslation/奇想之年/第二章.md"
-    },
-    {
-      "basename": "第三章",
-      "path": "Outputs/BooksTranslation/奇想之年/第三章.md"
-    },
-    {
-      "basename": "Steve Jobs",
-      "path": "DataBase/Reality/Persons/Entrepreneurs/Steve Jobs.md"
-    },
-    {
-      "basename": "Directors",
-      "path": "DataBase/Reality/Persons/Directors.md"
-    },
-    {
-      "basename": "Authors",
-      "path": "DataBase/Reality/Persons/Authors.md"
     }
   ],
   "omittedPaths": [],
