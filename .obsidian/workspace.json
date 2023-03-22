@@ -39,12 +39,103 @@
             }
           },
           {
-            "id": "d44f74e2fef56afa",
+            "id": "6ab36cb447a6259a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Literature/Music/Dream of You.md",
+                "file": "DataBase/Reality/Persons/Entertainers/李安.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b873b3a4019c7e3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Configuration/Templates/EntertainersTemplate.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c52ae8c22a2e741e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Literature/Music/Songs/Shake it off.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "09688af2d20824d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Reality/Persons/Entertainers/李小龙.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca7865abebf53309",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Reality/Persons/Entertainers/范冰冰.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e2eedb52da3af0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Literature/Music/Songs/Dream of You.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15cb5ae6c330ebd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Literature/Text/Sayings/Saying0003.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98dc0f6479738f62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Literature/Text/Sayings/Saying0005.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -52,7 +143,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -145,7 +236,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Literature/Music/Dream of You.md",
+                "file": "DataBase/Literature/Text/Sayings/Saying0005.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -180,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Literature/Music/Dream of You.md",
+                "file": "DataBase/Literature/Text/Sayings/Saying0005.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +288,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Literature/Music/Dream of You.md"
+                "file": "DataBase/Literature/Text/Sayings/Saying0005.md"
               }
             }
           },
@@ -231,7 +322,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Literature/Music/Dream of You.md",
+                "file": "DataBase/Literature/Text/Sayings/Saying0005.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,44 +369,44 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d44f74e2fef56afa",
+  "active": "9efb66c5acbe3c31",
   "lastOpenFiles": [
-    "Home Page.md",
-    "DataBase/Literature/Music/Dream of You.md",
-    "DataBase/Literature/Music",
-    "DataBase/Literature/Text/Books/Computer Systems-A Programmer's Perspective.md",
-    "DataBase/Literature/Text/Books/How to Read a Book.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Computer System.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Science/computer science.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation/Interview preparation.md",
-    "DataBase/Literature/Text/Books/The Year of Magical Thinking.md",
-    "DataBase/Literature/Text/BooksAll.md",
-    "DataBase/Literature/Text/Books/人性论.md",
-    "DataBase/Literature/Text/Poem/现代诗/The Raven.md",
-    "DataBase/Literature/Text/Poem/古典诗/将进酒.md",
-    "DataBase/Literature/Text/Poetry.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Science/Model of Computation.md",
-    "DataBase/Reality/Persons/Authors/约翰洛克.md",
-    "DataBase/Reality/Persons/Authors/休谟.md",
-    "DataBase/Reality/Persons/Authors/乔治·贝克莱.md",
-    "DataBase/Tasks/WorkDesk.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Files.md",
-    "DataBase/Literature/Films/铁路沿线.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Unit testing.md",
-    "DataBase/Tasks/data/付费直播-直播间内创建预售门票.md",
+    "DataBase/Literature/Characters",
     "DataBase/Literature/Text/SayingView.md",
-    "DataBase/Literature/Text/Sayings/Saying0004.md",
+    "DataBase/Literature/Text/Sayings/Saying0005.md",
     "DataBase/Literature/Text/Sayings/Saying0003.md",
+    "DataBase/Literature/Text/BooksAll.md",
+    "DataBase/Literature/Text/Sayings/Saying0004.md",
     "DataBase/Literature/Text/Sayings/Saying0002.md",
+    "DataBase/Literature/Text/Sayings/Saying0001.md",
+    "DataBase/Literature/Music/Nice Dance Music.md",
+    "DataBase/Literature/Music/Songs/Talk That Talk.md",
+    "DataBase/Literature/Music/Songs/Shake it off.md",
+    "Configuration/Templates/SongsTemplate.md",
+    "DataBase/Literature/Music/Songs/Dream of You.md",
+    "DataBase/Reality/Groups/EntertainmentGroup/TWICE.md",
+    "DataBase/Reality/Persons/Entertainers/范冰冰.md",
+    "DataBase/Reality/Persons/Entertainers/关之琳.md",
+    "DataBase/Reality/Persons/Entertainers/桂纶镁.md",
+    "DataBase/Reality/Persons/Entertainers/李安.md",
+    "DataBase/Reality/Persons/Entertainers/周迅.md",
+    "DataBase/Reality/Persons/Entertainers/Stanley Kubrick.md",
+    "DataBase/Reality/Persons/Entertainers/Taylor Swift.md",
+    "DataBase/Reality/Persons/Entertainers/林青霞.md",
+    "DataBase/Reality/Persons/Entertainers/梅艳芳.md",
+    "DataBase/Reality/Persons/Entertainers/桥本环奈.md",
+    "DataBase/Reality/Persons/Entertainers/李连杰.md",
+    "DataBase/Reality/Persons/Entertainers/金请夏.md",
+    "DataBase/Reality/Groups/EntertainmentGroup",
+    "DataBase/Literature/Music/Songs",
+    "DataBase/Reality/Persons/Musician",
+    "DataBase/Literature/Music",
     "DataBase/Knowledge/Humanities/Literature/Theory",
     "DataBase/Knowledge/Humanities/Literature",
     "DataBase/Knowledge/Humanities",
     "DataBase/Literature/Text/Poem/现代诗",
     "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Theory",
     "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Facts",
-    "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography",
-    "DataBase/Knowledge/NaturalScience/ApplicationLayer",
-    "DataBase/Reality/Persons/Scientists",
     "Resources/Images/The Compilation system.png",
     "Resources/Images/State_Design_Pattern_UML_Class_Diagram.svg",
     "Resources/Images/Isaac Newton.png",

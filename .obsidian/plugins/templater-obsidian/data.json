@@ -53,6 +53,10 @@
     {
       "folder": "DataBase/Literature/Text/Sayings",
       "template": "Configuration/Templates/SayingTemplate.md"
+    },
+    {
+      "folder": "DataBase/Literature/Music/Songs",
+      "template": "Configuration/Templates/SongsTemplate.md"
     }
   ],
   "syntax_highlighting": true,

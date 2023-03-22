@@ -3,6 +3,7 @@ birth:
 death:
 tags: 
 - Entertainers
-- celebrities
 masterpieces:
+alias:
+banner:
 ---

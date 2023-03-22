@@ -1,8 +1,148 @@
 {
   "recentFiles": [
     {
+      "basename": "Saying0005",
+      "path": "DataBase/Literature/Text/Sayings/Saying0005.md"
+    },
+    {
+      "basename": "SayingView",
+      "path": "DataBase/Literature/Text/SayingView.md"
+    },
+    {
+      "basename": "Saying0003",
+      "path": "DataBase/Literature/Text/Sayings/Saying0003.md"
+    },
+    {
+      "basename": "BooksAll",
+      "path": "DataBase/Literature/Text/BooksAll.md"
+    },
+    {
+      "basename": "Saying0004",
+      "path": "DataBase/Literature/Text/Sayings/Saying0004.md"
+    },
+    {
+      "basename": "Saying0002",
+      "path": "DataBase/Literature/Text/Sayings/Saying0002.md"
+    },
+    {
+      "basename": "Saying0001",
+      "path": "DataBase/Literature/Text/Sayings/Saying0001.md"
+    },
+    {
+      "basename": "Nice Dance Music",
+      "path": "DataBase/Literature/Music/Nice Dance Music.md"
+    },
+    {
+      "basename": "Talk That Talk",
+      "path": "DataBase/Literature/Music/Songs/Talk That Talk.md"
+    },
+    {
+      "basename": "Shake it off",
+      "path": "DataBase/Literature/Music/Songs/Shake it off.md"
+    },
+    {
+      "basename": "SongsTemplate",
+      "path": "Configuration/Templates/SongsTemplate.md"
+    },
+    {
       "basename": "Dream of You",
-      "path": "DataBase/Literature/Music/Dream of You.md"
+      "path": "DataBase/Literature/Music/Songs/Dream of You.md"
+    },
+    {
+      "basename": "TWICE",
+      "path": "DataBase/Reality/Groups/EntertainmentGroup/TWICE.md"
+    },
+    {
+      "basename": "范冰冰",
+      "path": "DataBase/Reality/Persons/Entertainers/范冰冰.md"
+    },
+    {
+      "basename": "关之琳",
+      "path": "DataBase/Reality/Persons/Entertainers/关之琳.md"
+    },
+    {
+      "basename": "桂纶镁",
+      "path": "DataBase/Reality/Persons/Entertainers/桂纶镁.md"
+    },
+    {
+      "basename": "李安",
+      "path": "DataBase/Reality/Persons/Entertainers/李安.md"
+    },
+    {
+      "basename": "周迅",
+      "path": "DataBase/Reality/Persons/Entertainers/周迅.md"
+    },
+    {
+      "basename": "Stanley Kubrick",
+      "path": "DataBase/Reality/Persons/Entertainers/Stanley Kubrick.md"
+    },
+    {
+      "basename": "Taylor Swift",
+      "path": "DataBase/Reality/Persons/Entertainers/Taylor Swift.md"
+    },
+    {
+      "basename": "林青霞",
+      "path": "DataBase/Reality/Persons/Entertainers/林青霞.md"
+    },
+    {
+      "basename": "梅艳芳",
+      "path": "DataBase/Reality/Persons/Entertainers/梅艳芳.md"
+    },
+    {
+      "basename": "桥本环奈",
+      "path": "DataBase/Reality/Persons/Entertainers/桥本环奈.md"
+    },
+    {
+      "basename": "李连杰",
+      "path": "DataBase/Reality/Persons/Entertainers/李连杰.md"
+    },
+    {
+      "basename": "金请夏",
+      "path": "DataBase/Reality/Persons/Entertainers/金请夏.md"
+    },
+    {
+      "basename": "Films and Television",
+      "path": "DataBase/Literature/Films and Television.md"
+    },
+    {
+      "basename": "EntertainersTemplate",
+      "path": "Configuration/Templates/EntertainersTemplate.md"
+    },
+    {
+      "basename": "李小龙",
+      "path": "DataBase/Reality/Persons/Entertainers/李小龙.md"
+    },
+    {
+      "basename": "Directors",
+      "path": "DataBase/Reality/Persons/Directors.md"
+    },
+    {
+      "basename": "Authors",
+      "path": "DataBase/Reality/Persons/Authors.md"
+    },
+    {
+      "basename": "Entertainers",
+      "path": "DataBase/Reality/Persons/Entertainers.md"
+    },
+    {
+      "basename": "celebrity",
+      "path": "Configuration/Templates/celebrity.md"
+    },
+    {
+      "basename": "林允儿",
+      "path": "DataBase/Reality/Persons/Entertainers/林允儿.md"
+    },
+    {
+      "basename": "成龙",
+      "path": "DataBase/Reality/Persons/Entertainers/成龙.md"
+    },
+    {
+      "basename": "恋如雨止",
+      "path": "DataBase/Literature/Films/恋如雨止.md"
+    },
+    {
+      "basename": "不能说的秘密",
+      "path": "DataBase/Literature/Films/不能说的秘密.md"
     },
     {
       "basename": "Home Page",
@@ -33,10 +173,6 @@
       "path": "DataBase/Literature/Text/Books/The Year of Magical Thinking.md"
     },
     {
-      "basename": "BooksAll",
-      "path": "DataBase/Literature/Text/BooksAll.md"
-    },
-    {
       "basename": "人性论",
       "path": "DataBase/Literature/Text/Books/人性论.md"
     },
@@ -63,142 +199,6 @@
     {
       "basename": "Files",
       "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Files.md"
-    },
-    {
-      "basename": "铁路沿线",
-      "path": "DataBase/Literature/Films/铁路沿线.md"
-    },
-    {
-      "basename": "Unit testing",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Unit testing.md"
-    },
-    {
-      "basename": "付费直播-直播间内创建预售门票",
-      "path": "DataBase/Tasks/data/付费直播-直播间内创建预售门票.md"
-    },
-    {
-      "basename": "SayingView",
-      "path": "DataBase/Literature/Text/SayingView.md"
-    },
-    {
-      "basename": "Saying0004",
-      "path": "DataBase/Literature/Text/Sayings/Saying0004.md"
-    },
-    {
-      "basename": "Saying0003",
-      "path": "DataBase/Literature/Text/Sayings/Saying0003.md"
-    },
-    {
-      "basename": "Saying0002",
-      "path": "DataBase/Literature/Text/Sayings/Saying0002.md"
-    },
-    {
-      "basename": "Saying0001",
-      "path": "DataBase/Literature/Text/Sayings/Saying0001.md"
-    },
-    {
-      "basename": "全世界无产者，联合起来",
-      "path": "DataBase/Literature/Text/Sayings/全世界无产者，联合起来.md"
-    },
-    {
-      "basename": "narrative poem",
-      "path": "DataBase/Knowledge/Humanities/Literature/Theory/narrative poem.md"
-    },
-    {
-      "basename": "太宰治",
-      "path": "DataBase/Reality/Persons/Authors/太宰治.md"
-    },
-    {
-      "basename": "Edgar Allan Poe",
-      "path": "DataBase/Reality/Persons/Authors/Edgar Allan Poe.md"
-    },
-    {
-      "basename": "毛泽东",
-      "path": "DataBase/Reality/Persons/Authors/毛泽东.md"
-    },
-    {
-      "basename": "示儿",
-      "path": "DataBase/Literature/Text/Poem/古典诗/示儿.md"
-    },
-    {
-      "basename": "念奴娇·登多景楼",
-      "path": "DataBase/Literature/Text/Poem/词/念奴娇·登多景楼.md"
-    },
-    {
-      "basename": "李白",
-      "path": "DataBase/Reality/Persons/Authors/李白.md"
-    },
-    {
-      "basename": "夏目簌石",
-      "path": "DataBase/Reality/Persons/Authors/夏目簌石.md"
-    },
-    {
-      "basename": "中华人民共和国",
-      "path": "DataBase/Reality/Places/Countries/中华人民共和国.md"
-    },
-    {
-      "basename": "2023-02-16",
-      "path": "DataBase/Life/diary/2023-02-16.md"
-    },
-    {
-      "basename": "吴倩莲",
-      "path": "DataBase/Reality/Persons/Entertainers/吴倩莲.md"
-    },
-    {
-      "basename": "这里是中国",
-      "path": "DataBase/Literature/Text/Books/这里是中国.md"
-    },
-    {
-      "basename": "2023-03-20",
-      "path": "DataBase/Life/diary/2023-03-20.md"
-    },
-    {
-      "basename": "Diary Template",
-      "path": "DataBase/Life/diary/Diary Template.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "DataStructureTemplate",
-      "path": "Configuration/Templates/DataStructureTemplate.md"
-    },
-    {
-      "basename": "View可见性检测",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View可见性检测.md"
-    },
-    {
-      "basename": "2023-03-05",
-      "path": "DataBase/Life/diary/2023-03-05.md"
-    },
-    {
-      "basename": "Liskov substitution principle",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Liskov substitution principle.md"
-    },
-    {
-      "basename": "Parallelism",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Parallelism.md"
-    },
-    {
-      "basename": "KnowledgeCards",
-      "path": "Configuration/Templates/KnowledgeCards.md"
-    },
-    {
-      "basename": "陈亮",
-      "path": "DataBase/Reality/Persons/Authors/陈亮.md"
-    },
-    {
-      "basename": "海康威视",
-      "path": "DataBase/Investment/Stocks/海康威视.md"
-    },
-    {
-      "basename": "Template Method Pattern",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Template Method Pattern.md"
-    },
-    {
-      "basename": "Design Patterns Wiki Book",
-      "path": "DataBase/Literature/Text/Books/Design Patterns Wiki Book.md"
     }
   ],
   "omittedPaths": [],
