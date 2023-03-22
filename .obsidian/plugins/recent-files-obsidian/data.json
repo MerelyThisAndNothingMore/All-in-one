@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home Page",
+      "path": "Home Page.md"
+    },
+    {
       "basename": "How to Read a Book",
       "path": "DataBase/Literature/Text/Books/How to Read a Book.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "Interview preparation",
       "path": "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation/Interview preparation.md"
-    },
-    {
-      "basename": "Home Page",
-      "path": "Home Page.md"
     },
     {
       "basename": "The Year of Magical Thinking",
