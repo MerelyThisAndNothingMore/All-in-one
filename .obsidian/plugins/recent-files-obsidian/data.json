@@ -1,12 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "Model of Computation",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Science/Model of Computation.md"
+      "basename": "How to Read a Book",
+      "path": "DataBase/Literature/Text/Books/How to Read a Book.md"
+    },
+    {
+      "basename": "Computer Systems-A Programmer's Perspective",
+      "path": "DataBase/Literature/Text/Books/Computer Systems-A Programmer's Perspective.md"
+    },
+    {
+      "basename": "Computer System",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Computer System.md"
+    },
+    {
+      "basename": "computer science",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Science/computer science.md"
+    },
+    {
+      "basename": "Interview preparation",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation/Interview preparation.md"
+    },
+    {
+      "basename": "Home Page",
+      "path": "Home Page.md"
+    },
+    {
+      "basename": "The Year of Magical Thinking",
+      "path": "DataBase/Literature/Text/Books/The Year of Magical Thinking.md"
+    },
+    {
+      "basename": "BooksAll",
+      "path": "DataBase/Literature/Text/BooksAll.md"
+    },
+    {
+      "basename": "人性论",
+      "path": "DataBase/Literature/Text/Books/人性论.md"
     },
     {
       "basename": "The Raven",
       "path": "DataBase/Literature/Text/Poem/现代诗/The Raven.md"
+    },
+    {
+      "basename": "将进酒",
+      "path": "DataBase/Literature/Text/Poem/古典诗/将进酒.md"
+    },
+    {
+      "basename": "Poetry",
+      "path": "DataBase/Literature/Text/Poetry.md"
+    },
+    {
+      "basename": "Model of Computation",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Science/Model of Computation.md"
     },
     {
       "basename": "WorkDesk",
@@ -73,24 +117,8 @@
       "path": "DataBase/Literature/Text/Poem/古典诗/示儿.md"
     },
     {
-      "basename": "将进酒",
-      "path": "DataBase/Literature/Text/Poem/古典诗/将进酒.md"
-    },
-    {
-      "basename": "Home Page",
-      "path": "Home Page.md"
-    },
-    {
       "basename": "念奴娇·登多景楼",
       "path": "DataBase/Literature/Text/Poem/词/念奴娇·登多景楼.md"
-    },
-    {
-      "basename": "Poetry",
-      "path": "DataBase/Literature/Text/Poetry.md"
-    },
-    {
-      "basename": "BooksAll",
-      "path": "DataBase/Literature/Text/BooksAll.md"
     },
     {
       "basename": "李白",
@@ -103,10 +131,6 @@
     {
       "basename": "中华人民共和国",
       "path": "DataBase/Reality/Places/Countries/中华人民共和国.md"
-    },
-    {
-      "basename": "The Year of Magical Thinking",
-      "path": "DataBase/Literature/Text/Books/The Year of Magical Thinking.md"
     },
     {
       "basename": "2023-02-16",
@@ -175,30 +199,6 @@
     {
       "basename": "市盈率",
       "path": "DataBase/Investment/StockEvaluationKnowledge/市盈率.md"
-    },
-    {
-      "basename": "Concurrency",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Concurrency.md"
-    },
-    {
-      "basename": "New World",
-      "path": "DataBase/Reality/Places/New World.md"
-    },
-    {
-      "basename": "2023-02-09",
-      "path": "DataBase/Life/diary/2023-02-09.md"
-    },
-    {
-      "basename": "Creational patterns",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Creational patterns.md"
-    },
-    {
-      "basename": "Interface segregation principle",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Interface segregation principle.md"
-    },
-    {
-      "basename": "Computational complexity",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithm Analysis/Computational complexity.md"
     }
   ],
   "omittedPaths": [],

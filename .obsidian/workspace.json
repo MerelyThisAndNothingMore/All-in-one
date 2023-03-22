@@ -109,7 +109,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Science/Model of Computation.md",
+                "file": "DataBase/Literature/Text/Poetry.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d0e671a9fc564fbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Literature/Text/Books/The Year of Magical Thinking.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76bbd7cb321770e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Literature/Text/Books/Computer Systems-A Programmer's Perspective.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "942520d3cebf7875",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Literature/Text/Books/How to Read a Book.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -117,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -147,7 +186,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "状态",
+                "query": "将进酒",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -210,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Science/Model of Computation.md",
+                "file": "DataBase/Literature/Text/Books/How to Read a Book.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -245,7 +284,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Science/Model of Computation.md",
+                "file": "DataBase/Literature/Text/Books/How to Read a Book.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +301,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Science/Model of Computation.md"
+                "file": "DataBase/Literature/Text/Books/How to Read a Book.md"
               }
             }
           },
@@ -296,7 +335,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Science/Model of Computation.md",
+                "file": "DataBase/Literature/Text/Books/How to Read a Book.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -343,13 +382,24 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "90ed19d56c195b26",
+  "active": "942520d3cebf7875",
   "lastOpenFiles": [
+    "DataBase/Literature/Text/Books/Computer Systems-A Programmer's Perspective.md",
+    "DataBase/Literature/Text/Books/How to Read a Book.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Computer System.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Science/computer science.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation/Interview preparation.md",
+    "Home Page.md",
+    "DataBase/Literature/Text/Books/The Year of Magical Thinking.md",
+    "DataBase/Literature/Text/BooksAll.md",
+    "DataBase/Literature/Text/Books/人性论.md",
     "DataBase/Literature/Text/Poem/现代诗/The Raven.md",
+    "DataBase/Literature/Text/Poem/古典诗/将进酒.md",
+    "DataBase/Literature/Text/Poetry.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Science/Model of Computation.md",
     "DataBase/Reality/Persons/Authors/约翰洛克.md",
     "DataBase/Reality/Persons/Authors/休谟.md",
     "DataBase/Reality/Persons/Authors/乔治·贝克莱.md",
-    "DataBase/Literature/Text/Books/人性论.md",
     "DataBase/Tasks/WorkDesk.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Files.md",
     "DataBase/Literature/Films/铁路沿线.md",
@@ -360,21 +410,10 @@
     "DataBase/Literature/Text/Sayings/Saying0003.md",
     "DataBase/Literature/Text/Sayings/Saying0002.md",
     "DataBase/Literature/Text/Sayings/Saying0001.md",
-    "DataBase/Literature/Text/Sayings/全世界无产者，联合起来.md",
-    "DataBase/Knowledge/Humanities/Literature/Theory/narrative poem.md",
     "DataBase/Knowledge/Humanities/Literature/Theory",
     "DataBase/Knowledge/Humanities/Literature",
     "DataBase/Knowledge/Humanities",
-    "DataBase/Reality/Persons/Authors/太宰治.md",
-    "DataBase/Reality/Persons/Authors/Edgar Allan Poe.md",
-    "DataBase/Reality/Persons/Authors/毛泽东.md",
-    "DataBase/Literature/Text/Poem/古典诗/示儿.md",
-    "DataBase/Literature/Text/Poem/古典诗/将进酒.md",
     "DataBase/Literature/Text/Poem/现代诗",
-    "Home Page.md",
-    "DataBase/Literature/Text/Poem/词/念奴娇·登多景楼.md",
-    "DataBase/Literature/Text/Poetry.md",
-    "DataBase/Literature/Text/BooksAll.md",
     "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Theory",
     "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Facts",
     "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography",
