@@ -26,25 +26,12 @@
             }
           },
           {
-            "id": "c350ef67636b1988",
+            "id": "ac4383b28dc4cfb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Reality/Persons/Authors/李白.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d6e09cb8a07bc5cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Reality/Persons/Authors/休谟.md",
+                "file": "DataBase/Reality/Persons/Authors/夏目簌石.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -52,12 +39,12 @@
             }
           },
           {
-            "id": "92151380a4adb29b",
+            "id": "cfbfb89416cbbf99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Reality/Persons/Authors/休谟.md",
+                "file": "DataBase/Literature/Text/Poem/古典诗/示儿.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -65,12 +52,12 @@
             }
           },
           {
-            "id": "2b42f832ccf8970d",
+            "id": "81c6a5ee84e59b9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Literature/Text/Books/毛主席语录.md",
+                "file": "DataBase/Literature/Text/SayingView.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,12 +65,12 @@
             }
           },
           {
-            "id": "69781d249db56219",
+            "id": "91147c45450cf434",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Literature/Text/Books/人性论.md",
+                "file": "DataBase/Literature/Text/Poem/词/念奴娇·登多景楼.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -91,20 +78,46 @@
             }
           },
           {
-            "id": "bc723b4af7e8fc9a",
+            "id": "11f862c68e2ab105",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Investment/Stocks/浪潮信息.md",
-                "mode": "preview",
+                "file": "DataBase/Literature/Text/Poem/古典诗/将进酒.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4fa23be04840efd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Reality/Persons/Authors/毛泽东.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "90ed19d56c195b26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Science/Model of Computation.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -197,7 +210,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Investment/Stocks/浪潮信息.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Science/Model of Computation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -232,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Investment/Stocks/浪潮信息.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Science/Model of Computation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,7 +262,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Investment/Stocks/浪潮信息.md"
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Science/Model of Computation.md"
               }
             }
           },
@@ -283,7 +296,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Investment/Stocks/浪潮信息.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Science/Model of Computation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -330,24 +343,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "bc723b4af7e8fc9a",
+  "active": "90ed19d56c195b26",
   "lastOpenFiles": [
-    "Home Page.md",
-    "DataBase/Literature/Text/Books/人性论.md",
-    "DataBase/Reality/Persons/Authors/休谟.md",
-    "DataBase/Literature/Text/Books/毛主席语录.md",
-    "DataBase/Reality/Persons/Authors/乔治·贝克莱.md",
-    "DataBase/Reality/Persons/Authors/约翰洛克.md",
-    "DataBase/Reality/Persons/Authors/李白.md",
-    "DataBase/Reality/Persons/Entertainers/梅艳芳.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Concurrency.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation/Interview preparation.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/AI/autocompleting.md",
     "DataBase/Literature/Text/Poem/现代诗/The Raven.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Static modifier.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Computer programming.md",
-    "DataBase/Reality/Persons/Entertainers/周浩.md",
-    "DataBase/Literature/Films/恋如雨止.md",
+    "DataBase/Reality/Persons/Authors/约翰洛克.md",
+    "DataBase/Reality/Persons/Authors/休谟.md",
+    "DataBase/Reality/Persons/Authors/乔治·贝克莱.md",
+    "DataBase/Literature/Text/Books/人性论.md",
     "DataBase/Tasks/WorkDesk.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Files.md",
     "DataBase/Literature/Films/铁路沿线.md",
@@ -358,10 +360,21 @@
     "DataBase/Literature/Text/Sayings/Saying0003.md",
     "DataBase/Literature/Text/Sayings/Saying0002.md",
     "DataBase/Literature/Text/Sayings/Saying0001.md",
+    "DataBase/Literature/Text/Sayings/全世界无产者，联合起来.md",
+    "DataBase/Knowledge/Humanities/Literature/Theory/narrative poem.md",
     "DataBase/Knowledge/Humanities/Literature/Theory",
     "DataBase/Knowledge/Humanities/Literature",
     "DataBase/Knowledge/Humanities",
+    "DataBase/Reality/Persons/Authors/太宰治.md",
+    "DataBase/Reality/Persons/Authors/Edgar Allan Poe.md",
+    "DataBase/Reality/Persons/Authors/毛泽东.md",
+    "DataBase/Literature/Text/Poem/古典诗/示儿.md",
+    "DataBase/Literature/Text/Poem/古典诗/将进酒.md",
     "DataBase/Literature/Text/Poem/现代诗",
+    "Home Page.md",
+    "DataBase/Literature/Text/Poem/词/念奴娇·登多景楼.md",
+    "DataBase/Literature/Text/Poetry.md",
+    "DataBase/Literature/Text/BooksAll.md",
     "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Theory",
     "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Facts",
     "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography",

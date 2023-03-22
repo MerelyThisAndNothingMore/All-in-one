@@ -1,72 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "浪潮信息",
-      "path": "DataBase/Investment/Stocks/浪潮信息.md"
-    },
-    {
-      "basename": "Home Page",
-      "path": "Home Page.md"
-    },
-    {
-      "basename": "人性论",
-      "path": "DataBase/Literature/Text/Books/人性论.md"
-    },
-    {
-      "basename": "休谟",
-      "path": "DataBase/Reality/Persons/Authors/休谟.md"
-    },
-    {
-      "basename": "毛主席语录",
-      "path": "DataBase/Literature/Text/Books/毛主席语录.md"
-    },
-    {
-      "basename": "乔治·贝克莱",
-      "path": "DataBase/Reality/Persons/Authors/乔治·贝克莱.md"
-    },
-    {
-      "basename": "约翰洛克",
-      "path": "DataBase/Reality/Persons/Authors/约翰洛克.md"
-    },
-    {
-      "basename": "李白",
-      "path": "DataBase/Reality/Persons/Authors/李白.md"
-    },
-    {
-      "basename": "梅艳芳",
-      "path": "DataBase/Reality/Persons/Entertainers/梅艳芳.md"
-    },
-    {
-      "basename": "Concurrency",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Concurrency.md"
-    },
-    {
-      "basename": "Interview preparation",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation/Interview preparation.md"
-    },
-    {
-      "basename": "autocompleting",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/AI/autocompleting.md"
+      "basename": "Model of Computation",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Science/Model of Computation.md"
     },
     {
       "basename": "The Raven",
       "path": "DataBase/Literature/Text/Poem/现代诗/The Raven.md"
-    },
-    {
-      "basename": "Static modifier",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Static modifier.md"
-    },
-    {
-      "basename": "Computer programming",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Computer programming.md"
-    },
-    {
-      "basename": "周浩",
-      "path": "DataBase/Reality/Persons/Entertainers/周浩.md"
-    },
-    {
-      "basename": "恋如雨止",
-      "path": "DataBase/Literature/Films/恋如雨止.md"
     },
     {
       "basename": "WorkDesk",
@@ -137,6 +77,10 @@
       "path": "DataBase/Literature/Text/Poem/古典诗/将进酒.md"
     },
     {
+      "basename": "Home Page",
+      "path": "Home Page.md"
+    },
+    {
       "basename": "念奴娇·登多景楼",
       "path": "DataBase/Literature/Text/Poem/词/念奴娇·登多景楼.md"
     },
@@ -147,6 +91,10 @@
     {
       "basename": "BooksAll",
       "path": "DataBase/Literature/Text/BooksAll.md"
+    },
+    {
+      "basename": "李白",
+      "path": "DataBase/Reality/Persons/Authors/李白.md"
     },
     {
       "basename": "夏目簌石",
@@ -199,6 +147,58 @@
     {
       "basename": "Liskov substitution principle",
       "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Liskov substitution principle.md"
+    },
+    {
+      "basename": "Parallelism",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Parallelism.md"
+    },
+    {
+      "basename": "KnowledgeCards",
+      "path": "Configuration/Templates/KnowledgeCards.md"
+    },
+    {
+      "basename": "陈亮",
+      "path": "DataBase/Reality/Persons/Authors/陈亮.md"
+    },
+    {
+      "basename": "海康威视",
+      "path": "DataBase/Investment/Stocks/海康威视.md"
+    },
+    {
+      "basename": "Template Method Pattern",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Template Method Pattern.md"
+    },
+    {
+      "basename": "Design Patterns Wiki Book",
+      "path": "DataBase/Literature/Text/Books/Design Patterns Wiki Book.md"
+    },
+    {
+      "basename": "市盈率",
+      "path": "DataBase/Investment/StockEvaluationKnowledge/市盈率.md"
+    },
+    {
+      "basename": "Concurrency",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Concurrency.md"
+    },
+    {
+      "basename": "New World",
+      "path": "DataBase/Reality/Places/New World.md"
+    },
+    {
+      "basename": "2023-02-09",
+      "path": "DataBase/Life/diary/2023-02-09.md"
+    },
+    {
+      "basename": "Creational patterns",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Creational patterns.md"
+    },
+    {
+      "basename": "Interface segregation principle",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Interface segregation principle.md"
+    },
+    {
+      "basename": "Computational complexity",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithm Analysis/Computational complexity.md"
     }
   ],
   "omittedPaths": [],
