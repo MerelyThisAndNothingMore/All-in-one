@@ -57,6 +57,14 @@
     {
       "folder": "DataBase/Literature/Music/Songs",
       "template": "Configuration/Templates/SongsTemplate.md"
+    },
+    {
+      "folder": "DataBase/Literature/Characters",
+      "template": "Configuration/Templates/CharactersTemplate.md"
+    },
+    {
+      "folder": "",
+      "template": ""
     }
   ],
   "syntax_highlighting": true,

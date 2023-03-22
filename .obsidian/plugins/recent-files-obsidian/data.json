@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "CharactersTemplate",
+      "path": "Configuration/Templates/CharactersTemplate.md"
+    },
+    {
+      "basename": "Tifa Lockhart",
+      "path": "DataBase/Literature/Characters/Tifa Lockhart.md"
+    },
+    {
+      "basename": "Aerith Gainsborough",
+      "path": "DataBase/Literature/Characters/Aerith Gainsborough.md"
+    },
+    {
+      "basename": "最终幻想VII",
+      "path": "DataBase/Literature/Games/最终幻想VII.md"
+    },
+    {
+      "basename": "FilmsTemplate",
+      "path": "Configuration/Templates/FilmsTemplate.md"
+    },
+    {
       "basename": "Saying0005",
       "path": "DataBase/Literature/Text/Sayings/Saying0005.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "The Raven",
       "path": "DataBase/Literature/Text/Poem/现代诗/The Raven.md"
-    },
-    {
-      "basename": "将进酒",
-      "path": "DataBase/Literature/Text/Poem/古典诗/将进酒.md"
-    },
-    {
-      "basename": "Poetry",
-      "path": "DataBase/Literature/Text/Poetry.md"
-    },
-    {
-      "basename": "Model of Computation",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Science/Model of Computation.md"
-    },
-    {
-      "basename": "WorkDesk",
-      "path": "DataBase/Tasks/WorkDesk.md"
-    },
-    {
-      "basename": "Files",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Files.md"
     }
   ],
   "omittedPaths": [],
