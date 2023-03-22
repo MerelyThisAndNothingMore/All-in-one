@@ -37,9 +37,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d44f74e2fef56afa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Literature/Music/Dream of You.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -132,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Literature/Music/Dream of You.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -167,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Literature/Music/Dream of You.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "DataBase/Literature/Music/Dream of You.md"
               }
             }
           },
@@ -218,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Literature/Music/Dream of You.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,14 +278,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c1bf7855e2c4b84c",
+  "active": "d44f74e2fef56afa",
   "lastOpenFiles": [
+    "Home Page.md",
+    "DataBase/Literature/Music/Dream of You.md",
+    "DataBase/Literature/Music",
     "DataBase/Literature/Text/Books/Computer Systems-A Programmer's Perspective.md",
     "DataBase/Literature/Text/Books/How to Read a Book.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Computer System.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Science/computer science.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation/Interview preparation.md",
-    "Home Page.md",
     "DataBase/Literature/Text/Books/The Year of Magical Thinking.md",
     "DataBase/Literature/Text/BooksAll.md",
     "DataBase/Literature/Text/Books/人性论.md",
@@ -292,7 +307,6 @@
     "DataBase/Literature/Text/Sayings/Saying0004.md",
     "DataBase/Literature/Text/Sayings/Saying0003.md",
     "DataBase/Literature/Text/Sayings/Saying0002.md",
-    "DataBase/Literature/Text/Sayings/Saying0001.md",
     "DataBase/Knowledge/Humanities/Literature/Theory",
     "DataBase/Knowledge/Humanities/Literature",
     "DataBase/Knowledge/Humanities",
@@ -302,7 +316,6 @@
     "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography",
     "DataBase/Knowledge/NaturalScience/ApplicationLayer",
     "DataBase/Reality/Persons/Scientists",
-    "DataBase/Reality/Persons/Politician",
     "Resources/Images/The Compilation system.png",
     "Resources/Images/State_Design_Pattern_UML_Class_Diagram.svg",
     "Resources/Images/Isaac Newton.png",

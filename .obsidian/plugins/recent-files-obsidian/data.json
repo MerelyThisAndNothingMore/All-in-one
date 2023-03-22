@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Dream of You",
+      "path": "DataBase/Literature/Music/Dream of You.md"
+    },
+    {
       "basename": "Home Page",
       "path": "Home Page.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Design Patterns Wiki Book",
       "path": "DataBase/Literature/Text/Books/Design Patterns Wiki Book.md"
-    },
-    {
-      "basename": "市盈率",
-      "path": "DataBase/Investment/StockEvaluationKnowledge/市盈率.md"
     }
   ],
   "omittedPaths": [],
