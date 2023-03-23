@@ -1,172 +1,156 @@
 {
   "recentFiles": [
     {
-      "basename": "CharactersTemplate",
-      "path": "Configuration/Templates/CharactersTemplate.md"
+      "basename": "数学之美",
+      "path": "DataBase/Literature/Text/Books/数学之美.md"
     },
     {
-      "basename": "Tifa Lockhart",
-      "path": "DataBase/Literature/Characters/Tifa Lockhart.md"
+      "basename": "Mathematics",
+      "path": "DataBase/Knowledge/NaturalScience/TheoreticalLayer/Mathematics/Mathematics.md"
     },
     {
-      "basename": "Aerith Gainsborough",
-      "path": "DataBase/Literature/Characters/Aerith Gainsborough.md"
+      "basename": "README",
+      "path": "README.md"
     },
     {
-      "basename": "最终幻想VII",
-      "path": "DataBase/Literature/Games/最终幻想VII.md"
+      "basename": "吴军",
+      "path": "DataBase/Reality/Persons/Authors/吴军.md"
     },
     {
-      "basename": "FilmsTemplate",
-      "path": "Configuration/Templates/FilmsTemplate.md"
+      "basename": "鲁迅",
+      "path": "DataBase/Reality/Persons/Authors/鲁迅.md"
     },
     {
-      "basename": "Saying0005",
-      "path": "DataBase/Literature/Text/Sayings/Saying0005.md"
+      "basename": "Refactoring-Improving the Design of Existing Code",
+      "path": "DataBase/Literature/Text/Books/Refactoring-Improving the Design of Existing Code.md"
     },
     {
-      "basename": "SayingView",
-      "path": "DataBase/Literature/Text/SayingView.md"
+      "basename": "Martin Fowler",
+      "path": "DataBase/Reality/Persons/Authors/Martin Fowler.md"
     },
     {
-      "basename": "Saying0003",
-      "path": "DataBase/Literature/Text/Sayings/Saying0003.md"
+      "basename": "老舍",
+      "path": "DataBase/Reality/Persons/Authors/老舍.md"
+    },
+    {
+      "basename": "人性论",
+      "path": "DataBase/Literature/Text/Books/人性论.md"
+    },
+    {
+      "basename": "人间失格",
+      "path": "DataBase/Literature/Text/Books/人间失格.md"
     },
     {
       "basename": "BooksAll",
       "path": "DataBase/Literature/Text/BooksAll.md"
     },
     {
-      "basename": "Saying0004",
-      "path": "DataBase/Literature/Text/Sayings/Saying0004.md"
+      "basename": "Saying0006",
+      "path": "DataBase/Literature/Text/Sayings/Saying0006.md"
+    },
+    {
+      "basename": "全世界无产者，联合起来",
+      "path": "DataBase/Literature/Text/Sayings/全世界无产者，联合起来.md"
     },
     {
       "basename": "Saying0002",
       "path": "DataBase/Literature/Text/Sayings/Saying0002.md"
     },
     {
-      "basename": "Saying0001",
-      "path": "DataBase/Literature/Text/Sayings/Saying0001.md"
+      "basename": "OSSU",
+      "path": "DataBase/Reality/Websites/OSSU.md"
     },
     {
-      "basename": "Nice Dance Music",
-      "path": "DataBase/Literature/Music/Nice Dance Music.md"
+      "basename": "大华股份",
+      "path": "DataBase/Investment/Stocks/大华股份.md"
     },
     {
-      "basename": "Talk That Talk",
-      "path": "DataBase/Literature/Music/Songs/Talk That Talk.md"
+      "basename": "StockWorkdesk",
+      "path": "DataBase/Investment/StockWorkdesk.md"
     },
     {
-      "basename": "Shake it off",
-      "path": "DataBase/Literature/Music/Songs/Shake it off.md"
+      "basename": "中兴通讯",
+      "path": "DataBase/Investment/Stocks/中兴通讯.md"
     },
     {
-      "basename": "SongsTemplate",
-      "path": "Configuration/Templates/SongsTemplate.md"
+      "basename": "中天科技",
+      "path": "DataBase/Investment/Stocks/中天科技.md"
     },
     {
-      "basename": "Dream of You",
-      "path": "DataBase/Literature/Music/Songs/Dream of You.md"
+      "basename": "中润资源",
+      "path": "DataBase/Investment/Stocks/中润资源.md"
     },
     {
-      "basename": "TWICE",
-      "path": "DataBase/Reality/Groups/EntertainmentGroup/TWICE.md"
+      "basename": "中金黄金",
+      "path": "DataBase/Investment/Stocks/中金黄金.md"
     },
     {
-      "basename": "范冰冰",
-      "path": "DataBase/Reality/Persons/Entertainers/范冰冰.md"
+      "basename": "中国移动",
+      "path": "DataBase/Investment/Stocks/中国移动.md"
     },
     {
-      "basename": "关之琳",
-      "path": "DataBase/Reality/Persons/Entertainers/关之琳.md"
+      "basename": "中国联通",
+      "path": "DataBase/Investment/Stocks/中国联通.md"
     },
     {
-      "basename": "桂纶镁",
-      "path": "DataBase/Reality/Persons/Entertainers/桂纶镁.md"
+      "basename": "银泰黄金",
+      "path": "DataBase/Investment/Stocks/银泰黄金.md"
     },
     {
-      "basename": "李安",
-      "path": "DataBase/Reality/Persons/Entertainers/李安.md"
+      "basename": "药明康德",
+      "path": "DataBase/Investment/Stocks/药明康德.md"
     },
     {
-      "basename": "周迅",
-      "path": "DataBase/Reality/Persons/Entertainers/周迅.md"
+      "basename": "韦尔股份",
+      "path": "DataBase/Investment/Stocks/韦尔股份.md"
     },
     {
-      "basename": "Stanley Kubrick",
-      "path": "DataBase/Reality/Persons/Entertainers/Stanley Kubrick.md"
+      "basename": "特变电工",
+      "path": "DataBase/Investment/Stocks/特变电工.md"
     },
     {
-      "basename": "Taylor Swift",
-      "path": "DataBase/Reality/Persons/Entertainers/Taylor Swift.md"
+      "basename": "瑞芯微",
+      "path": "DataBase/Investment/Stocks/瑞芯微.md"
     },
     {
-      "basename": "林青霞",
-      "path": "DataBase/Reality/Persons/Entertainers/林青霞.md"
+      "basename": "隆基绿能",
+      "path": "DataBase/Investment/Stocks/隆基绿能.md"
     },
     {
-      "basename": "梅艳芳",
-      "path": "DataBase/Reality/Persons/Entertainers/梅艳芳.md"
+      "basename": "浪潮信息",
+      "path": "DataBase/Investment/Stocks/浪潮信息.md"
     },
     {
-      "basename": "桥本环奈",
-      "path": "DataBase/Reality/Persons/Entertainers/桥本环奈.md"
+      "basename": "凯莱英",
+      "path": "DataBase/Investment/Stocks/凯莱英.md"
     },
     {
-      "basename": "李连杰",
-      "path": "DataBase/Reality/Persons/Entertainers/李连杰.md"
+      "basename": "江海股份",
+      "path": "DataBase/Investment/Stocks/江海股份.md"
     },
     {
-      "basename": "金请夏",
-      "path": "DataBase/Reality/Persons/Entertainers/金请夏.md"
+      "basename": "海康威视",
+      "path": "DataBase/Investment/Stocks/海康威视.md"
     },
     {
-      "basename": "Films and Television",
-      "path": "DataBase/Literature/Films and Television.md"
+      "basename": "格力电器",
+      "path": "DataBase/Investment/Stocks/格力电器.md"
     },
     {
-      "basename": "EntertainersTemplate",
-      "path": "Configuration/Templates/EntertainersTemplate.md"
+      "basename": "StockTemplate",
+      "path": "Configuration/Templates/StockTemplate.md"
     },
     {
-      "basename": "李小龙",
-      "path": "DataBase/Reality/Persons/Entertainers/李小龙.md"
+      "basename": "StockSectorTemplate",
+      "path": "Configuration/Templates/StockSectorTemplate.md"
     },
     {
-      "basename": "Directors",
-      "path": "DataBase/Reality/Persons/Directors.md"
+      "basename": "海康威视",
+      "path": "DataBase/Reality/Enterprises/Data/海康威视.md"
     },
     {
-      "basename": "Authors",
-      "path": "DataBase/Reality/Persons/Authors.md"
-    },
-    {
-      "basename": "Entertainers",
-      "path": "DataBase/Reality/Persons/Entertainers.md"
-    },
-    {
-      "basename": "celebrity",
-      "path": "Configuration/Templates/celebrity.md"
-    },
-    {
-      "basename": "林允儿",
-      "path": "DataBase/Reality/Persons/Entertainers/林允儿.md"
-    },
-    {
-      "basename": "成龙",
-      "path": "DataBase/Reality/Persons/Entertainers/成龙.md"
-    },
-    {
-      "basename": "恋如雨止",
-      "path": "DataBase/Literature/Films/恋如雨止.md"
-    },
-    {
-      "basename": "不能说的秘密",
-      "path": "DataBase/Literature/Films/不能说的秘密.md"
-    },
-    {
-      "basename": "Home Page",
-      "path": "Home Page.md"
+      "basename": "IPFS",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Network/IPFS.md"
     },
     {
       "basename": "How to Read a Book",
@@ -189,16 +173,32 @@
       "path": "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation/Interview preparation.md"
     },
     {
+      "basename": "Home Page",
+      "path": "Home Page.md"
+    },
+    {
       "basename": "The Year of Magical Thinking",
       "path": "DataBase/Literature/Text/Books/The Year of Magical Thinking.md"
     },
     {
-      "basename": "人性论",
-      "path": "DataBase/Literature/Text/Books/人性论.md"
-    },
-    {
       "basename": "The Raven",
       "path": "DataBase/Literature/Text/Poem/现代诗/The Raven.md"
+    },
+    {
+      "basename": "将进酒",
+      "path": "DataBase/Literature/Text/Poem/古典诗/将进酒.md"
+    },
+    {
+      "basename": "Poetry",
+      "path": "DataBase/Literature/Text/Poetry.md"
+    },
+    {
+      "basename": "Model of Computation",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Science/Model of Computation.md"
+    },
+    {
+      "basename": "WorkDesk",
+      "path": "DataBase/Tasks/WorkDesk.md"
     }
   ],
   "omittedPaths": [],

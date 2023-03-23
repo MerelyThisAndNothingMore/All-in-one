@@ -5,8 +5,10 @@ TABLE
 	PE, 
 	(round(medianPE * (estimatedEearningsGrowth + 1), 2)) AS EstimatedPE,
 	(round((((round(medianPE * (estimatedEearningsGrowth + 1), 2)) - PE) / PE) * 100, 2)) AS PEDiff,
+	(round((((round(medianPS * (estimatedEearningsGrowth + 1), 2)) - PS) / PS) * 100, 2)) AS PSDiff,
 	MarketValue,
 	medianPE AS MedianPE,
+	medianPS AS MedianPS,
 	estimatedEearningsGrowth AS EstimatedEearningsGrowth
 FROM #stock   
 Where MarketValue
