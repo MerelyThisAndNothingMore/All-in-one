@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "StockWorkdesk",
+      "path": "DataBase/Investment/StockWorkdesk.md"
+    },
+    {
+      "basename": "浪潮信息",
+      "path": "DataBase/Investment/Stocks/浪潮信息.md"
+    },
+    {
+      "basename": "将进酒",
+      "path": "DataBase/Literature/Text/Poem/古典诗/将进酒.md"
+    },
+    {
+      "basename": "Home Page",
+      "path": "Home Page.md"
+    },
+    {
       "basename": "数学之美",
       "path": "DataBase/Literature/Text/Books/数学之美.md"
     },
@@ -65,10 +81,6 @@
       "path": "DataBase/Investment/Stocks/大华股份.md"
     },
     {
-      "basename": "StockWorkdesk",
-      "path": "DataBase/Investment/StockWorkdesk.md"
-    },
-    {
       "basename": "中兴通讯",
       "path": "DataBase/Investment/Stocks/中兴通讯.md"
     },
@@ -115,10 +127,6 @@
     {
       "basename": "隆基绿能",
       "path": "DataBase/Investment/Stocks/隆基绿能.md"
-    },
-    {
-      "basename": "浪潮信息",
-      "path": "DataBase/Investment/Stocks/浪潮信息.md"
     },
     {
       "basename": "凯莱英",
@@ -173,20 +181,12 @@
       "path": "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation/Interview preparation.md"
     },
     {
-      "basename": "Home Page",
-      "path": "Home Page.md"
-    },
-    {
       "basename": "The Year of Magical Thinking",
       "path": "DataBase/Literature/Text/Books/The Year of Magical Thinking.md"
     },
     {
       "basename": "The Raven",
       "path": "DataBase/Literature/Text/Poem/现代诗/The Raven.md"
-    },
-    {
-      "basename": "将进酒",
-      "path": "DataBase/Literature/Text/Poem/古典诗/将进酒.md"
     },
     {
       "basename": "Poetry",
