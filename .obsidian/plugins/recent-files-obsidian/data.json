@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Main Memory",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Main Memory.md"
+    },
+    {
+      "basename": "Interview preparation",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation/Interview preparation.md"
+    },
+    {
+      "basename": "IPFS",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Network/IPFS.md"
+    },
+    {
+      "basename": "narrative poem",
+      "path": "DataBase/Knowledge/Humanities/Literature/Theory/narrative poem.md"
+    },
+    {
+      "basename": "Passwords",
+      "path": "DataBase/Life/Passwords.md"
+    },
+    {
+      "basename": "将进酒",
+      "path": "DataBase/Literature/Text/Poem/古典诗/将进酒.md"
+    },
+    {
       "basename": "StockWorkdesk",
       "path": "DataBase/Investment/StockWorkdesk.md"
     },
     {
       "basename": "浪潮信息",
       "path": "DataBase/Investment/Stocks/浪潮信息.md"
-    },
-    {
-      "basename": "将进酒",
-      "path": "DataBase/Literature/Text/Poem/古典诗/将进酒.md"
     },
     {
       "basename": "Home Page",
@@ -157,10 +177,6 @@
       "path": "DataBase/Reality/Enterprises/Data/海康威视.md"
     },
     {
-      "basename": "IPFS",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Network/IPFS.md"
-    },
-    {
       "basename": "How to Read a Book",
       "path": "DataBase/Literature/Text/Books/How to Read a Book.md"
     },
@@ -177,28 +193,12 @@
       "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Science/computer science.md"
     },
     {
-      "basename": "Interview preparation",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation/Interview preparation.md"
-    },
-    {
       "basename": "The Year of Magical Thinking",
       "path": "DataBase/Literature/Text/Books/The Year of Magical Thinking.md"
     },
     {
       "basename": "The Raven",
       "path": "DataBase/Literature/Text/Poem/现代诗/The Raven.md"
-    },
-    {
-      "basename": "Poetry",
-      "path": "DataBase/Literature/Text/Poetry.md"
-    },
-    {
-      "basename": "Model of Computation",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Science/Model of Computation.md"
-    },
-    {
-      "basename": "WorkDesk",
-      "path": "DataBase/Tasks/WorkDesk.md"
     }
   ],
   "omittedPaths": [],

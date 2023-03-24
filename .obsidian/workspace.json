@@ -278,7 +278,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Investment/StockWorkdesk.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Main Memory.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -316,7 +316,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "浪潮信息",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -379,7 +379,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Investment/StockWorkdesk.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Main Memory.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -414,7 +414,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Investment/StockWorkdesk.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Main Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -431,7 +431,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Investment/StockWorkdesk.md"
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Main Memory.md"
               }
             }
           },
@@ -465,7 +465,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Investment/StockWorkdesk.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Main Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -514,9 +514,13 @@
   },
   "active": "a80328ac400bf87f",
   "lastOpenFiles": [
-    "DataBase/Investment/Stocks/浪潮信息.md",
-    "DataBase/Investment/StockWorkdesk.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation/Interview preparation.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Network/IPFS.md",
+    "DataBase/Knowledge/Humanities/Literature/Theory/narrative poem.md",
+    "DataBase/Life/Passwords.md",
     "DataBase/Literature/Text/Poem/古典诗/将进酒.md",
+    "DataBase/Investment/StockWorkdesk.md",
+    "DataBase/Investment/Stocks/浪潮信息.md",
     "Home Page.md",
     "DataBase/Literature/Text/Books/数学之美.md",
     "DataBase/Knowledge/NaturalScience/TheoreticalLayer/Mathematics/Mathematics.md",
@@ -536,10 +540,6 @@
     "DataBase/Investment/Stocks/大华股份.md",
     "DataBase/Investment/Stocks/中兴通讯.md",
     "DataBase/Investment/Stocks/中天科技.md",
-    "DataBase/Investment/Stocks/中润资源.md",
-    "DataBase/Investment/Stocks/中金黄金.md",
-    "DataBase/Investment/Stocks/中国移动.md",
-    "DataBase/Investment/Stocks/中国联通.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Network",
     "DataBase/Reality/Groups/EntertainmentGroup",
     "DataBase/Literature/Music/Songs",
