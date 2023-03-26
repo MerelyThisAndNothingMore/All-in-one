@@ -1,16 +1,88 @@
 {
   "recentFiles": [
     {
+      "basename": "StockTradingDecisionTemplate",
+      "path": "Configuration/Templates/StockTradingDecisionTemplate.md"
+    },
+    {
+      "basename": "数学之美",
+      "path": "DataBase/Literature/Text/Books/数学之美.md"
+    },
+    {
+      "basename": "LongTermPlan",
+      "path": "DataBase/Tasks/LongTermPlan.md"
+    },
+    {
+      "basename": "TasksBoard",
+      "path": "DataBase/Tasks/TasksBoard.md"
+    },
+    {
+      "basename": "WorkDesk",
+      "path": "DataBase/Tasks/WorkDesk.md"
+    },
+    {
       "basename": "Home Page",
       "path": "Home Page.md"
     },
     {
-      "basename": "Main Memory",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Main Memory.md"
+      "basename": "老舍",
+      "path": "DataBase/Reality/Persons/Authors/老舍.md"
+    },
+    {
+      "basename": "celebrity",
+      "path": "Configuration/Templates/celebrity.md"
+    },
+    {
+      "basename": "李安",
+      "path": "DataBase/Reality/Persons/Entertainers/李安.md"
+    },
+    {
+      "basename": "ComputerArchitectureTemplate",
+      "path": "Configuration/Templates/ComputerArchitectureTemplate.md"
+    },
+    {
+      "basename": "大汉帝国在巴蜀-蜀汉天命的振扬与沉坠",
+      "path": "DataBase/Literature/Text/Books/大汉帝国在巴蜀-蜀汉天命的振扬与沉坠.md"
+    },
+    {
+      "basename": "饶胜文",
+      "path": "DataBase/Reality/Persons/Authors/饶胜文.md"
+    },
+    {
+      "basename": "Computer System",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Computer System.md"
+    },
+    {
+      "basename": "computer science",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Science/computer science.md"
     },
     {
       "basename": "Interview preparation",
       "path": "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation/Interview preparation.md"
+    },
+    {
+      "basename": "StockWorkdesk",
+      "path": "DataBase/Investment/StockWorkdesk.md"
+    },
+    {
+      "basename": "SayingTemplate",
+      "path": "Configuration/Templates/SayingTemplate.md"
+    },
+    {
+      "basename": "DataStructureTemplate",
+      "path": "Configuration/Templates/DataStructureTemplate.md"
+    },
+    {
+      "basename": "coding_qusitions",
+      "path": "Configuration/Templates/coding_qusitions.md"
+    },
+    {
+      "basename": "FilmsTemplate",
+      "path": "Configuration/Templates/FilmsTemplate.md"
+    },
+    {
+      "basename": "Main Memory",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Main Memory.md"
     },
     {
       "basename": "IPFS",
@@ -29,16 +101,8 @@
       "path": "DataBase/Literature/Text/Poem/古典诗/将进酒.md"
     },
     {
-      "basename": "StockWorkdesk",
-      "path": "DataBase/Investment/StockWorkdesk.md"
-    },
-    {
       "basename": "浪潮信息",
       "path": "DataBase/Investment/Stocks/浪潮信息.md"
-    },
-    {
-      "basename": "数学之美",
-      "path": "DataBase/Literature/Text/Books/数学之美.md"
     },
     {
       "basename": "Mathematics",
@@ -63,10 +127,6 @@
     {
       "basename": "Martin Fowler",
       "path": "DataBase/Reality/Persons/Authors/Martin Fowler.md"
-    },
-    {
-      "basename": "老舍",
-      "path": "DataBase/Reality/Persons/Authors/老舍.md"
     },
     {
       "basename": "人性论",
@@ -139,66 +199,6 @@
     {
       "basename": "特变电工",
       "path": "DataBase/Investment/Stocks/特变电工.md"
-    },
-    {
-      "basename": "瑞芯微",
-      "path": "DataBase/Investment/Stocks/瑞芯微.md"
-    },
-    {
-      "basename": "隆基绿能",
-      "path": "DataBase/Investment/Stocks/隆基绿能.md"
-    },
-    {
-      "basename": "凯莱英",
-      "path": "DataBase/Investment/Stocks/凯莱英.md"
-    },
-    {
-      "basename": "江海股份",
-      "path": "DataBase/Investment/Stocks/江海股份.md"
-    },
-    {
-      "basename": "海康威视",
-      "path": "DataBase/Investment/Stocks/海康威视.md"
-    },
-    {
-      "basename": "格力电器",
-      "path": "DataBase/Investment/Stocks/格力电器.md"
-    },
-    {
-      "basename": "StockTemplate",
-      "path": "Configuration/Templates/StockTemplate.md"
-    },
-    {
-      "basename": "StockSectorTemplate",
-      "path": "Configuration/Templates/StockSectorTemplate.md"
-    },
-    {
-      "basename": "海康威视",
-      "path": "DataBase/Reality/Enterprises/Data/海康威视.md"
-    },
-    {
-      "basename": "How to Read a Book",
-      "path": "DataBase/Literature/Text/Books/How to Read a Book.md"
-    },
-    {
-      "basename": "Computer Systems-A Programmer's Perspective",
-      "path": "DataBase/Literature/Text/Books/Computer Systems-A Programmer's Perspective.md"
-    },
-    {
-      "basename": "Computer System",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Computer System.md"
-    },
-    {
-      "basename": "computer science",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Science/computer science.md"
-    },
-    {
-      "basename": "The Year of Magical Thinking",
-      "path": "DataBase/Literature/Text/Books/The Year of Magical Thinking.md"
-    },
-    {
-      "basename": "The Raven",
-      "path": "DataBase/Literature/Text/Poem/现代诗/The Raven.md"
     }
   ],
   "omittedPaths": [],
