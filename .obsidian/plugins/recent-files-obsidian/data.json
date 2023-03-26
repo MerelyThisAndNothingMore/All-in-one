@@ -1,6 +1,62 @@
 {
   "recentFiles": [
     {
+      "basename": "孔乙己文学",
+      "path": "DataBase/Reality/News/孔乙己文学.md"
+    },
+    {
+      "basename": "数学之美",
+      "path": "DataBase/Literature/Text/Books/数学之美.md"
+    },
+    {
+      "basename": "人性论",
+      "path": "DataBase/Literature/Text/Books/人性论.md"
+    },
+    {
+      "basename": "人间失格",
+      "path": "DataBase/Literature/Text/Books/人间失格.md"
+    },
+    {
+      "basename": "毛主席语录",
+      "path": "DataBase/Literature/Text/Books/毛主席语录.md"
+    },
+    {
+      "basename": "大汉帝国在巴蜀-蜀汉天命的振扬与沉坠",
+      "path": "DataBase/Literature/Text/Books/大汉帝国在巴蜀-蜀汉天命的振扬与沉坠.md"
+    },
+    {
+      "basename": "茶馆",
+      "path": "DataBase/Literature/Text/Books/茶馆.md"
+    },
+    {
+      "basename": "Tifa Lockhart",
+      "path": "DataBase/Literature/Characters/Tifa Lockhart.md"
+    },
+    {
+      "basename": "Aerith Gainsborough",
+      "path": "DataBase/Literature/Characters/Aerith Gainsborough.md"
+    },
+    {
+      "basename": "骆驼祥子",
+      "path": "DataBase/Literature/Text/Books/骆驼祥子.md"
+    },
+    {
+      "basename": "自卑与超越",
+      "path": "DataBase/Literature/Text/Books/自卑与超越.md"
+    },
+    {
+      "basename": "既是社会运转的本源逻辑",
+      "path": "DataBase/Literature/Text/Sayings/既是社会运转的本源逻辑.md"
+    },
+    {
+      "basename": "全世界无产者，联合起来",
+      "path": "DataBase/Literature/Text/Sayings/全世界无产者，联合起来.md"
+    },
+    {
+      "basename": "Saying0004",
+      "path": "DataBase/Literature/Text/Sayings/Saying0004.md"
+    },
+    {
       "basename": "韩国",
       "path": "DataBase/Reality/Places/Countries/韩国.md"
     },
@@ -21,26 +77,6 @@
       "path": "DataBase/Reality/Places/北京.md"
     },
     {
-      "basename": "大汉帝国在巴蜀-蜀汉天命的振扬与沉坠",
-      "path": "DataBase/Literature/Text/Books/大汉帝国在巴蜀-蜀汉天命的振扬与沉坠.md"
-    },
-    {
-      "basename": "人间失格",
-      "path": "DataBase/Literature/Text/Books/人间失格.md"
-    },
-    {
-      "basename": "毛主席语录",
-      "path": "DataBase/Literature/Text/Books/毛主席语录.md"
-    },
-    {
-      "basename": "人性论",
-      "path": "DataBase/Literature/Text/Books/人性论.md"
-    },
-    {
-      "basename": "数学之美",
-      "path": "DataBase/Literature/Text/Books/数学之美.md"
-    },
-    {
       "basename": "四世同堂",
       "path": "DataBase/Literature/Text/Books/四世同堂.md"
     },
@@ -51,10 +87,6 @@
     {
       "basename": "Home Page",
       "path": "Home Page.md"
-    },
-    {
-      "basename": "自卑与超越",
-      "path": "DataBase/Literature/Text/Books/自卑与超越.md"
     },
     {
       "basename": "Alfred Adler",
@@ -167,38 +199,6 @@
     {
       "basename": "浪潮信息",
       "path": "DataBase/Investment/Stocks/浪潮信息.md"
-    },
-    {
-      "basename": "Mathematics",
-      "path": "DataBase/Knowledge/NaturalScience/TheoreticalLayer/Mathematics/Mathematics.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "吴军",
-      "path": "DataBase/Reality/Persons/Authors/吴军.md"
-    },
-    {
-      "basename": "鲁迅",
-      "path": "DataBase/Reality/Persons/Authors/鲁迅.md"
-    },
-    {
-      "basename": "Martin Fowler",
-      "path": "DataBase/Reality/Persons/Authors/Martin Fowler.md"
-    },
-    {
-      "basename": "BooksAll",
-      "path": "DataBase/Literature/Text/BooksAll.md"
-    },
-    {
-      "basename": "Saying0006",
-      "path": "DataBase/Literature/Text/Sayings/Saying0006.md"
-    },
-    {
-      "basename": "全世界无产者，联合起来",
-      "path": "DataBase/Literature/Text/Sayings/全世界无产者，联合起来.md"
     }
   ],
   "omittedPaths": [],

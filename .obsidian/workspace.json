@@ -34,7 +34,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Reality/Places/Countries/韩国.md",
+                "file": "DataBase/Literature/Text/Sayings/Saying0004.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dee97ed52076ea37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Literature/Text/Books/数学之美.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "84e0a6a5942e8056",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Reality/News/孔乙己文学.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -42,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -135,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Reality/Places/Countries/韩国.md",
+                "file": "DataBase/Reality/News/孔乙己文学.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -170,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Reality/Places/Countries/韩国.md",
+                "file": "DataBase/Reality/News/孔乙己文学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Reality/Places/Countries/韩国.md"
+                "file": "DataBase/Reality/News/孔乙己文学.md"
               }
             }
           },
@@ -221,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Reality/Places/Countries/韩国.md",
+                "file": "DataBase/Reality/News/孔乙己文学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,36 +295,36 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b83cb6336a865c46",
+  "active": "84e0a6a5942e8056",
   "lastOpenFiles": [
-    "DataBase/Investment/Sectors/半导体及元件.md",
+    "DataBase/Literature/Text/Books/数学之美.md",
+    "DataBase/Reality/News/孔乙己文学.md",
+    "DataBase/Literature/Text/Books/人性论.md",
+    "DataBase/Literature/Text/Books/人间失格.md",
+    "DataBase/Literature/Text/Books/毛主席语录.md",
+    "DataBase/Literature/Text/Books/大汉帝国在巴蜀-蜀汉天命的振扬与沉坠.md",
+    "DataBase/Literature/Text/Books/茶馆.md",
+    "DataBase/Literature/Characters/Tifa Lockhart.md",
+    "DataBase/Literature/Characters/Aerith Gainsborough.md",
+    "DataBase/Literature/Text/Books/骆驼祥子.md",
+    "DataBase/Literature/Text/Books/自卑与超越.md",
+    "DataBase/Literature/Text/Sayings/既是社会运转的本源逻辑.md",
+    "DataBase/Literature/Text/Sayings/全世界无产者，联合起来.md",
+    "DataBase/Literature/Text/Sayings/Saying0004.md",
     "DataBase/Reality/Places/Countries/韩国.md",
+    "DataBase/Investment/Sectors/半导体及元件.md",
     "DataBase/Reality/Places/Countries/中华人民共和国.md",
     "DataBase/Reality/Places/New World.md",
     "DataBase/Reality/Places/北京.md",
-    "DataBase/Literature/Text/Books/大汉帝国在巴蜀-蜀汉天命的振扬与沉坠.md",
-    "DataBase/Literature/Text/Books/人间失格.md",
-    "DataBase/Literature/Text/Books/毛主席语录.md",
-    "DataBase/Literature/Text/Books/人性论.md",
-    "DataBase/Literature/Text/Books/数学之美.md",
     "DataBase/Literature/Text/Books/四世同堂.md",
     "DataBase/Literature/Text/Books/这里是中国.md",
     "Home Page.md",
     "DataBase/Reality/Persons/Authors/Alfred Adler.md",
     "DataBase/Reality/Persons/Authors/毛泽东.md",
-    "DataBase/Literature/Text/Books/自卑与超越.md",
     "DataBase/Literature/Text/Books/《Social Psychology》.md",
     "DataBase/Knowledge/Humanities/Psychology/SocialPsychology/Social Psychology.md",
     "DataBase/Knowledge/Humanities/Psychology/SocialPsychology",
     "DataBase/Knowledge/Humanities/Psychology",
-    "DataBase/Literature/Text/Books/Refactoring-Improving the Design of Existing Code.md",
-    "DataBase/Tasks/TasksBoard.md",
-    "Configuration/Templates/StockTradingDecisionTemplate.md",
-    "DataBase/Tasks/LongTermPlan.md",
-    "DataBase/Tasks/WorkDesk.md",
-    "DataBase/Reality/Persons/Authors/老舍.md",
-    "Configuration/Templates/celebrity.md",
-    "DataBase/Reality/Persons/Entertainers/李安.md",
     "DataBase/Investment/StockTradingDecision",
     "DataBase/Knowledge/Computer/ApplicationLayer/Network",
     "DataBase/Reality/Groups/EntertainmentGroup",
