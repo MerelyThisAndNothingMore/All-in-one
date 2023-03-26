@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "TasksBoard",
+      "path": "DataBase/Tasks/TasksBoard.md"
+    },
+    {
+      "basename": "Home Page",
+      "path": "Home Page.md"
+    },
+    {
       "basename": "StockTradingDecisionTemplate",
       "path": "Configuration/Templates/StockTradingDecisionTemplate.md"
     },
@@ -13,16 +21,8 @@
       "path": "DataBase/Tasks/LongTermPlan.md"
     },
     {
-      "basename": "TasksBoard",
-      "path": "DataBase/Tasks/TasksBoard.md"
-    },
-    {
       "basename": "WorkDesk",
       "path": "DataBase/Tasks/WorkDesk.md"
-    },
-    {
-      "basename": "Home Page",
-      "path": "Home Page.md"
     },
     {
       "basename": "老舍",

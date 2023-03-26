@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a123576adb6513b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Configuration/Templates/StockTradingDecisionTemplate.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "69aad05bc8dd2a36",
             "type": "leaf",
             "state": {
@@ -32,11 +19,14 @@
             "id": "53d5bb3ad204a775",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "kanban",
+              "state": {
+                "file": "DataBase/Tasks/TasksBoard.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,7 +119,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Configuration/Templates/StockTradingDecisionTemplate.md",
+                "file": "DataBase/Tasks/TasksBoard.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -164,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Configuration/Templates/StockTradingDecisionTemplate.md",
+                "file": "DataBase/Tasks/TasksBoard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Configuration/Templates/StockTradingDecisionTemplate.md"
+                "file": "DataBase/Tasks/TasksBoard.md"
               }
             }
           },
@@ -215,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Configuration/Templates/StockTradingDecisionTemplate.md",
+                "file": "DataBase/Tasks/TasksBoard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -262,14 +252,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a123576adb6513b1",
+  "active": "53d5bb3ad204a775",
   "lastOpenFiles": [
+    "Home Page.md",
     "Configuration/Templates/StockTradingDecisionTemplate.md",
     "DataBase/Literature/Text/Books/数学之美.md",
     "DataBase/Tasks/LongTermPlan.md",
     "DataBase/Tasks/TasksBoard.md",
     "DataBase/Tasks/WorkDesk.md",
-    "Home Page.md",
     "DataBase/Reality/Persons/Authors/老舍.md",
     "Configuration/Templates/celebrity.md",
     "DataBase/Reality/Persons/Entertainers/李安.md",
