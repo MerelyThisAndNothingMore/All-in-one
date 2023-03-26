@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home Page",
+      "path": "Home Page.md"
+    },
+    {
       "basename": "Main Memory",
       "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Main Memory.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "浪潮信息",
       "path": "DataBase/Investment/Stocks/浪潮信息.md"
-    },
-    {
-      "basename": "Home Page",
-      "path": "Home Page.md"
     },
     {
       "basename": "数学之美",
