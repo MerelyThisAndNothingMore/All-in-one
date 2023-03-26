@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "韩国",
+      "path": "DataBase/Reality/Places/Countries/韩国.md"
+    },
+    {
+      "basename": "半导体及元件",
+      "path": "DataBase/Investment/Sectors/半导体及元件.md"
+    },
+    {
+      "basename": "中华人民共和国",
+      "path": "DataBase/Reality/Places/Countries/中华人民共和国.md"
+    },
+    {
+      "basename": "New World",
+      "path": "DataBase/Reality/Places/New World.md"
+    },
+    {
+      "basename": "北京",
+      "path": "DataBase/Reality/Places/北京.md"
+    },
+    {
+      "basename": "大汉帝国在巴蜀-蜀汉天命的振扬与沉坠",
+      "path": "DataBase/Literature/Text/Books/大汉帝国在巴蜀-蜀汉天命的振扬与沉坠.md"
+    },
+    {
+      "basename": "人间失格",
+      "path": "DataBase/Literature/Text/Books/人间失格.md"
+    },
+    {
+      "basename": "毛主席语录",
+      "path": "DataBase/Literature/Text/Books/毛主席语录.md"
+    },
+    {
+      "basename": "人性论",
+      "path": "DataBase/Literature/Text/Books/人性论.md"
+    },
+    {
+      "basename": "数学之美",
+      "path": "DataBase/Literature/Text/Books/数学之美.md"
+    },
+    {
+      "basename": "四世同堂",
+      "path": "DataBase/Literature/Text/Books/四世同堂.md"
+    },
+    {
       "basename": "这里是中国",
       "path": "DataBase/Literature/Text/Books/这里是中国.md"
     },
@@ -11,10 +55,6 @@
     {
       "basename": "自卑与超越",
       "path": "DataBase/Literature/Text/Books/自卑与超越.md"
-    },
-    {
-      "basename": "四世同堂",
-      "path": "DataBase/Literature/Text/Books/四世同堂.md"
     },
     {
       "basename": "Alfred Adler",
@@ -45,10 +85,6 @@
       "path": "Configuration/Templates/StockTradingDecisionTemplate.md"
     },
     {
-      "basename": "数学之美",
-      "path": "DataBase/Literature/Text/Books/数学之美.md"
-    },
-    {
       "basename": "LongTermPlan",
       "path": "DataBase/Tasks/LongTermPlan.md"
     },
@@ -71,10 +107,6 @@
     {
       "basename": "ComputerArchitectureTemplate",
       "path": "Configuration/Templates/ComputerArchitectureTemplate.md"
-    },
-    {
-      "basename": "大汉帝国在巴蜀-蜀汉天命的振扬与沉坠",
-      "path": "DataBase/Literature/Text/Books/大汉帝国在巴蜀-蜀汉天命的振扬与沉坠.md"
     },
     {
       "basename": "饶胜文",
@@ -157,14 +189,6 @@
       "path": "DataBase/Reality/Persons/Authors/Martin Fowler.md"
     },
     {
-      "basename": "人性论",
-      "path": "DataBase/Literature/Text/Books/人性论.md"
-    },
-    {
-      "basename": "人间失格",
-      "path": "DataBase/Literature/Text/Books/人间失格.md"
-    },
-    {
       "basename": "BooksAll",
       "path": "DataBase/Literature/Text/BooksAll.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "全世界无产者，联合起来",
       "path": "DataBase/Literature/Text/Sayings/全世界无产者，联合起来.md"
-    },
-    {
-      "basename": "Saying0002",
-      "path": "DataBase/Literature/Text/Sayings/Saying0002.md"
-    },
-    {
-      "basename": "OSSU",
-      "path": "DataBase/Reality/Websites/OSSU.md"
-    },
-    {
-      "basename": "大华股份",
-      "path": "DataBase/Investment/Stocks/大华股份.md"
-    },
-    {
-      "basename": "中兴通讯",
-      "path": "DataBase/Investment/Stocks/中兴通讯.md"
-    },
-    {
-      "basename": "中天科技",
-      "path": "DataBase/Investment/Stocks/中天科技.md"
-    },
-    {
-      "basename": "中润资源",
-      "path": "DataBase/Investment/Stocks/中润资源.md"
     }
   ],
   "omittedPaths": [],
