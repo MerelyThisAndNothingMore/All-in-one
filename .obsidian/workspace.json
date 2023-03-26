@@ -16,12 +16,15 @@
             }
           },
           {
-            "id": "53d5bb3ad204a775",
+            "id": "3a9337ff8d8bc774",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "DataBase/Tasks/TasksBoard.md"
+                "file": "Home Page.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -119,7 +122,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Tasks/TasksBoard.md",
+                "file": "Home Page.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -154,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Tasks/TasksBoard.md",
+                "file": "Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Tasks/TasksBoard.md"
+                "file": "Home Page.md"
               }
             }
           },
@@ -205,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Tasks/TasksBoard.md",
+                "file": "Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +255,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "53d5bb3ad204a775",
+  "active": "3a9337ff8d8bc774",
   "lastOpenFiles": [
     "Home Page.md",
     "Configuration/Templates/StockTradingDecisionTemplate.md",

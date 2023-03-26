@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "TasksBoard",
-      "path": "DataBase/Tasks/TasksBoard.md"
-    },
-    {
       "basename": "Home Page",
       "path": "Home Page.md"
+    },
+    {
+      "basename": "TasksBoard",
+      "path": "DataBase/Tasks/TasksBoard.md"
     },
     {
       "basename": "StockTradingDecisionTemplate",
