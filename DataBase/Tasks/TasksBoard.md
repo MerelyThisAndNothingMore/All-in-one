@@ -24,6 +24,8 @@ kanban-plugin: basic
 
 - [ ] [[奇想之年]]
 - [ ] [[THE PRINCIPIA]]
+- [ ] 社会心理学
+- [ ] 自卑与超越
 
 
 ***
