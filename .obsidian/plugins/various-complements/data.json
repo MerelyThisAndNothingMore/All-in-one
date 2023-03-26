@@ -151,8 +151,8 @@
     "Introduction": {
       "Introduction": {
         "customDictionary": {
-          "count": 39,
-          "lastUpdated": 1679535003350
+          "count": 41,
+          "lastUpdated": 1679822592173
         }
       }
     },
@@ -1783,8 +1783,8 @@
     "1210-01-26": {
       "1210-01-26": {
         "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1677808969079
+          "count": 2,
+          "lastUpdated": 1679823029193
         }
       }
     },
@@ -3549,6 +3549,14 @@
         "customDictionary": {
           "count": 1,
           "lastUpdated": 1679801110973
+        }
+      }
+    },
+    "Social Psychology": {
+      "Social Psychology": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1679822606072
         }
       }
     }

@@ -16,7 +16,7 @@
             }
           },
           {
-            "id": "3a9337ff8d8bc774",
+            "id": "89335babf45643e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -233,7 +233,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 366.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -255,13 +256,22 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3a9337ff8d8bc774",
+  "active": "89335babf45643e0",
   "lastOpenFiles": [
+    "DataBase/Literature/Text/Books/四世同堂.md",
+    "DataBase/Reality/Persons/Authors/Alfred Adler.md",
+    "DataBase/Reality/Persons/Authors/毛泽东.md",
+    "DataBase/Literature/Text/Books/自卑与超越.md",
+    "DataBase/Literature/Text/Books/《Social Psychology》.md",
+    "DataBase/Knowledge/Humanities/Psychology/SocialPsychology/Social Psychology.md",
+    "DataBase/Knowledge/Humanities/Psychology/SocialPsychology",
+    "DataBase/Knowledge/Humanities/Psychology",
+    "DataBase/Literature/Text/Books/Refactoring-Improving the Design of Existing Code.md",
+    "DataBase/Tasks/TasksBoard.md",
     "Home Page.md",
     "Configuration/Templates/StockTradingDecisionTemplate.md",
     "DataBase/Literature/Text/Books/数学之美.md",
     "DataBase/Tasks/LongTermPlan.md",
-    "DataBase/Tasks/TasksBoard.md",
     "DataBase/Tasks/WorkDesk.md",
     "DataBase/Reality/Persons/Authors/老舍.md",
     "Configuration/Templates/celebrity.md",
@@ -277,13 +287,6 @@
     "Configuration/Templates/SayingTemplate.md",
     "Configuration/Templates/DataStructureTemplate.md",
     "Configuration/Templates/coding_qusitions.md",
-    "Configuration/Templates/FilmsTemplate.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Network/IPFS.md",
-    "DataBase/Knowledge/Humanities/Literature/Theory/narrative poem.md",
-    "DataBase/Life/Passwords.md",
-    "DataBase/Literature/Text/Poem/古典诗/将进酒.md",
-    "DataBase/Investment/Stocks/浪潮信息.md",
-    "DataBase/Knowledge/NaturalScience/TheoreticalLayer/Mathematics/Mathematics.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Network",
     "DataBase/Reality/Groups/EntertainmentGroup",
     "DataBase/Literature/Music/Songs",
@@ -291,8 +294,6 @@
     "DataBase/Literature/Games",
     "DataBase/Literature/Characters",
     "DataBase/Knowledge/Humanities/Literature/Theory",
-    "DataBase/Knowledge/Humanities/Literature",
-    "DataBase/Knowledge/Humanities",
     "Resources/Images/The Compilation system.png",
     "Resources/Images/State_Design_Pattern_UML_Class_Diagram.svg",
     "Resources/Images/Isaac Newton.png",
