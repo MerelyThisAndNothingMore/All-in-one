@@ -8,6 +8,16 @@
         "type": "tabs",
         "children": [
           {
+            "id": "1691433ed78d91ef",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "empty",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
             "id": "69aad05bc8dd2a36",
             "type": "leaf",
             "state": {
@@ -16,12 +26,12 @@
             }
           },
           {
-            "id": "89335babf45643e0",
+            "id": "ac4383b28dc4cfb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Reality/Places/New World.md",
+                "file": "DataBase/Reality/Persons/Authors/夏目簌石.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -29,12 +39,12 @@
             }
           },
           {
-            "id": "b83cb6336a865c46",
+            "id": "cfbfb89416cbbf99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Literature/Text/Sayings/Saying0004.md",
+                "file": "DataBase/Literature/Text/Poem/古典诗/示儿.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -42,7 +52,215 @@
             }
           },
           {
-            "id": "dee97ed52076ea37",
+            "id": "81c6a5ee84e59b9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Literature/Text/SayingView.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "91147c45450cf434",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Literature/Text/Poem/词/念奴娇·登多景楼.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "11f862c68e2ab105",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Literature/Text/Poem/古典诗/将进酒.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4fa23be04840efd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Reality/Persons/Authors/毛泽东.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "90ed19d56c195b26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Literature/Text/Poetry.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d0e671a9fc564fbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Literature/Text/Books/The Year of Magical Thinking.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76bbd7cb321770e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Literature/Text/Books/Computer Systems-A Programmer's Perspective.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "942520d3cebf7875",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Literature/Text/Books/How to Read a Book.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c4286cbc48178710",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Investment/Stocks/海康威视.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc113a5e5eafcf94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Investment/Stocks/中国联通.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f377bd6624a0e97f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Literature/Text/Sayings/Saying0002.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9453fa7e1424ae47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Literature/Text/Sayings/Saying0006.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "955f87685279a6a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Literature/Text/Books/人间失格.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5a17e92ff44015c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Reality/Persons/Authors/老舍.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6dc3f0a44d2e18d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Literature/Text/Books/Refactoring-Improving the Design of Existing Code.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71666464d5809b54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Reality/Persons/Authors/鲁迅.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a07290071258750c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -55,12 +273,12 @@
             }
           },
           {
-            "id": "84e0a6a5942e8056",
+            "id": "a80328ac400bf87f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Reality/News/孔乙己文学.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Main Memory.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -68,7 +286,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -161,7 +379,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Reality/News/孔乙己文学.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Main Memory.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -196,7 +414,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Reality/News/孔乙己文学.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Main Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +431,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Reality/News/孔乙己文学.md"
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Main Memory.md"
               }
             }
           },
@@ -247,14 +465,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Reality/News/孔乙己文学.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Main Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       },
       {
         "id": "1ae32eceb2a7d7a3",
@@ -272,8 +490,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5,
-    "collapsed": true
+    "width": 366.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -295,37 +512,37 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "84e0a6a5942e8056",
+  "active": "9efb66c5acbe3c31",
   "lastOpenFiles": [
-    "DataBase/Literature/Text/Books/数学之美.md",
-    "DataBase/Reality/News/孔乙己文学.md",
-    "DataBase/Literature/Text/Books/人性论.md",
-    "DataBase/Literature/Text/Books/人间失格.md",
-    "DataBase/Literature/Text/Books/毛主席语录.md",
-    "DataBase/Literature/Text/Books/大汉帝国在巴蜀-蜀汉天命的振扬与沉坠.md",
-    "DataBase/Literature/Text/Books/茶馆.md",
-    "DataBase/Literature/Characters/Tifa Lockhart.md",
-    "DataBase/Literature/Characters/Aerith Gainsborough.md",
-    "DataBase/Literature/Text/Books/骆驼祥子.md",
-    "DataBase/Literature/Text/Books/自卑与超越.md",
-    "DataBase/Literature/Text/Sayings/既是社会运转的本源逻辑.md",
-    "DataBase/Literature/Text/Sayings/全世界无产者，联合起来.md",
-    "DataBase/Literature/Text/Sayings/Saying0004.md",
     "DataBase/Reality/Places/Countries/韩国.md",
-    "DataBase/Investment/Sectors/半导体及元件.md",
-    "DataBase/Reality/Places/Countries/中华人民共和国.md",
-    "DataBase/Reality/Places/New World.md",
-    "DataBase/Reality/Places/北京.md",
-    "DataBase/Literature/Text/Books/四世同堂.md",
-    "DataBase/Literature/Text/Books/这里是中国.md",
-    "Home Page.md",
+    "DataBase/Reality/Persons/Authors/饶胜文.md",
     "DataBase/Reality/Persons/Authors/Alfred Adler.md",
-    "DataBase/Reality/Persons/Authors/毛泽东.md",
+    "DataBase/Reality/News/孔乙己文学.md",
+    "DataBase/Reality/News",
+    "DataBase/Literature/Text/Sayings/既是社会运转的本源逻辑.md",
+    "DataBase/Literature/Text/Books/自卑与超越.md",
+    "DataBase/Literature/Text/Books/大汉帝国在巴蜀-蜀汉天命的振扬与沉坠.md",
     "DataBase/Literature/Text/Books/《Social Psychology》.md",
     "DataBase/Knowledge/Humanities/Psychology/SocialPsychology/Social Psychology.md",
     "DataBase/Knowledge/Humanities/Psychology/SocialPsychology",
     "DataBase/Knowledge/Humanities/Psychology",
-    "DataBase/Investment/StockTradingDecision",
+    "Configuration/Templates/StockTradingDecisionTemplate.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation/Interview preparation.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Network/IPFS.md",
+    "DataBase/Knowledge/Humanities/Literature/Theory/narrative poem.md",
+    "DataBase/Life/Passwords.md",
+    "DataBase/Literature/Text/Poem/古典诗/将进酒.md",
+    "DataBase/Investment/StockWorkdesk.md",
+    "DataBase/Investment/Stocks/浪潮信息.md",
+    "Home Page.md",
+    "DataBase/Literature/Text/Books/数学之美.md",
+    "DataBase/Knowledge/NaturalScience/TheoreticalLayer/Mathematics/Mathematics.md",
+    "README.md",
+    "DataBase/Reality/Persons/Authors/吴军.md",
+    "DataBase/Reality/Persons/Authors/鲁迅.md",
+    "DataBase/Literature/Text/Books/Refactoring-Improving the Design of Existing Code.md",
+    "DataBase/Reality/Persons/Authors/Martin Fowler.md",
+    "DataBase/Reality/Persons/Authors/老舍.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Network",
     "DataBase/Reality/Groups/EntertainmentGroup",
     "DataBase/Literature/Music/Songs",
