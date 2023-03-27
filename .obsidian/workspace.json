@@ -291,20 +291,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Reality/Persons/Politician/Lenin, Vladimir llyich.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5f7bbbce12f0e53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Tasks/data/付费直播-埋点补齐.md",
+                "file": "DataBase/Literature/Text/Books.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -312,7 +299,7 @@
             }
           }
         ],
-        "currentTab": 23
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -405,7 +392,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Tasks/data/付费直播-埋点补齐.md",
+                "file": "DataBase/Literature/Text/Books.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -440,7 +427,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Tasks/data/付费直播-埋点补齐.md",
+                "file": "DataBase/Literature/Text/Books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -457,7 +444,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Tasks/data/付费直播-埋点补齐.md"
+                "file": "DataBase/Literature/Text/Books.md"
               }
             }
           },
@@ -491,7 +478,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Tasks/data/付费直播-埋点补齐.md",
+                "file": "DataBase/Literature/Text/Books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -538,15 +525,29 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e5f7bbbce12f0e53",
+  "active": "9efb66c5acbe3c31",
   "lastOpenFiles": [
-    "DataBase/Reality/Persons/Officials/徐其耀.md",
+    "DataBase/Tasks/data/身体状态管理.md",
     "DataBase/Tasks/data/书籍推荐.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Java/Java.md",
+    "Home Page.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/State pattern.md",
+    "DataBase/Reality/Persons/Authors/鲁迅.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/编程题/0001. 两数之和.md",
+    "DataBase/Tasks/LongTermPlan.md",
+    "DataBase/Life/diary/2023-02-08.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Virtual Memory.md",
+    "DataBase/Literature/Music/Songs/Dream of You.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/编程题预览.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Parallelism.md",
+    "Configuration/Templates/celebrity.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Utils/LaTeX.md",
+    "DataBase/Reality/Persons/Officials/徐其耀.md",
     "DataBase/Reality/Persons/Politician/Lenin, Vladimir llyich.md",
+    "DataBase/Tasks/data/付费直播-埋点补齐.md",
     "DataBase/Reality/Persons/Officials",
     "DataBase/work/react-native.md",
     "DataBase/work/react.md",
-    "Home Page.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Main Memory.md",
     "DataBase/Reality/Places/Countries/韩国.md",
     "DataBase/Reality/Persons/Authors/饶胜文.md",
@@ -554,22 +555,8 @@
     "DataBase/Reality/News/孔乙己文学.md",
     "DataBase/Reality/News",
     "DataBase/Literature/Text/Sayings/既是社会运转的本源逻辑.md",
-    "DataBase/Literature/Text/Books/自卑与超越.md",
-    "DataBase/Literature/Text/Books/大汉帝国在巴蜀-蜀汉天命的振扬与沉坠.md",
-    "DataBase/Literature/Text/Books/《Social Psychology》.md",
-    "DataBase/Knowledge/Humanities/Psychology/SocialPsychology/Social Psychology.md",
     "DataBase/Knowledge/Humanities/Psychology/SocialPsychology",
     "DataBase/Knowledge/Humanities/Psychology",
-    "Configuration/Templates/StockTradingDecisionTemplate.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation/Interview preparation.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Network/IPFS.md",
-    "DataBase/Knowledge/Humanities/Literature/Theory/narrative poem.md",
-    "DataBase/Life/Passwords.md",
-    "DataBase/Literature/Text/Poem/古典诗/将进酒.md",
-    "DataBase/Investment/StockWorkdesk.md",
-    "DataBase/Investment/Stocks/浪潮信息.md",
-    "DataBase/Literature/Text/Books/数学之美.md",
-    "DataBase/Knowledge/NaturalScience/TheoreticalLayer/Mathematics/Mathematics.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Network",
     "DataBase/Reality/Groups/EntertainmentGroup",
     "DataBase/Literature/Music/Songs",

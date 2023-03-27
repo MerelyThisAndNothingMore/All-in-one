@@ -1,24 +1,76 @@
 {
   "recentFiles": [
     {
-      "basename": "付费直播-埋点补齐",
-      "path": "DataBase/Tasks/data/付费直播-埋点补齐.md"
+      "basename": "Books",
+      "path": "DataBase/Literature/Text/Books.md"
     },
     {
-      "basename": "徐其耀",
-      "path": "DataBase/Reality/Persons/Officials/徐其耀.md"
+      "basename": "身体状态管理",
+      "path": "DataBase/Tasks/data/身体状态管理.md"
     },
     {
       "basename": "书籍推荐",
       "path": "DataBase/Tasks/data/书籍推荐.md"
     },
     {
-      "basename": "Lenin, Vladimir llyich",
-      "path": "DataBase/Reality/Persons/Politician/Lenin, Vladimir llyich.md"
+      "basename": "Java",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Java/Java.md"
     },
     {
       "basename": "Home Page",
       "path": "Home Page.md"
+    },
+    {
+      "basename": "State pattern",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/State pattern.md"
+    },
+    {
+      "basename": "鲁迅",
+      "path": "DataBase/Reality/Persons/Authors/鲁迅.md"
+    },
+    {
+      "basename": "0001. 两数之和",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/编程题/0001. 两数之和.md"
+    },
+    {
+      "basename": "LongTermPlan",
+      "path": "DataBase/Tasks/LongTermPlan.md"
+    },
+    {
+      "basename": "2023-02-08",
+      "path": "DataBase/Life/diary/2023-02-08.md"
+    },
+    {
+      "basename": "Virtual Memory",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Virtual Memory.md"
+    },
+    {
+      "basename": "Dream of You",
+      "path": "DataBase/Literature/Music/Songs/Dream of You.md"
+    },
+    {
+      "basename": "编程题预览",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/编程题预览.md"
+    },
+    {
+      "basename": "Parallelism",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Parallelism.md"
+    },
+    {
+      "basename": "celebrity",
+      "path": "Configuration/Templates/celebrity.md"
+    },
+    {
+      "basename": "LaTeX",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Utils/LaTeX.md"
+    },
+    {
+      "basename": "徐其耀",
+      "path": "DataBase/Reality/Persons/Officials/徐其耀.md"
+    },
+    {
+      "basename": "Lenin, Vladimir llyich",
+      "path": "DataBase/Reality/Persons/Politician/Lenin, Vladimir llyich.md"
     },
     {
       "basename": "Main Memory",
@@ -69,10 +121,6 @@
       "path": "DataBase/Reality/Persons/Authors/吴军.md"
     },
     {
-      "basename": "鲁迅",
-      "path": "DataBase/Reality/Persons/Authors/鲁迅.md"
-    },
-    {
       "basename": "Refactoring-Improving the Design of Existing Code",
       "path": "DataBase/Literature/Text/Books/Refactoring-Improving the Design of Existing Code.md"
     },
@@ -91,10 +139,6 @@
     {
       "basename": "人间失格",
       "path": "DataBase/Literature/Text/Books/人间失格.md"
-    },
-    {
-      "basename": "BooksAll",
-      "path": "DataBase/Literature/Text/BooksAll.md"
     },
     {
       "basename": "Saying0006",
@@ -155,50 +199,6 @@
     {
       "basename": "特变电工",
       "path": "DataBase/Investment/Stocks/特变电工.md"
-    },
-    {
-      "basename": "瑞芯微",
-      "path": "DataBase/Investment/Stocks/瑞芯微.md"
-    },
-    {
-      "basename": "隆基绿能",
-      "path": "DataBase/Investment/Stocks/隆基绿能.md"
-    },
-    {
-      "basename": "凯莱英",
-      "path": "DataBase/Investment/Stocks/凯莱英.md"
-    },
-    {
-      "basename": "江海股份",
-      "path": "DataBase/Investment/Stocks/江海股份.md"
-    },
-    {
-      "basename": "海康威视",
-      "path": "DataBase/Investment/Stocks/海康威视.md"
-    },
-    {
-      "basename": "格力电器",
-      "path": "DataBase/Investment/Stocks/格力电器.md"
-    },
-    {
-      "basename": "StockTemplate",
-      "path": "Configuration/Templates/StockTemplate.md"
-    },
-    {
-      "basename": "StockSectorTemplate",
-      "path": "Configuration/Templates/StockSectorTemplate.md"
-    },
-    {
-      "basename": "海康威视",
-      "path": "DataBase/Reality/Enterprises/Data/海康威视.md"
-    },
-    {
-      "basename": "How to Read a Book",
-      "path": "DataBase/Literature/Text/Books/How to Read a Book.md"
-    },
-    {
-      "basename": "Computer Systems-A Programmer's Perspective",
-      "path": "DataBase/Literature/Text/Books/Computer Systems-A Programmer's Perspective.md"
     }
   ],
   "omittedPaths": [],
