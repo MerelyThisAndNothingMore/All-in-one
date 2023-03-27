@@ -284,9 +284,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c39701e5c79ba4b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Reality/Persons/Politician/Lenin, Vladimir llyich.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5f7bbbce12f0e53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Tasks/data/付费直播-埋点补齐.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 21
+        "currentTab": 23
       }
     ],
     "direction": "vertical"
@@ -379,7 +405,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Main Memory.md",
+                "file": "DataBase/Tasks/data/付费直播-埋点补齐.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -414,7 +440,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Main Memory.md",
+                "file": "DataBase/Tasks/data/付费直播-埋点补齐.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -431,7 +457,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Main Memory.md"
+                "file": "DataBase/Tasks/data/付费直播-埋点补齐.md"
               }
             }
           },
@@ -465,7 +491,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Main Memory.md",
+                "file": "DataBase/Tasks/data/付费直播-埋点补齐.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -512,8 +538,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9efb66c5acbe3c31",
+  "active": "e5f7bbbce12f0e53",
   "lastOpenFiles": [
+    "DataBase/Reality/Persons/Officials/徐其耀.md",
+    "DataBase/Tasks/data/书籍推荐.md",
+    "DataBase/Reality/Persons/Politician/Lenin, Vladimir llyich.md",
+    "DataBase/Reality/Persons/Officials",
+    "DataBase/work/react-native.md",
+    "DataBase/work/react.md",
+    "Home Page.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Main Memory.md",
     "DataBase/Reality/Places/Countries/韩国.md",
     "DataBase/Reality/Persons/Authors/饶胜文.md",
     "DataBase/Reality/Persons/Authors/Alfred Adler.md",
@@ -534,22 +568,14 @@
     "DataBase/Literature/Text/Poem/古典诗/将进酒.md",
     "DataBase/Investment/StockWorkdesk.md",
     "DataBase/Investment/Stocks/浪潮信息.md",
-    "Home Page.md",
     "DataBase/Literature/Text/Books/数学之美.md",
     "DataBase/Knowledge/NaturalScience/TheoreticalLayer/Mathematics/Mathematics.md",
-    "README.md",
-    "DataBase/Reality/Persons/Authors/吴军.md",
-    "DataBase/Reality/Persons/Authors/鲁迅.md",
-    "DataBase/Literature/Text/Books/Refactoring-Improving the Design of Existing Code.md",
-    "DataBase/Reality/Persons/Authors/Martin Fowler.md",
-    "DataBase/Reality/Persons/Authors/老舍.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Network",
     "DataBase/Reality/Groups/EntertainmentGroup",
     "DataBase/Literature/Music/Songs",
     "DataBase/Literature/Music",
     "DataBase/Literature/Games",
     "DataBase/Literature/Characters",
-    "DataBase/Knowledge/Humanities/Literature/Theory",
     "Resources/Images/The Compilation system.png",
     "Resources/Images/State_Design_Pattern_UML_Class_Diagram.svg",
     "Resources/Images/Isaac Newton.png",
