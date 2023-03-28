@@ -55,16 +55,8 @@
       "template": "Configuration/Templates/SayingTemplate.md"
     },
     {
-      "folder": "DataBase/Literature/Music/Songs",
-      "template": "Configuration/Templates/SongsTemplate.md"
-    },
-    {
-      "folder": "DataBase/Literature/Characters",
-      "template": "Configuration/Templates/CharactersTemplate.md"
-    },
-    {
-      "folder": "",
-      "template": ""
+      "folder": "DataBase/Investment/StockTradings",
+      "template": "Configuration/Templates/StockTradingDecisionTemplate.md"
     }
   ],
   "syntax_highlighting": true,

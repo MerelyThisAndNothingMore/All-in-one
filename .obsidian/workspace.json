@@ -291,7 +291,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Literature/Text/Books.md",
+                "file": "Configuration/Templates/StockTradingDecisionTemplate.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4fe0ca4aaf4bafb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Investment/StockTradings/浪潮23-03-28.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -299,7 +312,7 @@
             }
           }
         ],
-        "currentTab": 22
+        "currentTab": 23
       }
     ],
     "direction": "vertical"
@@ -392,7 +405,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Literature/Text/Books.md",
+                "file": "DataBase/Investment/StockTradings/浪潮23-03-28.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -427,7 +440,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Literature/Text/Books.md",
+                "file": "DataBase/Investment/StockTradings/浪潮23-03-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -444,7 +457,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Literature/Text/Books.md"
+                "file": "DataBase/Investment/StockTradings/浪潮23-03-28.md"
               }
             }
           },
@@ -478,7 +491,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Literature/Text/Books.md",
+                "file": "DataBase/Investment/StockTradings/浪潮23-03-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -525,8 +538,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9efb66c5acbe3c31",
+  "active": "4fe0ca4aaf4bafb1",
   "lastOpenFiles": [
+    "Configuration/Templates/StockTradingDecisionTemplate.md",
+    "DataBase/Investment/StockTradings/浪潮23-03-28.md",
+    "DataBase/Investment/StockTradings",
+    "DataBase/Literature/Text/Books.md",
     "DataBase/Tasks/data/身体状态管理.md",
     "DataBase/Tasks/data/书籍推荐.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Java/Java.md",
@@ -551,10 +568,7 @@
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Main Memory.md",
     "DataBase/Reality/Places/Countries/韩国.md",
     "DataBase/Reality/Persons/Authors/饶胜文.md",
-    "DataBase/Reality/Persons/Authors/Alfred Adler.md",
-    "DataBase/Reality/News/孔乙己文学.md",
     "DataBase/Reality/News",
-    "DataBase/Literature/Text/Sayings/既是社会运转的本源逻辑.md",
     "DataBase/Knowledge/Humanities/Psychology/SocialPsychology",
     "DataBase/Knowledge/Humanities/Psychology",
     "DataBase/Knowledge/Computer/ApplicationLayer/Network",
@@ -562,7 +576,6 @@
     "DataBase/Literature/Music/Songs",
     "DataBase/Literature/Music",
     "DataBase/Literature/Games",
-    "DataBase/Literature/Characters",
     "Resources/Images/The Compilation system.png",
     "Resources/Images/State_Design_Pattern_UML_Class_Diagram.svg",
     "Resources/Images/Isaac Newton.png",
