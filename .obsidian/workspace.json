@@ -26,46 +26,20 @@
             }
           },
           {
-            "id": "7f482f6630b7bbe4",
+            "id": "ec7aeda1c5c95ff7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Reality/Places/New World.md",
+                "file": "Home Page.md",
                 "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc7ded2e77d6bba1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Literature/Text/Books/人间失格.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b19a28a75990a1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Literature/Text/Books/雪崩.md",
-                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -158,7 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Literature/Text/Books/雪崩.md",
+                "file": "Home Page.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -193,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Literature/Text/Books/雪崩.md",
+                "file": "Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Literature/Text/Books/雪崩.md"
+                "file": "Home Page.md"
               }
             }
           },
@@ -244,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Literature/Text/Books/雪崩.md",
+                "file": "Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -292,8 +266,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3b19a28a75990a1b",
+  "active": "ec7aeda1c5c95ff7",
   "lastOpenFiles": [
+    "DataBase/Reality/Websites/豆瓣.md",
+    "DataBase/Literature/Text/Books/这里是中国.md",
+    "DataBase/Literature/Text/Books.md",
     "DataBase/Literature/Text/Books/人间失格.md",
     "DataBase/Literature/Text/Books/雪崩.md",
     "DataBase/Reality/Places/Administrative regions/芦苇溪改善区.md",
@@ -306,7 +283,6 @@
     "Configuration/Templates/StockTradingDecisionTemplate.md",
     "DataBase/Investment/StockTradings/浪潮23-03-28.md",
     "DataBase/Investment/StockTradings",
-    "DataBase/Literature/Text/Books.md",
     "DataBase/Tasks/data/身体状态管理.md",
     "DataBase/Tasks/data/书籍推荐.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Java/Java.md",
@@ -320,8 +296,6 @@
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/编程题预览.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Parallelism.md",
     "Configuration/Templates/celebrity.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Utils/LaTeX.md",
-    "DataBase/Reality/Persons/Officials/徐其耀.md",
     "DataBase/Reality/Persons/Officials",
     "DataBase/Reality/News",
     "DataBase/Knowledge/Humanities/Psychology/SocialPsychology",

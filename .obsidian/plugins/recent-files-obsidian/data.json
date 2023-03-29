@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "雪崩",
-      "path": "DataBase/Literature/Text/Books/雪崩.md"
+      "basename": "Home Page",
+      "path": "Home Page.md"
+    },
+    {
+      "basename": "Books",
+      "path": "DataBase/Literature/Text/Books.md"
+    },
+    {
+      "basename": "豆瓣",
+      "path": "DataBase/Reality/Websites/豆瓣.md"
+    },
+    {
+      "basename": "这里是中国",
+      "path": "DataBase/Literature/Text/Books/这里是中国.md"
     },
     {
       "basename": "人间失格",
       "path": "DataBase/Literature/Text/Books/人间失格.md"
+    },
+    {
+      "basename": "雪崩",
+      "path": "DataBase/Literature/Text/Books/雪崩.md"
     },
     {
       "basename": "芦苇溪改善区",
@@ -29,20 +45,12 @@
       "path": "DataBase/Literature/Text/Books/毛主席语录.md"
     },
     {
-      "basename": "Home Page",
-      "path": "Home Page.md"
-    },
-    {
       "basename": "浪潮23-03-28",
       "path": "DataBase/Investment/StockTradings/浪潮23-03-28.md"
     },
     {
       "basename": "StockTradingDecisionTemplate",
       "path": "Configuration/Templates/StockTradingDecisionTemplate.md"
-    },
-    {
-      "basename": "Books",
-      "path": "DataBase/Literature/Text/Books.md"
     },
     {
       "basename": "身体状态管理",
@@ -191,14 +199,6 @@
     {
       "basename": "大华股份",
       "path": "DataBase/Investment/Stocks/大华股份.md"
-    },
-    {
-      "basename": "中兴通讯",
-      "path": "DataBase/Investment/Stocks/中兴通讯.md"
-    },
-    {
-      "basename": "中天科技",
-      "path": "DataBase/Investment/Stocks/中天科技.md"
     }
   ],
   "omittedPaths": [],
