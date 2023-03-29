@@ -31,15 +31,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Reality/Places/New World.md",
                 "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc7ded2e77d6bba1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Reality/Places/Administrative regions/芦苇溪改善区.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -132,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Reality/Places/Administrative regions/芦苇溪改善区.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -167,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Reality/Places/Administrative regions/芦苇溪改善区.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "DataBase/Reality/Places/Administrative regions/芦苇溪改善区.md"
               }
             }
           },
@@ -218,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Reality/Places/Administrative regions/芦苇溪改善区.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +256,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 366.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -265,8 +279,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7f482f6630b7bbe4",
+  "active": "cc7ded2e77d6bba1",
   "lastOpenFiles": [
+    "DataBase/Reality/Places/New World.md",
+    "DataBase/Reality/Places/Administrative regions/芦苇溪改善区.md",
+    "DataBase/Reality/Places/Administrative regions",
+    "DataBase/Literature/Text/Books/《Social Psychology》.md",
+    "DataBase/Literature/Text/Books/骆驼祥子.md",
+    "DataBase/Literature/Text/Books/毛主席语录.md",
+    "DataBase/Literature/Text/Books/人间失格.md",
+    "Home Page.md",
     "Configuration/Templates/StockTradingDecisionTemplate.md",
     "DataBase/Investment/StockTradings/浪潮23-03-28.md",
     "DataBase/Investment/StockTradings",
@@ -274,7 +296,6 @@
     "DataBase/Tasks/data/身体状态管理.md",
     "DataBase/Tasks/data/书籍推荐.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Java/Java.md",
-    "Home Page.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/State pattern.md",
     "DataBase/Reality/Persons/Authors/鲁迅.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/编程题/0001. 两数之和.md",
@@ -288,13 +309,7 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Utils/LaTeX.md",
     "DataBase/Reality/Persons/Officials/徐其耀.md",
     "DataBase/Reality/Persons/Politician/Lenin, Vladimir llyich.md",
-    "DataBase/Tasks/data/付费直播-埋点补齐.md",
     "DataBase/Reality/Persons/Officials",
-    "DataBase/work/react-native.md",
-    "DataBase/work/react.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Main Memory.md",
-    "DataBase/Reality/Places/Countries/韩国.md",
-    "DataBase/Reality/Persons/Authors/饶胜文.md",
     "DataBase/Reality/News",
     "DataBase/Knowledge/Humanities/Psychology/SocialPsychology",
     "DataBase/Knowledge/Humanities/Psychology",
@@ -302,7 +317,6 @@
     "DataBase/Reality/Groups/EntertainmentGroup",
     "DataBase/Literature/Music/Songs",
     "DataBase/Literature/Music",
-    "DataBase/Literature/Games",
     "Resources/Images/The Compilation system.png",
     "Resources/Images/State_Design_Pattern_UML_Class_Diagram.svg",
     "Resources/Images/Isaac Newton.png",
