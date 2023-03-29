@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home Page",
+      "path": "Home Page.md"
+    },
+    {
       "basename": "浪潮23-03-28",
       "path": "DataBase/Investment/StockTradings/浪潮23-03-28.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "Java",
       "path": "DataBase/Knowledge/Computer/ApplicationLayer/Java/Java.md"
-    },
-    {
-      "basename": "Home Page",
-      "path": "Home Page.md"
     },
     {
       "basename": "State pattern",
