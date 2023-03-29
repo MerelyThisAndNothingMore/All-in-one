@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "雪崩",
+      "path": "DataBase/Literature/Text/Books/雪崩.md"
+    },
+    {
+      "basename": "人间失格",
+      "path": "DataBase/Literature/Text/Books/人间失格.md"
+    },
+    {
       "basename": "芦苇溪改善区",
       "path": "DataBase/Reality/Places/Administrative regions/芦苇溪改善区.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "毛主席语录",
       "path": "DataBase/Literature/Text/Books/毛主席语录.md"
-    },
-    {
-      "basename": "人间失格",
-      "path": "DataBase/Literature/Text/Books/人间失格.md"
     },
     {
       "basename": "Home Page",
@@ -195,10 +199,6 @@
     {
       "basename": "中天科技",
       "path": "DataBase/Investment/Stocks/中天科技.md"
-    },
-    {
-      "basename": "中润资源",
-      "path": "DataBase/Investment/Stocks/中润资源.md"
     }
   ],
   "omittedPaths": [],
