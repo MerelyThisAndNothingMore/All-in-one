@@ -31,15 +31,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Encapsulation.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Function.md",
                 "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e721733d34818041",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Reality/Persons/Authors/乔治·贝克莱.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75af20488031c05a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home Page.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -132,7 +158,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Encapsulation.md",
+                "file": "Home Page.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -155,7 +181,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.1826153014182008,
+                  "scale": 1.15107620582231,
                   "close": true
                 }
               }
@@ -167,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Encapsulation.md",
+                "file": "Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Encapsulation.md"
+                "file": "Home Page.md"
               }
             }
           },
@@ -218,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Encapsulation.md",
+                "file": "Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,8 +269,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5,
-    "collapsed": true
+    "width": 366.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -266,36 +291,36 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6bfa863473b605bf",
+  "active": "75af20488031c05a",
   "lastOpenFiles": [
+    "DataBase/Reality/Persons/Authors/乔治·贝克莱.md",
+    "Home Page.md",
+    "DataBase/Tasks/TasksBoard.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Function.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Dependency inversion principle.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Encapsulation.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Method.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Dependency Injection.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Object.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Java/Fundamentals/signature in java.md",
+    "DataBase/Investment/StockEvaluationKnowledge/市盈率.md",
+    "DataBase/Reality/Persons/Politician/Lenin, Vladimir llyich.md",
+    "DataBase/Reality/Persons/Entertainers/Taylor Swift.md",
+    "DataBase/Literature/Text/Books/这里是中国.md",
+    "DataBase/Investment/Stocks/大华股份.md",
+    "Configuration/Templates/StockTradingDecisionTemplate.md",
+    "DataBase/Investment/Sectors/通信设备.md",
+    "DataBase/Reality/Persons/Entertainers.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Utils/LaTeX.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Object-oriented programming.md",
     "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Facts/可可西里.md",
     "DataBase/Literature/Text/Sayings/Saying0005.md",
     "DataBase/Literature/Films/A Clockwork Orange(film).md",
-    "Home Page.md",
     "DataBase/Reality/Websites/豆瓣.md",
-    "DataBase/Literature/Text/Books/这里是中国.md",
     "DataBase/Literature/Text/Books.md",
     "DataBase/Literature/Text/Books/人间失格.md",
-    "DataBase/Literature/Text/Books/雪崩.md",
-    "DataBase/Reality/Places/Administrative regions/芦苇溪改善区.md",
-    "DataBase/Reality/Places/New World.md",
     "DataBase/Reality/Places/Administrative regions",
-    "DataBase/Literature/Text/Books/《Social Psychology》.md",
-    "DataBase/Literature/Text/Books/骆驼祥子.md",
-    "DataBase/Literature/Text/Books/毛主席语录.md",
-    "Configuration/Templates/StockTradingDecisionTemplate.md",
-    "DataBase/Investment/StockTradings/浪潮23-03-28.md",
     "DataBase/Investment/StockTradings",
-    "DataBase/Tasks/data/身体状态管理.md",
-    "DataBase/Tasks/data/书籍推荐.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Java/Java.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/State pattern.md",
-    "DataBase/Reality/Persons/Authors/鲁迅.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/编程题/0001. 两数之和.md",
-    "DataBase/Tasks/LongTermPlan.md",
     "DataBase/Reality/Persons/Officials",
     "DataBase/Reality/News",
     "DataBase/Knowledge/Humanities/Psychology/SocialPsychology",
