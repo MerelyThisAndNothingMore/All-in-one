@@ -31,8 +31,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
-                "mode": "preview",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Encapsulation.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Encapsulation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Encapsulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Encapsulation.md"
               }
             }
           },
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Encapsulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,6 +268,13 @@
   },
   "active": "6bfa863473b605bf",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Dependency inversion principle.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Encapsulation.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Object-oriented programming.md",
+    "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Facts/可可西里.md",
+    "DataBase/Literature/Text/Sayings/Saying0005.md",
+    "DataBase/Literature/Films/A Clockwork Orange(film).md",
+    "Home Page.md",
     "DataBase/Reality/Websites/豆瓣.md",
     "DataBase/Literature/Text/Books/这里是中国.md",
     "DataBase/Literature/Text/Books.md",
@@ -279,7 +286,6 @@
     "DataBase/Literature/Text/Books/《Social Psychology》.md",
     "DataBase/Literature/Text/Books/骆驼祥子.md",
     "DataBase/Literature/Text/Books/毛主席语录.md",
-    "Home Page.md",
     "Configuration/Templates/StockTradingDecisionTemplate.md",
     "DataBase/Investment/StockTradings/浪潮23-03-28.md",
     "DataBase/Investment/StockTradings",
@@ -290,12 +296,6 @@
     "DataBase/Reality/Persons/Authors/鲁迅.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/编程题/0001. 两数之和.md",
     "DataBase/Tasks/LongTermPlan.md",
-    "DataBase/Life/diary/2023-02-08.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Virtual Memory.md",
-    "DataBase/Literature/Music/Songs/Dream of You.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/编程题预览.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Parallelism.md",
-    "Configuration/Templates/celebrity.md",
     "DataBase/Reality/Persons/Officials",
     "DataBase/Reality/News",
     "DataBase/Knowledge/Humanities/Psychology/SocialPsychology",

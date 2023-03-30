@@ -60,30 +60,6 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "order": {
-      "order": {
-        "currentVault": {
-          "count": 1,
-          "lastUpdated": 1677510037964
-        }
-      }
-    },
-    "science": {
-      "science": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1677511805695
-        }
-      }
-    },
-    "computational": {
-      "computational": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1677511819959
-        }
-      }
-    },
     "complexity": {
       "complexity": {
         "customDictionary": {
@@ -92,59 +68,11 @@
         }
       }
     },
-    "algorithm": {
-      "algorithm": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1677511840447
-        }
-      }
-    },
-    "amount": {
-      "amount": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1677511843075
-        }
-      }
-    },
-    "resources": {
-      "resources": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1677511847800
-        }
-      }
-    },
-    "required": {
-      "required": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1677511853019
-        }
-      }
-    },
     "References": {
       "References": {
         "customDictionary": {
           "count": 15,
           "lastUpdated": 1679841636537
-        }
-      }
-    },
-    "means": {
-      "means": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1677548832859
-        }
-      }
-    },
-    "grows": {
-      "grows": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1677548839713
         }
       }
     },
@@ -275,8 +203,8 @@
     "programming": {
       "programming": {
         "customDictionary": {
-          "count": 4,
-          "lastUpdated": 1678181920339
+          "count": 5,
+          "lastUpdated": 1680176413012
         }
       }
     },
@@ -551,8 +479,8 @@
     "Object-oriented": {
       "Object-oriented": {
         "internalLink": {
-          "count": 5,
-          "lastUpdated": 1678095374907
+          "count": 6,
+          "lastUpdated": 1680176408345
         }
       }
     },
@@ -575,8 +503,8 @@
     "concept": {
       "concept": {
         "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1677753179425
+          "count": 3,
+          "lastUpdated": 1680176403729
         }
       }
     },
@@ -663,8 +591,12 @@
     "Java": {
       "Java": {
         "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1678095352649
+          "count": 3,
+          "lastUpdated": 1680176530048
+        },
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1680176531799
         }
       }
     },
@@ -1015,8 +947,8 @@
     "Method": {
       "Method": {
         "internalLink": {
-          "count": 2,
-          "lastUpdated": 1677669734413
+          "count": 3,
+          "lastUpdated": 1680176490760
         },
         "customDictionary": {
           "count": 2,
@@ -3459,8 +3391,8 @@
     "softwareEngineering": {
       "softwareEngineering": {
         "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1678937727440
+          "count": 3,
+          "lastUpdated": 1680176442297
         }
       }
     },
@@ -3565,6 +3497,38 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1679836754273
+        }
+      }
+    },
+    "Encapsulation": {
+      "Encapsulation": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1680176394346
+        }
+      }
+    },
+    "fundamental": {
+      "fundamental": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1680176399893
+        }
+      }
+    },
+    "OOP": {
+      "OOP": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1680176461765
+        }
+      }
+    },
+    "involves": {
+      "involves": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1680176469401
         }
       }
     }

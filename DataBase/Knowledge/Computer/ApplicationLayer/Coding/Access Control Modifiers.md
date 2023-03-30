@@ -1,6 +1,6 @@
 #softwareEngineering 
 # Introduction 
-Access control [[Modifiers]] control the level of access. The ability to limit access among [[class]]es supports a key principle of [[Object-oriented programming]] known as [[encapsulation]].
+Access control [[Modifiers]] control the level of access. The ability to limit access among [[class]]es supports a key principle of [[Object-oriented programming]] known as [[Encapsulation]].
 # Implementation 
 ## Java
 | [[Modifiers]] |                                                                        remark                                                                         |

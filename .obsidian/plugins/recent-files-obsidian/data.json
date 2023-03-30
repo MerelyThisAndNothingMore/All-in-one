@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Encapsulation",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Encapsulation.md"
+    },
+    {
+      "basename": "Dependency inversion principle",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Dependency inversion principle.md"
+    },
+    {
+      "basename": "Object-oriented programming",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Object-oriented programming.md"
+    },
+    {
+      "basename": "可可西里",
+      "path": "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Facts/可可西里.md"
+    },
+    {
+      "basename": "Saying0005",
+      "path": "DataBase/Literature/Text/Sayings/Saying0005.md"
+    },
+    {
+      "basename": "A Clockwork Orange(film)",
+      "path": "DataBase/Literature/Films/A Clockwork Orange(film).md"
+    },
+    {
       "basename": "Home Page",
       "path": "Home Page.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "老舍",
       "path": "DataBase/Reality/Persons/Authors/老舍.md"
-    },
-    {
-      "basename": "人性论",
-      "path": "DataBase/Literature/Text/Books/人性论.md"
-    },
-    {
-      "basename": "Saying0006",
-      "path": "DataBase/Literature/Text/Sayings/Saying0006.md"
-    },
-    {
-      "basename": "全世界无产者，联合起来",
-      "path": "DataBase/Literature/Text/Sayings/全世界无产者，联合起来.md"
-    },
-    {
-      "basename": "Saying0002",
-      "path": "DataBase/Literature/Text/Sayings/Saying0002.md"
-    },
-    {
-      "basename": "OSSU",
-      "path": "DataBase/Reality/Websites/OSSU.md"
-    },
-    {
-      "basename": "大华股份",
-      "path": "DataBase/Investment/Stocks/大华股份.md"
     }
   ],
   "omittedPaths": [],
