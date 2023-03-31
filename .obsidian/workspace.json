@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Utils/LaTeX-Mathematics.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Interpreter Pattern.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -171,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Utils/LaTeX-Mathematics.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Interpreter Pattern.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Utils/LaTeX-Mathematics.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Interpreter Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Utils/LaTeX-Mathematics.md"
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Interpreter Pattern.md"
               }
             }
           },
@@ -257,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Utils/LaTeX-Mathematics.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Interpreter Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,9 +270,17 @@
               "type": "smart-connections-view",
               "state": {}
             }
+          },
+          {
+            "id": "615fb5bad6518bd8",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       },
       {
         "id": "1ae32eceb2a7d7a3",
@@ -290,7 +298,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 366.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -314,7 +323,12 @@
   },
   "active": "ffa08ca8099de1b8",
   "lastOpenFiles": [
+    "DataBase/Literature/Films/The Fire Within-A Requiem for Katia and Maurice Krafft.md",
+    "DataBase/Reality/Websites/Coding Interview University.md",
+    "DataBase/Reality/Persons/Entertainers/吴倩莲.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Coding/software testing.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Utils/LaTeX.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Utils/LaTeX-Mathematics.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Utils/GitHub Copilot.md",
     "DataBase/Tools/Obsidian/Obsidian Text Generator.md",
     "DataBase/Tools/Obsidian/Obsidian Charts.md",
@@ -337,10 +351,6 @@
     "DataBase/Investment/StockEvaluationKnowledge/市盈率.md",
     "DataBase/Reality/Persons/Politician/Lenin, Vladimir llyich.md",
     "DataBase/Reality/Persons/Entertainers/Taylor Swift.md",
-    "DataBase/Literature/Text/Books/这里是中国.md",
-    "DataBase/Investment/Stocks/大华股份.md",
-    "Configuration/Templates/StockTradingDecisionTemplate.md",
-    "DataBase/Investment/Sectors/通信设备.md",
     "DataBase/Reality/Places/Administrative regions",
     "DataBase/Investment/StockTradings",
     "DataBase/Reality/Persons/Officials",
