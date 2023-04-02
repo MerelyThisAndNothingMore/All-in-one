@@ -4,42 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d5ef034550c5bba1",
+        "id": "53320a59ca516a5e",
         "type": "tabs",
         "children": [
           {
-            "id": "1691433ed78d91ef",
+            "id": "6d641e75ad814a01",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "empty",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "69aad05bc8dd2a36",
-            "type": "leaf",
-            "state": {
-              "type": "memos_view",
               "state": {}
             }
-          },
-          {
-            "id": "b3ab33d3d75d5a4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home Page.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +108,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home Page.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -167,7 +142,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,9 +157,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Home Page.md"
-              }
+              "state": {}
             }
           },
           {
@@ -218,7 +190,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,6 +197,19 @@
           },
           {
             "id": "4668844065f67c6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home Page.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee0ecc405bdf30e9",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -273,8 +257,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4668844065f67c6a",
+  "active": "6d641e75ad814a01",
   "lastOpenFiles": [
+    "Home Page.md",
     "DataBase/Reality/Persons/Entertainers/赵今麦.md",
     "DataBase/Reality/Persons/Entertainers/杨超越.md",
     "DataBase/Reality/Persons/Entertainers/Taylor Swift.md",
@@ -292,7 +277,6 @@
     "DataBase/Reality/Persons/Entertainers/宋祖儿.md",
     "DataBase/Reality/Persons/Entertainers/刘亦菲.md",
     "DataBase/Reality/Persons/Entertainers/沃纳·赫尔佐格.md",
-    "Home Page.md",
     "DataBase/Tools/Obsidian/Obsidian Text Generator.md",
     "DataBase/Tools/Obsidian/Obsidian Charts.md",
     "DataBase/Tools/Obsidian",
