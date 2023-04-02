@@ -1,8 +1,148 @@
 {
   "recentFiles": [
     {
+      "basename": "Interpreter Pattern",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Interpreter Pattern.md"
+    },
+    {
+      "basename": "The Fire Within-A Requiem for Katia and Maurice Krafft",
+      "path": "DataBase/Literature/Films/The Fire Within-A Requiem for Katia and Maurice Krafft.md"
+    },
+    {
+      "basename": "Coding Interview University",
+      "path": "DataBase/Reality/Websites/Coding Interview University.md"
+    },
+    {
+      "basename": "吴倩莲",
+      "path": "DataBase/Reality/Persons/Entertainers/吴倩莲.md"
+    },
+    {
+      "basename": "software testing",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Coding/software testing.md"
+    },
+    {
+      "basename": "LaTeX",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Utils/LaTeX.md"
+    },
+    {
+      "basename": "LaTeX-Mathematics",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Utils/LaTeX-Mathematics.md"
+    },
+    {
+      "basename": "GitHub Copilot",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Utils/GitHub Copilot.md"
+    },
+    {
+      "basename": "Obsidian Text Generator",
+      "path": "DataBase/Tools/Obsidian/Obsidian Text Generator.md"
+    },
+    {
+      "basename": "Obsidian Charts",
+      "path": "DataBase/Tools/Obsidian/Obsidian Charts.md"
+    },
+    {
+      "basename": "Git",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Utils/Git.md"
+    },
+    {
+      "basename": "GitHub",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Utils/GitHub.md"
+    },
+    {
+      "basename": "MarkDown",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Utils/MarkDown.md"
+    },
+    {
+      "basename": "关之琳",
+      "path": "DataBase/Reality/Persons/Entertainers/关之琳.md"
+    },
+    {
       "basename": "Home Page",
       "path": "Home Page.md"
+    },
+    {
+      "basename": "乔治·贝克莱",
+      "path": "DataBase/Reality/Persons/Authors/乔治·贝克莱.md"
+    },
+    {
+      "basename": "TasksBoard",
+      "path": "DataBase/Tasks/TasksBoard.md"
+    },
+    {
+      "basename": "Function",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Function.md"
+    },
+    {
+      "basename": "Dependency inversion principle",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Dependency inversion principle.md"
+    },
+    {
+      "basename": "Encapsulation",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Encapsulation.md"
+    },
+    {
+      "basename": "Method",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Method.md"
+    },
+    {
+      "basename": "Dependency Injection",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Dependency Injection.md"
+    },
+    {
+      "basename": "Object",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Object.md"
+    },
+    {
+      "basename": "signature in java",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Java/Fundamentals/signature in java.md"
+    },
+    {
+      "basename": "市盈率",
+      "path": "DataBase/Investment/StockEvaluationKnowledge/市盈率.md"
+    },
+    {
+      "basename": "Lenin, Vladimir llyich",
+      "path": "DataBase/Reality/Persons/Politician/Lenin, Vladimir llyich.md"
+    },
+    {
+      "basename": "Taylor Swift",
+      "path": "DataBase/Reality/Persons/Entertainers/Taylor Swift.md"
+    },
+    {
+      "basename": "这里是中国",
+      "path": "DataBase/Literature/Text/Books/这里是中国.md"
+    },
+    {
+      "basename": "大华股份",
+      "path": "DataBase/Investment/Stocks/大华股份.md"
+    },
+    {
+      "basename": "StockTradingDecisionTemplate",
+      "path": "Configuration/Templates/StockTradingDecisionTemplate.md"
+    },
+    {
+      "basename": "通信设备",
+      "path": "DataBase/Investment/Sectors/通信设备.md"
+    },
+    {
+      "basename": "Entertainers",
+      "path": "DataBase/Reality/Persons/Entertainers.md"
+    },
+    {
+      "basename": "Object-oriented programming",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Object-oriented programming.md"
+    },
+    {
+      "basename": "可可西里",
+      "path": "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Facts/可可西里.md"
+    },
+    {
+      "basename": "Saying0005",
+      "path": "DataBase/Literature/Text/Sayings/Saying0005.md"
+    },
+    {
+      "basename": "A Clockwork Orange(film)",
+      "path": "DataBase/Literature/Films/A Clockwork Orange(film).md"
     },
     {
       "basename": "Books",
@@ -11,10 +151,6 @@
     {
       "basename": "豆瓣",
       "path": "DataBase/Reality/Websites/豆瓣.md"
-    },
-    {
-      "basename": "这里是中国",
-      "path": "DataBase/Literature/Text/Books/这里是中国.md"
     },
     {
       "basename": "人间失格",
@@ -49,10 +185,6 @@
       "path": "DataBase/Investment/StockTradings/浪潮23-03-28.md"
     },
     {
-      "basename": "StockTradingDecisionTemplate",
-      "path": "Configuration/Templates/StockTradingDecisionTemplate.md"
-    },
-    {
       "basename": "身体状态管理",
       "path": "DataBase/Tasks/data/身体状态管理.md"
     },
@@ -67,138 +199,6 @@
     {
       "basename": "State pattern",
       "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/State pattern.md"
-    },
-    {
-      "basename": "鲁迅",
-      "path": "DataBase/Reality/Persons/Authors/鲁迅.md"
-    },
-    {
-      "basename": "0001. 两数之和",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/编程题/0001. 两数之和.md"
-    },
-    {
-      "basename": "LongTermPlan",
-      "path": "DataBase/Tasks/LongTermPlan.md"
-    },
-    {
-      "basename": "2023-02-08",
-      "path": "DataBase/Life/diary/2023-02-08.md"
-    },
-    {
-      "basename": "Virtual Memory",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Virtual Memory.md"
-    },
-    {
-      "basename": "Dream of You",
-      "path": "DataBase/Literature/Music/Songs/Dream of You.md"
-    },
-    {
-      "basename": "编程题预览",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/编程题预览.md"
-    },
-    {
-      "basename": "Parallelism",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Parallelism.md"
-    },
-    {
-      "basename": "celebrity",
-      "path": "Configuration/Templates/celebrity.md"
-    },
-    {
-      "basename": "LaTeX",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Utils/LaTeX.md"
-    },
-    {
-      "basename": "徐其耀",
-      "path": "DataBase/Reality/Persons/Officials/徐其耀.md"
-    },
-    {
-      "basename": "Lenin, Vladimir llyich",
-      "path": "DataBase/Reality/Persons/Politician/Lenin, Vladimir llyich.md"
-    },
-    {
-      "basename": "Main Memory",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Main Memory.md"
-    },
-    {
-      "basename": "Interview preparation",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation/Interview preparation.md"
-    },
-    {
-      "basename": "IPFS",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Network/IPFS.md"
-    },
-    {
-      "basename": "narrative poem",
-      "path": "DataBase/Knowledge/Humanities/Literature/Theory/narrative poem.md"
-    },
-    {
-      "basename": "Passwords",
-      "path": "DataBase/Life/Passwords.md"
-    },
-    {
-      "basename": "将进酒",
-      "path": "DataBase/Literature/Text/Poem/古典诗/将进酒.md"
-    },
-    {
-      "basename": "StockWorkdesk",
-      "path": "DataBase/Investment/StockWorkdesk.md"
-    },
-    {
-      "basename": "浪潮信息",
-      "path": "DataBase/Investment/Stocks/浪潮信息.md"
-    },
-    {
-      "basename": "数学之美",
-      "path": "DataBase/Literature/Text/Books/数学之美.md"
-    },
-    {
-      "basename": "Mathematics",
-      "path": "DataBase/Knowledge/NaturalScience/TheoreticalLayer/Mathematics/Mathematics.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "吴军",
-      "path": "DataBase/Reality/Persons/Authors/吴军.md"
-    },
-    {
-      "basename": "Refactoring-Improving the Design of Existing Code",
-      "path": "DataBase/Literature/Text/Books/Refactoring-Improving the Design of Existing Code.md"
-    },
-    {
-      "basename": "Martin Fowler",
-      "path": "DataBase/Reality/Persons/Authors/Martin Fowler.md"
-    },
-    {
-      "basename": "老舍",
-      "path": "DataBase/Reality/Persons/Authors/老舍.md"
-    },
-    {
-      "basename": "人性论",
-      "path": "DataBase/Literature/Text/Books/人性论.md"
-    },
-    {
-      "basename": "Saying0006",
-      "path": "DataBase/Literature/Text/Sayings/Saying0006.md"
-    },
-    {
-      "basename": "全世界无产者，联合起来",
-      "path": "DataBase/Literature/Text/Sayings/全世界无产者，联合起来.md"
-    },
-    {
-      "basename": "Saying0002",
-      "path": "DataBase/Literature/Text/Sayings/Saying0002.md"
-    },
-    {
-      "basename": "OSSU",
-      "path": "DataBase/Reality/Websites/OSSU.md"
-    },
-    {
-      "basename": "大华股份",
-      "path": "DataBase/Investment/Stocks/大华股份.md"
     }
   ],
   "omittedPaths": [],
