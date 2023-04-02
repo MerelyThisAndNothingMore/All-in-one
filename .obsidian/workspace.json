@@ -31,15 +31,145 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Reality/Persons/Entertainers/沃纳·赫尔佐格.md",
                 "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6517d28ff12ffb08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Reality/Persons/Entertainers/中森明菜.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4397407365ca412b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Reality/Persons/Entertainers/刘亦菲.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5f3b6b45da677445",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Reality/Persons/Entertainers/赵今麦.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d07984971245689",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Reality/Persons/Entertainers/宋祖儿.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2e81abc27ee1809",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Reality/Persons/Entertainers/古力娜扎.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7104a5d46c6ceabe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Reality/Persons/Entertainers/周杰伦.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "537fc42aecbdf404",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Reality/Persons/Entertainers/孙艺珍.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73655c2f42aa7b22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Reality/Persons/Entertainers/赵露思.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "889284700659892a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Reality/Persons/Entertainers/赵今麦.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8352c20002582214",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Reality/Persons/Entertainers/杨超越.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -132,7 +262,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Reality/Persons/Entertainers/杨超越.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -167,7 +297,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Reality/Persons/Entertainers/杨超越.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +314,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "DataBase/Reality/Persons/Entertainers/杨超越.md"
               }
             }
           },
@@ -218,7 +348,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Reality/Persons/Entertainers/杨超越.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,8 +396,26 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "27f5b717a633838c",
+  "active": "8352c20002582214",
   "lastOpenFiles": [
+    "DataBase/Reality/Persons/Entertainers/赵今麦.md",
+    "DataBase/Reality/Persons/Entertainers/杨超越.md",
+    "DataBase/Reality/Persons/Entertainers/Taylor Swift.md",
+    "DataBase/Reality/Persons/Entertainers/周迅.md",
+    "DataBase/Reality/Persons/Entertainers/赵丽颖.md",
+    "DataBase/Reality/Persons/Entertainers/刘诗诗.md",
+    "DataBase/Reality/Persons/Entertainers/赵露思.md",
+    "DataBase/Reality/Persons/Entertainers/孙艺珍.md",
+    "DataBase/Reality/Persons/Entertainers.md",
+    "DataBase/Reality/Persons/Entertainers/迪丽热巴.md",
+    "DataBase/Reality/Persons/Entertainers/周杰伦.md",
+    "DataBase/Reality/Persons/Entertainers/中森明菜.md",
+    "DataBase/Reality/Persons/Entertainers/杨幂.md",
+    "DataBase/Reality/Persons/Entertainers/古力娜扎.md",
+    "DataBase/Reality/Persons/Entertainers/宋祖儿.md",
+    "DataBase/Reality/Persons/Entertainers/刘亦菲.md",
+    "DataBase/Reality/Persons/Entertainers/沃纳·赫尔佐格.md",
+    "Home Page.md",
     "DataBase/Tools/Obsidian/Obsidian Text Generator.md",
     "DataBase/Tools/Obsidian/Obsidian Charts.md",
     "DataBase/Tools/Obsidian",
@@ -278,26 +426,8 @@
     "DataBase/Literature/Text/Books/人间失格.md",
     "DataBase/Literature/Text/Books/雪崩.md",
     "DataBase/Reality/Places/Administrative regions/芦苇溪改善区.md",
-    "DataBase/Reality/Places/New World.md",
     "DataBase/Reality/Places/Administrative regions",
-    "DataBase/Literature/Text/Books/《Social Psychology》.md",
-    "DataBase/Literature/Text/Books/骆驼祥子.md",
-    "DataBase/Literature/Text/Books/毛主席语录.md",
-    "Home Page.md",
-    "Configuration/Templates/StockTradingDecisionTemplate.md",
-    "DataBase/Investment/StockTradings/浪潮23-03-28.md",
     "DataBase/Investment/StockTradings",
-    "DataBase/Tasks/data/身体状态管理.md",
-    "DataBase/Tasks/data/书籍推荐.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Java/Java.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/State pattern.md",
-    "DataBase/Reality/Persons/Authors/鲁迅.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/编程题/0001. 两数之和.md",
-    "DataBase/Tasks/LongTermPlan.md",
-    "DataBase/Life/diary/2023-02-08.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Virtual Memory.md",
-    "DataBase/Literature/Music/Songs/Dream of You.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/编程题预览.md",
     "DataBase/Reality/Persons/Officials",
     "DataBase/Reality/News",
     "DataBase/Knowledge/Humanities/Psychology/SocialPsychology",
