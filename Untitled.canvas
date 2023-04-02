@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"bf3e7ce220c62fa1","x":-312,"y":-403,"width":652,"height":400,"type":"group","label":"目的"},
+		{"id":"8326fec1cf2bd1f4","x":-215,"y":-292,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[]
+}

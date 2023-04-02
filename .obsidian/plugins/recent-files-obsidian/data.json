@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Untitled.canvas"
+    },
+    {
       "basename": "Home Page",
       "path": "Home Page.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "IPFS",
       "path": "DataBase/Knowledge/Computer/ApplicationLayer/Network/IPFS.md"
-    },
-    {
-      "basename": "narrative poem",
-      "path": "DataBase/Knowledge/Humanities/Literature/Theory/narrative poem.md"
     }
   ],
   "omittedPaths": [],

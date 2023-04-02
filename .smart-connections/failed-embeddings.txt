@@ -1,10 +1,13 @@
 
+Configuration/Templates/BaseTemplate.md
+Configuration/Templates/DataStructureTemplate.md
 Configuration/Templates/FilmsTemplate.md
 Configuration/Templates/KnowledgeCards.md
 Configuration/Templates/SayingTemplate.md
 Configuration/Templates/SongsTemplate.md
 Configuration/Templates/StockSectorTemplate.md
 Configuration/Templates/StockTemplate.md
+Configuration/Templates/bookTemplate.md
 Configuration/Templates/coding_qusitions.md
 DataBase/Investment/Sectors/上证指数.md
 DataBase/Investment/Sectors/医疗服务.md
@@ -22,4 +25,55 @@ DataBase/Investment/Stocks/中国联通.md
 DataBase/Investment/Stocks/中金黄金.md
 DataBase/Investment/Stocks/大华股份.md
 DataBase/Investment/Stocks/格力电器.md
+DataBase/Investment/Stocks/江海股份.md
 DataBase/Investment/Stocks/浪潮信息.md
+DataBase/Knowledge/Computer/ApplicationLayer/Coding/Access Control Modifiers.md#Implementation#Java
+DataBase/Knowledge/Computer/ApplicationLayer/Utils/Git.md
+DataBase/Knowledge/Computer/ApplicationLayer/Utils/GitHub.md
+DataBase/Knowledge/Computer/ApplicationLayer/java/Fundamentals/Arrays In Java.md
+DataBase/Knowledge/Computer/ApplicationLayer/java/Fundamentals/Base types in Java.md
+DataBase/Knowledge/Computer/ApplicationLayer/java/Fundamentals/The String Class.md
+DataBase/Knowledge/Computer/ApplicationLayer/java/Fundamentals/Wrapper Types.md
+DataBase/Knowledge/Computer/ApplicationLayer/java/Fundamentals/signature in java.md
+DataBase/Knowledge/Computer/ApplicationLayer/java/Fundamentals/static in Java.md
+DataBase/Knowledge/Computer/ApplicationLayer/java/Java.md
+DataBase/Knowledge/Computer/ApplicationLayer/java/Java.md#Fundamental Programming Structures#Arrays
+DataBase/Knowledge/Computer/ApplicationLayer/java/Java.md#Fundamental Programming Structures#Arrays#Array Sorting
+DataBase/Knowledge/Computer/ApplicationLayer/java/Java.md#Fundamental Programming Structures#Big Numbers
+DataBase/Knowledge/Computer/ApplicationLayer/java/Java.md#Fundamental Programming Structures#Data Types
+DataBase/Knowledge/Computer/ApplicationLayer/java/Java.md#Fundamental Programming Structures#Input and Output#File Input and Output
+DataBase/Knowledge/Computer/ApplicationLayer/java/Java.md#Fundamental Programming Structures#Input and Output#Read Input
+DataBase/Knowledge/Computer/ApplicationLayer/java/Java.md#Fundamental Programming Structures#Strings#Build Strings
+DataBase/Knowledge/Computer/ApplicationLayer/java/Java.md#Fundamental Programming Structures#Strings#Substrings
+DataBase/Knowledge/Computer/ApplicationLayer/java/Java.md#Introduction#Classes and Objects
+DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Data Structure.md
+DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Heap.md
+DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Stack.md
+DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Trees.md
+DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Hardware organization.md
+DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Creational patterns.md
+DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Function.md
+DataBase/Knowledge/Computer/BaseLayer/Software Engineering/encapsulation.md
+DataBase/Knowledge/NaturalScience/TheoreticalLayer/Physics/Law of universal gravitation.md
+DataBase/Life/diary/2023-03-10.md
+DataBase/Life/diary/2023-W09.md
+DataBase/Life/diary/Weekly Template.md
+DataBase/Literature/Films and Television.md
+DataBase/Literature/Text/Books/The Year of Magical Thinking.md
+DataBase/Reality/Groups/Bolshevik.md
+DataBase/Reality/Persons/Authors/Martin Fowler.md
+DataBase/Reality/Persons/Authors/乔治·贝克莱.md
+DataBase/Reality/Persons/Authors/吴军.md
+DataBase/Reality/Persons/Entertainers/中森明菜.md
+DataBase/Reality/Persons/Entertainers/刘亦菲.md
+DataBase/Reality/Persons/Entertainers/刘诗诗.md
+DataBase/Reality/Persons/Entertainers/古力娜扎.md
+DataBase/Reality/Persons/Entertainers/宋祖儿.md
+DataBase/Reality/Persons/Entertainers/杨幂.md
+DataBase/Reality/Persons/Entertainers/杨超越.md
+DataBase/Reality/Persons/Entertainers/赵今麦.md
+DataBase/Reality/Persons/Entertainers/赵露思.md
+DataBase/Reality/Persons/Entertainers/迪丽热巴.md
+DataBase/Reality/Persons/Entrepreneurs/Steve Jobs.md
+DataBase/Reality/Websites/The Missing Semester.md
+DataBase/Tools/Obsidian/Obsidian Charts.md
