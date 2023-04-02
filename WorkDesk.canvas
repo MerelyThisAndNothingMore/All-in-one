@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"type":"text","text":"目的","id":"8326fec1cf2bd1f4","x":-360,"y":-360,"width":250,"height":60},
+		{"type":"text","text":"工作","id":"5dd923f540c2525d","x":-20,"y":-650,"width":250,"height":60},
+		{"type":"text","text":"面试准备","id":"b5e752faf6c412e6","x":360,"y":-840,"width":250,"height":60},
+		{"type":"text","text":"知识准备","id":"8c3a0e0ac13b7c92","x":760,"y":-900,"width":250,"height":60},
+		{"type":"text","text":"简历准备","id":"d25ee57a2dea623b","x":760,"y":-780,"width":250,"height":60},
+		{"type":"text","text":"业务整理","id":"135add753d728543","x":360,"y":-590,"width":250,"height":70},
+		{"type":"text","text":"创作","id":"3457bf9f1d0e795d","x":-20,"y":180,"width":250,"height":60},
+		{"type":"text","text":"技术文档","id":"9a7e8446af95657a","x":360,"y":180,"width":250,"height":60},
+		{"type":"text","text":"投机","id":"fd804cfd3d3f606a","x":60,"y":-260,"width":250,"height":60},
+		{"type":"text","text":"[[StockWorkdesk]]","id":"1056b0fde2fc4fea","x":510,"y":-260,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"debee5227fdbd1e3","fromNode":"8326fec1cf2bd1f4","fromSide":"right","toNode":"5dd923f540c2525d","toSide":"left"},
+		{"id":"edc2dfd7e8ff9322","fromNode":"5dd923f540c2525d","fromSide":"right","toNode":"b5e752faf6c412e6","toSide":"left"},
+		{"id":"7d5f1ad385689c5c","fromNode":"8326fec1cf2bd1f4","fromSide":"right","toNode":"3457bf9f1d0e795d","toSide":"left"},
+		{"id":"8f79cf3def7a2a78","fromNode":"b5e752faf6c412e6","fromSide":"right","toNode":"d25ee57a2dea623b","toSide":"left"},
+		{"id":"529d3292ffefecfa","fromNode":"b5e752faf6c412e6","fromSide":"right","toNode":"8c3a0e0ac13b7c92","toSide":"left"},
+		{"id":"8b6bbc56fe654467","fromNode":"3457bf9f1d0e795d","fromSide":"right","toNode":"9a7e8446af95657a","toSide":"left"},
+		{"id":"d3de976215d3c938","fromNode":"5dd923f540c2525d","fromSide":"right","toNode":"135add753d728543","toSide":"left"},
+		{"id":"a985c57ce07458e2","fromNode":"8326fec1cf2bd1f4","fromSide":"right","toNode":"fd804cfd3d3f606a","toSide":"left"},
+		{"id":"94dfa9b32e9daf74","fromNode":"fd804cfd3d3f606a","fromSide":"right","toNode":"1056b0fde2fc4fea","toSide":"left"}
+	]
+}

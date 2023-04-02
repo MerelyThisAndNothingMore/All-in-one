@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "WorkDesk.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": -139.5,
-                  "zoom": 0
+                  "x": 325,
+                  "y": -330,
+                  "zoom": -0.6886411468228252
                 }
               }
             }
@@ -115,7 +115,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "WorkDesk.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "WorkDesk.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "WorkDesk.canvas"
               }
             }
           },
@@ -201,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "WorkDesk.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,8 +259,9 @@
   },
   "active": "6d641e75ad814a01",
   "lastOpenFiles": [
+    "DataBase/Investment/StockWorkdesk.md",
+    "WorkDesk.canvas",
     "Home Page.md",
-    "Untitled.canvas",
     "Untitled Kanban.md",
     "DataBase/Reality/Persons/Entertainers/赵今麦.md",
     "DataBase/Reality/Persons/Entertainers/杨超越.md",
@@ -286,7 +287,6 @@
     "DataBase/Reality/Websites/豆瓣.md",
     "DataBase/Literature/Text/Books/这里是中国.md",
     "DataBase/Literature/Text/Books.md",
-    "DataBase/Literature/Text/Books/人间失格.md",
     "DataBase/Reality/Places/Administrative regions",
     "DataBase/Investment/StockTradings",
     "DataBase/Reality/Persons/Officials",
