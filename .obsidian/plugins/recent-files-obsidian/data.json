@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Home Page",
-      "path": "Home Page.md"
+      "basename": "书籍推荐",
+      "path": "DataBase/Tasks/data/书籍推荐.md"
     },
     {
-      "basename": "StockWorkdesk",
-      "path": "DataBase/Investment/StockWorkdesk.md"
+      "basename": "政治理论学习",
+      "path": "DataBase/Tasks/data/政治理论学习.md"
+    },
+    {
+      "basename": "知识成长",
+      "path": "DataBase/Tasks/data/知识成长.md"
     },
     {
       "basename": "浪潮信息-2023-03-22",
@@ -17,8 +21,16 @@
       "path": "DataBase/Investment/StockTradings/中金黄金-2023-03-14.md"
     },
     {
+      "basename": "StockWorkdesk",
+      "path": "DataBase/Investment/StockWorkdesk.md"
+    },
+    {
       "basename": "StockTradingDecisionTemplate",
       "path": "Configuration/Templates/StockTradingDecisionTemplate.md"
+    },
+    {
+      "basename": "Home Page",
+      "path": "Home Page.md"
     },
     {
       "basename": "StockTemplate",
@@ -187,18 +199,6 @@
     {
       "basename": "人间失格",
       "path": "DataBase/Literature/Text/Books/人间失格.md"
-    },
-    {
-      "basename": "雪崩",
-      "path": "DataBase/Literature/Text/Books/雪崩.md"
-    },
-    {
-      "basename": "芦苇溪改善区",
-      "path": "DataBase/Reality/Places/Administrative regions/芦苇溪改善区.md"
-    },
-    {
-      "basename": "New World",
-      "path": "DataBase/Reality/Places/New World.md"
     }
   ],
   "omittedPaths": [],
