@@ -76,9 +76,61 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4f48d8a31d65c759",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Investment/StockTradings/中金黄金-2023-03-14.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "551feb81b3b80d9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Investment/StockTradings/中金黄金-2023-03-14.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0a5ebbbcee2ec70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Investment/StockWorkdesk.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b069881a084f813",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home Page.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -171,7 +223,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Parallelism.md",
+                "file": "Home Page.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -206,7 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Parallelism.md",
+                "file": "Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +275,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Parallelism.md"
+                "file": "Home Page.md"
               }
             }
           },
@@ -257,18 +309,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Parallelism.md",
+                "file": "Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            }
-          },
-          {
-            "id": "f75a4d6c7edd15fa",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
             }
           },
           {
@@ -280,7 +324,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       },
       {
         "id": "1ae32eceb2a7d7a3",
@@ -321,14 +365,23 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ffa08ca8099de1b8",
+  "active": "1b069881a084f813",
   "lastOpenFiles": [
+    "DataBase/Investment/StockWorkdesk.md",
+    "DataBase/Investment/StockTradings/浪潮信息-2023-03-22.md",
+    "DataBase/Investment/StockTradings/中金黄金-2023-03-14.md",
+    "Configuration/Templates/StockTradingDecisionTemplate.md",
+    "DataBase/Investment/StockTradings/浪潮信息23-03-22.md",
+    "DataBase/Investment/StockTradings/浪潮23-03-28.md",
+    "Configuration/Templates/StockTemplate.md",
+    "WorkDesk.canvas",
+    "Home Page.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Parallelism.md",
     "DataBase/Literature/Text/Sayings/Saying0002.md",
     "DataBase/Literature/Text/Books/这里是中国.md",
     "DataBase/Literature/Text/Sayings/Saying0004.md",
     "DataBase/Literature/Text/Sayings/Saying0005.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Interpreter Pattern.md",
-    "WorkDesk.canvas",
     "DataBase/Reality/Persons/Entertainers/迪丽热巴.md",
     "DataBase/Reality/Persons/Entertainers/赵露思.md",
     "DataBase/Reality/Persons/Entertainers/赵今麦.md",
@@ -341,17 +394,8 @@
     "DataBase/Reality/Persons/Entertainers/中森明菜.md",
     "DataBase/Literature/Films/The Fire Within-A Requiem for Katia and Maurice Krafft.md",
     "DataBase/Reality/Websites/Coding Interview University.md",
-    "DataBase/Reality/Persons/Entertainers/吴倩莲.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Coding/software testing.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Utils/LaTeX.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Utils/LaTeX-Mathematics.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Utils/GitHub Copilot.md",
-    "DataBase/Tools/Obsidian/Obsidian Text Generator.md",
-    "DataBase/Tools/Obsidian/Obsidian Charts.md",
     "DataBase/Tools/Obsidian",
     "DataBase/Tools",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Utils/Git.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Utils/GitHub.md",
     "DataBase/Reality/Places/Administrative regions",
     "DataBase/Investment/StockTradings",
     "DataBase/Reality/Persons/Officials",

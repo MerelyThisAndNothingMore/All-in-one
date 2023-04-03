@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Home Page",
+      "path": "Home Page.md"
+    },
+    {
+      "basename": "StockWorkdesk",
+      "path": "DataBase/Investment/StockWorkdesk.md"
+    },
+    {
+      "basename": "浪潮信息-2023-03-22",
+      "path": "DataBase/Investment/StockTradings/浪潮信息-2023-03-22.md"
+    },
+    {
+      "basename": "中金黄金-2023-03-14",
+      "path": "DataBase/Investment/StockTradings/中金黄金-2023-03-14.md"
+    },
+    {
+      "basename": "StockTradingDecisionTemplate",
+      "path": "Configuration/Templates/StockTradingDecisionTemplate.md"
+    },
+    {
+      "basename": "StockTemplate",
+      "path": "Configuration/Templates/StockTemplate.md"
+    },
+    {
+      "basename": "WorkDesk",
+      "path": "WorkDesk.canvas"
+    },
+    {
       "basename": "Parallelism",
       "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Parallelism.md"
     },
@@ -77,10 +105,6 @@
       "path": "DataBase/Reality/Persons/Entertainers/关之琳.md"
     },
     {
-      "basename": "Home Page",
-      "path": "Home Page.md"
-    },
-    {
       "basename": "乔治·贝克莱",
       "path": "DataBase/Reality/Persons/Authors/乔治·贝克莱.md"
     },
@@ -133,10 +157,6 @@
       "path": "DataBase/Investment/Stocks/大华股份.md"
     },
     {
-      "basename": "StockTradingDecisionTemplate",
-      "path": "Configuration/Templates/StockTradingDecisionTemplate.md"
-    },
-    {
       "basename": "通信设备",
       "path": "DataBase/Investment/Sectors/通信设备.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "New World",
       "path": "DataBase/Reality/Places/New World.md"
-    },
-    {
-      "basename": "《Social Psychology》",
-      "path": "DataBase/Literature/Text/Books/《Social Psychology》.md"
-    },
-    {
-      "basename": "骆驼祥子",
-      "path": "DataBase/Literature/Text/Books/骆驼祥子.md"
-    },
-    {
-      "basename": "毛主席语录",
-      "path": "DataBase/Literature/Text/Books/毛主席语录.md"
-    },
-    {
-      "basename": "浪潮23-03-28",
-      "path": "DataBase/Investment/StockTradings/浪潮23-03-28.md"
-    },
-    {
-      "basename": "身体状态管理",
-      "path": "DataBase/Tasks/data/身体状态管理.md"
     }
   ],
   "omittedPaths": [],

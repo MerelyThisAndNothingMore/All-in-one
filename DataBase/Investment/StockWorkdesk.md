@@ -1,3 +1,25 @@
+# StockTransaction
+```dataview
+TABLE 
+	tradingStock,
+	profit,
+	profitability,
+	sellDate - buyDate as HoldingTime
+FROM #stockTransaction 
+WHERE profit 
+```
+
+
+
+
+
+
+
+
+
+
+
+
 # Stocks
 ```dataview
 TABLE 
