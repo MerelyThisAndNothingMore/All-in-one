@@ -4,25 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "53320a59ca516a5e",
+        "id": "d5ef034550c5bba1",
         "type": "tabs",
         "children": [
           {
-            "id": "6d641e75ad814a01",
+            "id": "1691433ed78d91ef",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "empty",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "69aad05bc8dd2a36",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "memos_view",
+              "state": {}
+            }
+          },
+          {
+            "id": "6bfa863473b605bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
               "state": {
-                "file": "WorkDesk.canvas",
-                "viewState": {
-                  "x": 325,
-                  "y": -330,
-                  "zoom": -0.6886411468228252
-                }
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Function.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e721733d34818041",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Reality/Persons/Authors/乔治·贝克莱.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75af20488031c05a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Utils/Git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ffa08ca8099de1b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Parallelism.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -115,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "WorkDesk.canvas",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Parallelism.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -138,7 +194,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.1826153014182008,
+                  "scale": 1.15107620582231,
                   "close": true
                 }
               }
@@ -150,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WorkDesk.canvas",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Parallelism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WorkDesk.canvas"
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Parallelism.md"
               }
             }
           },
@@ -201,22 +257,30 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WorkDesk.canvas",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Parallelism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ee0ecc405bdf30e9",
+            "id": "f75a4d6c7edd15fa",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
               "state": {}
             }
+          },
+          {
+            "id": "615fb5bad6518bd8",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       },
       {
         "id": "1ae32eceb2a7d7a3",
@@ -257,36 +321,37 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6d641e75ad814a01",
+  "active": "ffa08ca8099de1b8",
   "lastOpenFiles": [
-    "DataBase/Investment/StockWorkdesk.md",
+    "DataBase/Literature/Text/Sayings/Saying0002.md",
+    "DataBase/Literature/Text/Books/这里是中国.md",
+    "DataBase/Literature/Text/Sayings/Saying0004.md",
+    "DataBase/Literature/Text/Sayings/Saying0005.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Interpreter Pattern.md",
     "WorkDesk.canvas",
-    "Home Page.md",
-    "Untitled Kanban.md",
+    "DataBase/Reality/Persons/Entertainers/迪丽热巴.md",
+    "DataBase/Reality/Persons/Entertainers/赵露思.md",
     "DataBase/Reality/Persons/Entertainers/赵今麦.md",
     "DataBase/Reality/Persons/Entertainers/杨超越.md",
-    "DataBase/Reality/Persons/Entertainers/Taylor Swift.md",
-    "DataBase/Reality/Persons/Entertainers/周迅.md",
-    "DataBase/Reality/Persons/Entertainers/赵丽颖.md",
-    "DataBase/Reality/Persons/Entertainers/刘诗诗.md",
-    "DataBase/Reality/Persons/Entertainers/赵露思.md",
-    "DataBase/Reality/Persons/Entertainers/孙艺珍.md",
-    "DataBase/Reality/Persons/Entertainers.md",
-    "DataBase/Reality/Persons/Entertainers/迪丽热巴.md",
-    "DataBase/Reality/Persons/Entertainers/周杰伦.md",
-    "DataBase/Reality/Persons/Entertainers/中森明菜.md",
     "DataBase/Reality/Persons/Entertainers/杨幂.md",
-    "DataBase/Reality/Persons/Entertainers/古力娜扎.md",
     "DataBase/Reality/Persons/Entertainers/宋祖儿.md",
+    "DataBase/Reality/Persons/Entertainers/古力娜扎.md",
+    "DataBase/Reality/Persons/Entertainers/刘诗诗.md",
     "DataBase/Reality/Persons/Entertainers/刘亦菲.md",
-    "DataBase/Reality/Persons/Entertainers/沃纳·赫尔佐格.md",
+    "DataBase/Reality/Persons/Entertainers/中森明菜.md",
+    "DataBase/Literature/Films/The Fire Within-A Requiem for Katia and Maurice Krafft.md",
+    "DataBase/Reality/Websites/Coding Interview University.md",
+    "DataBase/Reality/Persons/Entertainers/吴倩莲.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Coding/software testing.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Utils/LaTeX.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Utils/LaTeX-Mathematics.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Utils/GitHub Copilot.md",
     "DataBase/Tools/Obsidian/Obsidian Text Generator.md",
     "DataBase/Tools/Obsidian/Obsidian Charts.md",
     "DataBase/Tools/Obsidian",
     "DataBase/Tools",
-    "DataBase/Reality/Websites/豆瓣.md",
-    "DataBase/Literature/Text/Books/这里是中国.md",
-    "DataBase/Literature/Text/Books.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Utils/Git.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Utils/GitHub.md",
     "DataBase/Reality/Places/Administrative regions",
     "DataBase/Investment/StockTradings",
     "DataBase/Reality/Persons/Officials",
@@ -300,6 +365,7 @@
     "Resources/Images/Isaac Newton.png",
     "Resources/Images/Hardware Organization.png",
     "Resources/Images/Pasted image 20230303101829.png",
-    "Resources/canvas/UML of state pattern structure.canvas"
+    "Resources/canvas/UML of state pattern structure.canvas",
+    "Untitled.canvas"
   ]
 }
