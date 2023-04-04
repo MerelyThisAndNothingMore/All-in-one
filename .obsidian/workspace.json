@@ -96,7 +96,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Literature/Text/Books/Princeples of Economics.md",
+                "file": "DataBase/Reality/Persons/Authors/顾诚.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce03fec3ca5e0a42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Literature/Text/Books/南明史.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af577d42b2db8d13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/History/timeline/1644.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -117,7 +143,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -147,7 +173,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "WELFARE",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -164,8 +190,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "2f7e2e24ad04b6ba",
@@ -211,7 +236,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Literature/Text/Books/Princeples of Economics.md",
+                "file": "DataBase/History/timeline/1644.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -246,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Literature/Text/Books/Princeples of Economics.md",
+                "file": "DataBase/History/timeline/1644.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +288,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Literature/Text/Books/Princeples of Economics.md"
+                "file": "DataBase/History/timeline/1644.md"
               }
             }
           },
@@ -297,7 +322,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Literature/Text/Books/Princeples of Economics.md",
+                "file": "DataBase/History/timeline/1644.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -353,8 +378,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5e5fea182599fa5c",
+  "active": "af577d42b2db8d13",
   "lastOpenFiles": [
+    "DataBase/Literature/Text/Books/南明史.md",
+    "DataBase/History/timeline/1644.md",
+    "DataBase/History/timeline",
+    "DataBase/Reality/Places/Countries/南明.md",
+    "DataBase/Reality/News/孔乙己文学.md",
+    "DataBase/Knowledge/Society/History/Untitled",
+    "DataBase/Reality/Places/Countries/韩国.md",
+    "DataBase/Reality/Persons/Authors/顾诚.md",
+    "DataBase/Knowledge/Society/History/中国",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Array.md",
+    "DataBase/History",
+    "DataBase/Literature/Text/Books/Data Structures and Algorithms In Java.md",
+    "DataBase/Literature/Text/Books/Princeples of Economics.md",
     "DataBase/Tasks/data/书籍推荐.md",
     "DataBase/Tasks/data/经济学学习.md",
     "DataBase/Tasks/data/历史学习.md",
@@ -363,7 +401,6 @@
     "DataBase/Tasks/data/知识成长.md",
     "WorkDesk.canvas",
     "Home Page.md",
-    "DataBase/Literature/Text/Books/Princeples of Economics.md",
     "DataBase/Literature/Text/Books/Operating Systems-Three Easy Pieces.md",
     "DataBase/Literature/Text/Books/Refactoring-Improving the Design of Existing Code.md",
     "DataBase/Literature/Text/Books/Utopia(book).md",
@@ -372,26 +409,14 @@
     "DataBase/Literature/Text/Books/自卑与超越.md",
     "DataBase/Literature/Text/Books/人性论.md",
     "DataBase/Reality/Persons/Authors/N. Gregory Mankiw.md",
-    "DataBase/Reality/Persons/Authors/顾诚.md",
-    "DataBase/Literature/Text/Books/南明史.md",
     "DataBase/Reality/Persons/Authors/李白.md",
     "README.md",
-    "DataBase/Investment/StockTradings/浪潮信息-2023-03-22.md",
     "DataBase/Knowledge/NaturalScience/ApplicationLayer/Economics",
-    "DataBase/Investment/StockTradings/中金黄金-2023-03-14.md",
-    "DataBase/Investment/StockWorkdesk.md",
-    "Configuration/Templates/StockTradingDecisionTemplate.md",
-    "DataBase/Investment/StockTradings/浪潮信息23-03-22.md",
-    "DataBase/Investment/StockTradings/浪潮23-03-28.md",
     "DataBase/Tools/Obsidian",
     "DataBase/Tools",
     "DataBase/Reality/Places/Administrative regions",
     "DataBase/Investment/StockTradings",
     "DataBase/Reality/Persons/Officials",
-    "DataBase/Reality/News",
-    "DataBase/Knowledge/Humanities/Psychology/SocialPsychology",
-    "DataBase/Knowledge/Humanities/Psychology",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Network",
     "Resources/Images/The Compilation system.png",
     "Resources/Images/State_Design_Pattern_UML_Class_Diagram.svg",
     "Resources/Images/Isaac Newton.png",

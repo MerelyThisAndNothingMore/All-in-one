@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "1644",
+      "path": "DataBase/History/timeline/1644.md"
+    },
+    {
+      "basename": "南明史",
+      "path": "DataBase/Literature/Text/Books/南明史.md"
+    },
+    {
+      "basename": "南明",
+      "path": "DataBase/Reality/Places/Countries/南明.md"
+    },
+    {
+      "basename": "孔乙己文学",
+      "path": "DataBase/Reality/News/孔乙己文学.md"
+    },
+    {
+      "basename": "韩国",
+      "path": "DataBase/Reality/Places/Countries/韩国.md"
+    },
+    {
+      "basename": "顾诚",
+      "path": "DataBase/Reality/Persons/Authors/顾诚.md"
+    },
+    {
+      "basename": "Array",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Array.md"
+    },
+    {
+      "basename": "Data Structures and Algorithms In Java",
+      "path": "DataBase/Literature/Text/Books/Data Structures and Algorithms In Java.md"
+    },
+    {
       "basename": "Princeples of Economics",
       "path": "DataBase/Literature/Text/Books/Princeples of Economics.md"
     },
@@ -67,14 +99,6 @@
     {
       "basename": "N. Gregory Mankiw",
       "path": "DataBase/Reality/Persons/Authors/N. Gregory Mankiw.md"
-    },
-    {
-      "basename": "顾诚",
-      "path": "DataBase/Reality/Persons/Authors/顾诚.md"
-    },
-    {
-      "basename": "南明史",
-      "path": "DataBase/Literature/Text/Books/南明史.md"
     },
     {
       "basename": "李白",
@@ -175,30 +199,6 @@
     {
       "basename": "MarkDown",
       "path": "DataBase/Knowledge/Computer/ApplicationLayer/Utils/MarkDown.md"
-    },
-    {
-      "basename": "关之琳",
-      "path": "DataBase/Reality/Persons/Entertainers/关之琳.md"
-    },
-    {
-      "basename": "乔治·贝克莱",
-      "path": "DataBase/Reality/Persons/Authors/乔治·贝克莱.md"
-    },
-    {
-      "basename": "TasksBoard",
-      "path": "DataBase/Tasks/TasksBoard.md"
-    },
-    {
-      "basename": "Function",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Function.md"
-    },
-    {
-      "basename": "Dependency inversion principle",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Dependency inversion principle.md"
-    },
-    {
-      "basename": "Encapsulation",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Encapsulation.md"
     }
   ],
   "omittedPaths": [],
