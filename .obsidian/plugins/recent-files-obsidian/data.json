@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "WorkDesk",
+      "path": "WorkDesk.canvas"
+    },
+    {
+      "basename": "Home Page",
+      "path": "Home Page.md"
+    },
+    {
       "basename": "书籍推荐",
       "path": "DataBase/Tasks/data/书籍推荐.md"
     },
@@ -29,16 +37,8 @@
       "path": "Configuration/Templates/StockTradingDecisionTemplate.md"
     },
     {
-      "basename": "Home Page",
-      "path": "Home Page.md"
-    },
-    {
       "basename": "StockTemplate",
       "path": "Configuration/Templates/StockTemplate.md"
-    },
-    {
-      "basename": "WorkDesk",
-      "path": "WorkDesk.canvas"
     },
     {
       "basename": "Parallelism",

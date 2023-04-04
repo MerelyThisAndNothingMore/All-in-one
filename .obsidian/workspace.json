@@ -26,15 +26,17 @@
             }
           },
           {
-            "id": "2caa09ec9acd8912",
+            "id": "3a52dab6d21a8510",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "DataBase/Tasks/data/书籍推荐.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "WorkDesk.canvas",
+                "viewState": {
+                  "x": 325,
+                  "y": -330,
+                  "zoom": -0.6886411468228252
+                }
               }
             }
           }
@@ -132,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Tasks/data/书籍推荐.md",
+                "file": "WorkDesk.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -167,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Tasks/data/书籍推荐.md",
+                "file": "WorkDesk.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Tasks/data/书籍推荐.md"
+                "file": "WorkDesk.canvas"
               }
             }
           },
@@ -218,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Tasks/data/书籍推荐.md",
+                "file": "WorkDesk.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -274,8 +276,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2caa09ec9acd8912",
+  "active": "3a52dab6d21a8510",
   "lastOpenFiles": [
+    "Home Page.md",
     "DataBase/Tasks/data/政治理论学习.md",
     "DataBase/Tasks/data/知识成长.md",
     "DataBase/Investment/StockTradings/浪潮信息-2023-03-22.md",
@@ -283,7 +286,6 @@
     "DataBase/Investment/StockTradings/中金黄金-2023-03-14.md",
     "DataBase/Investment/StockWorkdesk.md",
     "Configuration/Templates/StockTradingDecisionTemplate.md",
-    "Home Page.md",
     "DataBase/Investment/StockTradings/浪潮信息23-03-22.md",
     "DataBase/Investment/StockTradings/浪潮23-03-28.md",
     "Configuration/Templates/StockTemplate.md",
