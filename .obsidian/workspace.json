@@ -122,15 +122,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Literature/Films/恋如雨止.md",
                 "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56bed413db328c0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Literature/Text/Sayings/Saying0006.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec23e519fc304a9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Literature/Text/Poem/词/念奴娇·登多景楼.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "59b4cfcae0d30005",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Literature/Text/Poetry.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -223,7 +262,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Literature/Text/Poetry.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -258,7 +297,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Literature/Text/Poetry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +314,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "DataBase/Literature/Text/Poetry.md"
               }
             }
           },
@@ -309,7 +348,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Literature/Text/Poetry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -365,35 +404,35 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1b069881a084f813",
+  "active": "59b4cfcae0d30005",
   "lastOpenFiles": [
-    "DataBase/Investment/StockWorkdesk.md",
-    "DataBase/Investment/StockTradings/浪潮信息-2023-03-22.md",
-    "DataBase/Investment/StockTradings/中金黄金-2023-03-14.md",
-    "Configuration/Templates/StockTradingDecisionTemplate.md",
-    "DataBase/Investment/StockTradings/浪潮信息23-03-22.md",
-    "DataBase/Investment/StockTradings/浪潮23-03-28.md",
-    "Configuration/Templates/StockTemplate.md",
-    "WorkDesk.canvas",
-    "Home Page.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Parallelism.md",
-    "DataBase/Literature/Text/Sayings/Saying0002.md",
-    "DataBase/Literature/Text/Books/这里是中国.md",
-    "DataBase/Literature/Text/Sayings/Saying0004.md",
+    "DataBase/Literature/Text/Poem/词/念奴娇·登多景楼.md",
+    "DataBase/Literature/Text/Poem/词/念奴娇·昆仑.md",
+    "DataBase/Literature/Text/Poem/古典诗/将进酒.md",
+    "DataBase/Literature/Text/Poem/古典诗/示儿.md",
+    "DataBase/Literature/Text/Poem/现代诗/The Raven.md",
+    "DataBase/Literature/Text/Poetry.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Utils/Git.md",
+    "DataBase/Literature/Text/Sayings/Saying0007.md",
+    "DataBase/Literature/Text/SayingView.md",
+    "DataBase/Literature/Text/Sayings/Saying0006.md",
     "DataBase/Literature/Text/Sayings/Saying0005.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Interpreter Pattern.md",
-    "DataBase/Reality/Persons/Entertainers/迪丽热巴.md",
-    "DataBase/Reality/Persons/Entertainers/赵露思.md",
-    "DataBase/Reality/Persons/Entertainers/赵今麦.md",
-    "DataBase/Reality/Persons/Entertainers/杨超越.md",
-    "DataBase/Reality/Persons/Entertainers/杨幂.md",
-    "DataBase/Reality/Persons/Entertainers/宋祖儿.md",
-    "DataBase/Reality/Persons/Entertainers/古力娜扎.md",
-    "DataBase/Reality/Persons/Entertainers/刘诗诗.md",
-    "DataBase/Reality/Persons/Entertainers/刘亦菲.md",
-    "DataBase/Reality/Persons/Entertainers/中森明菜.md",
-    "DataBase/Literature/Films/The Fire Within-A Requiem for Katia and Maurice Krafft.md",
-    "DataBase/Reality/Websites/Coding Interview University.md",
+    "DataBase/Literature/Text/Sayings/Saying0004.md",
+    "DataBase/Literature/Text/Sayings/Saying0003.md",
+    "Configuration/Templates/SayingTemplate.md",
+    "DataBase/Literature/Text/Sayings/Saying0001.md",
+    "DataBase/Literature/Text/Sayings/Saying0002.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Text File.md",
+    "DataBase/Reality/Persons/Entertainers/周迅.md",
+    "DataBase/Investment/StockEvaluationKnowledge/市盈率.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Science/Finite-state machine.md",
+    "DataBase/Reality/Persons/Entertainers/张曼玉.md",
+    "DataBase/Literature/Text/Books/How to Read a Book.md",
+    "DataBase/Reality/Persons/Scientists/Maurice Krafft.md",
+    "DataBase/Literature/Text/Books/大汉帝国在巴蜀-蜀汉天命的振扬与沉坠.md",
+    "Configuration/Templates/coding_qusitions.md",
+    "Home Page.md",
+    "WorkDesk.canvas",
     "DataBase/Tools/Obsidian",
     "DataBase/Tools",
     "DataBase/Reality/Places/Administrative regions",

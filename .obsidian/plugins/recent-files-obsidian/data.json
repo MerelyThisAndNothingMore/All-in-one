@@ -1,8 +1,112 @@
 {
   "recentFiles": [
     {
+      "basename": "Poetry",
+      "path": "DataBase/Literature/Text/Poetry.md"
+    },
+    {
+      "basename": "念奴娇·登多景楼",
+      "path": "DataBase/Literature/Text/Poem/词/念奴娇·登多景楼.md"
+    },
+    {
+      "basename": "念奴娇·昆仑",
+      "path": "DataBase/Literature/Text/Poem/词/念奴娇·昆仑.md"
+    },
+    {
+      "basename": "将进酒",
+      "path": "DataBase/Literature/Text/Poem/古典诗/将进酒.md"
+    },
+    {
+      "basename": "示儿",
+      "path": "DataBase/Literature/Text/Poem/古典诗/示儿.md"
+    },
+    {
+      "basename": "The Raven",
+      "path": "DataBase/Literature/Text/Poem/现代诗/The Raven.md"
+    },
+    {
+      "basename": "Git",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Utils/Git.md"
+    },
+    {
+      "basename": "Saying0007",
+      "path": "DataBase/Literature/Text/Sayings/Saying0007.md"
+    },
+    {
+      "basename": "SayingView",
+      "path": "DataBase/Literature/Text/SayingView.md"
+    },
+    {
+      "basename": "Saying0006",
+      "path": "DataBase/Literature/Text/Sayings/Saying0006.md"
+    },
+    {
+      "basename": "Saying0005",
+      "path": "DataBase/Literature/Text/Sayings/Saying0005.md"
+    },
+    {
+      "basename": "Saying0004",
+      "path": "DataBase/Literature/Text/Sayings/Saying0004.md"
+    },
+    {
+      "basename": "Saying0003",
+      "path": "DataBase/Literature/Text/Sayings/Saying0003.md"
+    },
+    {
+      "basename": "SayingTemplate",
+      "path": "Configuration/Templates/SayingTemplate.md"
+    },
+    {
+      "basename": "Saying0001",
+      "path": "DataBase/Literature/Text/Sayings/Saying0001.md"
+    },
+    {
+      "basename": "Saying0002",
+      "path": "DataBase/Literature/Text/Sayings/Saying0002.md"
+    },
+    {
+      "basename": "Text File",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Text File.md"
+    },
+    {
+      "basename": "周迅",
+      "path": "DataBase/Reality/Persons/Entertainers/周迅.md"
+    },
+    {
+      "basename": "市盈率",
+      "path": "DataBase/Investment/StockEvaluationKnowledge/市盈率.md"
+    },
+    {
+      "basename": "Finite-state machine",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Science/Finite-state machine.md"
+    },
+    {
+      "basename": "张曼玉",
+      "path": "DataBase/Reality/Persons/Entertainers/张曼玉.md"
+    },
+    {
+      "basename": "How to Read a Book",
+      "path": "DataBase/Literature/Text/Books/How to Read a Book.md"
+    },
+    {
+      "basename": "Maurice Krafft",
+      "path": "DataBase/Reality/Persons/Scientists/Maurice Krafft.md"
+    },
+    {
+      "basename": "大汉帝国在巴蜀-蜀汉天命的振扬与沉坠",
+      "path": "DataBase/Literature/Text/Books/大汉帝国在巴蜀-蜀汉天命的振扬与沉坠.md"
+    },
+    {
+      "basename": "coding_qusitions",
+      "path": "Configuration/Templates/coding_qusitions.md"
+    },
+    {
       "basename": "Home Page",
       "path": "Home Page.md"
+    },
+    {
+      "basename": "恋如雨止",
+      "path": "DataBase/Literature/Films/恋如雨止.md"
     },
     {
       "basename": "StockWorkdesk",
@@ -33,20 +137,8 @@
       "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Parallelism.md"
     },
     {
-      "basename": "Saying0002",
-      "path": "DataBase/Literature/Text/Sayings/Saying0002.md"
-    },
-    {
       "basename": "这里是中国",
       "path": "DataBase/Literature/Text/Books/这里是中国.md"
-    },
-    {
-      "basename": "Saying0004",
-      "path": "DataBase/Literature/Text/Sayings/Saying0004.md"
-    },
-    {
-      "basename": "Saying0005",
-      "path": "DataBase/Literature/Text/Sayings/Saying0005.md"
     },
     {
       "basename": "Interpreter Pattern",
@@ -89,10 +181,6 @@
       "path": "DataBase/Tools/Obsidian/Obsidian Charts.md"
     },
     {
-      "basename": "Git",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Utils/Git.md"
-    },
-    {
       "basename": "GitHub",
       "path": "DataBase/Knowledge/Computer/ApplicationLayer/Utils/GitHub.md"
     },
@@ -111,94 +199,6 @@
     {
       "basename": "TasksBoard",
       "path": "DataBase/Tasks/TasksBoard.md"
-    },
-    {
-      "basename": "Function",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Function.md"
-    },
-    {
-      "basename": "Dependency inversion principle",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Dependency inversion principle.md"
-    },
-    {
-      "basename": "Encapsulation",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Encapsulation.md"
-    },
-    {
-      "basename": "Method",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Method.md"
-    },
-    {
-      "basename": "Dependency Injection",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Dependency Injection.md"
-    },
-    {
-      "basename": "Object",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Object.md"
-    },
-    {
-      "basename": "signature in java",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Java/Fundamentals/signature in java.md"
-    },
-    {
-      "basename": "市盈率",
-      "path": "DataBase/Investment/StockEvaluationKnowledge/市盈率.md"
-    },
-    {
-      "basename": "Lenin, Vladimir llyich",
-      "path": "DataBase/Reality/Persons/Politician/Lenin, Vladimir llyich.md"
-    },
-    {
-      "basename": "Taylor Swift",
-      "path": "DataBase/Reality/Persons/Entertainers/Taylor Swift.md"
-    },
-    {
-      "basename": "大华股份",
-      "path": "DataBase/Investment/Stocks/大华股份.md"
-    },
-    {
-      "basename": "通信设备",
-      "path": "DataBase/Investment/Sectors/通信设备.md"
-    },
-    {
-      "basename": "Entertainers",
-      "path": "DataBase/Reality/Persons/Entertainers.md"
-    },
-    {
-      "basename": "Object-oriented programming",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Object-oriented programming.md"
-    },
-    {
-      "basename": "可可西里",
-      "path": "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Facts/可可西里.md"
-    },
-    {
-      "basename": "A Clockwork Orange(film)",
-      "path": "DataBase/Literature/Films/A Clockwork Orange(film).md"
-    },
-    {
-      "basename": "Books",
-      "path": "DataBase/Literature/Text/Books.md"
-    },
-    {
-      "basename": "豆瓣",
-      "path": "DataBase/Reality/Websites/豆瓣.md"
-    },
-    {
-      "basename": "人间失格",
-      "path": "DataBase/Literature/Text/Books/人间失格.md"
-    },
-    {
-      "basename": "雪崩",
-      "path": "DataBase/Literature/Text/Books/雪崩.md"
-    },
-    {
-      "basename": "芦苇溪改善区",
-      "path": "DataBase/Reality/Places/Administrative regions/芦苇溪改善区.md"
-    },
-    {
-      "basename": "New World",
-      "path": "DataBase/Reality/Places/New World.md"
     }
   ],
   "omittedPaths": [],
