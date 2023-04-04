@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "WorkDesk",
-      "path": "WorkDesk.canvas"
-    },
-    {
-      "basename": "Home Page",
-      "path": "Home Page.md"
-    },
-    {
       "basename": "书籍推荐",
       "path": "DataBase/Tasks/data/书籍推荐.md"
+    },
+    {
+      "basename": "经济学学习",
+      "path": "DataBase/Tasks/data/经济学学习.md"
+    },
+    {
+      "basename": "历史学习",
+      "path": "DataBase/Tasks/data/历史学习.md"
+    },
+    {
+      "basename": "身体状态管理",
+      "path": "DataBase/Tasks/data/身体状态管理.md"
     },
     {
       "basename": "政治理论学习",
@@ -19,6 +23,66 @@
     {
       "basename": "知识成长",
       "path": "DataBase/Tasks/data/知识成长.md"
+    },
+    {
+      "basename": "WorkDesk",
+      "path": "WorkDesk.canvas"
+    },
+    {
+      "basename": "Home Page",
+      "path": "Home Page.md"
+    },
+    {
+      "basename": "Princeples of Economics",
+      "path": "DataBase/Literature/Text/Books/Princeples of Economics.md"
+    },
+    {
+      "basename": "Operating Systems-Three Easy Pieces",
+      "path": "DataBase/Literature/Text/Books/Operating Systems-Three Easy Pieces.md"
+    },
+    {
+      "basename": "Refactoring-Improving the Design of Existing Code",
+      "path": "DataBase/Literature/Text/Books/Refactoring-Improving the Design of Existing Code.md"
+    },
+    {
+      "basename": "Utopia(book)",
+      "path": "DataBase/Literature/Text/Books/Utopia(book).md"
+    },
+    {
+      "basename": "The Year of Magical Thinking",
+      "path": "DataBase/Literature/Text/Books/The Year of Magical Thinking.md"
+    },
+    {
+      "basename": "大汉帝国在巴蜀-蜀汉天命的振扬与沉坠",
+      "path": "DataBase/Literature/Text/Books/大汉帝国在巴蜀-蜀汉天命的振扬与沉坠.md"
+    },
+    {
+      "basename": "自卑与超越",
+      "path": "DataBase/Literature/Text/Books/自卑与超越.md"
+    },
+    {
+      "basename": "人性论",
+      "path": "DataBase/Literature/Text/Books/人性论.md"
+    },
+    {
+      "basename": "N. Gregory Mankiw",
+      "path": "DataBase/Reality/Persons/Authors/N. Gregory Mankiw.md"
+    },
+    {
+      "basename": "顾诚",
+      "path": "DataBase/Reality/Persons/Authors/顾诚.md"
+    },
+    {
+      "basename": "南明史",
+      "path": "DataBase/Literature/Text/Books/南明史.md"
+    },
+    {
+      "basename": "李白",
+      "path": "DataBase/Reality/Persons/Authors/李白.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "浪潮信息-2023-03-22",
@@ -135,70 +199,6 @@
     {
       "basename": "Encapsulation",
       "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Encapsulation.md"
-    },
-    {
-      "basename": "Method",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Method.md"
-    },
-    {
-      "basename": "Dependency Injection",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Dependency Injection.md"
-    },
-    {
-      "basename": "Object",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Object.md"
-    },
-    {
-      "basename": "signature in java",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Java/Fundamentals/signature in java.md"
-    },
-    {
-      "basename": "市盈率",
-      "path": "DataBase/Investment/StockEvaluationKnowledge/市盈率.md"
-    },
-    {
-      "basename": "Lenin, Vladimir llyich",
-      "path": "DataBase/Reality/Persons/Politician/Lenin, Vladimir llyich.md"
-    },
-    {
-      "basename": "Taylor Swift",
-      "path": "DataBase/Reality/Persons/Entertainers/Taylor Swift.md"
-    },
-    {
-      "basename": "大华股份",
-      "path": "DataBase/Investment/Stocks/大华股份.md"
-    },
-    {
-      "basename": "通信设备",
-      "path": "DataBase/Investment/Sectors/通信设备.md"
-    },
-    {
-      "basename": "Entertainers",
-      "path": "DataBase/Reality/Persons/Entertainers.md"
-    },
-    {
-      "basename": "Object-oriented programming",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Object-oriented programming.md"
-    },
-    {
-      "basename": "可可西里",
-      "path": "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Facts/可可西里.md"
-    },
-    {
-      "basename": "A Clockwork Orange(film)",
-      "path": "DataBase/Literature/Films/A Clockwork Orange(film).md"
-    },
-    {
-      "basename": "Books",
-      "path": "DataBase/Literature/Text/Books.md"
-    },
-    {
-      "basename": "豆瓣",
-      "path": "DataBase/Reality/Websites/豆瓣.md"
-    },
-    {
-      "basename": "人间失格",
-      "path": "DataBase/Literature/Text/Books/人间失格.md"
     }
   ],
   "omittedPaths": [],
