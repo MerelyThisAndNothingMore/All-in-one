@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Princeples of Economics",
+      "path": "DataBase/Literature/Text/Books/Princeples of Economics.md"
+    },
+    {
       "basename": "书籍推荐",
       "path": "DataBase/Tasks/data/书籍推荐.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "Home Page",
       "path": "Home Page.md"
-    },
-    {
-      "basename": "Princeples of Economics",
-      "path": "DataBase/Literature/Text/Books/Princeples of Economics.md"
     },
     {
       "basename": "Operating Systems-Three Easy Pieces",

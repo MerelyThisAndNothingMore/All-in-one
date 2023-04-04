@@ -96,8 +96,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Tasks/data/书籍推荐.md",
-                "mode": "preview",
+                "file": "DataBase/Literature/Text/Books/Princeples of Economics.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "WELFARE",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -164,7 +164,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "2f7e2e24ad04b6ba",
@@ -210,7 +211,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Tasks/data/书籍推荐.md",
+                "file": "DataBase/Literature/Text/Books/Princeples of Economics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -245,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Tasks/data/书籍推荐.md",
+                "file": "DataBase/Literature/Text/Books/Princeples of Economics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +263,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Tasks/data/书籍推荐.md"
+                "file": "DataBase/Literature/Text/Books/Princeples of Economics.md"
               }
             }
           },
@@ -296,7 +297,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Tasks/data/书籍推荐.md",
+                "file": "DataBase/Literature/Text/Books/Princeples of Economics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -352,11 +353,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "630ee25856423668",
+  "active": "5e5fea182599fa5c",
   "lastOpenFiles": [
+    "DataBase/Tasks/data/书籍推荐.md",
     "DataBase/Tasks/data/经济学学习.md",
     "DataBase/Tasks/data/历史学习.md",
-    "DataBase/Tasks/data/书籍推荐.md",
     "DataBase/Tasks/data/身体状态管理.md",
     "DataBase/Tasks/data/政治理论学习.md",
     "DataBase/Tasks/data/知识成长.md",
