@@ -174,7 +174,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Literature/Text/Poem/古典诗/示儿.md",
+                "file": "DataBase/Reality/Persons/Entertainers/林青霞.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f7a78e1321ddab50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Reality/Persons/Entertainers/利智.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -182,7 +195,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -212,7 +225,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "林青霞",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -275,7 +288,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Literature/Text/Poem/古典诗/示儿.md",
+                "file": "DataBase/Reality/Persons/Entertainers/利智.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -310,7 +323,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Literature/Text/Poem/古典诗/示儿.md",
+                "file": "DataBase/Reality/Persons/Entertainers/利智.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -327,7 +340,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Literature/Text/Poem/古典诗/示儿.md"
+                "file": "DataBase/Reality/Persons/Entertainers/利智.md"
               }
             }
           },
@@ -361,7 +374,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Literature/Text/Poem/古典诗/示儿.md",
+                "file": "DataBase/Reality/Persons/Entertainers/利智.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -417,8 +430,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a70a5b8db68a191c",
+  "active": "f7a78e1321ddab50",
   "lastOpenFiles": [
+    "DataBase/Reality/Persons/Entertainers/林青霞.md",
+    "DataBase/Reality/Persons/Entertainers/利智.md",
+    "DataBase/Literature/Text/Poem/古典诗/示儿.md",
     "DataBase/Tasks/data/经济学学习.md",
     "DataBase/Reality/Places/Countries/南明.md",
     "DataBase/Reality/Persons/Authors/顾诚.md",
@@ -434,7 +450,6 @@
     "DataBase/Literature/Text/Poem/词/念奴娇·登多景楼.md",
     "DataBase/Literature/Text/Poem/词/念奴娇·昆仑.md",
     "DataBase/Literature/Text/Poem/古典诗/将进酒.md",
-    "DataBase/Literature/Text/Poem/古典诗/示儿.md",
     "DataBase/Literature/Text/Poem/现代诗/The Raven.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Utils/Git.md",
     "DataBase/Literature/Text/Sayings/Saying0007.md",
@@ -446,8 +461,6 @@
     "Configuration/Templates/SayingTemplate.md",
     "DataBase/Literature/Text/Sayings/Saying0001.md",
     "DataBase/Literature/Text/Sayings/Saying0002.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Text File.md",
-    "DataBase/Reality/Persons/Entertainers/周迅.md",
     "DataBase/Tools/Obsidian",
     "DataBase/Tools",
     "DataBase/Reality/Places/Administrative regions",
