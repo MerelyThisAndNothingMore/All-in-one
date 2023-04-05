@@ -167,9 +167,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a70a5b8db68a191c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Literature/Text/Poem/古典诗/示儿.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -262,7 +275,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Literature/Text/Poetry.md",
+                "file": "DataBase/Literature/Text/Poem/古典诗/示儿.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -297,7 +310,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Literature/Text/Poetry.md",
+                "file": "DataBase/Literature/Text/Poem/古典诗/示儿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -314,7 +327,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Literature/Text/Poetry.md"
+                "file": "DataBase/Literature/Text/Poem/古典诗/示儿.md"
               }
             }
           },
@@ -348,7 +361,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Literature/Text/Poetry.md",
+                "file": "DataBase/Literature/Text/Poem/古典诗/示儿.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -404,14 +417,25 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "59b4cfcae0d30005",
+  "active": "a70a5b8db68a191c",
   "lastOpenFiles": [
+    "DataBase/Tasks/data/经济学学习.md",
+    "DataBase/Reality/Places/Countries/南明.md",
+    "DataBase/Reality/Persons/Authors/顾诚.md",
+    "DataBase/Reality/Persons/Authors/N. Gregory Mankiw.md",
+    "DataBase/Literature/Text/Books/南明史.md",
+    "DataBase/Literature/Text/Books/Princeples of Economics.md",
+    "DataBase/History/timeline/1644.md",
+    "DataBase/History/timeline",
+    "DataBase/History",
+    "WorkDesk.canvas",
+    "Home Page.md",
+    "DataBase/Literature/Text/Poetry.md",
     "DataBase/Literature/Text/Poem/词/念奴娇·登多景楼.md",
     "DataBase/Literature/Text/Poem/词/念奴娇·昆仑.md",
     "DataBase/Literature/Text/Poem/古典诗/将进酒.md",
     "DataBase/Literature/Text/Poem/古典诗/示儿.md",
     "DataBase/Literature/Text/Poem/现代诗/The Raven.md",
-    "DataBase/Literature/Text/Poetry.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Utils/Git.md",
     "DataBase/Literature/Text/Sayings/Saying0007.md",
     "DataBase/Literature/Text/SayingView.md",
@@ -424,15 +448,6 @@
     "DataBase/Literature/Text/Sayings/Saying0002.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Text File.md",
     "DataBase/Reality/Persons/Entertainers/周迅.md",
-    "DataBase/Investment/StockEvaluationKnowledge/市盈率.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Science/Finite-state machine.md",
-    "DataBase/Reality/Persons/Entertainers/张曼玉.md",
-    "DataBase/Literature/Text/Books/How to Read a Book.md",
-    "DataBase/Reality/Persons/Scientists/Maurice Krafft.md",
-    "DataBase/Literature/Text/Books/大汉帝国在巴蜀-蜀汉天命的振扬与沉坠.md",
-    "Configuration/Templates/coding_qusitions.md",
-    "Home Page.md",
-    "WorkDesk.canvas",
     "DataBase/Tools/Obsidian",
     "DataBase/Tools",
     "DataBase/Reality/Places/Administrative regions",
@@ -441,8 +456,6 @@
     "DataBase/Reality/News",
     "DataBase/Knowledge/Humanities/Psychology/SocialPsychology",
     "DataBase/Knowledge/Humanities/Psychology",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Network",
-    "DataBase/Reality/Groups/EntertainmentGroup",
     "Resources/Images/The Compilation system.png",
     "Resources/Images/State_Design_Pattern_UML_Class_Diagram.svg",
     "Resources/Images/Isaac Newton.png",
