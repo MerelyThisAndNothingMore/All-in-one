@@ -7,6 +7,7 @@ TABLE
 	sellDate - buyDate as HoldingTime
 FROM #stockTransaction 
 WHERE profit 
+SORT buyDate ASC
 ```
 
 
