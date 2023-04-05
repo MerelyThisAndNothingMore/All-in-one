@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "乐惠贞",
+      "path": "DataBase/Literature/Characters/乐惠贞.md"
+    },
+    {
+      "basename": "Aerith Gainsborough",
+      "path": "DataBase/Literature/Characters/Aerith Gainsborough.md"
+    },
+    {
+      "basename": "Tifa Lockhart",
+      "path": "DataBase/Literature/Characters/Tifa Lockhart.md"
+    },
+    {
+      "basename": "EntertainersTemplate",
+      "path": "Configuration/Templates/EntertainersTemplate.md"
+    },
+    {
       "basename": "利智",
       "path": "DataBase/Reality/Persons/Entertainers/利智.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Obsidian Text Generator",
       "path": "DataBase/Tools/Obsidian/Obsidian Text Generator.md"
-    },
-    {
-      "basename": "Obsidian Charts",
-      "path": "DataBase/Tools/Obsidian/Obsidian Charts.md"
-    },
-    {
-      "basename": "GitHub",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Utils/GitHub.md"
-    },
-    {
-      "basename": "MarkDown",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Utils/MarkDown.md"
-    },
-    {
-      "basename": "关之琳",
-      "path": "DataBase/Reality/Persons/Entertainers/关之琳.md"
     }
   ],
   "omittedPaths": [],
