@@ -1,15 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Passwords",
-      "path": "DataBase/Life/Passwords.md"
-    },{
-      "basename": "WorkDesk",
-      "path": "WorkDesk.canvas"
-    },
-    {
       "basename": "Home Page",
       "path": "Home Page.md"
+    },
+    {
+      "basename": "Passwords",
+      "path": "DataBase/Life/Passwords.md"
+    },
+    {
+      "basename": "WorkDesk",
+      "path": "WorkDesk.canvas"
     },
     {
       "basename": "Android App",
@@ -198,142 +199,6 @@
     {
       "basename": "Git",
       "path": "DataBase/Knowledge/Computer/ApplicationLayer/Utils/Git.md"
-    },
-    {
-      "basename": "Saying0007",
-      "path": "DataBase/Literature/Text/Sayings/Saying0007.md"
-    },
-    {
-      "basename": "SayingView",
-      "path": "DataBase/Literature/Text/SayingView.md"
-    },
-    {
-      "basename": "Saying0006",
-      "path": "DataBase/Literature/Text/Sayings/Saying0006.md"
-    },
-    {
-      "basename": "Saying0005",
-      "path": "DataBase/Literature/Text/Sayings/Saying0005.md"
-    },
-    {
-      "basename": "Saying0004",
-      "path": "DataBase/Literature/Text/Sayings/Saying0004.md"
-    },
-    {
-      "basename": "Saying0003",
-      "path": "DataBase/Literature/Text/Sayings/Saying0003.md"
-    },
-    {
-      "basename": "SayingTemplate",
-      "path": "Configuration/Templates/SayingTemplate.md"
-    },
-    {
-      "basename": "Saying0001",
-      "path": "DataBase/Literature/Text/Sayings/Saying0001.md"
-    },
-    {
-      "basename": "Saying0002",
-      "path": "DataBase/Literature/Text/Sayings/Saying0002.md"
-    },
-    {
-      "basename": "Text File",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Text File.md"
-    },
-    {
-      "basename": "周迅",
-      "path": "DataBase/Reality/Persons/Entertainers/周迅.md"
-    },
-    {
-      "basename": "市盈率",
-      "path": "DataBase/Investment/StockEvaluationKnowledge/市盈率.md"
-    },
-    {
-      "basename": "Finite-state machine",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Science/Finite-state machine.md"
-    },
-    {
-      "basename": "张曼玉",
-      "path": "DataBase/Reality/Persons/Entertainers/张曼玉.md"
-    },
-    {
-      "basename": "How to Read a Book",
-      "path": "DataBase/Literature/Text/Books/How to Read a Book.md"
-    },
-    {
-      "basename": "Maurice Krafft",
-      "path": "DataBase/Reality/Persons/Scientists/Maurice Krafft.md"
-    },
-    {
-      "basename": "大汉帝国在巴蜀-蜀汉天命的振扬与沉坠",
-      "path": "DataBase/Literature/Text/Books/大汉帝国在巴蜀-蜀汉天命的振扬与沉坠.md"
-    },
-    {
-      "basename": "coding_qusitions",
-      "path": "Configuration/Templates/coding_qusitions.md"
-    },
-    {
-      "basename": "恋如雨止",
-      "path": "DataBase/Literature/Films/恋如雨止.md"
-    },
-    {
-      "basename": "StockWorkdesk",
-      "path": "DataBase/Investment/StockWorkdesk.md"
-    },
-    {
-      "basename": "浪潮信息-2023-03-22",
-      "path": "DataBase/Investment/StockTradings/浪潮信息-2023-03-22.md"
-    },
-    {
-      "basename": "中金黄金-2023-03-14",
-      "path": "DataBase/Investment/StockTradings/中金黄金-2023-03-14.md"
-    },
-    {
-      "basename": "StockTradingDecisionTemplate",
-      "path": "Configuration/Templates/StockTradingDecisionTemplate.md"
-    },
-    {
-      "basename": "StockTemplate",
-      "path": "Configuration/Templates/StockTemplate.md"
-    },
-    {
-      "basename": "Parallelism",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Parallelism.md"
-    },
-    {
-      "basename": "这里是中国",
-      "path": "DataBase/Literature/Text/Books/这里是中国.md"
-    },
-    {
-      "basename": "Interpreter Pattern",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Interpreter Pattern.md"
-    },
-    {
-      "basename": "The Fire Within-A Requiem for Katia and Maurice Krafft",
-      "path": "DataBase/Literature/Films/The Fire Within-A Requiem for Katia and Maurice Krafft.md"
-    },
-    {
-      "basename": "Coding Interview University",
-      "path": "DataBase/Reality/Websites/Coding Interview University.md"
-    },
-    {
-      "basename": "吴倩莲",
-      "path": "DataBase/Reality/Persons/Entertainers/吴倩莲.md"
-    },
-    {
-      "basename": "software testing",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Coding/software testing.md"
-    },
-    {
-      "basename": "LaTeX",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Utils/LaTeX.md"
-    },
-    {
-      "basename": "LaTeX-Mathematics",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Utils/LaTeX-Mathematics.md"
-    },
-    {
-      "basename": "GitHub Copilot",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Utils/GitHub Copilot.md"
     }
   ],
   "omittedPaths": [],

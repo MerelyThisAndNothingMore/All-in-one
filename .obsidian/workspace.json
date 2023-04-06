@@ -26,18 +26,15 @@
             }
           },
           {
-            "id": "5185309c84b0864f",
+            "id": "2b91cf72bb2018d0",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                
-                "file": "WorkDesk.canvas",
-                "viewState": {
-                  "x": 254.6234897086955,
-                  "y": -234.92942908926196,
-                  "zoom": 0.21590397863837651
-                }
+                "file": "Home Page.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -136,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "WorkDesk.canvas",
+                "file": "Home Page.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -171,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WorkDesk.canvas",
+                "file": "Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WorkDesk.canvas"
+                "file": "Home Page.md"
               }
             }
           },
@@ -222,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WorkDesk.canvas",
+                "file": "Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +275,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5185309c84b0864f",
+  "active": "2b91cf72bb2018d0",
   "lastOpenFiles": [
     "Home Page.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android SDK.md",
