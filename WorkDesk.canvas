@@ -14,7 +14,9 @@
 		{"type":"text","text":"[[Android Docs]]","id":"2f4cd26a111979ef","x":1280,"y":-900,"width":250,"height":60},
 		{"type":"text","text":"[[Princeples of Economics]]","id":"662ae113255e4efc","x":840,"y":-300,"width":280,"height":60},
 		{"type":"text","text":"认识","id":"0de7508ff0fe6d69","x":-20,"y":80,"width":250,"height":60},
-		{"type":"text","text":"历史","id":"c27a17b7e05533f0","x":460,"y":80,"width":250,"height":60}
+		{"type":"text","text":"历史","id":"c27a17b7e05533f0","x":460,"y":80,"width":250,"height":60},
+		{"id":"7e781df6a76e2ced","x":1280,"y":-810,"width":250,"height":60,"type":"text","text":"[[设计模式之禅|设计模式之禅]] "},
+		{"id":"896c34ee66abb696","x":1280,"y":-1000,"width":250,"height":60,"type":"text","text":"[[Design Patterns Elements of Reusable Object-Oriented Software|Design Patterns Elements of Reusable Object-Oriented Software]] "}
 	],
 	"edges":[
 		{"id":"debee5227fdbd1e3","fromNode":"8326fec1cf2bd1f4","fromSide":"right","toNode":"5dd923f540c2525d","toSide":"left"},
@@ -31,6 +33,8 @@
 		{"id":"c547f1d7204fcfc2","fromNode":"29f438b4801369c7","fromSide":"right","toNode":"662ae113255e4efc","toSide":"left"},
 		{"id":"6f0adb77d2a97383","fromNode":"8326fec1cf2bd1f4","fromSide":"right","toNode":"0de7508ff0fe6d69","toSide":"left"},
 		{"id":"26ae05b020fd64b5","fromNode":"0de7508ff0fe6d69","fromSide":"right","toNode":"c27a17b7e05533f0","toSide":"left"},
-		{"id":"bd6231bd3c6993ee","fromNode":"0de7508ff0fe6d69","fromSide":"right","toNode":"29f438b4801369c7","toSide":"left"}
+		{"id":"bd6231bd3c6993ee","fromNode":"0de7508ff0fe6d69","fromSide":"right","toNode":"29f438b4801369c7","toSide":"left"},
+		{"id":"845bce77105e124e","fromNode":"8c3a0e0ac13b7c92","fromSide":"right","toNode":"896c34ee66abb696","toSide":"left"},
+		{"id":"4ff2d01805b17806","fromNode":"8c3a0e0ac13b7c92","fromSide":"right","toNode":"7e781df6a76e2ced","toSide":"left"}
 	]
 }

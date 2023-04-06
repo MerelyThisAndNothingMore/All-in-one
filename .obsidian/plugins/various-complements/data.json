@@ -108,27 +108,11 @@
         }
       }
     },
-    "generally": {
-      "generally": {
-        "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1678173492446
-        }
-      }
-    },
     "any": {
       "any": {
         "customDictionary": {
           "count": 2,
           "lastUpdated": 1680179503996
-        }
-      }
-    },
-    "according": {
-      "according": {
-        "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1678173455894
         }
       }
     },
@@ -180,14 +164,6 @@
         }
       }
     },
-    "The": {
-      "The": {
-        "customDictionary": {
-          "count": 9,
-          "lastUpdated": 1678173026938
-        }
-      }
-    },
     "Java": {
       "Java": {
         "customDictionary": {
@@ -229,10 +205,6 @@
         "internalLink": {
           "count": 4,
           "lastUpdated": 1680179216394
-        },
-        "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1678155043894
         }
       }
     },
@@ -308,30 +280,6 @@
         }
       }
     },
-    "Applications": {
-      "Applications": {
-        "customDictionary": {
-          "count": 3,
-          "lastUpdated": 1678181905520
-        }
-      }
-    },
-    "State pattern": {
-      "State pattern": {
-        "internalLink": {
-          "count": 6,
-          "lastUpdated": 1678155624280
-        }
-      }
-    },
-    "Strategy pattern": {
-      "Strategy pattern": {
-        "internalLink": {
-          "count": 2,
-          "lastUpdated": 1678155627683
-        }
-      }
-    },
     "Structure": {
       "Structure": {
         "customDictionary": {
@@ -345,14 +293,6 @@
         "frontMatter": {
           "count": 2,
           "lastUpdated": 1679823029193
-        }
-      }
-    },
-    "center": {
-      "center": {
-        "customDictionary": {
-          "count": 4,
-          "lastUpdated": 1678154684605
         }
       }
     },
@@ -396,14 +336,6 @@
         }
       }
     },
-    "Diary": {
-      "Diary": {
-        "frontMatter": {
-          "count": 2,
-          "lastUpdated": 1678109902976
-        }
-      }
-    },
     "Data": {
       "Data": {
         "customDictionary": {
@@ -444,395 +376,11 @@
         }
       }
     },
-    "Content": {
-      "Content": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678154201659
-        }
-      }
-    },
-    "Adapter": {
-      "Adapter": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678154922468
-        }
-      }
-    },
-    "Bridge": {
-      "Bridge": {
-        "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1678155500168
-        }
-      }
-    },
-    "Chain": {
-      "Chain": {
-        "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1678155506453
-        }
-      }
-    },
-    "Responsibility": {
-      "Responsibility": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678154936148
-        }
-      }
-    },
-    "Command": {
-      "Command": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678154940590
-        }
-      }
-    },
-    "Factory": {
-      "Factory": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678154961320
-        }
-      }
-    },
-    "Template": {
-      "Template": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678155039531
-        }
-      }
-    },
-    "Visitor": {
-      "Visitor": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678155050782
-        }
-      }
-    },
-    "Adapter Pattern": {
-      "Adapter Pattern": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1678155496039
-        }
-      }
-    },
-    "Bridge Pattern": {
-      "Bridge Pattern": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1678155502284
-        }
-      }
-    },
-    "Chain of responsibility": {
-      "Chain of responsibility": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1678155507730
-        }
-      }
-    },
-    "Command Pattern": {
-      "Command Pattern": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1678155513054
-        }
-      }
-    },
-    "Decorator Pattern": {
-      "Decorator Pattern": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1678155518304
-        }
-      }
-    },
-    "Facade Pattern": {
-      "Facade Pattern": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1678155522323
-        }
-      }
-    },
-    "fact": {
-      "fact": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678155525143
-        }
-      }
-    },
-    "Factory Method Pattern": {
-      "Factory Method Pattern": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1678155530422
-        }
-      }
-    },
-    "Flyweight Pattern": {
-      "Flyweight Pattern": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1678155536831
-        }
-      }
-    },
-    "Interpreter Pattern": {
-      "Interpreter Pattern": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1678155541755
-        }
-      }
-    },
-    "Iterator Pattern": {
-      "Iterator Pattern": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1678155544719
-        }
-      }
-    },
-    "Mediator Pattern": {
-      "Mediator Pattern": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1678155548006
-        }
-      }
-    },
-    "Memento Pattern": {
-      "Memento Pattern": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1678155557544
-        }
-      }
-    },
-    "Model-View-Controller": {
-      "Model-View-Controller": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1678155565257
-        }
-      }
-    },
-    "Observer Pattern": {
-      "Observer Pattern": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1678155575757
-        }
-      }
-    },
-    "Prototype Pattern": {
-      "Prototype Pattern": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1678155579578
-        }
-      }
-    },
-    "Proxy Pattern": {
-      "Proxy Pattern": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1678155582596
-        }
-      }
-    },
     "Singleton Pattern": {
       "Singleton Pattern": {
         "internalLink": {
           "count": 2,
           "lastUpdated": 1678505252481
-        }
-      }
-    },
-    "Template Method Pattern": {
-      "Template Method Pattern": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1678155594566
-        }
-      }
-    },
-    "Visitor Pattern": {
-      "Visitor Pattern": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1678155597610
-        }
-      }
-    },
-    "Composite Pattern": {
-      "Composite Pattern": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1678155652002
-        }
-      }
-    },
-    "Word": {
-      "Word": {
-        "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1678161417144
-        }
-      }
-    },
-    "Work": {
-      "Work": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678161420833
-        }
-      }
-    },
-    "curriculum": {
-      "curriculum": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678173032221
-        }
-      }
-    },
-    "complete": {
-      "complete": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678173045755
-        }
-      }
-    },
-    "education": {
-      "education": {
-        "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1678173500824
-        }
-      }
-    },
-    "using": {
-      "using": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678173058631
-        }
-      }
-    },
-    "online": {
-      "online": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678173061028
-        }
-      }
-    },
-    "materials": {
-      "materials": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678173066681
-        }
-      }
-    },
-    "designed": {
-      "designed": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678173452158
-        }
-      }
-    },
-    "degree": {
-      "degree": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678173460200
-        }
-      }
-    },
-    "requirement": {
-      "requirement": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678173465835
-        }
-      }
-    },
-    "requirements": {
-      "requirements": {
-        "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1678173517389
-        }
-      }
-    },
-    "undergraduate": {
-      "undergraduate": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678173474744
-        }
-      }
-    },
-    "minus": {
-      "minus": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678173490580
-        }
-      }
-    },
-    "general": {
-      "general": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678173495843
-        }
-      }
-    },
-    "Organization": {
-      "Organization": {
-        "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1678173842655
-        }
-      }
-    },
-    "Curriculum": {
-      "Curriculum": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678174751170
-        }
-      }
-    },
-    "Prerequisite": {
-      "Prerequisite": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678174783435
-        }
-      }
-    },
-    "Intro": {
-      "Intro": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678174798051
         }
       }
     },
@@ -844,38 +392,6 @@
         }
       }
     },
-    "Core": {
-      "Core": {
-        "customDictionary": {
-          "count": 9,
-          "lastUpdated": 1678181909148
-        }
-      }
-    },
-    "Advanced": {
-      "Advanced": {
-        "customDictionary": {
-          "count": 6,
-          "lastUpdated": 1678181952994
-        }
-      }
-    },
-    "Final": {
-      "Final": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678174879035
-        }
-      }
-    },
-    "Project": {
-      "Project": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678174882998
-        }
-      }
-    },
     "designPatterns": {
       "designPatterns": {
         "frontMatter": {
@@ -884,59 +400,11 @@
         }
       }
     },
-    "developUtil": {
-      "developUtil": {
-        "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1678177973088
-        }
-      }
-    },
-    "ethics": {
-      "ethics": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678181911580
-        }
-      }
-    },
     "Systems": {
       "Systems": {
         "customDictionary": {
           "count": 2,
           "lastUpdated": 1678280658227
-        }
-      }
-    },
-    "Theory": {
-      "Theory": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678181935578
-        }
-      }
-    },
-    "Information": {
-      "Information": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678181944913
-        }
-      }
-    },
-    "Security": {
-      "Security": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678181949268
-        }
-      }
-    },
-    "Math": {
-      "Math": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678181959855
         }
       }
     },
@@ -1599,8 +1067,8 @@
     "softwareEngineering": {
       "softwareEngineering": {
         "frontMatter": {
-          "count": 5,
-          "lastUpdated": 1680179736536
+          "count": 10,
+          "lastUpdated": 1680794354370
         }
       }
     },
@@ -1805,6 +1273,22 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1680701168698
+        }
+      }
+    },
+    "设计模式之禅": {
+      "设计模式之禅": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1680793631464
+        }
+      }
+    },
+    "Design Patterns Elements of Reusable Object-Oriented Software": {
+      "Design Patterns Elements of Reusable Object-Oriented Software": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1680793645892
         }
       }
     }
