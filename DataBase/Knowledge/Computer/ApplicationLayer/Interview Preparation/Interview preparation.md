@@ -4,6 +4,7 @@ tags:
 ---
 # General Computer Knowledge
 [[computer science]]
+# [[Android Development|Android Development]] 
 # Business experience
 https://www.techinterviewhandbook.org/resume/
 ## Be thinking of for when the interview comes

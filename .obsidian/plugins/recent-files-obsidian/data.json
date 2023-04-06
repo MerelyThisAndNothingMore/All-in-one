@@ -3,6 +3,149 @@
     {
       "basename": "Passwords",
       "path": "DataBase/Life/Passwords.md"
+    },{
+      "basename": "WorkDesk",
+      "path": "WorkDesk.canvas"
+    },
+    {
+      "basename": "Home Page",
+      "path": "Home Page.md"
+    },
+    {
+      "basename": "Android App",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android App.md"
+    },
+    {
+      "basename": "Android SDK",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android SDK.md"
+    },
+    {
+      "basename": "Android Docs",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android Docs.md"
+    },
+    {
+      "basename": "Android Development",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android Development.md"
+    },
+    {
+      "basename": "View可见性检测",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View可见性检测.md"
+    },
+    {
+      "basename": "Dependency injection in Android",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Dependency injection in Android.md"
+    },
+    {
+      "basename": "TasksBoard",
+      "path": "DataBase/Tasks/TasksBoard.md"
+    },
+    {
+      "basename": "Interview preparation",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation/Interview preparation.md"
+    },
+    {
+      "basename": "computer science",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Science/computer science.md"
+    },
+    {
+      "basename": "计算机知识",
+      "path": "DataBase/Tasks/data/计算机知识.md"
+    },
+    {
+      "basename": "Computer System",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Computer System.md"
+    },
+    {
+      "basename": "历史学习",
+      "path": "DataBase/Tasks/data/历史学习.md"
+    },
+    {
+      "basename": "知识成长",
+      "path": "DataBase/Tasks/data/知识成长.md"
+    },
+    {
+      "basename": "LongTermPlan",
+      "path": "DataBase/Tasks/LongTermPlan.md"
+    },
+    {
+      "basename": "WorkDesk",
+      "path": "DataBase/Tasks/WorkDesk.md"
+    },
+    {
+      "basename": "OpenAI",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/AI/OpenAI.md"
+    },
+    {
+      "basename": "autocompleting",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/AI/autocompleting.md"
+    },
+    {
+      "basename": "Artificial Intelligence",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/AI/Artificial Intelligence.md"
+    },
+    {
+      "basename": "Access Control Modifiers",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Access Control Modifiers.md"
+    },
+    {
+      "basename": "C programing language",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Coding/C programing language.md"
+    },
+    {
+      "basename": "三七互娱-2023-04-03",
+      "path": "DataBase/Investment/StockTradings/三七互娱-2023-04-03.md"
+    },
+    {
+      "basename": "西安饮食-2023-04-04",
+      "path": "DataBase/Investment/StockTradings/西安饮食-2023-04-04.md"
+    },
+    {
+      "basename": "西安饮食",
+      "path": "DataBase/Investment/Stocks/西安饮食.md"
+    },
+    {
+      "basename": "英飞拓",
+      "path": "DataBase/Investment/Stocks/英飞拓.md"
+    },
+    {
+      "basename": "三七互娱",
+      "path": "DataBase/Investment/Stocks/三七互娱.md"
+    },
+    {
+      "basename": "特变电工",
+      "path": "DataBase/Investment/Stocks/特变电工.md"
+    },
+    {
+      "basename": "英飞拓-2023-03-28",
+      "path": "DataBase/Investment/StockTradings/英飞拓-2023-03-28.md"
+    },
+    {
+      "basename": "StockWorkdesk",
+      "path": "DataBase/Investment/StockWorkdesk.md"
+    },
+    {
+      "basename": "立昂微-2023-04-03",
+      "path": "DataBase/Investment/StockTradings/立昂微-2023-04-03.md"
+    },
+    {
+      "basename": "中金黄金-2023-03-14",
+      "path": "DataBase/Investment/StockTradings/中金黄金-2023-03-14.md"
+    },
+    {
+      "basename": "立昂微",
+      "path": "DataBase/Investment/Stocks/立昂微.md"
+    },
+    {
+      "basename": "中润资源",
+      "path": "DataBase/Investment/Stocks/中润资源.md"
+    },
+    {
+      "basename": "StockTradingDecisionTemplate",
+      "path": "Configuration/Templates/StockTradingDecisionTemplate.md"
+    },
+    {
+      "basename": "浪潮信息",
+      "path": "DataBase/Investment/Stocks/浪潮信息.md"
     },
     {
       "basename": "乐惠贞",
@@ -31,14 +174,6 @@
     {
       "basename": "示儿",
       "path": "DataBase/Literature/Text/Poem/古典诗/示儿.md"
-    },
-    {
-      "basename": "WorkDesk",
-      "path": "WorkDesk.canvas"
-    },
-    {
-      "basename": "Home Page",
-      "path": "Home Page.md"
     },
     {
       "basename": "Poetry",
