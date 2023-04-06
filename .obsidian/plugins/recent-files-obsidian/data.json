@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "茶馆",
+      "path": "DataBase/Literature/Text/Books/茶馆.md"
+    },
+    {
+      "basename": "骆驼祥子",
+      "path": "DataBase/Literature/Text/Books/骆驼祥子.md"
+    },
+    {
       "basename": "Home Page",
       "path": "Home Page.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "将进酒",
       "path": "DataBase/Literature/Text/Poem/古典诗/将进酒.md"
-    },
-    {
-      "basename": "The Raven",
-      "path": "DataBase/Literature/Text/Poem/现代诗/The Raven.md"
-    },
-    {
-      "basename": "Git",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Utils/Git.md"
     }
   ],
   "omittedPaths": [],
