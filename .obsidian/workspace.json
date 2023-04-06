@@ -200,7 +200,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Literature/Characters/乐惠贞.md",
+                "file": "DataBase/Life/Passwords.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -238,7 +238,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "林青霞",
+                "query": "passw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -255,7 +255,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "2f7e2e24ad04b6ba",
@@ -301,7 +302,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Literature/Characters/乐惠贞.md",
+                "file": "DataBase/Life/Passwords.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -336,7 +337,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Literature/Characters/乐惠贞.md",
+                "file": "DataBase/Life/Passwords.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -353,7 +354,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Literature/Characters/乐惠贞.md"
+                "file": "DataBase/Life/Passwords.md"
               }
             }
           },
@@ -387,7 +388,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Literature/Characters/乐惠贞.md",
+                "file": "DataBase/Life/Passwords.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -445,9 +446,9 @@
   },
   "active": "2a877734c8854f09",
   "lastOpenFiles": [
+    "DataBase/Literature/Characters/乐惠贞.md",
     "DataBase/Literature/Characters/Aerith Gainsborough.md",
     "DataBase/Literature/Characters/Tifa Lockhart.md",
-    "DataBase/Literature/Characters/乐惠贞.md",
     "Configuration/Templates/EntertainersTemplate.md",
     "DataBase/Reality/Persons/Entertainers/利智.md",
     "DataBase/Reality/Persons/Entertainers/林青霞.md",

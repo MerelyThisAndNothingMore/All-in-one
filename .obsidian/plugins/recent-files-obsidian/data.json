@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Passwords",
+      "path": "DataBase/Life/Passwords.md"
+    },
+    {
       "basename": "乐惠贞",
       "path": "DataBase/Literature/Characters/乐惠贞.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "GitHub Copilot",
       "path": "DataBase/Knowledge/Computer/ApplicationLayer/Utils/GitHub Copilot.md"
-    },
-    {
-      "basename": "Obsidian Text Generator",
-      "path": "DataBase/Tools/Obsidian/Obsidian Text Generator.md"
     }
   ],
   "omittedPaths": [],
