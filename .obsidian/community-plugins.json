@@ -28,5 +28,7 @@
   "homepage",
   "recent-files-obsidian",
   "heatmap-calendar",
-  "obsidian-linter"
+  "obsidian-linter",
+  "folder-note-plugin",
+  "dbfolder"
 ]

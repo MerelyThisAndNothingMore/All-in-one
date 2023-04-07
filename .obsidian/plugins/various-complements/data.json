@@ -3,6 +3,8 @@
   "cedictPath": "./cedict_ts.u8",
   "matchStrategy": "prefix",
   "fuzzyMatch": true,
+  "matchingWithoutEmoji": true,
+  "treatAccentDiacriticsAsAlphabeticCharacters": false,
   "maxNumberOfSuggestions": 5,
   "maxNumberOfWordsAsPhrase": 3,
   "minNumberOfCharactersTriggered": 0,
@@ -58,6 +60,7 @@
     "maxDaysToKeepHistory": 30,
     "maxNumberOfHistoryToKeep": 0
   },
+  "disableOnMobile": false,
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
     "complexity": {
@@ -349,22 +352,6 @@
         "frontMatter": {
           "count": 2,
           "lastUpdated": 1678937097552
-        }
-      }
-    },
-    "Systems": {
-      "Systems": {
-        "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1678280658227
-        }
-      }
-    },
-    "Operating": {
-      "Operating": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678280650034
         }
       }
     },
@@ -1137,6 +1124,22 @@
         "customDictionary": {
           "count": 1,
           "lastUpdated": 1680871555334
+        }
+      }
+    },
+    "origin": {
+      "origin": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1680878088178
+        }
+      }
+    },
+    "[[最终幻想VII]]": {
+      "[[最终幻想VII]]": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1680878077556
         }
       }
     }

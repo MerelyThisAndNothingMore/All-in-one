@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Liskov substitution principle.md",
+                "file": "DataBase/Reality/Persons/Entertainers.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -129,7 +129,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Liskov substitution principle.md",
+                "file": "DataBase/Reality/Persons/Entertainers.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Liskov substitution principle.md",
+                "file": "DataBase/Reality/Persons/Entertainers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Liskov substitution principle.md"
+                "file": "DataBase/Reality/Persons/Entertainers.md"
               }
             }
           },
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Liskov substitution principle.md",
+                "file": "DataBase/Reality/Persons/Entertainers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       },
       {
         "id": "1ae32eceb2a7d7a3",
@@ -260,38 +260,39 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "homepage:Open homepage": false,
       "obsidian-memos:Memos": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "dbfolder:Create a new database table": false
     }
   },
   "active": "8b84faec6720c976",
   "lastOpenFiles": [
-    "DataBase/Literature/Text/Books/设计模式之禅.md",
-    "DataBase/Literature/Text/Books/数学之美.md",
-    "DataBase/Literature/Text/Books/人间失格.md",
-    "DataBase/Literature/Text/Books/南明史.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/class.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/迪米特法则.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View可见性检测.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android SDK.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android Docs.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/插件化.md",
-    "Configuration/Templates/StockTradingDecisionTemplate.md",
-    "Configuration/Templates/StockTemplate.md",
+    "DataBase/Reality/Persons/Entertainers/赵丽颖.md",
+    "DataBase/Reality/Persons/Entertainers.md",
+    "DataBase/Reality/Persons/Entertainers/利智.md",
+    "DataBase/Reality/Persons/Entertainers/金请夏.md",
+    "DataBase/Reality/Persons/Entertainers/李安.md",
+    "DataBase/Literature/Characters/Characters.md",
+    "DataBase/Literature/Games/最终幻想VII.md",
+    "DataBase/Literature/Characters/Aerith Gainsborough.md",
+    "DataBase/Literature/Characters/Tifa Lockhart.md",
+    "DataBase/Literature/Characters/乐惠贞.md",
+    "Characters.md",
     "Home Page.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Model-View-Controller.md",
-    "WorkDesk.canvas",
+    "DataBase/Literature/Characters.md",
+    "DataBase/Reality/Persons/Entertainers/邱淑贞.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Interface segregation principle.md",
+    "DataBase/Literature/Text/Books/设计模式之禅.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Dependency inversion principle.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Liskov substitution principle.md",
-    "DataBase/Literature/Text/Books/Princeples of Economics.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Single-responsibility principle.md",
-    "DataBase/Reality/Persons/Scientists/Isaac Newton.md",
-    "DataBase/Life/diary/Weekly Template.md",
-    "DataBase/Life/Passwords.md",
-    "DataBase/Investment/StockTradings/中金黄金-2023-03-14.md",
-    "DataBase/Reality/Persons/Authors/曹雪芹.md",
-    "DataBase/Literature/Text/Books/红楼梦.md",
-    "DataBase/Literature/Text/Books/Design Patterns Elements of Reusable Object-Oriented Software.md",
-    "DataBase/Investment/StockTradings/英飞拓-2023-03-28.md",
-    "DataBase/Investment/StockTradings/西安饮食-2023-04-04.md",
+    "DataBase/Reality/Persons/Entertainers/宋祖儿.md",
+    "DataBase/Reality/Persons/Entertainers/孙艺珍.md",
+    "DataBase/Reality/Persons/Entertainers/徐克.md",
+    "DataBase/Reality/Persons/Entertainers/张曼玉.md",
+    "DataBase/Reality/Persons/Entertainers/杨幂.md",
+    "DataBase/Reality/Persons/Entertainers/杨超越.md",
+    "DataBase/Reality/Persons/Entertainers/中森明菜.md",
+    "DataBase/Reality/Persons/Entertainers/赵今麦.md",
+    "WorkDesk.canvas",
     "DataBase/History/timeline",
     "DataBase/History",
     "DataBase/Tools/Obsidian",

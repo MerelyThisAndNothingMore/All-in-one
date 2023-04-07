@@ -1,12 +1,168 @@
 {
   "recentFiles": [
     {
-      "basename": "Liskov substitution principle",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Liskov substitution principle.md"
+      "basename": "Entertainers",
+      "path": "DataBase/Reality/Persons/Entertainers.md"
+    },
+    {
+      "basename": "赵丽颖",
+      "path": "DataBase/Reality/Persons/Entertainers/赵丽颖.md"
+    },
+    {
+      "basename": "利智",
+      "path": "DataBase/Reality/Persons/Entertainers/利智.md"
+    },
+    {
+      "basename": "金请夏",
+      "path": "DataBase/Reality/Persons/Entertainers/金请夏.md"
+    },
+    {
+      "basename": "李安",
+      "path": "DataBase/Reality/Persons/Entertainers/李安.md"
+    },
+    {
+      "basename": "Characters",
+      "path": "DataBase/Literature/Characters/Characters.md"
+    },
+    {
+      "basename": "最终幻想VII",
+      "path": "DataBase/Literature/Games/最终幻想VII.md"
+    },
+    {
+      "basename": "Aerith Gainsborough",
+      "path": "DataBase/Literature/Characters/Aerith Gainsborough.md"
+    },
+    {
+      "basename": "Tifa Lockhart",
+      "path": "DataBase/Literature/Characters/Tifa Lockhart.md"
+    },
+    {
+      "basename": "乐惠贞",
+      "path": "DataBase/Literature/Characters/乐惠贞.md"
+    },
+    {
+      "basename": "Home Page",
+      "path": "Home Page.md"
+    },
+    {
+      "basename": "邱淑贞",
+      "path": "DataBase/Reality/Persons/Entertainers/邱淑贞.md"
+    },
+    {
+      "basename": "Interface segregation principle",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Interface segregation principle.md"
     },
     {
       "basename": "设计模式之禅",
       "path": "DataBase/Literature/Text/Books/设计模式之禅.md"
+    },
+    {
+      "basename": "Dependency inversion principle",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Dependency inversion principle.md"
+    },
+    {
+      "basename": "Liskov substitution principle",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Liskov substitution principle.md"
+    },
+    {
+      "basename": "宋祖儿",
+      "path": "DataBase/Reality/Persons/Entertainers/宋祖儿.md"
+    },
+    {
+      "basename": "孙艺珍",
+      "path": "DataBase/Reality/Persons/Entertainers/孙艺珍.md"
+    },
+    {
+      "basename": "徐克",
+      "path": "DataBase/Reality/Persons/Entertainers/徐克.md"
+    },
+    {
+      "basename": "张曼玉",
+      "path": "DataBase/Reality/Persons/Entertainers/张曼玉.md"
+    },
+    {
+      "basename": "杨幂",
+      "path": "DataBase/Reality/Persons/Entertainers/杨幂.md"
+    },
+    {
+      "basename": "杨超越",
+      "path": "DataBase/Reality/Persons/Entertainers/杨超越.md"
+    },
+    {
+      "basename": "中森明菜",
+      "path": "DataBase/Reality/Persons/Entertainers/中森明菜.md"
+    },
+    {
+      "basename": "赵今麦",
+      "path": "DataBase/Reality/Persons/Entertainers/赵今麦.md"
+    },
+    {
+      "basename": "徐童",
+      "path": "DataBase/Reality/Persons/Entertainers/徐童.md"
+    },
+    {
+      "basename": "吴倩莲",
+      "path": "DataBase/Reality/Persons/Entertainers/吴倩莲.md"
+    },
+    {
+      "basename": "沃纳·赫尔佐格",
+      "path": "DataBase/Reality/Persons/Entertainers/沃纳·赫尔佐格.md"
+    },
+    {
+      "basename": "小松菜奈",
+      "path": "DataBase/Reality/Persons/Entertainers/小松菜奈.md"
+    },
+    {
+      "basename": "Main Memory",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Main Memory.md"
+    },
+    {
+      "basename": "Computer Systems-A Programmer's Perspective",
+      "path": "DataBase/Literature/Text/Books/Computer Systems-A Programmer's Perspective.md"
+    },
+    {
+      "basename": "Data Structures and Algorithms In Java",
+      "path": "DataBase/Literature/Text/Books/Data Structures and Algorithms In Java.md"
+    },
+    {
+      "basename": "Design Patterns Wiki Book",
+      "path": "DataBase/Literature/Text/Books/Design Patterns Wiki Book.md"
+    },
+    {
+      "basename": "毛主席语录",
+      "path": "DataBase/Literature/Text/Books/毛主席语录.md"
+    },
+    {
+      "basename": "Single-responsibility principle",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Single-responsibility principle.md"
+    },
+    {
+      "basename": "Open-closed principle",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Open-closed principle.md"
+    },
+    {
+      "basename": "Operating Systems-Three Easy Pieces",
+      "path": "DataBase/Literature/Text/Books/Operating Systems-Three Easy Pieces.md"
+    },
+    {
+      "basename": "How to Read a Book",
+      "path": "DataBase/Literature/Text/Books/How to Read a Book.md"
+    },
+    {
+      "basename": "Design Patterns Elements of Reusable Object-Oriented Software",
+      "path": "DataBase/Literature/Text/Books/Design Patterns Elements of Reusable Object-Oriented Software.md"
+    },
+    {
+      "basename": "自卑与超越",
+      "path": "DataBase/Literature/Text/Books/自卑与超越.md"
+    },
+    {
+      "basename": "这里是中国",
+      "path": "DataBase/Literature/Text/Books/这里是中国.md"
+    },
+    {
+      "basename": "查拉图斯特拉如是说",
+      "path": "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md"
     },
     {
       "basename": "数学之美",
@@ -43,162 +199,6 @@
     {
       "basename": "插件化",
       "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/插件化.md"
-    },
-    {
-      "basename": "StockTradingDecisionTemplate",
-      "path": "Configuration/Templates/StockTradingDecisionTemplate.md"
-    },
-    {
-      "basename": "StockTemplate",
-      "path": "Configuration/Templates/StockTemplate.md"
-    },
-    {
-      "basename": "Home Page",
-      "path": "Home Page.md"
-    },
-    {
-      "basename": "Design pattern",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Design pattern.md"
-    },
-    {
-      "basename": "Model-View-Controller",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Model-View-Controller.md"
-    },
-    {
-      "basename": "WorkDesk",
-      "path": "WorkDesk.canvas"
-    },
-    {
-      "basename": "Princeples of Economics",
-      "path": "DataBase/Literature/Text/Books/Princeples of Economics.md"
-    },
-    {
-      "basename": "Single-responsibility principle",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Single-responsibility principle.md"
-    },
-    {
-      "basename": "Passwords",
-      "path": "DataBase/Life/Passwords.md"
-    },
-    {
-      "basename": "Isaac Newton",
-      "path": "DataBase/Reality/Persons/Scientists/Isaac Newton.md"
-    },
-    {
-      "basename": "Weekly Template",
-      "path": "DataBase/Life/diary/Weekly Template.md"
-    },
-    {
-      "basename": "中金黄金-2023-03-14",
-      "path": "DataBase/Investment/StockTradings/中金黄金-2023-03-14.md"
-    },
-    {
-      "basename": "英飞拓-2023-03-28",
-      "path": "DataBase/Investment/StockTradings/英飞拓-2023-03-28.md"
-    },
-    {
-      "basename": "西安饮食-2023-04-04",
-      "path": "DataBase/Investment/StockTradings/西安饮食-2023-04-04.md"
-    },
-    {
-      "basename": "三七互娱-2023-04-03",
-      "path": "DataBase/Investment/StockTradings/三七互娱-2023-04-03.md"
-    },
-    {
-      "basename": "Android App",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android App.md"
-    },
-    {
-      "basename": "Android Development",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android Development.md"
-    },
-    {
-      "basename": "Dependency injection in Android",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Dependency injection in Android.md"
-    },
-    {
-      "basename": "TasksBoard",
-      "path": "DataBase/Tasks/TasksBoard.md"
-    },
-    {
-      "basename": "Interview preparation",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation/Interview preparation.md"
-    },
-    {
-      "basename": "computer science",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Science/computer science.md"
-    },
-    {
-      "basename": "计算机知识",
-      "path": "DataBase/Tasks/data/计算机知识.md"
-    },
-    {
-      "basename": "Computer System",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Computer System.md"
-    },
-    {
-      "basename": "历史学习",
-      "path": "DataBase/Tasks/data/历史学习.md"
-    },
-    {
-      "basename": "知识成长",
-      "path": "DataBase/Tasks/data/知识成长.md"
-    },
-    {
-      "basename": "LongTermPlan",
-      "path": "DataBase/Tasks/LongTermPlan.md"
-    },
-    {
-      "basename": "WorkDesk",
-      "path": "DataBase/Tasks/WorkDesk.md"
-    },
-    {
-      "basename": "OpenAI",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/AI/OpenAI.md"
-    },
-    {
-      "basename": "autocompleting",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/AI/autocompleting.md"
-    },
-    {
-      "basename": "Artificial Intelligence",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/AI/Artificial Intelligence.md"
-    },
-    {
-      "basename": "Access Control Modifiers",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Access Control Modifiers.md"
-    },
-    {
-      "basename": "C programing language",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Coding/C programing language.md"
-    },
-    {
-      "basename": "西安饮食",
-      "path": "DataBase/Investment/Stocks/西安饮食.md"
-    },
-    {
-      "basename": "英飞拓",
-      "path": "DataBase/Investment/Stocks/英飞拓.md"
-    },
-    {
-      "basename": "三七互娱",
-      "path": "DataBase/Investment/Stocks/三七互娱.md"
-    },
-    {
-      "basename": "特变电工",
-      "path": "DataBase/Investment/Stocks/特变电工.md"
-    },
-    {
-      "basename": "StockWorkdesk",
-      "path": "DataBase/Investment/StockWorkdesk.md"
-    },
-    {
-      "basename": "立昂微-2023-04-03",
-      "path": "DataBase/Investment/StockTradings/立昂微-2023-04-03.md"
-    },
-    {
-      "basename": "立昂微",
-      "path": "DataBase/Investment/Stocks/立昂微.md"
     }
   ],
   "omittedPaths": [],
