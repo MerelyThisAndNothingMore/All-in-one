@@ -1,88 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Single-responsibility principle",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Single-responsibility principle.md"
-    },
-    {
-      "basename": "设计模式之禅",
-      "path": "DataBase/Literature/Text/Books/设计模式之禅.md"
-    },
-    {
-      "basename": "迪米特法则",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/迪米特法则.md"
-    },
-    {
-      "basename": "programming paradigm",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/programming paradigm.md"
-    },
-    {
-      "basename": "Open-closed principle",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Open-closed principle.md"
-    },
-    {
-      "basename": "Object",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Object.md"
-    },
-    {
-      "basename": "SOLID",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/SOLID.md"
-    },
-    {
-      "basename": "Interface segregation principle",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Interface segregation principle.md"
-    },
-    {
-      "basename": "Dependency inversion principle",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Dependency inversion principle.md"
-    },
-    {
-      "basename": "Liskov substitution principle",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Liskov substitution principle.md"
-    },
-    {
-      "basename": "WorkDesk",
-      "path": "WorkDesk.canvas"
-    },
-    {
       "basename": "Home Page",
       "path": "Home Page.md"
     },
     {
-      "basename": "Design Patterns Elements of Reusable Object-Oriented Software",
-      "path": "DataBase/Literature/Text/Books/Design Patterns Elements of Reusable Object-Oriented Software.md"
+      "basename": "中金黄金-2023-03-14",
+      "path": "DataBase/Investment/StockTradings/中金黄金-2023-03-14.md"
     },
     {
-      "basename": "毛主席语录",
-      "path": "DataBase/Literature/Text/Books/毛主席语录.md"
+      "basename": "英飞拓-2023-03-28",
+      "path": "DataBase/Investment/StockTradings/英飞拓-2023-03-28.md"
     },
     {
-      "basename": "茶馆",
-      "path": "DataBase/Literature/Text/Books/茶馆.md"
+      "basename": "西安饮食-2023-04-04",
+      "path": "DataBase/Investment/StockTradings/西安饮食-2023-04-04.md"
     },
     {
-      "basename": "红楼梦",
-      "path": "DataBase/Literature/Text/Books/红楼梦.md"
+      "basename": "三七互娱-2023-04-03",
+      "path": "DataBase/Investment/StockTradings/三七互娱-2023-04-03.md"
     },
     {
-      "basename": "曹雪芹",
-      "path": "DataBase/Reality/Persons/Authors/曹雪芹.md"
-    },
-    {
-      "basename": "顾诚",
-      "path": "DataBase/Reality/Persons/Authors/顾诚.md"
-    },
-    {
-      "basename": "南明史",
-      "path": "DataBase/Literature/Text/Books/南明史.md"
-    },
-    {
-      "basename": "四世同堂",
-      "path": "DataBase/Literature/Text/Books/四世同堂.md"
-    },
-    {
-      "basename": "骆驼祥子",
-      "path": "DataBase/Literature/Text/Books/骆驼祥子.md"
+      "basename": "WorkDesk",
+      "path": "WorkDesk.canvas"
     },
     {
       "basename": "Passwords",
@@ -169,14 +109,6 @@
       "path": "DataBase/Knowledge/Computer/ApplicationLayer/Coding/C programing language.md"
     },
     {
-      "basename": "三七互娱-2023-04-03",
-      "path": "DataBase/Investment/StockTradings/三七互娱-2023-04-03.md"
-    },
-    {
-      "basename": "西安饮食-2023-04-04",
-      "path": "DataBase/Investment/StockTradings/西安饮食-2023-04-04.md"
-    },
-    {
       "basename": "西安饮食",
       "path": "DataBase/Investment/Stocks/西安饮食.md"
     },
@@ -193,8 +125,80 @@
       "path": "DataBase/Investment/Stocks/特变电工.md"
     },
     {
-      "basename": "英飞拓-2023-03-28",
-      "path": "DataBase/Investment/StockTradings/英飞拓-2023-03-28.md"
+      "basename": "StockWorkdesk",
+      "path": "DataBase/Investment/StockWorkdesk.md"
+    },
+    {
+      "basename": "立昂微-2023-04-03",
+      "path": "DataBase/Investment/StockTradings/立昂微-2023-04-03.md"
+    },
+    {
+      "basename": "立昂微",
+      "path": "DataBase/Investment/Stocks/立昂微.md"
+    },
+    {
+      "basename": "中润资源",
+      "path": "DataBase/Investment/Stocks/中润资源.md"
+    },
+    {
+      "basename": "StockTradingDecisionTemplate",
+      "path": "Configuration/Templates/StockTradingDecisionTemplate.md"
+    },
+    {
+      "basename": "浪潮信息",
+      "path": "DataBase/Investment/Stocks/浪潮信息.md"
+    },
+    {
+      "basename": "乐惠贞",
+      "path": "DataBase/Literature/Characters/乐惠贞.md"
+    },
+    {
+      "basename": "Aerith Gainsborough",
+      "path": "DataBase/Literature/Characters/Aerith Gainsborough.md"
+    },
+    {
+      "basename": "Tifa Lockhart",
+      "path": "DataBase/Literature/Characters/Tifa Lockhart.md"
+    },
+    {
+      "basename": "EntertainersTemplate",
+      "path": "Configuration/Templates/EntertainersTemplate.md"
+    },
+    {
+      "basename": "利智",
+      "path": "DataBase/Reality/Persons/Entertainers/利智.md"
+    },
+    {
+      "basename": "林青霞",
+      "path": "DataBase/Reality/Persons/Entertainers/林青霞.md"
+    },
+    {
+      "basename": "示儿",
+      "path": "DataBase/Literature/Text/Poem/古典诗/示儿.md"
+    },
+    {
+      "basename": "Poetry",
+      "path": "DataBase/Literature/Text/Poetry.md"
+    },
+    {
+      "basename": "念奴娇·登多景楼",
+      "path": "DataBase/Literature/Text/Poem/词/念奴娇·登多景楼.md"
+    },
+    {
+      "basename": "念奴娇·昆仑",
+      "path": "DataBase/Literature/Text/Poem/词/念奴娇·昆仑.md"
+    },
+    {
+      "basename": "将进酒",
+      "path": "DataBase/Literature/Text/Poem/古典诗/将进酒.md"
+    },
+    {
+      "basename": "The Raven",
+      "path": "DataBase/Literature/Text/Poem/现代诗/The Raven.md"
+    },
+    {
+      "basename": "Git",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Utils/Git.md"
     }
   ],
   "omittedPaths": [],
