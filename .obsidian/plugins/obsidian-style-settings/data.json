@@ -7,7 +7,7 @@
   "blue-topaz-theme@@show-full-metadata": true,
   "blue-topaz-theme@@table-style-options": "table-style-one",
   "blue-topaz-theme@@file-bg-shape-option": "file-bg-pill",
-  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-autumn-topaz",
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-default",
   "minimal-advanced@@styled-scrollbars": false,
   "minimal-style@@active-line-on": false
 }

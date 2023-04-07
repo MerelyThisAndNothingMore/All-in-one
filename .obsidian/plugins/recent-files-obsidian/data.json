@@ -5,16 +5,68 @@
       "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Liskov substitution principle.md"
     },
     {
-      "basename": "WorkDesk",
-      "path": "WorkDesk.canvas"
+      "basename": "设计模式之禅",
+      "path": "DataBase/Literature/Text/Books/设计模式之禅.md"
+    },
+    {
+      "basename": "数学之美",
+      "path": "DataBase/Literature/Text/Books/数学之美.md"
+    },
+    {
+      "basename": "人间失格",
+      "path": "DataBase/Literature/Text/Books/人间失格.md"
+    },
+    {
+      "basename": "南明史",
+      "path": "DataBase/Literature/Text/Books/南明史.md"
+    },
+    {
+      "basename": "class",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/class.md"
+    },
+    {
+      "basename": "迪米特法则",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/迪米特法则.md"
+    },
+    {
+      "basename": "View可见性检测",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View可见性检测.md"
+    },
+    {
+      "basename": "Android SDK",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android SDK.md"
+    },
+    {
+      "basename": "Android Docs",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android Docs.md"
+    },
+    {
+      "basename": "插件化",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/插件化.md"
+    },
+    {
+      "basename": "StockTradingDecisionTemplate",
+      "path": "Configuration/Templates/StockTradingDecisionTemplate.md"
+    },
+    {
+      "basename": "StockTemplate",
+      "path": "Configuration/Templates/StockTemplate.md"
     },
     {
       "basename": "Home Page",
       "path": "Home Page.md"
     },
     {
-      "basename": "设计模式之禅",
-      "path": "DataBase/Literature/Text/Books/设计模式之禅.md"
+      "basename": "Design pattern",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Design pattern.md"
+    },
+    {
+      "basename": "Model-View-Controller",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Model-View-Controller.md"
+    },
+    {
+      "basename": "WorkDesk",
+      "path": "WorkDesk.canvas"
     },
     {
       "basename": "Princeples of Economics",
@@ -57,20 +109,8 @@
       "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android App.md"
     },
     {
-      "basename": "Android SDK",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android SDK.md"
-    },
-    {
-      "basename": "Android Docs",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android Docs.md"
-    },
-    {
       "basename": "Android Development",
       "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android Development.md"
-    },
-    {
-      "basename": "View可见性检测",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View可见性检测.md"
     },
     {
       "basename": "Dependency injection in Android",
@@ -159,46 +199,6 @@
     {
       "basename": "立昂微",
       "path": "DataBase/Investment/Stocks/立昂微.md"
-    },
-    {
-      "basename": "中润资源",
-      "path": "DataBase/Investment/Stocks/中润资源.md"
-    },
-    {
-      "basename": "StockTradingDecisionTemplate",
-      "path": "Configuration/Templates/StockTradingDecisionTemplate.md"
-    },
-    {
-      "basename": "浪潮信息",
-      "path": "DataBase/Investment/Stocks/浪潮信息.md"
-    },
-    {
-      "basename": "乐惠贞",
-      "path": "DataBase/Literature/Characters/乐惠贞.md"
-    },
-    {
-      "basename": "Aerith Gainsborough",
-      "path": "DataBase/Literature/Characters/Aerith Gainsborough.md"
-    },
-    {
-      "basename": "Tifa Lockhart",
-      "path": "DataBase/Literature/Characters/Tifa Lockhart.md"
-    },
-    {
-      "basename": "EntertainersTemplate",
-      "path": "Configuration/Templates/EntertainersTemplate.md"
-    },
-    {
-      "basename": "利智",
-      "path": "DataBase/Reality/Persons/Entertainers/利智.md"
-    },
-    {
-      "basename": "林青霞",
-      "path": "DataBase/Reality/Persons/Entertainers/林青霞.md"
-    },
-    {
-      "basename": "示儿",
-      "path": "DataBase/Literature/Text/Poem/古典诗/示儿.md"
     }
   ],
   "omittedPaths": [],
