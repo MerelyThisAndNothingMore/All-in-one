@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "迪米特法则",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/迪米特法则.md"
+    },
+    {
+      "basename": "设计模式之禅",
+      "path": "DataBase/Literature/Text/Books/设计模式之禅.md"
+    },
+    {
+      "basename": "Interface segregation principle",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Interface segregation principle.md"
+    },
+    {
       "basename": "Entertainers",
       "path": "DataBase/Reality/Persons/Entertainers.md"
+    },
+    {
+      "basename": "Home Page",
+      "path": "Home Page.md"
     },
     {
       "basename": "赵丽颖",
@@ -41,20 +57,8 @@
       "path": "DataBase/Literature/Characters/乐惠贞.md"
     },
     {
-      "basename": "Home Page",
-      "path": "Home Page.md"
-    },
-    {
       "basename": "邱淑贞",
       "path": "DataBase/Reality/Persons/Entertainers/邱淑贞.md"
-    },
-    {
-      "basename": "Interface segregation principle",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Interface segregation principle.md"
-    },
-    {
-      "basename": "设计模式之禅",
-      "path": "DataBase/Literature/Text/Books/设计模式之禅.md"
     },
     {
       "basename": "Dependency inversion principle",
@@ -179,10 +183,6 @@
     {
       "basename": "class",
       "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/class.md"
-    },
-    {
-      "basename": "迪米特法则",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/迪米特法则.md"
     },
     {
       "basename": "View可见性检测",
