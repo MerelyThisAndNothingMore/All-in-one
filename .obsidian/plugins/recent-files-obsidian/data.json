@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Passwords",
+      "path": "DataBase/Life/Passwords.md"
+    },
+    {
+      "basename": "Isaac Newton",
+      "path": "DataBase/Reality/Persons/Scientists/Isaac Newton.md"
+    },
+    {
+      "basename": "Weekly Template",
+      "path": "DataBase/Life/diary/Weekly Template.md"
+    },
+    {
       "basename": "Home Page",
       "path": "Home Page.md"
     },
@@ -23,10 +35,6 @@
     {
       "basename": "WorkDesk",
       "path": "WorkDesk.canvas"
-    },
-    {
-      "basename": "Passwords",
-      "path": "DataBase/Life/Passwords.md"
     },
     {
       "basename": "Android App",
@@ -191,14 +199,6 @@
     {
       "basename": "将进酒",
       "path": "DataBase/Literature/Text/Poem/古典诗/将进酒.md"
-    },
-    {
-      "basename": "The Raven",
-      "path": "DataBase/Literature/Text/Poem/现代诗/The Raven.md"
-    },
-    {
-      "basename": "Git",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Utils/Git.md"
     }
   ],
   "omittedPaths": [],
