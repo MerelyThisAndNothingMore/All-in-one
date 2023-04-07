@@ -4,29 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d5ef034550c5bba1",
+        "id": "88a65c97ac9cca47",
         "type": "tabs",
         "children": [
           {
-            "id": "1691433ed78d91ef",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "empty",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "69aad05bc8dd2a36",
-            "type": "leaf",
-            "state": {
-              "type": "memos_view",
-              "state": {}
-            }
-          },
-          {
-            "id": "c27ec7e8bfc553fc",
+            "id": "031ba1d7188aafbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -37,9 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "63e030a0c561ab64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Life/Passwords.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#softwareEngineering",
+                "query": "passwo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +81,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "2f7e2e24ad04b6ba",
@@ -132,7 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Life/Passwords.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -167,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Life/Passwords.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "DataBase/Life/Passwords.md"
               }
             }
           },
@@ -218,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Life/Passwords.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -274,35 +270,35 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c27ec7e8bfc553fc",
+  "active": "63e030a0c561ab64",
   "lastOpenFiles": [
-    "DataBase/Literature/Text/Books/设计模式之禅.md",
-    "DataBase/Literature/Text/Books/迪米特法则.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/迪米特法则.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Single-responsibility principle.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/programming paradigm.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Open-closed principle.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Object.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/SOLID.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Interface segregation principle.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Dependency inversion principle.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Liskov substitution principle.md",
-    "WorkDesk.canvas",
+    "DataBase/Reality/Persons/Scientists/Isaac Newton.md",
+    "DataBase/Life/diary/Weekly Template.md",
+    "DataBase/Life/Passwords.md",
     "Home Page.md",
-    "DataBase/Literature/Text/Books/Design Patterns Elements of Reusable Object-Oriented Software.md",
-    "DataBase/Literature/Text/Books/毛主席语录.md",
-    "DataBase/Literature/Text/Books/茶馆.md",
-    "DataBase/Literature/Text/Books/红楼梦.md",
+    "DataBase/Investment/StockTradings/中金黄金-2023-03-14.md",
     "DataBase/Reality/Persons/Authors/曹雪芹.md",
-    "DataBase/Reality/Persons/Authors/顾诚.md",
-    "DataBase/Literature/Text/Books/南明史.md",
-    "DataBase/Literature/Text/Books/四世同堂.md",
-    "DataBase/Literature/Text/Books/骆驼祥子.md",
+    "DataBase/Literature/Text/Books/设计模式之禅.md",
+    "DataBase/Literature/Text/Books/红楼梦.md",
+    "DataBase/Literature/Text/Books/Design Patterns Elements of Reusable Object-Oriented Software.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/迪米特法则.md",
+    "DataBase/Investment/StockTradings/英飞拓-2023-03-28.md",
+    "DataBase/Investment/StockTradings/西安饮食-2023-04-04.md",
+    "DataBase/Investment/StockTradings/三七互娱-2023-04-03.md",
+    "WorkDesk.canvas",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android SDK.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android App.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android Docs.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android Development.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View可见性检测.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Dependency injection in Android.md",
+    "DataBase/Tasks/TasksBoard.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation/Interview preparation.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Science/computer science.md",
+    "DataBase/Tasks/data/计算机知识.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Computer System.md",
+    "DataBase/Tasks/data/历史学习.md",
+    "DataBase/Tasks/data/知识成长.md",
     "DataBase/History/timeline",
     "DataBase/History",
     "DataBase/Tools/Obsidian",
