@@ -143,8 +143,8 @@
     "Object": {
       "Object": {
         "internalLink": {
-          "count": 10,
-          "lastUpdated": 1680179619073
+          "count": 11,
+          "lastUpdated": 1680872385757
         }
       }
     },
@@ -179,8 +179,8 @@
     "class": {
       "class": {
         "internalLink": {
-          "count": 10,
-          "lastUpdated": 1680179845835
+          "count": 12,
+          "lastUpdated": 1680872378179
         }
       }
     },
@@ -232,14 +232,6 @@
         }
       }
     },
-    "through": {
-      "through": {
-        "customDictionary": {
-          "count": 4,
-          "lastUpdated": 1678275264603
-        }
-      }
-    },
     "within": {
       "within": {
         "customDictionary": {
@@ -261,30 +253,6 @@
         "customDictionary": {
           "count": 2,
           "lastUpdated": 1678505231065
-        }
-      }
-    },
-    "Computer": {
-      "Computer": {
-        "customDictionary": {
-          "count": 3,
-          "lastUpdated": 1678274957623
-        }
-      }
-    },
-    "computer science": {
-      "computer science": {
-        "internalLink": {
-          "count": 6,
-          "lastUpdated": 1678275950375
-        }
-      }
-    },
-    "Structure": {
-      "Structure": {
-        "customDictionary": {
-          "count": 3,
-          "lastUpdated": 1678275427490
         }
       }
     },
@@ -336,14 +304,6 @@
         }
       }
     },
-    "Data": {
-      "Data": {
-        "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1678275423063
-        }
-      }
-    },
     "Algorithm": {
       "Algorithm": {
         "internalLink": {
@@ -384,14 +344,6 @@
         }
       }
     },
-    "Programming": {
-      "Programming": {
-        "customDictionary": {
-          "count": 4,
-          "lastUpdated": 1678274274430
-        }
-      }
-    },
     "designPatterns": {
       "designPatterns": {
         "frontMatter": {
@@ -405,134 +357,6 @@
         "customDictionary": {
           "count": 2,
           "lastUpdated": 1678280658227
-        }
-      }
-    },
-    "Recommenda": {
-      "Recommenda": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678274307292
-        }
-      }
-    },
-    "Recommendation": {
-      "Recommendation": {
-        "customDictionary": {
-          "count": 4,
-          "lastUpdated": 1678276006236
-        }
-      }
-    },
-    "Lectures": {
-      "Lectures": {
-        "customDictionary": {
-          "count": 4,
-          "lastUpdated": 1678276013362
-        }
-      }
-    },
-    "Practice": {
-      "Practice": {
-        "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1678275739039
-        }
-      }
-    },
-    "Architecture": {
-      "Architecture": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678274961778
-        }
-      }
-    },
-    "work": {
-      "work": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678275022171
-        }
-      }
-    },
-    "least": {
-      "least": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678275028320
-        }
-      }
-    },
-    "first": {
-      "first": {
-        "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1678275268022
-        }
-      }
-    },
-    "three": {
-      "three": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678275033375
-        }
-      }
-    },
-    "chapters": {
-      "chapters": {
-        "customDictionary": {
-          "count": 3,
-          "lastUpdated": 1678275270461
-        }
-      }
-    },
-    "Lecture": {
-      "Lecture": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678275136143
-        }
-      }
-    },
-    "read": {
-      "read": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678275262518
-        }
-      }
-    },
-    "six": {
-      "six": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678275268982
-        }
-      }
-    },
-    "Algorithms": {
-      "Algorithms": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678275418215
-        }
-      }
-    },
-    "Mathematics": {
-      "Mathematics": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1678275945421
-        }
-      }
-    },
-    "authors": {
-      "authors": {
-        "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1678276521984
         }
       }
     },
@@ -1219,8 +1043,8 @@
     "Function": {
       "Function": {
         "internalLink": {
-          "count": 4,
-          "lastUpdated": 1680179838514
+          "count": 5,
+          "lastUpdated": 1680872368220
         },
         "customDictionary": {
           "count": 1,
@@ -1289,6 +1113,30 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1680793645892
+        }
+      }
+    },
+    "never": {
+      "never": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1680871545410
+        }
+      }
+    },
+    "than": {
+      "than": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1680871551590
+        }
+      }
+    },
+    "reason": {
+      "reason": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1680871555334
         }
       }
     }

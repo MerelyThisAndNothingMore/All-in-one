@@ -4,37 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "88a65c97ac9cca47",
+        "id": "d15208e7f1d4d1a7",
         "type": "tabs",
         "children": [
           {
-            "id": "031ba1d7188aafbb",
+            "id": "d61419c413d5e150",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
-                "mode": "preview",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Liskov substitution principle.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "63e030a0c561ab64",
+            "id": "7f8b12fc7d36ab07",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "DataBase/Life/Passwords.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "WorkDesk.canvas",
+                "viewState": {
+                  "x": 717.4234798655791,
+                  "y": -269.87948608398426,
+                  "zoom": -0.2840960213616235
+                }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "passwo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,8 +82,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "2f7e2e24ad04b6ba",
@@ -128,7 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Life/Passwords.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Liskov substitution principle.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Life/Passwords.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Liskov substitution principle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Life/Passwords.md"
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Liskov substitution principle.md"
               }
             }
           },
@@ -189,14 +189,6 @@
             "type": "leaf",
             "state": {
               "type": "todo",
-              "state": {}
-            }
-          },
-          {
-            "id": "30be9ce3318f66d6",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
               "state": {}
             }
           },
@@ -214,22 +206,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Life/Passwords.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Liskov substitution principle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "615fb5bad6518bd8",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       },
       {
         "id": "1ae32eceb2a7d7a3",
@@ -270,22 +254,25 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "63e030a0c561ab64",
+  "active": "d61419c413d5e150",
   "lastOpenFiles": [
+    "WorkDesk.canvas",
+    "Home Page.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Liskov substitution principle.md",
+    "DataBase/Literature/Text/Books/设计模式之禅.md",
+    "DataBase/Literature/Text/Books/Princeples of Economics.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Single-responsibility principle.md",
     "DataBase/Reality/Persons/Scientists/Isaac Newton.md",
     "DataBase/Life/diary/Weekly Template.md",
     "DataBase/Life/Passwords.md",
-    "Home Page.md",
     "DataBase/Investment/StockTradings/中金黄金-2023-03-14.md",
     "DataBase/Reality/Persons/Authors/曹雪芹.md",
-    "DataBase/Literature/Text/Books/设计模式之禅.md",
     "DataBase/Literature/Text/Books/红楼梦.md",
     "DataBase/Literature/Text/Books/Design Patterns Elements of Reusable Object-Oriented Software.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/迪米特法则.md",
     "DataBase/Investment/StockTradings/英飞拓-2023-03-28.md",
     "DataBase/Investment/StockTradings/西安饮食-2023-04-04.md",
     "DataBase/Investment/StockTradings/三七互娱-2023-04-03.md",
-    "WorkDesk.canvas",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android SDK.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android App.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android Docs.md",
@@ -295,10 +282,6 @@
     "DataBase/Tasks/TasksBoard.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation/Interview preparation.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Science/computer science.md",
-    "DataBase/Tasks/data/计算机知识.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Computer System.md",
-    "DataBase/Tasks/data/历史学习.md",
-    "DataBase/Tasks/data/知识成长.md",
     "DataBase/History/timeline",
     "DataBase/History",
     "DataBase/Tools/Obsidian",

@@ -1,13 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Liskov substitution principle",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Liskov substitution principle.md"
+    },
+    {
+      "basename": "WorkDesk",
+      "path": "WorkDesk.canvas"
+    },
+    {
       "basename": "Home Page",
       "path": "Home Page.md"
     },
     {
+      "basename": "设计模式之禅",
+      "path": "DataBase/Literature/Text/Books/设计模式之禅.md"
+    },
+    {
+      "basename": "Princeples of Economics",
+      "path": "DataBase/Literature/Text/Books/Princeples of Economics.md"
+    },
+    {
       "basename": "Single-responsibility principle",
       "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Single-responsibility principle.md"
-    },{
+    },
+    {
       "basename": "Passwords",
       "path": "DataBase/Life/Passwords.md"
     },
@@ -18,10 +35,6 @@
     {
       "basename": "Weekly Template",
       "path": "DataBase/Life/diary/Weekly Template.md"
-    },
-    {
-      "basename": "Home Page",
-      "path": "Home Page.md"
     },
     {
       "basename": "中金黄金-2023-03-14",
@@ -38,10 +51,6 @@
     {
       "basename": "三七互娱-2023-04-03",
       "path": "DataBase/Investment/StockTradings/三七互娱-2023-04-03.md"
-    },
-    {
-      "basename": "WorkDesk",
-      "path": "WorkDesk.canvas"
     },
     {
       "basename": "Android App",
@@ -190,22 +199,6 @@
     {
       "basename": "示儿",
       "path": "DataBase/Literature/Text/Poem/古典诗/示儿.md"
-    },
-    {
-      "basename": "Poetry",
-      "path": "DataBase/Literature/Text/Poetry.md"
-    },
-    {
-      "basename": "念奴娇·登多景楼",
-      "path": "DataBase/Literature/Text/Poem/词/念奴娇·登多景楼.md"
-    },
-    {
-      "basename": "念奴娇·昆仑",
-      "path": "DataBase/Literature/Text/Poem/词/念奴娇·昆仑.md"
-    },
-    {
-      "basename": "将进酒",
-      "path": "DataBase/Literature/Text/Poem/古典诗/将进酒.md"
     }
   ],
   "omittedPaths": [],
