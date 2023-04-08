@@ -5,6 +5,26 @@
       "path": "DataBase/History/Facts/日本占领期.md"
     },
     {
+      "basename": "通货膨胀",
+      "path": "DataBase/Knowledge/Society/Economic/Theory/通货膨胀.md"
+    },
+    {
+      "basename": "付费直播业务分享",
+      "path": "付费直播业务分享.md"
+    },
+    {
+      "basename": "付费直播-埋点补齐",
+      "path": "付费直播-埋点补齐.md"
+    },
+    {
+      "basename": "休谟",
+      "path": "DataBase/Reality/Persons/Authors/休谟.md"
+    },
+    {
+      "basename": "Swim",
+      "path": "DataBase/Skills/Swim.md"
+    },
+    {
       "basename": "东京大空袭",
       "path": "DataBase/History/Facts/东京大空袭.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "杨幂",
       "path": "DataBase/Reality/Persons/Entertainers/杨幂.md"
-    },
-    {
-      "basename": "杨超越",
-      "path": "DataBase/Reality/Persons/Entertainers/杨超越.md"
-    },
-    {
-      "basename": "中森明菜",
-      "path": "DataBase/Reality/Persons/Entertainers/中森明菜.md"
-    },
-    {
-      "basename": "赵今麦",
-      "path": "DataBase/Reality/Persons/Entertainers/赵今麦.md"
-    },
-    {
-      "basename": "徐童",
-      "path": "DataBase/Reality/Persons/Entertainers/徐童.md"
-    },
-    {
-      "basename": "吴倩莲",
-      "path": "DataBase/Reality/Persons/Entertainers/吴倩莲.md"
     }
   ],
   "omittedPaths": [],
