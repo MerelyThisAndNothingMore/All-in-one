@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "29e35d283c175ef0",
+        "id": "19e9970427e0325c",
         "type": "tabs",
         "children": [
           {
-            "id": "409d613a19a34c4a",
+            "id": "fd7b808c401c508c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -248,12 +248,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "409d613a19a34c4a",
+  "active": "fd7b808c401c508c",
   "lastOpenFiles": [
+    "Home Page.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Open-closed principle.md",
     "DataBase/Literature/Text/Books/设计模式之禅.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/迪米特法则.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Interface segregation principle.md",
     "DataBase/Reality/Persons/Entertainers.md",
-    "Home Page.md",
     "DataBase/Reality/Persons/Entertainers/赵丽颖.md",
     "DataBase/Reality/Persons/Entertainers/利智.md",
     "DataBase/Reality/Persons/Entertainers/金请夏.md",
@@ -274,8 +276,6 @@
     "DataBase/Reality/Persons/Entertainers/张曼玉.md",
     "DataBase/Reality/Persons/Entertainers/杨幂.md",
     "DataBase/Reality/Persons/Entertainers/杨超越.md",
-    "DataBase/Reality/Persons/Entertainers/中森明菜.md",
-    "DataBase/Reality/Persons/Entertainers/赵今麦.md",
     "WorkDesk.canvas",
     "DataBase/History/timeline",
     "DataBase/History",

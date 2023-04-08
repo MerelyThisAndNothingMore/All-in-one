@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "WorkDesk",
+      "path": "WorkDesk.canvas"
+    },
+    {
       "basename": "Home Page",
       "path": "Home Page.md"
     },
     {
-      "basename": "迪米特法则",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/迪米特法则.md"
+      "basename": "Open-closed principle",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Open-closed principle.md"
     },
     {
       "basename": "设计模式之禅",
       "path": "DataBase/Literature/Text/Books/设计模式之禅.md"
+    },
+    {
+      "basename": "迪米特法则",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/迪米特法则.md"
     },
     {
       "basename": "Interface segregation principle",
@@ -141,10 +149,6 @@
       "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Single-responsibility principle.md"
     },
     {
-      "basename": "Open-closed principle",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Open-closed principle.md"
-    },
-    {
       "basename": "Operating Systems-Three Easy Pieces",
       "path": "DataBase/Literature/Text/Books/Operating Systems-Three Easy Pieces.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Android Docs",
       "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android Docs.md"
-    },
-    {
-      "basename": "插件化",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/插件化.md"
     }
   ],
   "omittedPaths": [],
