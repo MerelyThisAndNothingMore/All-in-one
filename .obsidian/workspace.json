@@ -4,23 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "19e9970427e0325c",
+        "id": "363a32aba7be1bc5",
         "type": "tabs",
         "children": [
           {
-            "id": "fd7b808c401c508c",
+            "id": "2904a60049dd405a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Literature/Text/Books/战后日本经济史.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "1751d93ce96faf34",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/History/Facts/东京大空袭.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "f93edf25ff095660",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/History/Facts/日本占领期.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -50,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "日本",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +142,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/History/Facts/日本占领期.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/History/Facts/日本占领期.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "DataBase/History/Facts/日本占领期.md"
               }
             }
           },
@@ -191,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/History/Facts/日本占领期.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,35 +277,38 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fd7b808c401c508c",
+  "active": "f93edf25ff095660",
   "lastOpenFiles": [
+    "DataBase/History/Facts/东京大空袭.md",
+    "DataBase/History/Facts/日本占领期.md",
+    "DataBase/Literature/Text/Books/战后日本经济史.md",
+    "DataBase/Literature/Text/Books/人间失格.md",
+    "DataBase/Reality/Places/Countries/南明.md",
+    "DataBase/Reality/Places/Countries/日本.md",
+    "DataBase/History/timeline/1644.md",
+    "DataBase/History/Facts",
+    "DataBase/Knowledge/Society/Economic/Facts/战后日本经济.md",
+    "DataBase/Knowledge/Society/Economic/Facts",
+    "DataBase/Knowledge/Society/Economic",
+    "DataBase/Reality/Places/Countries/中华人民共和国.md",
+    "DataBase/Reality/Places/Countries/韩国.md",
+    "DataBase/Reality/Persons/Authors/野口悠纪雄.md",
+    "DataBase/Reality/Persons/Authors/约翰洛克.md",
+    "DataBase/Literature/Text/Books/Capital in the twenty-First Century.md",
+    "DataBase/Reality/Websites/马克思主义文库.md",
+    "DataBase/Reality/Persons/Authors/Thomas Piketty.md",
+    "DataBase/Reality/Persons/Authors/老舍.md",
+    "DataBase/Literature/Text/Books/毛主席语录.md",
+    "DataBase/Literature/Text/Books/Princeples of Economics.md",
+    "WorkDesk.canvas",
     "Home Page.md",
+    "DataBase/Tasks/data/政治理论学习.md",
+    "DataBase/Knowledge/Society/ideology/Marxism.md",
+    "DataBase/Literature/Text/Books/毛泽东选集/毛泽东选集.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Open-closed principle.md",
     "DataBase/Literature/Text/Books/设计模式之禅.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/迪米特法则.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Interface segregation principle.md",
-    "DataBase/Reality/Persons/Entertainers.md",
-    "DataBase/Reality/Persons/Entertainers/赵丽颖.md",
-    "DataBase/Reality/Persons/Entertainers/利智.md",
-    "DataBase/Reality/Persons/Entertainers/金请夏.md",
-    "DataBase/Reality/Persons/Entertainers/李安.md",
-    "DataBase/Literature/Characters/Characters.md",
-    "DataBase/Literature/Games/最终幻想VII.md",
-    "DataBase/Literature/Characters/Aerith Gainsborough.md",
-    "DataBase/Literature/Characters/Tifa Lockhart.md",
-    "DataBase/Literature/Characters/乐惠贞.md",
-    "Characters.md",
-    "DataBase/Literature/Characters.md",
-    "DataBase/Reality/Persons/Entertainers/邱淑贞.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Dependency inversion principle.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Liskov substitution principle.md",
-    "DataBase/Reality/Persons/Entertainers/宋祖儿.md",
-    "DataBase/Reality/Persons/Entertainers/孙艺珍.md",
-    "DataBase/Reality/Persons/Entertainers/徐克.md",
-    "DataBase/Reality/Persons/Entertainers/张曼玉.md",
-    "DataBase/Reality/Persons/Entertainers/杨幂.md",
-    "DataBase/Reality/Persons/Entertainers/杨超越.md",
-    "WorkDesk.canvas",
     "DataBase/History/timeline",
     "DataBase/History",
     "DataBase/Tools/Obsidian",
@@ -284,9 +316,6 @@
     "DataBase/Reality/Places/Administrative regions",
     "DataBase/Investment/StockTradings",
     "DataBase/Reality/Persons/Officials",
-    "DataBase/Reality/News",
-    "DataBase/Knowledge/Humanities/Psychology/SocialPsychology",
-    "DataBase/Knowledge/Humanities/Psychology",
     "Resources/Images/The Compilation system.png",
     "Resources/Images/State_Design_Pattern_UML_Class_Diagram.svg",
     "Resources/Images/Isaac Newton.png",

@@ -195,14 +195,6 @@
         }
       }
     },
-    "memory": {
-      "memory": {
-        "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1678333917603
-        }
-      }
-    },
     "Method": {
       "Method": {
         "internalLink": {
@@ -216,14 +208,6 @@
         "customDictionary": {
           "count": 3,
           "lastUpdated": 1678505237583
-        }
-      }
-    },
-    "access": {
-      "access": {
-        "customDictionary": {
-          "count": 4,
-          "lastUpdated": 1678329569457
         }
       }
     },
@@ -270,8 +254,8 @@
     "tags": {
       "tags": {
         "customDictionary": {
-          "count": 9,
-          "lastUpdated": 1678511957689
+          "count": 10,
+          "lastUpdated": 1680958706499
         }
       }
     },
@@ -355,147 +339,11 @@
         }
       }
     },
-    "release": {
-      "release": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678286111350
-        }
-      }
-    },
-    "Tour": {
-      "Tour": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678287994980
-        }
-      }
-    },
-    "Computer System": {
-      "Computer System": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1678288001311
-        }
-      }
-    },
-    "short": {
-      "short": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678288056315
-        }
-      }
-    },
-    "Central": {
-      "Central": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678288062585
-        }
-      }
-    },
-    "Processing": {
-      "Processing": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678288067070
-        }
-      }
-    },
-    "Unit": {
-      "Unit": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678288069801
-        }
-      }
-    },
     "computerArchitecture": {
       "computerArchitecture": {
         "frontMatter": {
           "count": 18,
           "lastUpdated": 1678510541874
-        }
-      }
-    },
-    "hierarchy": {
-      "hierarchy": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678329325643
-        }
-      }
-    },
-    "Programs": {
-      "Programs": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678329543699
-        }
-      }
-    },
-    "keyboard": {
-      "keyboard": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678329572892
-        }
-      }
-    },
-    "display": {
-      "display": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678329577496
-        }
-      }
-    },
-    "disk": {
-      "disk": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678329580120
-        }
-      }
-    },
-    "main": {
-      "main": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678329585419
-        }
-      }
-    },
-    "Memory Hierarchy": {
-      "Memory Hierarchy": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1678329589404
-        }
-      }
-    },
-    "processes": {
-      "processes": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678333906693
-        }
-      }
-    },
-    "virtual": {
-      "virtual": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678333910675
-        }
-      }
-    },
-    "Data Structure": {
-      "Data Structure": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1678354524963
         }
       }
     },
@@ -1140,6 +988,30 @@
         "frontMatter": {
           "count": 1,
           "lastUpdated": 1680878077556
+        }
+      }
+    },
+    "Capital": {
+      "Capital": {
+        "customDictionary": {
+          "count": 3,
+          "lastUpdated": 1680959119898
+        }
+      }
+    },
+    "Income": {
+      "Income": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1680959059439
+        }
+      }
+    },
+    "country": {
+      "country": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1680960423012
         }
       }
     }
