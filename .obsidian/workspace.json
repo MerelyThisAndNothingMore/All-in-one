@@ -4,39 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d658517af323dcfc",
+        "id": "29e35d283c175ef0",
         "type": "tabs",
         "children": [
           {
-            "id": "a844b2e425d605b8",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Literature/Text/Books/设计模式之禅.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "8b84faec6720c976",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/迪米特法则.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c68a54b13bff669",
+            "id": "409d613a19a34c4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/迪米特法则.md",
+                "file": "Home Page.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -177,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/迪米特法则.md",
+                "file": "Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/迪米特法则.md"
+                "file": "Home Page.md"
               }
             }
           },
@@ -220,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/迪米特法则.md",
+                "file": "Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -272,12 +243,12 @@
       "workspaces:Manage workspace layouts": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "homepage:Open homepage": false,
+      "dbfolder:Create a new database table": false,
       "obsidian-memos:Memos": false,
-      "periodic-notes:Open today": false,
-      "dbfolder:Create a new database table": false
+      "periodic-notes:Open today": false
     }
   },
-  "active": "8b84faec6720c976",
+  "active": "409d613a19a34c4a",
   "lastOpenFiles": [
     "DataBase/Literature/Text/Books/设计模式之禅.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Interface segregation principle.md",
