@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "961f7e0adbba3ed1",
+        "id": "704eb13652caedd1",
         "type": "tabs",
         "children": [
           {
-            "id": "3f0c2e8a312d04a9",
+            "id": "11e2f59acccfdc5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Tools/Obsidian/Dataview.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f14163b8d4d07cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Open-closed principle.md",
-                "mode": "source",
+                "file": "Home Page.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +114,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Open-closed principle.md",
+                "file": "Home Page.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -163,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Open-closed principle.md",
+                "file": "Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Open-closed principle.md"
+                "file": "Home Page.md"
               }
             }
           },
@@ -206,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Open-closed principle.md",
+                "file": "Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -263,7 +249,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5f14163b8d4d07cb",
+  "active": "11e2f59acccfdc5e",
   "lastOpenFiles": [
     "DataBase/Literature/Text/Books/设计模式之禅.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Open-closed principle.md",
