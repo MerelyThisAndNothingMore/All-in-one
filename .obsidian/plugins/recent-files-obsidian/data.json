@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "Adapter Pattern",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Adapter Pattern.md"
+    },
+    {
+      "basename": "Abstract Factory Pattern",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Abstract Factory Pattern.md"
+    },
+    {
+      "basename": "Proxy Pattern",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Proxy Pattern.md"
+    },
+    {
+      "basename": "Builder Pattern",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Builder Pattern.md"
+    },
+    {
+      "basename": "Template Method Pattern",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Template Method Pattern.md"
+    },
+    {
+      "basename": "Factory Method Pattern",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Factory Method Pattern.md"
+    },
+    {
+      "basename": "Facade Pattern",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Facade Pattern.md"
+    },
+    {
+      "basename": "Singleton Pattern",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Singleton Pattern.md"
+    },
+    {
+      "basename": "State pattern",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/State pattern.md"
+    },
+    {
+      "basename": "Composite Pattern",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Composite Pattern.md"
+    },
+    {
       "basename": "设计模式之禅",
       "path": "DataBase/Literature/Text/Books/设计模式之禅.md"
     },
@@ -159,46 +199,6 @@
     {
       "basename": "Entertainers",
       "path": "DataBase/Reality/Persons/Entertainers.md"
-    },
-    {
-      "basename": "赵丽颖",
-      "path": "DataBase/Reality/Persons/Entertainers/赵丽颖.md"
-    },
-    {
-      "basename": "利智",
-      "path": "DataBase/Reality/Persons/Entertainers/利智.md"
-    },
-    {
-      "basename": "金请夏",
-      "path": "DataBase/Reality/Persons/Entertainers/金请夏.md"
-    },
-    {
-      "basename": "李安",
-      "path": "DataBase/Reality/Persons/Entertainers/李安.md"
-    },
-    {
-      "basename": "Characters",
-      "path": "DataBase/Literature/Characters/Characters.md"
-    },
-    {
-      "basename": "最终幻想VII",
-      "path": "DataBase/Literature/Games/最终幻想VII.md"
-    },
-    {
-      "basename": "Aerith Gainsborough",
-      "path": "DataBase/Literature/Characters/Aerith Gainsborough.md"
-    },
-    {
-      "basename": "Tifa Lockhart",
-      "path": "DataBase/Literature/Characters/Tifa Lockhart.md"
-    },
-    {
-      "basename": "乐惠贞",
-      "path": "DataBase/Literature/Characters/乐惠贞.md"
-    },
-    {
-      "basename": "邱淑贞",
-      "path": "DataBase/Reality/Persons/Entertainers/邱淑贞.md"
     }
   ],
   "omittedPaths": [],

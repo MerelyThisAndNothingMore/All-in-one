@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
-                "mode": "preview",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Adapter Pattern.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "开闭原则",
+                "query": "factory",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,8 +67,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "2f7e2e24ad04b6ba",
@@ -114,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Adapter Pattern.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -149,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Adapter Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Adapter Pattern.md"
               }
             }
           },
@@ -192,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Adapter Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,10 +250,20 @@
   },
   "active": "11e2f59acccfdc5e",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Abstract Factory Pattern.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Proxy Pattern.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Builder Pattern.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Template Method Pattern.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Factory Method Pattern.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Facade Pattern.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Singleton Pattern.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/State pattern.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Adapter Pattern.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Composite Pattern.md",
     "DataBase/Literature/Text/Books/设计模式之禅.md",
+    "Home Page.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Open-closed principle.md",
     "WorkDesk.canvas",
-    "Home Page.md",
     "DataBase/Tools/Obsidian/Dataview.md",
     "DataBase/Tools/Obsidian/Obsidian Text Generator.md",
     "DataBase/Tools/Obsidian/Obsidian Charts.md",
@@ -268,19 +277,9 @@
     "付费直播-埋点补齐.md",
     "付费直播业务分享.md",
     "DataBase/History/Facts/日本占领期.md",
-    "DataBase/Knowledge/Society/Economic/Theory/通货膨胀.md",
-    "DataBase/Reality/Persons/Authors/休谟.md",
-    "DataBase/Skills/Swim.md",
     "DataBase/Skills",
-    "DataBase/Knowledge/Society/Economic/Theory.md",
     "DataBase/Knowledge/Society/Economic/Theory",
-    "DataBase/History/Facts/东京大空袭.md",
-    "DataBase/Literature/Text/Books/人间失格.md",
-    "DataBase/Reality/Places/Countries/南明.md",
-    "DataBase/Reality/Places/Countries/日本.md",
-    "DataBase/History/timeline/1644.md",
     "DataBase/History/Facts",
-    "DataBase/Knowledge/Society/Economic/Facts/战后日本经济.md",
     "DataBase/Knowledge/Society/Economic/Facts",
     "DataBase/Knowledge/Society/Economic",
     "DataBase/History/timeline",
