@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "徐其耀",
+      "path": "DataBase/Reality/Persons/Officials/徐其耀.md"
+    },
+    {
+      "basename": "Trees",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Trees.md"
+    },
+    {
+      "basename": "市盈率",
+      "path": "DataBase/Investment/StockEvaluationKnowledge/市盈率.md"
+    },
+    {
+      "basename": "Static modifier",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Static modifier.md"
+    },
+    {
+      "basename": "战后日本经济史",
+      "path": "DataBase/Literature/Text/Books/战后日本经济史.md"
+    },
+    {
       "basename": "日本占领期",
       "path": "DataBase/History/Facts/日本占领期.md"
     },
     {
       "basename": "通货膨胀",
       "path": "DataBase/Knowledge/Society/Economic/Theory/通货膨胀.md"
-    },
-    {
-      "basename": "付费直播业务分享",
-      "path": "付费直播业务分享.md"
-    },
-    {
-      "basename": "付费直播-埋点补齐",
-      "path": "付费直播-埋点补齐.md"
     },
     {
       "basename": "休谟",
@@ -27,10 +39,6 @@
     {
       "basename": "东京大空袭",
       "path": "DataBase/History/Facts/东京大空袭.md"
-    },
-    {
-      "basename": "战后日本经济史",
-      "path": "DataBase/Literature/Text/Books/战后日本经济史.md"
     },
     {
       "basename": "人间失格",
@@ -191,14 +199,6 @@
     {
       "basename": "徐克",
       "path": "DataBase/Reality/Persons/Entertainers/徐克.md"
-    },
-    {
-      "basename": "张曼玉",
-      "path": "DataBase/Reality/Persons/Entertainers/张曼玉.md"
-    },
-    {
-      "basename": "杨幂",
-      "path": "DataBase/Reality/Persons/Entertainers/杨幂.md"
     }
   ],
   "omittedPaths": [],

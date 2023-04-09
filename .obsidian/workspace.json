@@ -23,25 +23,12 @@
             }
           },
           {
-            "id": "1751d93ce96faf34",
+            "id": "9de2c8719ad7e770",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/History/Facts/东京大空袭.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f93edf25ff095660",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/History/Facts/日本占领期.md",
+                "file": "DataBase/Reality/Persons/Officials/徐其耀.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,7 +129,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/History/Facts/日本占领期.md",
+                "file": "DataBase/Reality/Persons/Officials/徐其耀.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -177,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/History/Facts/日本占领期.md",
+                "file": "DataBase/Reality/Persons/Officials/徐其耀.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/History/Facts/日本占领期.md"
+                "file": "DataBase/Reality/Persons/Officials/徐其耀.md"
               }
             }
           },
@@ -220,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/History/Facts/日本占领期.md",
+                "file": "DataBase/Reality/Persons/Officials/徐其耀.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,8 +245,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "templater-obsidian:Templater": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "daily-notes:Open today's daily note": false,
@@ -267,29 +252,34 @@
       "markdown-importer:Open format converter": false,
       "random-note:Open random note": false,
       "canvas:Create new canvas": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
       "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-memos:Memos": false,
+      "periodic-notes:Open today": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "homepage:Open homepage": false,
-      "dbfolder:Create a new database table": false,
-      "obsidian-memos:Memos": false,
-      "periodic-notes:Open today": false
+      "dbfolder:Create a new database table": false
     }
   },
-  "active": "f93edf25ff095660",
+  "active": "9de2c8719ad7e770",
   "lastOpenFiles": [
-    "DataBase/Knowledge/Society/Economic/Theory/通货膨胀.md",
-    "付费直播业务分享.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Trees.md",
+    "DataBase/Investment/StockEvaluationKnowledge/市盈率.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Static modifier.md",
+    "DataBase/Literature/Text/Books/战后日本经济史.md",
     "付费直播-埋点补齐.md",
+    "付费直播业务分享.md",
+    "DataBase/History/Facts/日本占领期.md",
+    "DataBase/Knowledge/Society/Economic/Theory/通货膨胀.md",
     "DataBase/Reality/Persons/Authors/休谟.md",
     "DataBase/Skills/Swim.md",
     "DataBase/Skills",
     "DataBase/Knowledge/Society/Economic/Theory.md",
     "DataBase/Knowledge/Society/Economic/Theory",
-    "DataBase/History/Facts/日本占领期.md",
     "DataBase/History/Facts/东京大空袭.md",
-    "DataBase/Literature/Text/Books/战后日本经济史.md",
     "DataBase/Literature/Text/Books/人间失格.md",
     "DataBase/Reality/Places/Countries/南明.md",
     "DataBase/Reality/Places/Countries/日本.md",
@@ -307,10 +297,7 @@
     "DataBase/Reality/Persons/Authors/Thomas Piketty.md",
     "DataBase/Reality/Persons/Authors/老舍.md",
     "DataBase/Literature/Text/Books/毛主席语录.md",
-    "DataBase/Literature/Text/Books/Princeples of Economics.md",
     "WorkDesk.canvas",
-    "Home Page.md",
-    "DataBase/Tasks/data/政治理论学习.md",
     "DataBase/History/timeline",
     "DataBase/History",
     "DataBase/Tools/Obsidian",
