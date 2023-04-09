@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "Open-closed principle",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Open-closed principle.md"
+    },
+    {
+      "basename": "设计模式之禅",
+      "path": "DataBase/Literature/Text/Books/设计模式之禅.md"
+    },
+    {
+      "basename": "WorkDesk",
+      "path": "WorkDesk.canvas"
+    },
+    {
+      "basename": "Home Page",
+      "path": "Home Page.md"
+    },
+    {
+      "basename": "Dataview",
+      "path": "DataBase/Tools/Obsidian/Dataview.md"
+    },
+    {
+      "basename": "Obsidian Text Generator",
+      "path": "DataBase/Tools/Obsidian/Obsidian Text Generator.md"
+    },
+    {
+      "basename": "Obsidian Charts",
+      "path": "DataBase/Tools/Obsidian/Obsidian Charts.md"
+    },
+    {
+      "basename": "Processes",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Processes.md"
+    },
+    {
+      "basename": "0001. 两数之和",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/编程题/0001. 两数之和.md"
+    },
+    {
       "basename": "徐其耀",
       "path": "DataBase/Reality/Persons/Officials/徐其耀.md"
     },
@@ -101,14 +137,6 @@
       "path": "DataBase/Literature/Text/Books/Princeples of Economics.md"
     },
     {
-      "basename": "WorkDesk",
-      "path": "WorkDesk.canvas"
-    },
-    {
-      "basename": "Home Page",
-      "path": "Home Page.md"
-    },
-    {
       "basename": "政治理论学习",
       "path": "DataBase/Tasks/data/政治理论学习.md"
     },
@@ -119,14 +147,6 @@
     {
       "basename": "毛泽东选集",
       "path": "DataBase/Literature/Text/Books/毛泽东选集/毛泽东选集.md"
-    },
-    {
-      "basename": "Open-closed principle",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Open-closed principle.md"
-    },
-    {
-      "basename": "设计模式之禅",
-      "path": "DataBase/Literature/Text/Books/设计模式之禅.md"
     },
     {
       "basename": "迪米特法则",
@@ -179,26 +199,6 @@
     {
       "basename": "邱淑贞",
       "path": "DataBase/Reality/Persons/Entertainers/邱淑贞.md"
-    },
-    {
-      "basename": "Dependency inversion principle",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Dependency inversion principle.md"
-    },
-    {
-      "basename": "Liskov substitution principle",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Liskov substitution principle.md"
-    },
-    {
-      "basename": "宋祖儿",
-      "path": "DataBase/Reality/Persons/Entertainers/宋祖儿.md"
-    },
-    {
-      "basename": "孙艺珍",
-      "path": "DataBase/Reality/Persons/Entertainers/孙艺珍.md"
-    },
-    {
-      "basename": "徐克",
-      "path": "DataBase/Reality/Persons/Entertainers/徐克.md"
     }
   ],
   "omittedPaths": [],

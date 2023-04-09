@@ -82,8 +82,8 @@
     "Introduction": {
       "Introduction": {
         "customDictionary": {
-          "count": 41,
-          "lastUpdated": 1679822592173
+          "count": 42,
+          "lastUpdated": 1681034257296
         }
       }
     },
@@ -156,14 +156,6 @@
         "customDictionary": {
           "count": 3,
           "lastUpdated": 1678505228959
-        }
-      }
-    },
-    "and": {
-      "and": {
-        "customDictionary": {
-          "count": 18,
-          "lastUpdated": 1678414222004
         }
       }
     },
@@ -275,14 +267,6 @@
         }
       }
     },
-    "Timeline": {
-      "Timeline": {
-        "customDictionary": {
-          "count": 3,
-          "lastUpdated": 1678416066344
-        }
-      }
-    },
     "films": {
       "films": {
         "frontMatter": {
@@ -347,59 +331,11 @@
         }
       }
     },
-    "Kernel": {
-      "Kernel": {
-        "internalLink": {
-          "count": 2,
-          "lastUpdated": 1678415219309
-        }
-      }
-    },
     "Threads": {
       "Threads": {
         "internalLink": {
           "count": 5,
           "lastUpdated": 1678505225670
-        }
-      }
-    },
-    "Virtual Address Space": {
-      "Virtual Address Space": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1678414932322
-        }
-      }
-    },
-    "device": {
-      "device": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678415713655
-        }
-      }
-    },
-    "I-O Devices": {
-      "I-O Devices": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1678415725977
-        }
-      }
-    },
-    "practice": {
-      "practice": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678415898240
-        }
-      }
-    },
-    "S_latency": {
-      "S_latency": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678420426154
         }
       }
     },

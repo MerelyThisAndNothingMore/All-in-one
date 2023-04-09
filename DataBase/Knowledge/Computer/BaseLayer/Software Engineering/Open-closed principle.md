@@ -6,3 +6,5 @@ alias:
 ---
 # Introduction
 > Software entities(classes, modules, functions, etc.) should be open for extension, but closed for modification.
+
+[[设计模式之禅]]
