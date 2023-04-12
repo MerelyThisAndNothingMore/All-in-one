@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "日本经济危机",
+      "path": "DataBase/History/Facts/日本经济危机.md"
+    },
+    {
+      "basename": "经济泡沫",
+      "path": "DataBase/Knowledge/Society/Economic/Facts/经济泡沫.md"
+    },
+    {
+      "basename": "黄金一代",
+      "path": "DataBase/History/Facts/黄金一代.md"
+    },
+    {
+      "basename": "东京大空袭",
+      "path": "DataBase/History/Facts/东京大空袭.md"
+    },
+    {
+      "basename": "失业潮",
+      "path": "DataBase/Knowledge/Society/Economic/Facts/失业潮.md"
+    },
+    {
+      "basename": "战后日本经济",
+      "path": "DataBase/Knowledge/Society/Economic/Facts/战后日本经济.md"
+    },
+    {
+      "basename": "Software engineering",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Software engineering.md"
+    },
+    {
       "basename": "Home Page",
       "path": "Home Page.md"
     },
@@ -133,10 +161,6 @@
       "path": "DataBase/Skills/Swim.md"
     },
     {
-      "basename": "东京大空袭",
-      "path": "DataBase/History/Facts/东京大空袭.md"
-    },
-    {
       "basename": "人间失格",
       "path": "DataBase/Literature/Text/Books/人间失格.md"
     },
@@ -151,10 +175,6 @@
     {
       "basename": "1644",
       "path": "DataBase/History/timeline/1644.md"
-    },
-    {
-      "basename": "战后日本经济",
-      "path": "DataBase/Knowledge/Society/Economic/Facts/战后日本经济.md"
     },
     {
       "basename": "中华人民共和国",
@@ -179,26 +199,6 @@
     {
       "basename": "马克思主义文库",
       "path": "DataBase/Reality/Websites/马克思主义文库.md"
-    },
-    {
-      "basename": "Thomas Piketty",
-      "path": "DataBase/Reality/Persons/Authors/Thomas Piketty.md"
-    },
-    {
-      "basename": "老舍",
-      "path": "DataBase/Reality/Persons/Authors/老舍.md"
-    },
-    {
-      "basename": "毛主席语录",
-      "path": "DataBase/Literature/Text/Books/毛主席语录.md"
-    },
-    {
-      "basename": "Princeples of Economics",
-      "path": "DataBase/Literature/Text/Books/Princeples of Economics.md"
-    },
-    {
-      "basename": "政治理论学习",
-      "path": "DataBase/Tasks/data/政治理论学习.md"
     }
   ],
   "omittedPaths": [],

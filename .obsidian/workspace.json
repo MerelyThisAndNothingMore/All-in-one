@@ -13,14 +13,67 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Knowledge/Society/Economic/Facts/战后日本经济.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "6640870119ff6dc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Society/Economic/Facts/经济泡沫.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4cfd6953484d1ac5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/History/Facts/东京大空袭.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b987a15a1eb5ef0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/History/Facts/日本经济危机.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5dbdd8fd1bd2d6ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/History/Facts/日本经济危机.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -50,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "浪潮",
+                "query": "日本经济泡沫",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/History/Facts/日本经济危机.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/History/Facts/日本经济危机.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "DataBase/History/Facts/日本经济危机.md"
               }
             }
           },
@@ -191,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/History/Facts/日本经济危机.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,8 +301,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f76db08a30d93249",
+  "active": "5dbdd8fd1bd2d6ba",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Society/Economic/Facts/经济泡沫.md",
+    "DataBase/History/Facts/黄金一代.md",
+    "DataBase/History/Facts/日本经济危机.md",
+    "DataBase/History/Facts/东京大空袭.md",
+    "DataBase/Knowledge/Society/Economic/Facts/失业潮.md",
+    "DataBase/Knowledge/Society/Economic/Facts/战后日本经济.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Software engineering.md",
+    "Home Page.md",
     "Configuration/Templates/StockTemplate.md",
     "Configuration/Templates/StockSectorTemplate.md",
     "DataBase/Investment/StockTradings/浪潮信息-2023-03-22.md",
@@ -258,7 +319,6 @@
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Abstract Factory Pattern.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Singleton Pattern.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Structural patterns.md",
-    "Home Page.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Proxy Pattern.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Builder Pattern.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Facade Pattern.md",
@@ -270,13 +330,6 @@
     "WorkDesk.canvas",
     "DataBase/Tools/Obsidian/Dataview.md",
     "DataBase/Tools/Obsidian/Obsidian Text Generator.md",
-    "DataBase/Tools/Obsidian/Obsidian Charts.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Processes.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/编程题/0001. 两数之和.md",
-    "DataBase/Reality/Persons/Officials/徐其耀.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Trees.md",
-    "DataBase/Investment/StockEvaluationKnowledge/市盈率.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Static modifier.md",
     "DataBase/Skills",
     "DataBase/Knowledge/Society/Economic/Theory",
     "DataBase/History/Facts",
