@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "WorkDesk",
+      "path": "WorkDesk.canvas"
+    },
+    {
       "basename": "Home Page",
       "path": "Home Page.md"
     },
@@ -99,10 +103,6 @@
     {
       "basename": "Open-closed principle",
       "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Open-closed principle.md"
-    },
-    {
-      "basename": "WorkDesk",
-      "path": "WorkDesk.canvas"
     },
     {
       "basename": "Dataview",
