@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "023fb33f07b0afd7",
+        "id": "63dc9b8e95eb4d5f",
         "type": "tabs",
         "children": [
           {
-            "id": "d9f499f16876bd7d",
+            "id": "f76db08a30d93249",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "factory",
+                "query": "浪潮",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -248,20 +248,24 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d9f499f16876bd7d",
+  "active": "f76db08a30d93249",
   "lastOpenFiles": [
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Abstract Factory Pattern.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Proxy Pattern.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Builder Pattern.md",
+    "Configuration/Templates/StockTemplate.md",
+    "Configuration/Templates/StockSectorTemplate.md",
+    "DataBase/Investment/StockTradings/浪潮信息-2023-03-22.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Template Method Pattern.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Factory Method Pattern.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Facade Pattern.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Abstract Factory Pattern.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Singleton Pattern.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Structural patterns.md",
+    "Home Page.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Proxy Pattern.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Builder Pattern.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Facade Pattern.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/State pattern.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Adapter Pattern.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Composite Pattern.md",
     "DataBase/Literature/Text/Books/设计模式之禅.md",
-    "Home Page.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Open-closed principle.md",
     "WorkDesk.canvas",
     "DataBase/Tools/Obsidian/Dataview.md",
@@ -273,10 +277,6 @@
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Trees.md",
     "DataBase/Investment/StockEvaluationKnowledge/市盈率.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Static modifier.md",
-    "DataBase/Literature/Text/Books/战后日本经济史.md",
-    "付费直播-埋点补齐.md",
-    "付费直播业务分享.md",
-    "DataBase/History/Facts/日本占领期.md",
     "DataBase/Skills",
     "DataBase/Knowledge/Society/Economic/Theory",
     "DataBase/History/Facts",

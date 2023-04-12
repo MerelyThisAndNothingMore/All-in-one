@@ -5,20 +5,20 @@
       "path": "Home Page.md"
     },
     {
-      "basename": "Adapter Pattern",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Adapter Pattern.md"
+      "basename": "StockTradingDecisionTemplate",
+      "path": "Configuration/Templates/StockTradingDecisionTemplate.md"
     },
     {
-      "basename": "Abstract Factory Pattern",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Abstract Factory Pattern.md"
+      "basename": "StockTemplate",
+      "path": "Configuration/Templates/StockTemplate.md"
     },
     {
-      "basename": "Proxy Pattern",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Proxy Pattern.md"
+      "basename": "StockSectorTemplate",
+      "path": "Configuration/Templates/StockSectorTemplate.md"
     },
     {
-      "basename": "Builder Pattern",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Builder Pattern.md"
+      "basename": "浪潮信息-2023-03-22",
+      "path": "DataBase/Investment/StockTradings/浪潮信息-2023-03-22.md"
     },
     {
       "basename": "Template Method Pattern",
@@ -29,12 +29,32 @@
       "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Factory Method Pattern.md"
     },
     {
-      "basename": "Facade Pattern",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Facade Pattern.md"
+      "basename": "Abstract Factory Pattern",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Abstract Factory Pattern.md"
     },
     {
       "basename": "Singleton Pattern",
       "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Singleton Pattern.md"
+    },
+    {
+      "basename": "Structural patterns",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Structural patterns.md"
+    },
+    {
+      "basename": "Adapter Pattern",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Adapter Pattern.md"
+    },
+    {
+      "basename": "Proxy Pattern",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Proxy Pattern.md"
+    },
+    {
+      "basename": "Builder Pattern",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Builder Pattern.md"
+    },
+    {
+      "basename": "Facade Pattern",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Facade Pattern.md"
     },
     {
       "basename": "State pattern",
@@ -179,26 +199,6 @@
     {
       "basename": "政治理论学习",
       "path": "DataBase/Tasks/data/政治理论学习.md"
-    },
-    {
-      "basename": "Marxism",
-      "path": "DataBase/Knowledge/Society/ideology/Marxism.md"
-    },
-    {
-      "basename": "毛泽东选集",
-      "path": "DataBase/Literature/Text/Books/毛泽东选集/毛泽东选集.md"
-    },
-    {
-      "basename": "迪米特法则",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/迪米特法则.md"
-    },
-    {
-      "basename": "Interface segregation principle",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Interface segregation principle.md"
-    },
-    {
-      "basename": "Entertainers",
-      "path": "DataBase/Reality/Persons/Entertainers.md"
     }
   ],
   "omittedPaths": [],
