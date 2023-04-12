@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home Page",
+      "path": "Home Page.md"
+    },
+    {
       "basename": "日本经济危机",
       "path": "DataBase/History/Facts/日本经济危机.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "Software engineering",
       "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Software engineering.md"
-    },
-    {
-      "basename": "Home Page",
-      "path": "Home Page.md"
     },
     {
       "basename": "StockTradingDecisionTemplate",
