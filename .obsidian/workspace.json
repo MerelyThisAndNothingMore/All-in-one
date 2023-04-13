@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "54b30b0651c2b588",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/History/Facts/黄金一代.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/History/Facts/黄金一代.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/History/Facts/黄金一代.md"
+                "file": "README.md"
               }
             }
           },
@@ -191,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/History/Facts/黄金一代.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,11 +262,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8b3dfc2e87372c1a",
+  "active": "54b30b0651c2b588",
   "lastOpenFiles": [
+    "WorkDesk.canvas",
     "Home Page.md",
-    "DataBase/History/Facts/日本经济危机.md",
     "DataBase/History/Facts/黄金一代.md",
+    "DataBase/History/Facts/日本经济危机.md",
     "DataBase/History/Facts/东京大空袭.md",
     "DataBase/History/Facts/日本占领期.md",
     "DataBase/Literature/Text/Books/《Social Psychology》.md",
@@ -275,8 +290,6 @@
     "Configuration/Templates/KnowledgeCards.md",
     "Configuration/Templates/SongsTemplate.md",
     "Configuration/Templates/StockTemplate.md",
-    "DataBase/Literature/Text/Books/Princeples of Economics.md",
-    "WorkDesk.canvas",
     "DataBase/Skills",
     "DataBase/Knowledge/Society/Economic/Theory",
     "DataBase/History/Facts",

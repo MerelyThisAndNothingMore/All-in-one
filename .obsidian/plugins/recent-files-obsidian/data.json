@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "黄金一代",
-      "path": "DataBase/History/Facts/黄金一代.md"
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "WorkDesk",
+      "path": "WorkDesk.canvas"
     },
     {
       "basename": "Home Page",
       "path": "Home Page.md"
+    },
+    {
+      "basename": "黄金一代",
+      "path": "DataBase/History/Facts/黄金一代.md"
     },
     {
       "basename": "日本占领期",
@@ -165,10 +173,6 @@
       "path": "DataBase/Literature/Text/Books/Capital in the twenty-First Century.md"
     },
     {
-      "basename": "WorkDesk",
-      "path": "WorkDesk.canvas"
-    },
-    {
       "basename": "经济泡沫",
       "path": "DataBase/Knowledge/Society/Economic/Facts/经济泡沫.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Factory Method Pattern",
       "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Factory Method Pattern.md"
-    },
-    {
-      "basename": "Abstract Factory Pattern",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Abstract Factory Pattern.md"
     }
   ],
   "omittedPaths": [],
