@@ -1,16 +1,92 @@
 {
   "recentFiles": [
     {
+      "basename": "日本占领期",
+      "path": "DataBase/History/Facts/日本占领期.md"
+    },
+    {
+      "basename": "日本经济危机",
+      "path": "DataBase/History/Facts/日本经济危机.md"
+    },
+    {
+      "basename": "黄金一代",
+      "path": "DataBase/History/Facts/黄金一代.md"
+    },
+    {
+      "basename": "东京大空袭",
+      "path": "DataBase/History/Facts/东京大空袭.md"
+    },
+    {
+      "basename": "《Social Psychology》",
+      "path": "DataBase/Literature/Text/Books/《Social Psychology》.md"
+    },
+    {
+      "basename": "查拉图斯特拉如是说",
+      "path": "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md"
+    },
+    {
+      "basename": "大汉帝国在巴蜀-蜀汉天命的振扬与沉坠",
+      "path": "DataBase/Literature/Text/Books/大汉帝国在巴蜀-蜀汉天命的振扬与沉坠.md"
+    },
+    {
+      "basename": "红楼梦",
+      "path": "DataBase/Literature/Text/Books/红楼梦.md"
+    },
+    {
+      "basename": "毛主席语录",
+      "path": "DataBase/Literature/Text/Books/毛主席语录.md"
+    },
+    {
+      "basename": "南明史",
+      "path": "DataBase/Literature/Text/Books/南明史.md"
+    },
+    {
+      "basename": "StockTradingDecisionTemplate",
+      "path": "Configuration/Templates/StockTradingDecisionTemplate.md"
+    },
+    {
+      "basename": "自卑与超越",
+      "path": "DataBase/Literature/Text/Books/自卑与超越.md"
+    },
+    {
+      "basename": "Design Patterns Elements of Reusable Object-Oriented Software",
+      "path": "DataBase/Literature/Text/Books/Design Patterns Elements of Reusable Object-Oriented Software.md"
+    },
+    {
+      "basename": "AuthorsTemplate",
+      "path": "Configuration/Templates/AuthorsTemplate.md"
+    },
+    {
+      "basename": "coding_qusitions",
+      "path": "Configuration/Templates/coding_qusitions.md"
+    },
+    {
+      "basename": "EntertainersTemplate",
+      "path": "Configuration/Templates/EntertainersTemplate.md"
+    },
+    {
+      "basename": "SayingTemplate",
+      "path": "Configuration/Templates/SayingTemplate.md"
+    },
+    {
+      "basename": "StockSectorTemplate",
+      "path": "Configuration/Templates/StockSectorTemplate.md"
+    },
+    {
+      "basename": "TVDramaTemplate",
+      "path": "Configuration/Templates/TVDramaTemplate.md"
+    },
+    {
+      "basename": "人性论",
+      "path": "DataBase/Literature/Text/Books/人性论.md"
+    },
+    {
       "basename": "Home Page",
       "path": "Home Page.md"
     },
     {
       "basename": "1644",
       "path": "DataBase/History/timeline/1644.md"
-    },
-    {
-      "basename": "EntertainersTemplate",
-      "path": "Configuration/Templates/EntertainersTemplate.md"
     },
     {
       "basename": "FilmsTemplate",
@@ -21,28 +97,12 @@
       "path": "Configuration/Templates/KnowledgeCards.md"
     },
     {
-      "basename": "SayingTemplate",
-      "path": "Configuration/Templates/SayingTemplate.md"
-    },
-    {
       "basename": "SongsTemplate",
       "path": "Configuration/Templates/SongsTemplate.md"
     },
     {
-      "basename": "StockSectorTemplate",
-      "path": "Configuration/Templates/StockSectorTemplate.md"
-    },
-    {
       "basename": "StockTemplate",
       "path": "Configuration/Templates/StockTemplate.md"
-    },
-    {
-      "basename": "StockTradingDecisionTemplate",
-      "path": "Configuration/Templates/StockTradingDecisionTemplate.md"
-    },
-    {
-      "basename": "TVDramaTemplate",
-      "path": "Configuration/Templates/TVDramaTemplate.md"
     },
     {
       "basename": "Princeples of Economics",
@@ -73,40 +133,12 @@
       "path": "DataBase/Literature/Text/Books/四世同堂.md"
     },
     {
-      "basename": "《Social Psychology》",
-      "path": "DataBase/Literature/Text/Books/《Social Psychology》.md"
-    },
-    {
-      "basename": "查拉图斯特拉如是说",
-      "path": "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md"
-    },
-    {
       "basename": "茶馆",
       "path": "DataBase/Literature/Text/Books/茶馆.md"
     },
     {
-      "basename": "大汉帝国在巴蜀-蜀汉天命的振扬与沉坠",
-      "path": "DataBase/Literature/Text/Books/大汉帝国在巴蜀-蜀汉天命的振扬与沉坠.md"
-    },
-    {
-      "basename": "红楼梦",
-      "path": "DataBase/Literature/Text/Books/红楼梦.md"
-    },
-    {
-      "basename": "毛主席语录",
-      "path": "DataBase/Literature/Text/Books/毛主席语录.md"
-    },
-    {
-      "basename": "南明史",
-      "path": "DataBase/Literature/Text/Books/南明史.md"
-    },
-    {
       "basename": "人间失格",
       "path": "DataBase/Literature/Text/Books/人间失格.md"
-    },
-    {
-      "basename": "人性论",
-      "path": "DataBase/Literature/Text/Books/人性论.md"
     },
     {
       "basename": "设计模式之禅",
@@ -123,26 +155,6 @@
     {
       "basename": "这里是中国",
       "path": "DataBase/Literature/Text/Books/这里是中国.md"
-    },
-    {
-      "basename": "自卑与超越",
-      "path": "DataBase/Literature/Text/Books/自卑与超越.md"
-    },
-    {
-      "basename": "东京大空袭",
-      "path": "DataBase/History/Facts/东京大空袭.md"
-    },
-    {
-      "basename": "黄金一代",
-      "path": "DataBase/History/Facts/黄金一代.md"
-    },
-    {
-      "basename": "日本经济危机",
-      "path": "DataBase/History/Facts/日本经济危机.md"
-    },
-    {
-      "basename": "日本占领期",
-      "path": "DataBase/History/Facts/日本占领期.md"
     },
     {
       "basename": "日本",
@@ -187,18 +199,6 @@
     {
       "basename": "Abstract Factory Pattern",
       "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Abstract Factory Pattern.md"
-    },
-    {
-      "basename": "Singleton Pattern",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Singleton Pattern.md"
-    },
-    {
-      "basename": "Structural patterns",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Structural patterns.md"
-    },
-    {
-      "basename": "Adapter Pattern",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Adapter Pattern.md"
     }
   ],
   "omittedPaths": [],

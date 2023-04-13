@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
-                "mode": "preview",
+                "file": "DataBase/History/Facts/日本占领期.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/History/Facts/日本占领期.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/History/Facts/日本占领期.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "DataBase/History/Facts/日本占领期.md"
               }
             }
           },
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/History/Facts/日本占领期.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,32 +250,32 @@
   },
   "active": "daaf4f52ba9c54c4",
   "lastOpenFiles": [
-    "Configuration/Templates/EntertainersTemplate.md",
-    "Configuration/Templates/FilmsTemplate.md",
-    "Configuration/Templates/KnowledgeCards.md",
-    "Configuration/Templates/SayingTemplate.md",
-    "Configuration/Templates/SongsTemplate.md",
-    "Configuration/Templates/StockSectorTemplate.md",
-    "Configuration/Templates/StockTemplate.md",
-    "Configuration/Templates/StockTradingDecisionTemplate.md",
-    "Configuration/Templates/TVDramaTemplate.md",
-    "DataBase/Literature/Text/Books/Princeples of Economics.md",
-    "DataBase/Literature/Text/Books/Refactoring-Improving the Design of Existing Code.md",
-    "DataBase/Literature/Text/Books/THE PRINCIPIA.md",
-    "DataBase/Literature/Text/Books/Utopia(book).md",
-    "DataBase/Literature/Text/Books/The Year of Magical Thinking.md",
-    "DataBase/Literature/Text/Books/数学之美.md",
-    "DataBase/Literature/Text/Books/四世同堂.md",
+    "DataBase/History/Facts/日本经济危机.md",
+    "DataBase/History/Facts/黄金一代.md",
+    "DataBase/History/Facts/东京大空袭.md",
+    "DataBase/History/Facts/日本占领期.md",
     "DataBase/Literature/Text/Books/《Social Psychology》.md",
     "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md",
-    "DataBase/Literature/Text/Books/茶馆.md",
     "DataBase/Literature/Text/Books/大汉帝国在巴蜀-蜀汉天命的振扬与沉坠.md",
     "DataBase/Literature/Text/Books/红楼梦.md",
     "DataBase/Literature/Text/Books/毛主席语录.md",
     "DataBase/Literature/Text/Books/南明史.md",
-    "DataBase/Literature/Text/Books/人间失格.md",
+    "Configuration/Templates/StockTradingDecisionTemplate.md",
+    "DataBase/Literature/Text/Books/自卑与超越.md",
+    "DataBase/Literature/Text/Books/Design Patterns Elements of Reusable Object-Oriented Software.md",
+    "Configuration/Templates/AuthorsTemplate.md",
+    "Configuration/Templates/coding_qusitions.md",
+    "Configuration/Templates/EntertainersTemplate.md",
+    "Configuration/Templates/SayingTemplate.md",
+    "Configuration/Templates/StockSectorTemplate.md",
+    "Configuration/Templates/TVDramaTemplate.md",
     "DataBase/Literature/Text/Books/人性论.md",
-    "DataBase/Literature/Text/Books/设计模式之禅.md",
+    "Home Page.md",
+    "Configuration/Templates/FilmsTemplate.md",
+    "Configuration/Templates/KnowledgeCards.md",
+    "Configuration/Templates/SongsTemplate.md",
+    "Configuration/Templates/StockTemplate.md",
+    "DataBase/Literature/Text/Books/Princeples of Economics.md",
     "WorkDesk.canvas",
     "DataBase/Skills",
     "DataBase/Knowledge/Society/Economic/Theory",
