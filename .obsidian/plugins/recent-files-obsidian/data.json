@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "WorkDesk",
-      "path": "WorkDesk.canvas"
-    },
-    {
       "basename": "Home Page",
       "path": "Home Page.md"
+    },
+    {
+      "basename": "日本",
+      "path": "DataBase/Reality/Places/Countries/日本.md"
+    },
+    {
+      "basename": "日本占领期",
+      "path": "DataBase/History/Facts/日本占领期.md"
+    },
+    {
+      "basename": "战后日本经济史",
+      "path": "DataBase/Literature/Text/Books/战后日本经济史.md"
+    },
+    {
+      "basename": "Capital in the twenty-First Century",
+      "path": "DataBase/Literature/Text/Books/Capital in the twenty-First Century.md"
+    },
+    {
+      "basename": "WorkDesk",
+      "path": "WorkDesk.canvas"
     },
     {
       "basename": "日本经济危机",
@@ -141,14 +157,6 @@
       "path": "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Static modifier.md"
     },
     {
-      "basename": "战后日本经济史",
-      "path": "DataBase/Literature/Text/Books/战后日本经济史.md"
-    },
-    {
-      "basename": "日本占领期",
-      "path": "DataBase/History/Facts/日本占领期.md"
-    },
-    {
       "basename": "通货膨胀",
       "path": "DataBase/Knowledge/Society/Economic/Theory/通货膨胀.md"
     },
@@ -169,10 +177,6 @@
       "path": "DataBase/Reality/Places/Countries/南明.md"
     },
     {
-      "basename": "日本",
-      "path": "DataBase/Reality/Places/Countries/日本.md"
-    },
-    {
       "basename": "1644",
       "path": "DataBase/History/timeline/1644.md"
     },
@@ -191,10 +195,6 @@
     {
       "basename": "约翰洛克",
       "path": "DataBase/Reality/Persons/Authors/约翰洛克.md"
-    },
-    {
-      "basename": "Capital in the twenty-First Century",
-      "path": "DataBase/Literature/Text/Books/Capital in the twenty-First Century.md"
     },
     {
       "basename": "马克思主义文库",

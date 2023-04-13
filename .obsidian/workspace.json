@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "958615e1cf50648b",
+        "id": "f2c45a26f5829f39",
         "type": "tabs",
         "children": [
           {
-            "id": "7a5815b4a7c62fda",
+            "id": "cda21e1eff65ea75",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "WorkDesk.canvas",
-                "viewState": {
-                  "x": 592.316562213424,
-                  "y": -410.8108770435066,
-                  "zoom": -0.039827592694241895
-                }
+                "file": "Home Page.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -115,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "WorkDesk.canvas",
+                "file": "Home Page.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -150,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WorkDesk.canvas",
+                "file": "Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WorkDesk.canvas"
+                "file": "Home Page.md"
               }
             }
           },
@@ -193,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WorkDesk.canvas",
+                "file": "Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,8 +248,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7a5815b4a7c62fda",
+  "active": "cda21e1eff65ea75",
   "lastOpenFiles": [
+    "DataBase/History/Facts/日本占领期.md",
+    "DataBase/Literature/Text/Books/战后日本经济史.md",
+    "DataBase/Literature/Text/Books/Capital in the twenty-First Century.md",
+    "WorkDesk.canvas",
     "Home Page.md",
     "DataBase/Knowledge/Society/Economic/Facts/经济泡沫.md",
     "DataBase/History/Facts/黄金一代.md",
@@ -275,10 +277,6 @@
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Adapter Pattern.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Composite Pattern.md",
     "DataBase/Literature/Text/Books/设计模式之禅.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Open-closed principle.md",
-    "WorkDesk.canvas",
-    "DataBase/Tools/Obsidian/Dataview.md",
-    "DataBase/Tools/Obsidian/Obsidian Text Generator.md",
     "DataBase/Skills",
     "DataBase/Knowledge/Society/Economic/Theory",
     "DataBase/History/Facts",
