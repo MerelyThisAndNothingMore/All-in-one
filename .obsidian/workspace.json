@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f2c45a26f5829f39",
+        "id": "7b08ca109b49a1c3",
         "type": "tabs",
         "children": [
           {
-            "id": "cda21e1eff65ea75",
+            "id": "f002b07cecd206b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
-                "mode": "preview",
+                "file": "DataBase/Literature/Text/Books/数学之美.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Literature/Text/Books/数学之美.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Literature/Text/Books/数学之美.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "DataBase/Literature/Text/Books/数学之美.md"
               }
             }
           },
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Literature/Text/Books/数学之美.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,35 +248,35 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cda21e1eff65ea75",
+  "active": "f002b07cecd206b7",
   "lastOpenFiles": [
-    "DataBase/History/Facts/日本占领期.md",
+    "DataBase/Literature/Text/Books/四世同堂.md",
+    "DataBase/Literature/Text/Books/《Social Psychology》.md",
+    "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md",
+    "DataBase/Literature/Text/Books/茶馆.md",
+    "DataBase/Literature/Text/Books/大汉帝国在巴蜀-蜀汉天命的振扬与沉坠.md",
+    "DataBase/Literature/Text/Books/红楼梦.md",
+    "DataBase/Literature/Text/Books/毛主席语录.md",
+    "DataBase/Literature/Text/Books/南明史.md",
+    "DataBase/Literature/Text/Books/人间失格.md",
+    "DataBase/Literature/Text/Books/人性论.md",
+    "DataBase/Literature/Text/Books/设计模式之禅.md",
+    "DataBase/Literature/Text/Books/数学之美.md",
+    "DataBase/Literature/Text/Books/雪崩.md",
     "DataBase/Literature/Text/Books/战后日本经济史.md",
-    "DataBase/Literature/Text/Books/Capital in the twenty-First Century.md",
-    "WorkDesk.canvas",
-    "Home Page.md",
-    "DataBase/Knowledge/Society/Economic/Facts/经济泡沫.md",
+    "DataBase/Literature/Text/Books/这里是中国.md",
+    "DataBase/Literature/Text/Books/自卑与超越.md",
+    "DataBase/History/Facts/东京大空袭.md",
     "DataBase/History/Facts/黄金一代.md",
     "DataBase/History/Facts/日本经济危机.md",
-    "DataBase/History/Facts/东京大空袭.md",
+    "DataBase/History/Facts/日本占领期.md",
+    "Home Page.md",
+    "DataBase/Literature/Text/Books/Capital in the twenty-First Century.md",
+    "WorkDesk.canvas",
+    "DataBase/Knowledge/Society/Economic/Facts/经济泡沫.md",
     "DataBase/Knowledge/Society/Economic/Facts/失业潮.md",
     "DataBase/Knowledge/Society/Economic/Facts/战后日本经济.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Software engineering.md",
-    "Configuration/Templates/StockTemplate.md",
-    "Configuration/Templates/StockSectorTemplate.md",
-    "DataBase/Investment/StockTradings/浪潮信息-2023-03-22.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Template Method Pattern.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Factory Method Pattern.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Abstract Factory Pattern.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Singleton Pattern.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Structural patterns.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Proxy Pattern.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Builder Pattern.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Facade Pattern.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/State pattern.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Adapter Pattern.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Composite Pattern.md",
-    "DataBase/Literature/Text/Books/设计模式之禅.md",
     "DataBase/Skills",
     "DataBase/Knowledge/Society/Economic/Theory",
     "DataBase/History/Facts",

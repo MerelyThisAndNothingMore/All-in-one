@@ -1,20 +1,92 @@
 {
   "recentFiles": [
     {
-      "basename": "Home Page",
-      "path": "Home Page.md"
+      "basename": "数学之美",
+      "path": "DataBase/Literature/Text/Books/数学之美.md"
     },
     {
-      "basename": "日本",
-      "path": "DataBase/Reality/Places/Countries/日本.md"
+      "basename": "四世同堂",
+      "path": "DataBase/Literature/Text/Books/四世同堂.md"
+    },
+    {
+      "basename": "《Social Psychology》",
+      "path": "DataBase/Literature/Text/Books/《Social Psychology》.md"
+    },
+    {
+      "basename": "查拉图斯特拉如是说",
+      "path": "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md"
+    },
+    {
+      "basename": "茶馆",
+      "path": "DataBase/Literature/Text/Books/茶馆.md"
+    },
+    {
+      "basename": "大汉帝国在巴蜀-蜀汉天命的振扬与沉坠",
+      "path": "DataBase/Literature/Text/Books/大汉帝国在巴蜀-蜀汉天命的振扬与沉坠.md"
+    },
+    {
+      "basename": "红楼梦",
+      "path": "DataBase/Literature/Text/Books/红楼梦.md"
+    },
+    {
+      "basename": "毛主席语录",
+      "path": "DataBase/Literature/Text/Books/毛主席语录.md"
+    },
+    {
+      "basename": "南明史",
+      "path": "DataBase/Literature/Text/Books/南明史.md"
+    },
+    {
+      "basename": "人间失格",
+      "path": "DataBase/Literature/Text/Books/人间失格.md"
+    },
+    {
+      "basename": "人性论",
+      "path": "DataBase/Literature/Text/Books/人性论.md"
+    },
+    {
+      "basename": "设计模式之禅",
+      "path": "DataBase/Literature/Text/Books/设计模式之禅.md"
+    },
+    {
+      "basename": "雪崩",
+      "path": "DataBase/Literature/Text/Books/雪崩.md"
+    },
+    {
+      "basename": "战后日本经济史",
+      "path": "DataBase/Literature/Text/Books/战后日本经济史.md"
+    },
+    {
+      "basename": "这里是中国",
+      "path": "DataBase/Literature/Text/Books/这里是中国.md"
+    },
+    {
+      "basename": "自卑与超越",
+      "path": "DataBase/Literature/Text/Books/自卑与超越.md"
+    },
+    {
+      "basename": "东京大空袭",
+      "path": "DataBase/History/Facts/东京大空袭.md"
+    },
+    {
+      "basename": "黄金一代",
+      "path": "DataBase/History/Facts/黄金一代.md"
+    },
+    {
+      "basename": "日本经济危机",
+      "path": "DataBase/History/Facts/日本经济危机.md"
     },
     {
       "basename": "日本占领期",
       "path": "DataBase/History/Facts/日本占领期.md"
     },
     {
-      "basename": "战后日本经济史",
-      "path": "DataBase/Literature/Text/Books/战后日本经济史.md"
+      "basename": "Home Page",
+      "path": "Home Page.md"
+    },
+    {
+      "basename": "日本",
+      "path": "DataBase/Reality/Places/Countries/日本.md"
     },
     {
       "basename": "Capital in the twenty-First Century",
@@ -25,20 +97,8 @@
       "path": "WorkDesk.canvas"
     },
     {
-      "basename": "日本经济危机",
-      "path": "DataBase/History/Facts/日本经济危机.md"
-    },
-    {
       "basename": "经济泡沫",
       "path": "DataBase/Knowledge/Society/Economic/Facts/经济泡沫.md"
-    },
-    {
-      "basename": "黄金一代",
-      "path": "DataBase/History/Facts/黄金一代.md"
-    },
-    {
-      "basename": "东京大空袭",
-      "path": "DataBase/History/Facts/东京大空袭.md"
     },
     {
       "basename": "失业潮",
@@ -113,10 +173,6 @@
       "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Composite Pattern.md"
     },
     {
-      "basename": "设计模式之禅",
-      "path": "DataBase/Literature/Text/Books/设计模式之禅.md"
-    },
-    {
       "basename": "Open-closed principle",
       "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Open-closed principle.md"
     },
@@ -143,62 +199,6 @@
     {
       "basename": "徐其耀",
       "path": "DataBase/Reality/Persons/Officials/徐其耀.md"
-    },
-    {
-      "basename": "Trees",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Trees.md"
-    },
-    {
-      "basename": "市盈率",
-      "path": "DataBase/Investment/StockEvaluationKnowledge/市盈率.md"
-    },
-    {
-      "basename": "Static modifier",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Static modifier.md"
-    },
-    {
-      "basename": "通货膨胀",
-      "path": "DataBase/Knowledge/Society/Economic/Theory/通货膨胀.md"
-    },
-    {
-      "basename": "休谟",
-      "path": "DataBase/Reality/Persons/Authors/休谟.md"
-    },
-    {
-      "basename": "Swim",
-      "path": "DataBase/Skills/Swim.md"
-    },
-    {
-      "basename": "人间失格",
-      "path": "DataBase/Literature/Text/Books/人间失格.md"
-    },
-    {
-      "basename": "南明",
-      "path": "DataBase/Reality/Places/Countries/南明.md"
-    },
-    {
-      "basename": "1644",
-      "path": "DataBase/History/timeline/1644.md"
-    },
-    {
-      "basename": "中华人民共和国",
-      "path": "DataBase/Reality/Places/Countries/中华人民共和国.md"
-    },
-    {
-      "basename": "韩国",
-      "path": "DataBase/Reality/Places/Countries/韩国.md"
-    },
-    {
-      "basename": "野口悠纪雄",
-      "path": "DataBase/Reality/Persons/Authors/野口悠纪雄.md"
-    },
-    {
-      "basename": "约翰洛克",
-      "path": "DataBase/Reality/Persons/Authors/约翰洛克.md"
-    },
-    {
-      "basename": "马克思主义文库",
-      "path": "DataBase/Reality/Websites/马克思主义文库.md"
     }
   ],
   "omittedPaths": [],
