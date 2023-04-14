@@ -4,115 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "63dc9b8e95eb4d5f",
+        "id": "5113780f37f2861c",
         "type": "tabs",
         "children": [
           {
-            "id": "f76db08a30d93249",
+            "id": "003aeb3891e5fb18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Society/Economic/Facts/战后日本经济.md",
+                "file": "Home Page.md",
                 "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6640870119ff6dc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Society/Economic/Facts/经济泡沫.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4cfd6953484d1ac5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/History/Facts/东京大空袭.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b987a15a1eb5ef0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/History/Facts/日本经济危机.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5dbdd8fd1bd2d6ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Reality/Websites/马克思主义文库.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2913d21232a5461d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Reality/Websites/马克思主义文库.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b7de6034004e78d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/NovelWriting/花下/花下.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "65ebef3c6720503e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/NovelWriting/花下/花下.md",
-                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Outputs/NovelWriting/花下/花下.md",
+                "file": "Home Page.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -240,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Outputs/NovelWriting/花下/花下.md",
+                "file": "Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Outputs/NovelWriting/花下/花下.md"
+                "file": "Home Page.md"
               }
             }
           },
@@ -283,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Outputs/NovelWriting/花下/花下.md",
+                "file": "Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -340,7 +248,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "65ebef3c6720503e",
+  "active": "003aeb3891e5fb18",
   "lastOpenFiles": [
     "Outputs/NovelWriting/花下/花下大纲.canvas",
     "Outputs/NovelWriting/花下/Untitled 1.md",

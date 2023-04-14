@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home Page",
+      "path": "Home Page.md"
+    },
+    {
       "basename": "花下",
       "path": "Outputs/NovelWriting/花下/花下.md"
     },
@@ -59,10 +63,6 @@
     {
       "basename": "Software engineering",
       "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Software engineering.md"
-    },
-    {
-      "basename": "Home Page",
-      "path": "Home Page.md"
     },
     {
       "basename": "StockTradingDecisionTemplate",
