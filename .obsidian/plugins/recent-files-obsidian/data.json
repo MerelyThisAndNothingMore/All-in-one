@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "DataBase/Reality/Websites/Untitled.md"
+    },
+    {
+      "basename": "Computer Science Roadmap",
+      "path": "DataBase/Reality/Websites/Computer Science Roadmap.md"
+    },
+    {
+      "basename": "StockSectorTemplate",
+      "path": "Configuration/Templates/StockSectorTemplate.md"
+    },
+    {
+      "basename": "KnowledgeCards",
+      "path": "Configuration/Templates/KnowledgeCards.md"
+    },
+    {
       "basename": "Home Page",
       "path": "Home Page.md"
     },
@@ -71,10 +87,6 @@
     {
       "basename": "StockTemplate",
       "path": "Configuration/Templates/StockTemplate.md"
-    },
-    {
-      "basename": "StockSectorTemplate",
-      "path": "Configuration/Templates/StockSectorTemplate.md"
     },
     {
       "basename": "浪潮信息-2023-03-22",
@@ -187,18 +199,6 @@
     {
       "basename": "休谟",
       "path": "DataBase/Reality/Persons/Authors/休谟.md"
-    },
-    {
-      "basename": "Swim",
-      "path": "DataBase/Skills/Swim.md"
-    },
-    {
-      "basename": "人间失格",
-      "path": "DataBase/Literature/Text/Books/人间失格.md"
-    },
-    {
-      "basename": "南明",
-      "path": "DataBase/Reality/Places/Countries/南明.md"
     }
   ],
   "omittedPaths": [],
