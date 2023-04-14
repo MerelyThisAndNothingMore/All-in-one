@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "ebd8a9a4425b686f",
+        "id": "061412e8860e1ca1",
         "type": "tabs",
         "children": [
           {
-            "id": "8b3dfc2e87372c1a",
+            "id": "f111028176fc6b2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/History/Facts/黄金一代.md",
+                "file": "Home Page.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "54b30b0651c2b588",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "日本经济泡沫",
+                "query": "passwor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +67,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "2f7e2e24ad04b6ba",
@@ -127,7 +114,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "Home Page.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -162,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Home Page.md"
               }
             }
           },
@@ -205,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -262,34 +249,35 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "54b30b0651c2b588",
+  "active": "f111028176fc6b2b",
   "lastOpenFiles": [
-    "WorkDesk.canvas",
-    "Home Page.md",
+    "DataBase/Reality/Persons/Officials/徐其耀.md",
+    "DataBase/Reality/Persons/Entrepreneurs/Steve Jobs.md",
+    "DataBase/Reality/Persons/Directors.md",
+    "DataBase/Reality/Persons/Entertainers/徐童.md",
+    "DataBase/Reality/Persons/Entertainers/李连杰.md",
+    "DataBase/Reality/Persons/Authors/毛泽东.md",
+    "DataBase/Reality/Persons/Authors/老舍.md",
+    "DataBase/Reality/Persons/Authors/川端康成.md",
+    "DataBase/Reality/Persons/Authors/曹雪芹.md",
+    "DataBase/Reality/Persons/Authors/陈亮.md",
+    "DataBase/Reality/Persons/Authors/夏目簌石.md",
+    "DataBase/Reality/Persons/Authors/吴军.md",
+    "DataBase/Reality/Persons/Authors/Edgar Allan Poe.md",
+    "DataBase/Reality/Persons/Authors/Randal Bryant.md",
+    "DataBase/Reality/Persons/Entertainers/古力娜扎.md",
+    "DataBase/Reality/Persons/Entertainers.md",
+    "DataBase/Reality/Persons/Entertainers/范冰冰.md",
+    "DataBase/Reality/Persons/Entertainers/林青霞.md",
+    "DataBase/Reality/Persons/Entertainers/邱淑贞.md",
+    "DataBase/Reality/Persons/Entertainers/桥本环奈.md",
+    "DataBase/Reality/Persons/Authors.md",
+    "DataBase/Reality/Persons/Entertainers/吴倩莲.md",
+    "DataBase/Reality/Persons/Entertainers/李小龙.md",
+    "DataBase/History/Facts/日本占领期.md",
     "DataBase/History/Facts/黄金一代.md",
     "DataBase/History/Facts/日本经济危机.md",
-    "DataBase/History/Facts/东京大空袭.md",
-    "DataBase/History/Facts/日本占领期.md",
-    "DataBase/Literature/Text/Books/《Social Psychology》.md",
-    "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md",
-    "DataBase/Literature/Text/Books/大汉帝国在巴蜀-蜀汉天命的振扬与沉坠.md",
-    "DataBase/Literature/Text/Books/红楼梦.md",
-    "DataBase/Literature/Text/Books/毛主席语录.md",
-    "DataBase/Literature/Text/Books/南明史.md",
-    "Configuration/Templates/StockTradingDecisionTemplate.md",
-    "DataBase/Literature/Text/Books/自卑与超越.md",
-    "DataBase/Literature/Text/Books/Design Patterns Elements of Reusable Object-Oriented Software.md",
-    "Configuration/Templates/AuthorsTemplate.md",
-    "Configuration/Templates/coding_qusitions.md",
-    "Configuration/Templates/EntertainersTemplate.md",
-    "Configuration/Templates/SayingTemplate.md",
-    "Configuration/Templates/StockSectorTemplate.md",
-    "Configuration/Templates/TVDramaTemplate.md",
-    "DataBase/Literature/Text/Books/人性论.md",
-    "Configuration/Templates/FilmsTemplate.md",
-    "Configuration/Templates/KnowledgeCards.md",
-    "Configuration/Templates/SongsTemplate.md",
-    "Configuration/Templates/StockTemplate.md",
+    "WorkDesk.canvas",
     "DataBase/Skills",
     "DataBase/Knowledge/Society/Economic/Theory",
     "DataBase/History/Facts",

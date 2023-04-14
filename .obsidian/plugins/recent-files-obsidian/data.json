@@ -1,28 +1,124 @@
 {
   "recentFiles": [
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "WorkDesk",
-      "path": "WorkDesk.canvas"
-    },
-    {
       "basename": "Home Page",
       "path": "Home Page.md"
     },
     {
-      "basename": "黄金一代",
-      "path": "DataBase/History/Facts/黄金一代.md"
+      "basename": "Passwords",
+      "path": "DataBase/Life/Passwords.md"
+    },
+    {
+      "basename": "徐其耀",
+      "path": "DataBase/Reality/Persons/Officials/徐其耀.md"
+    },
+    {
+      "basename": "Steve Jobs",
+      "path": "DataBase/Reality/Persons/Entrepreneurs/Steve Jobs.md"
+    },
+    {
+      "basename": "Directors",
+      "path": "DataBase/Reality/Persons/Directors.md"
+    },
+    {
+      "basename": "徐童",
+      "path": "DataBase/Reality/Persons/Entertainers/徐童.md"
+    },
+    {
+      "basename": "李连杰",
+      "path": "DataBase/Reality/Persons/Entertainers/李连杰.md"
+    },
+    {
+      "basename": "毛泽东",
+      "path": "DataBase/Reality/Persons/Authors/毛泽东.md"
+    },
+    {
+      "basename": "老舍",
+      "path": "DataBase/Reality/Persons/Authors/老舍.md"
+    },
+    {
+      "basename": "川端康成",
+      "path": "DataBase/Reality/Persons/Authors/川端康成.md"
+    },
+    {
+      "basename": "曹雪芹",
+      "path": "DataBase/Reality/Persons/Authors/曹雪芹.md"
+    },
+    {
+      "basename": "陈亮",
+      "path": "DataBase/Reality/Persons/Authors/陈亮.md"
+    },
+    {
+      "basename": "夏目簌石",
+      "path": "DataBase/Reality/Persons/Authors/夏目簌石.md"
+    },
+    {
+      "basename": "吴军",
+      "path": "DataBase/Reality/Persons/Authors/吴军.md"
+    },
+    {
+      "basename": "Edgar Allan Poe",
+      "path": "DataBase/Reality/Persons/Authors/Edgar Allan Poe.md"
+    },
+    {
+      "basename": "Randal Bryant",
+      "path": "DataBase/Reality/Persons/Authors/Randal Bryant.md"
+    },
+    {
+      "basename": "古力娜扎",
+      "path": "DataBase/Reality/Persons/Entertainers/古力娜扎.md"
+    },
+    {
+      "basename": "Entertainers",
+      "path": "DataBase/Reality/Persons/Entertainers.md"
+    },
+    {
+      "basename": "范冰冰",
+      "path": "DataBase/Reality/Persons/Entertainers/范冰冰.md"
+    },
+    {
+      "basename": "林青霞",
+      "path": "DataBase/Reality/Persons/Entertainers/林青霞.md"
+    },
+    {
+      "basename": "邱淑贞",
+      "path": "DataBase/Reality/Persons/Entertainers/邱淑贞.md"
+    },
+    {
+      "basename": "桥本环奈",
+      "path": "DataBase/Reality/Persons/Entertainers/桥本环奈.md"
+    },
+    {
+      "basename": "Authors",
+      "path": "DataBase/Reality/Persons/Authors.md"
+    },
+    {
+      "basename": "吴倩莲",
+      "path": "DataBase/Reality/Persons/Entertainers/吴倩莲.md"
+    },
+    {
+      "basename": "李小龙",
+      "path": "DataBase/Reality/Persons/Entertainers/李小龙.md"
     },
     {
       "basename": "日本占领期",
       "path": "DataBase/History/Facts/日本占领期.md"
     },
     {
+      "basename": "黄金一代",
+      "path": "DataBase/History/Facts/黄金一代.md"
+    },
+    {
       "basename": "日本经济危机",
       "path": "DataBase/History/Facts/日本经济危机.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "WorkDesk",
+      "path": "WorkDesk.canvas"
     },
     {
       "basename": "东京大空袭",
@@ -103,102 +199,6 @@
     {
       "basename": "KnowledgeCards",
       "path": "Configuration/Templates/KnowledgeCards.md"
-    },
-    {
-      "basename": "SongsTemplate",
-      "path": "Configuration/Templates/SongsTemplate.md"
-    },
-    {
-      "basename": "StockTemplate",
-      "path": "Configuration/Templates/StockTemplate.md"
-    },
-    {
-      "basename": "Princeples of Economics",
-      "path": "DataBase/Literature/Text/Books/Princeples of Economics.md"
-    },
-    {
-      "basename": "Refactoring-Improving the Design of Existing Code",
-      "path": "DataBase/Literature/Text/Books/Refactoring-Improving the Design of Existing Code.md"
-    },
-    {
-      "basename": "THE PRINCIPIA",
-      "path": "DataBase/Literature/Text/Books/THE PRINCIPIA.md"
-    },
-    {
-      "basename": "Utopia(book)",
-      "path": "DataBase/Literature/Text/Books/Utopia(book).md"
-    },
-    {
-      "basename": "The Year of Magical Thinking",
-      "path": "DataBase/Literature/Text/Books/The Year of Magical Thinking.md"
-    },
-    {
-      "basename": "数学之美",
-      "path": "DataBase/Literature/Text/Books/数学之美.md"
-    },
-    {
-      "basename": "四世同堂",
-      "path": "DataBase/Literature/Text/Books/四世同堂.md"
-    },
-    {
-      "basename": "茶馆",
-      "path": "DataBase/Literature/Text/Books/茶馆.md"
-    },
-    {
-      "basename": "人间失格",
-      "path": "DataBase/Literature/Text/Books/人间失格.md"
-    },
-    {
-      "basename": "设计模式之禅",
-      "path": "DataBase/Literature/Text/Books/设计模式之禅.md"
-    },
-    {
-      "basename": "雪崩",
-      "path": "DataBase/Literature/Text/Books/雪崩.md"
-    },
-    {
-      "basename": "战后日本经济史",
-      "path": "DataBase/Literature/Text/Books/战后日本经济史.md"
-    },
-    {
-      "basename": "这里是中国",
-      "path": "DataBase/Literature/Text/Books/这里是中国.md"
-    },
-    {
-      "basename": "日本",
-      "path": "DataBase/Reality/Places/Countries/日本.md"
-    },
-    {
-      "basename": "Capital in the twenty-First Century",
-      "path": "DataBase/Literature/Text/Books/Capital in the twenty-First Century.md"
-    },
-    {
-      "basename": "经济泡沫",
-      "path": "DataBase/Knowledge/Society/Economic/Facts/经济泡沫.md"
-    },
-    {
-      "basename": "失业潮",
-      "path": "DataBase/Knowledge/Society/Economic/Facts/失业潮.md"
-    },
-    {
-      "basename": "战后日本经济",
-      "path": "DataBase/Knowledge/Society/Economic/Facts/战后日本经济.md"
-    },
-    {
-      "basename": "Software engineering",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Software engineering.md"
-    },
-    {
-      "basename": "浪潮信息-2023-03-22",
-      "path": "DataBase/Investment/StockTradings/浪潮信息-2023-03-22.md"
-    },
-    {
-      "basename": "Template Method Pattern",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Template Method Pattern.md"
-    },
-    {
-      "basename": "Factory Method Pattern",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Factory Method Pattern.md"
     }
   ],
   "omittedPaths": [],
