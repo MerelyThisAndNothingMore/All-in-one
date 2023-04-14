@@ -1,8 +1,72 @@
 {
   "recentFiles": [
     {
+      "basename": "Abstract Factory Pattern",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Abstract Factory Pattern.md"
+    },
+    {
+      "basename": "Adapter Pattern",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Adapter Pattern.md"
+    },
+    {
+      "basename": "Behavioral patterns",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Behavioral patterns.md"
+    },
+    {
+      "basename": "Bridge Pattern",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Bridge Pattern.md"
+    },
+    {
+      "basename": "Builder Pattern",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Builder Pattern.md"
+    },
+    {
+      "basename": "Chain of responsibility",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Chain of responsibility.md"
+    },
+    {
+      "basename": "Command Pattern",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Command Pattern.md"
+    },
+    {
+      "basename": "Composite Pattern",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Composite Pattern.md"
+    },
+    {
+      "basename": "Creational patterns",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Creational patterns.md"
+    },
+    {
+      "basename": "Model-View-Controller",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Model-View-Controller.md"
+    },
+    {
+      "basename": "Visitor Pattern",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Visitor Pattern.md"
+    },
+    {
+      "basename": "Template Method Pattern",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Template Method Pattern.md"
+    },
+    {
+      "basename": "Structural patterns",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Structural patterns.md"
+    },
+    {
+      "basename": "1644",
+      "path": "DataBase/History/timeline/1644.md"
+    },
+    {
       "basename": "Factory Method Pattern",
       "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Factory Method Pattern.md"
+    },
+    {
+      "basename": "Arrays In Java",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/java/Fundamentals/Arrays In Java.md"
+    },
+    {
+      "basename": "Main Memory",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Main Memory.md"
     },
     {
       "basename": "设计模式之禅",
@@ -135,70 +199,6 @@
     {
       "basename": "东京大空袭",
       "path": "DataBase/History/Facts/东京大空袭.md"
-    },
-    {
-      "basename": "《Social Psychology》",
-      "path": "DataBase/Literature/Text/Books/《Social Psychology》.md"
-    },
-    {
-      "basename": "查拉图斯特拉如是说",
-      "path": "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md"
-    },
-    {
-      "basename": "大汉帝国在巴蜀-蜀汉天命的振扬与沉坠",
-      "path": "DataBase/Literature/Text/Books/大汉帝国在巴蜀-蜀汉天命的振扬与沉坠.md"
-    },
-    {
-      "basename": "红楼梦",
-      "path": "DataBase/Literature/Text/Books/红楼梦.md"
-    },
-    {
-      "basename": "毛主席语录",
-      "path": "DataBase/Literature/Text/Books/毛主席语录.md"
-    },
-    {
-      "basename": "南明史",
-      "path": "DataBase/Literature/Text/Books/南明史.md"
-    },
-    {
-      "basename": "StockTradingDecisionTemplate",
-      "path": "Configuration/Templates/StockTradingDecisionTemplate.md"
-    },
-    {
-      "basename": "自卑与超越",
-      "path": "DataBase/Literature/Text/Books/自卑与超越.md"
-    },
-    {
-      "basename": "Design Patterns Elements of Reusable Object-Oriented Software",
-      "path": "DataBase/Literature/Text/Books/Design Patterns Elements of Reusable Object-Oriented Software.md"
-    },
-    {
-      "basename": "AuthorsTemplate",
-      "path": "Configuration/Templates/AuthorsTemplate.md"
-    },
-    {
-      "basename": "coding_qusitions",
-      "path": "Configuration/Templates/coding_qusitions.md"
-    },
-    {
-      "basename": "EntertainersTemplate",
-      "path": "Configuration/Templates/EntertainersTemplate.md"
-    },
-    {
-      "basename": "SayingTemplate",
-      "path": "Configuration/Templates/SayingTemplate.md"
-    },
-    {
-      "basename": "StockSectorTemplate",
-      "path": "Configuration/Templates/StockSectorTemplate.md"
-    },
-    {
-      "basename": "TVDramaTemplate",
-      "path": "Configuration/Templates/TVDramaTemplate.md"
-    },
-    {
-      "basename": "人性论",
-      "path": "DataBase/Literature/Text/Books/人性论.md"
     }
   ],
   "omittedPaths": [],

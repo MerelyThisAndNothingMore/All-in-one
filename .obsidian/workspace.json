@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Factory Method Pattern.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Abstract Factory Pattern.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Factory Method Pattern.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Abstract Factory Pattern.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Factory Method Pattern.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Abstract Factory Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Factory Method Pattern.md"
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Abstract Factory Pattern.md"
               }
             }
           },
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Factory Method Pattern.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Abstract Factory Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,9 +250,25 @@
   },
   "active": "f111028176fc6b2b",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Adapter Pattern.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Behavioral patterns.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Bridge Pattern.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Builder Pattern.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Chain of responsibility.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Command Pattern.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Composite Pattern.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Creational patterns.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Model-View-Controller.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Visitor Pattern.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Template Method Pattern.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Structural patterns.md",
+    "DataBase/History/timeline/1644.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Factory Method Pattern.md",
+    "Resources/Images/Pasted image 20230414234101.png",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/Fundamentals/Arrays In Java.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Main Memory.md",
     "DataBase/Literature/Text/Books/设计模式之禅.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Singleton Pattern.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Factory Method Pattern.md",
     "WorkDesk.canvas",
     "README.md",
     "Home Page.md",
@@ -265,21 +281,6 @@
     "DataBase/Reality/Websites/poe.md",
     "DataBase/Reality/Websites/Untitled.md",
     "DataBase/Reality/Persons/Officials/徐其耀.md",
-    "DataBase/Reality/Persons/Entrepreneurs/Steve Jobs.md",
-    "DataBase/Reality/Persons/Directors.md",
-    "DataBase/Reality/Persons/Entertainers/徐童.md",
-    "DataBase/Reality/Persons/Entertainers/李连杰.md",
-    "DataBase/Reality/Persons/Authors/毛泽东.md",
-    "DataBase/Reality/Persons/Authors/老舍.md",
-    "DataBase/Reality/Persons/Authors/川端康成.md",
-    "DataBase/Reality/Persons/Authors/曹雪芹.md",
-    "DataBase/Reality/Persons/Authors/陈亮.md",
-    "DataBase/Reality/Persons/Authors/夏目簌石.md",
-    "DataBase/Reality/Persons/Authors/吴军.md",
-    "DataBase/Reality/Persons/Authors/Edgar Allan Poe.md",
-    "DataBase/Reality/Persons/Authors/Randal Bryant.md",
-    "DataBase/Reality/Persons/Entertainers/古力娜扎.md",
-    "DataBase/Reality/Persons/Entertainers.md",
     "DataBase/Skills",
     "DataBase/Knowledge/Society/Economic/Theory",
     "DataBase/History/Facts",
