@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "Home Page",
       "path": "Home Page.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "FilmsTemplate",
       "path": "Configuration/Templates/FilmsTemplate.md"
-    },
-    {
-      "basename": "KnowledgeCards",
-      "path": "Configuration/Templates/KnowledgeCards.md"
     }
   ],
   "omittedPaths": [],

@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "83e67d0b99eebb79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home Page.md",
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -149,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -192,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,8 +263,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f111028176fc6b2b",
+  "active": "83e67d0b99eebb79",
   "lastOpenFiles": [
+    "Home Page.md",
+    "conflict-files-obsidian-git.md",
+    "Outputs/NovelWriting/花下/花下大纲.canvas",
+    "Outputs/NovelWriting/花下/花下.md",
+    "Outputs/NovelWriting/花下/Untitled 1.md",
+    "Outputs/NovelWriting/花下",
+    "Outputs/NovelWriting",
+    "DataBase/Reality/Websites/poe.md",
+    "DataBase/Reality/Websites/Untitled.md",
     "DataBase/Reality/Persons/Officials/徐其耀.md",
     "DataBase/Reality/Persons/Entrepreneurs/Steve Jobs.md",
     "DataBase/Reality/Persons/Directors.md",
@@ -271,12 +294,6 @@
     "DataBase/Reality/Persons/Entertainers/林青霞.md",
     "DataBase/Reality/Persons/Entertainers/邱淑贞.md",
     "DataBase/Reality/Persons/Entertainers/桥本环奈.md",
-    "DataBase/Reality/Persons/Authors.md",
-    "DataBase/Reality/Persons/Entertainers/吴倩莲.md",
-    "DataBase/Reality/Persons/Entertainers/李小龙.md",
-    "DataBase/History/Facts/日本占领期.md",
-    "DataBase/History/Facts/黄金一代.md",
-    "DataBase/History/Facts/日本经济危机.md",
     "WorkDesk.canvas",
     "DataBase/Skills",
     "DataBase/Knowledge/Society/Economic/Theory",
@@ -286,8 +303,6 @@
     "DataBase/History/timeline",
     "DataBase/History",
     "DataBase/Tools/Obsidian",
-    "DataBase/Tools",
-    "DataBase/Reality/Places/Administrative regions",
     "Resources/Images/The Compilation system.png",
     "Resources/Images/State_Design_Pattern_UML_Class_Diagram.svg",
     "Resources/Images/Isaac Newton.png",
