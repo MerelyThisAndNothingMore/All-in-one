@@ -1,180 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "花下",
+      "path": "Outputs/NovelWriting/花下/花下.md"
     },
     {
-      "basename": "WorkDesk",
-      "path": "WorkDesk.canvas"
+      "basename": "花下大纲",
+      "path": "Outputs/NovelWriting/花下/花下大纲.canvas"
     },
     {
-      "basename": "Home Page",
-      "path": "Home Page.md"
+      "basename": "Untitled 1",
+      "path": "Outputs/NovelWriting/花下/Untitled 1.md"
     },
     {
-      "basename": "黄金一代",
-      "path": "DataBase/History/Facts/黄金一代.md"
+      "basename": "马克思主义文库",
+      "path": "DataBase/Reality/Websites/马克思主义文库.md"
     },
     {
-      "basename": "日本占领期",
-      "path": "DataBase/History/Facts/日本占领期.md"
+      "basename": "poe",
+      "path": "DataBase/Reality/Websites/poe.md"
+    },
+    {
+      "basename": "豆瓣",
+      "path": "DataBase/Reality/Websites/豆瓣.md"
+    },
+    {
+      "basename": "Coding Interview University",
+      "path": "DataBase/Reality/Websites/Coding Interview University.md"
+    },
+    {
+      "basename": "View可见性检测",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View可见性检测.md"
     },
     {
       "basename": "日本经济危机",
       "path": "DataBase/History/Facts/日本经济危机.md"
     },
     {
-      "basename": "东京大空袭",
-      "path": "DataBase/History/Facts/东京大空袭.md"
-    },
-    {
-      "basename": "《Social Psychology》",
-      "path": "DataBase/Literature/Text/Books/《Social Psychology》.md"
-    },
-    {
-      "basename": "查拉图斯特拉如是说",
-      "path": "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md"
-    },
-    {
-      "basename": "大汉帝国在巴蜀-蜀汉天命的振扬与沉坠",
-      "path": "DataBase/Literature/Text/Books/大汉帝国在巴蜀-蜀汉天命的振扬与沉坠.md"
-    },
-    {
-      "basename": "红楼梦",
-      "path": "DataBase/Literature/Text/Books/红楼梦.md"
-    },
-    {
-      "basename": "毛主席语录",
-      "path": "DataBase/Literature/Text/Books/毛主席语录.md"
-    },
-    {
-      "basename": "南明史",
-      "path": "DataBase/Literature/Text/Books/南明史.md"
-    },
-    {
-      "basename": "StockTradingDecisionTemplate",
-      "path": "Configuration/Templates/StockTradingDecisionTemplate.md"
-    },
-    {
-      "basename": "自卑与超越",
-      "path": "DataBase/Literature/Text/Books/自卑与超越.md"
-    },
-    {
-      "basename": "Design Patterns Elements of Reusable Object-Oriented Software",
-      "path": "DataBase/Literature/Text/Books/Design Patterns Elements of Reusable Object-Oriented Software.md"
-    },
-    {
-      "basename": "AuthorsTemplate",
-      "path": "Configuration/Templates/AuthorsTemplate.md"
-    },
-    {
-      "basename": "coding_qusitions",
-      "path": "Configuration/Templates/coding_qusitions.md"
-    },
-    {
-      "basename": "EntertainersTemplate",
-      "path": "Configuration/Templates/EntertainersTemplate.md"
-    },
-    {
-      "basename": "SayingTemplate",
-      "path": "Configuration/Templates/SayingTemplate.md"
-    },
-    {
-      "basename": "StockSectorTemplate",
-      "path": "Configuration/Templates/StockSectorTemplate.md"
-    },
-    {
-      "basename": "TVDramaTemplate",
-      "path": "Configuration/Templates/TVDramaTemplate.md"
-    },
-    {
-      "basename": "人性论",
-      "path": "DataBase/Literature/Text/Books/人性论.md"
-    },
-    {
-      "basename": "1644",
-      "path": "DataBase/History/timeline/1644.md"
-    },
-    {
-      "basename": "FilmsTemplate",
-      "path": "Configuration/Templates/FilmsTemplate.md"
-    },
-    {
-      "basename": "KnowledgeCards",
-      "path": "Configuration/Templates/KnowledgeCards.md"
-    },
-    {
-      "basename": "SongsTemplate",
-      "path": "Configuration/Templates/SongsTemplate.md"
-    },
-    {
-      "basename": "StockTemplate",
-      "path": "Configuration/Templates/StockTemplate.md"
-    },
-    {
-      "basename": "Princeples of Economics",
-      "path": "DataBase/Literature/Text/Books/Princeples of Economics.md"
-    },
-    {
-      "basename": "Refactoring-Improving the Design of Existing Code",
-      "path": "DataBase/Literature/Text/Books/Refactoring-Improving the Design of Existing Code.md"
-    },
-    {
-      "basename": "THE PRINCIPIA",
-      "path": "DataBase/Literature/Text/Books/THE PRINCIPIA.md"
-    },
-    {
-      "basename": "Utopia(book)",
-      "path": "DataBase/Literature/Text/Books/Utopia(book).md"
-    },
-    {
-      "basename": "The Year of Magical Thinking",
-      "path": "DataBase/Literature/Text/Books/The Year of Magical Thinking.md"
-    },
-    {
-      "basename": "数学之美",
-      "path": "DataBase/Literature/Text/Books/数学之美.md"
-    },
-    {
-      "basename": "四世同堂",
-      "path": "DataBase/Literature/Text/Books/四世同堂.md"
-    },
-    {
-      "basename": "茶馆",
-      "path": "DataBase/Literature/Text/Books/茶馆.md"
-    },
-    {
-      "basename": "人间失格",
-      "path": "DataBase/Literature/Text/Books/人间失格.md"
-    },
-    {
-      "basename": "设计模式之禅",
-      "path": "DataBase/Literature/Text/Books/设计模式之禅.md"
-    },
-    {
-      "basename": "雪崩",
-      "path": "DataBase/Literature/Text/Books/雪崩.md"
-    },
-    {
-      "basename": "战后日本经济史",
-      "path": "DataBase/Literature/Text/Books/战后日本经济史.md"
-    },
-    {
-      "basename": "这里是中国",
-      "path": "DataBase/Literature/Text/Books/这里是中国.md"
-    },
-    {
-      "basename": "日本",
-      "path": "DataBase/Reality/Places/Countries/日本.md"
-    },
-    {
-      "basename": "Capital in the twenty-First Century",
-      "path": "DataBase/Literature/Text/Books/Capital in the twenty-First Century.md"
-    },
-    {
       "basename": "经济泡沫",
       "path": "DataBase/Knowledge/Society/Economic/Facts/经济泡沫.md"
+    },
+    {
+      "basename": "黄金一代",
+      "path": "DataBase/History/Facts/黄金一代.md"
+    },
+    {
+      "basename": "东京大空袭",
+      "path": "DataBase/History/Facts/东京大空袭.md"
     },
     {
       "basename": "失业潮",
@@ -189,6 +61,22 @@
       "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Software engineering.md"
     },
     {
+      "basename": "Home Page",
+      "path": "Home Page.md"
+    },
+    {
+      "basename": "StockTradingDecisionTemplate",
+      "path": "Configuration/Templates/StockTradingDecisionTemplate.md"
+    },
+    {
+      "basename": "StockTemplate",
+      "path": "Configuration/Templates/StockTemplate.md"
+    },
+    {
+      "basename": "StockSectorTemplate",
+      "path": "Configuration/Templates/StockSectorTemplate.md"
+    },
+    {
       "basename": "浪潮信息-2023-03-22",
       "path": "DataBase/Investment/StockTradings/浪潮信息-2023-03-22.md"
     },
@@ -199,6 +87,118 @@
     {
       "basename": "Factory Method Pattern",
       "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Factory Method Pattern.md"
+    },
+    {
+      "basename": "Abstract Factory Pattern",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Abstract Factory Pattern.md"
+    },
+    {
+      "basename": "Singleton Pattern",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Singleton Pattern.md"
+    },
+    {
+      "basename": "Structural patterns",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Structural patterns.md"
+    },
+    {
+      "basename": "Adapter Pattern",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Adapter Pattern.md"
+    },
+    {
+      "basename": "Proxy Pattern",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Proxy Pattern.md"
+    },
+    {
+      "basename": "Builder Pattern",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Builder Pattern.md"
+    },
+    {
+      "basename": "Facade Pattern",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Facade Pattern.md"
+    },
+    {
+      "basename": "State pattern",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/State pattern.md"
+    },
+    {
+      "basename": "Composite Pattern",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Composite Pattern.md"
+    },
+    {
+      "basename": "设计模式之禅",
+      "path": "DataBase/Literature/Text/Books/设计模式之禅.md"
+    },
+    {
+      "basename": "Open-closed principle",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Open-closed principle.md"
+    },
+    {
+      "basename": "WorkDesk",
+      "path": "WorkDesk.canvas"
+    },
+    {
+      "basename": "Dataview",
+      "path": "DataBase/Tools/Obsidian/Dataview.md"
+    },
+    {
+      "basename": "Obsidian Text Generator",
+      "path": "DataBase/Tools/Obsidian/Obsidian Text Generator.md"
+    },
+    {
+      "basename": "Obsidian Charts",
+      "path": "DataBase/Tools/Obsidian/Obsidian Charts.md"
+    },
+    {
+      "basename": "Processes",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Processes.md"
+    },
+    {
+      "basename": "0001. 两数之和",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/编程题/0001. 两数之和.md"
+    },
+    {
+      "basename": "徐其耀",
+      "path": "DataBase/Reality/Persons/Officials/徐其耀.md"
+    },
+    {
+      "basename": "Trees",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Trees.md"
+    },
+    {
+      "basename": "市盈率",
+      "path": "DataBase/Investment/StockEvaluationKnowledge/市盈率.md"
+    },
+    {
+      "basename": "Static modifier",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Static modifier.md"
+    },
+    {
+      "basename": "战后日本经济史",
+      "path": "DataBase/Literature/Text/Books/战后日本经济史.md"
+    },
+    {
+      "basename": "日本占领期",
+      "path": "DataBase/History/Facts/日本占领期.md"
+    },
+    {
+      "basename": "通货膨胀",
+      "path": "DataBase/Knowledge/Society/Economic/Theory/通货膨胀.md"
+    },
+    {
+      "basename": "休谟",
+      "path": "DataBase/Reality/Persons/Authors/休谟.md"
+    },
+    {
+      "basename": "Swim",
+      "path": "DataBase/Skills/Swim.md"
+    },
+    {
+      "basename": "人间失格",
+      "path": "DataBase/Literature/Text/Books/人间失格.md"
+    },
+    {
+      "basename": "南明",
+      "path": "DataBase/Reality/Places/Countries/南明.md"
     }
   ],
   "omittedPaths": [],
