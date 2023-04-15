@@ -45,9 +45,139 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6d4d804b8563016e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b672afb8f512a7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Launcher进程.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3991b00d179bfdbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Launcher进程.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c4f122dfc967519",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/system_server进程.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7260a7c0a4b7e6ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "22b13a245970784b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/zygote进程.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c7197b90a491dac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8028ab0957aa9621",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/app进程.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "392095ef3fa60a0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/binder线程.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "114fcf62c26d7f13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Launcher进程.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -140,7 +270,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Launcher进程.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -175,7 +305,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Launcher进程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +322,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Launcher进程.md"
               }
             }
           },
@@ -218,7 +348,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Launcher进程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -275,13 +405,23 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ed21c42b86ead727",
+  "active": "114fcf62c26d7f13",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/binder线程.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/app进程.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/zygote进程.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/system_server进程.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Launcher进程.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder IPC.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/插件化.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android App.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Network/IPFS.md",
     "DataBase/Knowledge/Computer/BaseLayer/Operating Systems/Linux.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Untitled.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android App.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android Docs.md",
     "Home Page.md",
     "conflict-files-obsidian-git.md",
@@ -294,16 +434,7 @@
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Composite Pattern.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Creational patterns.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Model-View-Controller.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Visitor Pattern.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Template Method Pattern.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Structural patterns.md",
-    "DataBase/History/timeline/1644.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Factory Method Pattern.md",
     "Resources/Images/Pasted image 20230414234101.png",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/Fundamentals/Arrays In Java.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Main Memory.md",
-    "DataBase/Literature/Text/Books/设计模式之禅.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Singleton Pattern.md",
     "WorkDesk.canvas",
     "Outputs/NovelWriting/花下/花下大纲.canvas",
     "Outputs/NovelWriting/花下",
@@ -315,7 +446,6 @@
     "DataBase/Knowledge/Society/Economic",
     "DataBase/History/timeline",
     "DataBase/History",
-    "DataBase/Tools/Obsidian",
     "Resources/Images/The Compilation system.png",
     "Resources/Images/State_Design_Pattern_UML_Class_Diagram.svg",
     "Resources/Images/Isaac Newton.png",

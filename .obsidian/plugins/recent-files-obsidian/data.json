@@ -1,8 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "Launcher进程",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Launcher进程.md"
+    },
+    {
+      "basename": "Activity",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md"
+    },
+    {
+      "basename": "Handler",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler.md"
+    },
+    {
+      "basename": "binder线程",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/binder线程.md"
+    },
+    {
+      "basename": "app进程",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/app进程.md"
+    },
+    {
+      "basename": "zygote进程",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/zygote进程.md"
+    },
+    {
+      "basename": "system_server进程",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/system_server进程.md"
+    },
+    {
+      "basename": "Binder IPC",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder IPC.md"
+    },
+    {
       "basename": "Android",
       "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md"
+    },
+    {
+      "basename": "插件化",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/插件化.md"
+    },
+    {
+      "basename": "Android App",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android App.md"
     },
     {
       "basename": "IPFS",
@@ -15,10 +55,6 @@
     {
       "basename": "Untitled",
       "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Untitled.md"
-    },
-    {
-      "basename": "Android App",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android App.md"
     },
     {
       "basename": "Android Docs",
@@ -163,42 +199,6 @@
     {
       "basename": "吴军",
       "path": "DataBase/Reality/Persons/Authors/吴军.md"
-    },
-    {
-      "basename": "Edgar Allan Poe",
-      "path": "DataBase/Reality/Persons/Authors/Edgar Allan Poe.md"
-    },
-    {
-      "basename": "Randal Bryant",
-      "path": "DataBase/Reality/Persons/Authors/Randal Bryant.md"
-    },
-    {
-      "basename": "古力娜扎",
-      "path": "DataBase/Reality/Persons/Entertainers/古力娜扎.md"
-    },
-    {
-      "basename": "Entertainers",
-      "path": "DataBase/Reality/Persons/Entertainers.md"
-    },
-    {
-      "basename": "范冰冰",
-      "path": "DataBase/Reality/Persons/Entertainers/范冰冰.md"
-    },
-    {
-      "basename": "林青霞",
-      "path": "DataBase/Reality/Persons/Entertainers/林青霞.md"
-    },
-    {
-      "basename": "邱淑贞",
-      "path": "DataBase/Reality/Persons/Entertainers/邱淑贞.md"
-    },
-    {
-      "basename": "桥本环奈",
-      "path": "DataBase/Reality/Persons/Entertainers/桥本环奈.md"
-    },
-    {
-      "basename": "Authors",
-      "path": "DataBase/Reality/Persons/Authors.md"
     }
   ],
   "omittedPaths": [],
