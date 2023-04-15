@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Launcher进程",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Launcher进程.md"
+      "basename": "Home Page",
+      "path": "Home Page.md"
     },
     {
       "basename": "Activity",
       "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md"
+    },
+    {
+      "basename": "Android",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md"
+    },
+    {
+      "basename": "Launcher进程",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Launcher进程.md"
     },
     {
       "basename": "Handler",
@@ -33,10 +41,6 @@
       "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder IPC.md"
     },
     {
-      "basename": "Android",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md"
-    },
-    {
       "basename": "插件化",
       "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/插件化.md"
     },
@@ -59,10 +63,6 @@
     {
       "basename": "Android Docs",
       "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android Docs.md"
-    },
-    {
-      "basename": "Home Page",
-      "path": "Home Page.md"
     },
     {
       "basename": "Abstract Factory Pattern",
