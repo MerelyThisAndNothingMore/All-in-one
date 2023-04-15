@@ -4,42 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "523fc8f78a9c7bce",
+        "id": "5113780f37f2861c",
         "type": "tabs",
         "children": [
           {
-            "id": "0d0e2eeb6d96cfd4",
+            "id": "003aeb3891e5fb18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android App.md",
-                "mode": "source",
+                "file": "DataBase/Reality/Websites/Computer Science Roadmap.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "095cd5bb0901f1bb",
+            "id": "2bf6dad062f8065e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed21c42b86ead727",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md",
+                "file": "DataBase/Reality/Websites/Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "resource",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md",
+                "file": "DataBase/Reality/Websites/Untitled.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -175,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md",
+                "file": "DataBase/Reality/Websites/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md"
+                "file": "DataBase/Reality/Websites/Untitled.md"
               }
             }
           },
@@ -218,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md",
+                "file": "DataBase/Reality/Websites/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -275,39 +262,41 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ed21c42b86ead727",
+  "active": "2bf6dad062f8065e",
   "lastOpenFiles": [
-    "DataBase/Knowledge/Computer/ApplicationLayer/Network/IPFS.md",
     "DataBase/Knowledge/Computer/BaseLayer/Operating Systems/Linux.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Operating Systems",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Untitled.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android App.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android Docs.md",
-    "Home Page.md",
-    "conflict-files-obsidian-git.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Adapter Pattern.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Behavioral patterns.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Bridge Pattern.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Builder Pattern.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Chain of responsibility.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Command Pattern.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Composite Pattern.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Creational patterns.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Model-View-Controller.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Visitor Pattern.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Template Method Pattern.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Structural patterns.md",
-    "DataBase/History/timeline/1644.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Factory Method Pattern.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md",
     "Resources/Images/Pasted image 20230414234101.png",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/Fundamentals/Arrays In Java.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Main Memory.md",
-    "DataBase/Literature/Text/Books/设计模式之禅.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Singleton Pattern.md",
-    "WorkDesk.canvas",
+    "DataBase/Reality/Websites/Computer Science Roadmap.md",
+    "DataBase/Reality/Websites/Untitled.md",
+    "Configuration/Templates/StockSectorTemplate.md",
+    "Configuration/Templates/KnowledgeCards.md",
+    "Home Page.md",
     "Outputs/NovelWriting/花下/花下大纲.canvas",
+    "Outputs/NovelWriting/花下/Untitled 1.md",
+    "Outputs/NovelWriting/花下/花下.md",
+    "DataBase/Reality/Websites/马克思主义文库.md",
+    "Outputs/NovelWriting/花下/Untitled Kanban.md",
+    "Outputs/NovelWriting/花下/Drawing 2023-04-14 11.52.54.excalidraw.md",
+    "Outputs/NovelWriting/花下/Drawing 2023-04-14 11.52.54.excalidraw.svg",
+    "DataBase/Reality/Websites/poe.md",
     "Outputs/NovelWriting/花下",
     "Outputs/NovelWriting",
+    "DataBase/Reality/Websites/豆瓣.md",
+    "DataBase/Reality/Websites/Coding Interview University.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View可见性检测.md",
+    "DataBase/History/Facts/日本经济危机.md",
+    "DataBase/Knowledge/Society/Economic/Facts/经济泡沫.md",
+    "DataBase/History/Facts/黄金一代.md",
+    "DataBase/History/Facts/东京大空袭.md",
+    "DataBase/Knowledge/Society/Economic/Facts/失业潮.md",
+    "DataBase/Knowledge/Society/Economic/Facts/战后日本经济.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Software engineering.md",
+    "Configuration/Templates/StockTemplate.md",
+    "DataBase/Investment/StockTradings/浪潮信息-2023-03-22.md",
+    "WorkDesk.canvas",
     "DataBase/Skills",
     "DataBase/Knowledge/Society/Economic/Theory",
     "DataBase/History/Facts",
@@ -315,13 +304,11 @@
     "DataBase/Knowledge/Society/Economic",
     "DataBase/History/timeline",
     "DataBase/History",
-    "DataBase/Tools/Obsidian",
     "Resources/Images/The Compilation system.png",
     "Resources/Images/State_Design_Pattern_UML_Class_Diagram.svg",
     "Resources/Images/Isaac Newton.png",
     "Resources/Images/Hardware Organization.png",
     "Resources/Images/Pasted image 20230303101829.png",
-    "Resources/canvas/UML of state pattern structure.canvas",
-    "Untitled.canvas"
+    "Resources/canvas/UML of state pattern structure.canvas"
   ]
 }
