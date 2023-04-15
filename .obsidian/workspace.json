@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "10a74e08fc992168",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Literature/Music/Concert/皇后乐队1986布达佩斯演唱会.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -127,7 +140,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Literature/Music/Concert/既然青春留不住.md",
+                "file": "DataBase/Literature/Music/Concert/皇后乐队1986布达佩斯演唱会.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -162,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Literature/Music/Concert/既然青春留不住.md",
+                "file": "DataBase/Literature/Music/Concert/皇后乐队1986布达佩斯演唱会.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Literature/Music/Concert/既然青春留不住.md"
+                "file": "DataBase/Literature/Music/Concert/皇后乐队1986布达佩斯演唱会.md"
               }
             }
           },
@@ -205,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Literature/Music/Concert/既然青春留不住.md",
+                "file": "DataBase/Literature/Music/Concert/皇后乐队1986布达佩斯演唱会.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -262,10 +275,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5c8433b7abd0f30c",
+  "active": "10a74e08fc992168",
   "lastOpenFiles": [
-    "DataBase/Literature/Music/Untitled.md",
     "DataBase/Literature/Music/Concert/既然青春留不住.md",
+    "DataBase/Literature/Music/Concert/皇后乐队1986布达佩斯演唱会.md",
+    "DataBase/Literature/Music/Untitled.md",
     "DataBase/Literature/Music/Concert",
     "Home Page.md",
     "DataBase/Tasks/data/面试准备.md",
@@ -292,7 +306,6 @@
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Adapter Pattern.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Behavioral patterns.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Bridge Pattern.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Builder Pattern.md",
     "Resources/Images/Pasted image 20230414234101.png",
     "Outputs/NovelWriting/花下/花下大纲.canvas",
     "Outputs/NovelWriting/花下",
