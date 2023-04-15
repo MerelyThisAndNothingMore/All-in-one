@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "简历准备",
+      "path": "DataBase/Tasks/data/简历准备.md"
+    },
+    {
+      "basename": "面试准备",
+      "path": "DataBase/Tasks/data/面试准备.md"
+    },
+    {
+      "basename": "经济学学习",
+      "path": "DataBase/Tasks/data/经济学学习.md"
+    },
+    {
+      "basename": "WorkDesk",
+      "path": "WorkDesk.canvas"
+    },
+    {
       "basename": "Home Page",
       "path": "Home Page.md"
     },
@@ -141,10 +157,6 @@
       "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Singleton Pattern.md"
     },
     {
-      "basename": "WorkDesk",
-      "path": "WorkDesk.canvas"
-    },
-    {
       "basename": "README",
       "path": "README.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "曹雪芹",
       "path": "DataBase/Reality/Persons/Authors/曹雪芹.md"
-    },
-    {
-      "basename": "陈亮",
-      "path": "DataBase/Reality/Persons/Authors/陈亮.md"
-    },
-    {
-      "basename": "夏目簌石",
-      "path": "DataBase/Reality/Persons/Authors/夏目簌石.md"
-    },
-    {
-      "basename": "吴军",
-      "path": "DataBase/Reality/Persons/Authors/吴军.md"
     }
   ],
   "omittedPaths": [],
