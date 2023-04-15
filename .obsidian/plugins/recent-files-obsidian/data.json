@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Android",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md"
+    },
+    {
+      "basename": "IPFS",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Network/IPFS.md"
+    },
+    {
+      "basename": "Linux",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Operating Systems/Linux.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Untitled.md"
+    },
+    {
+      "basename": "Android App",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android App.md"
+    },
+    {
+      "basename": "Android Docs",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android Docs.md"
+    },
+    {
       "basename": "Home Page",
       "path": "Home Page.md"
     },
@@ -175,26 +199,6 @@
     {
       "basename": "Authors",
       "path": "DataBase/Reality/Persons/Authors.md"
-    },
-    {
-      "basename": "吴倩莲",
-      "path": "DataBase/Reality/Persons/Entertainers/吴倩莲.md"
-    },
-    {
-      "basename": "李小龙",
-      "path": "DataBase/Reality/Persons/Entertainers/李小龙.md"
-    },
-    {
-      "basename": "日本占领期",
-      "path": "DataBase/History/Facts/日本占领期.md"
-    },
-    {
-      "basename": "黄金一代",
-      "path": "DataBase/History/Facts/黄金一代.md"
-    },
-    {
-      "basename": "日本经济危机",
-      "path": "DataBase/History/Facts/日本经济危机.md"
     }
   ],
   "omittedPaths": [],
