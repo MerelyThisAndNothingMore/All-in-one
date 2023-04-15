@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home Page",
+      "path": "Home Page.md"
+    },
+    {
       "basename": "简历准备",
       "path": "DataBase/Tasks/data/简历准备.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "WorkDesk",
       "path": "WorkDesk.canvas"
-    },
-    {
-      "basename": "Home Page",
-      "path": "Home Page.md"
     },
     {
       "basename": "Activity",
@@ -195,10 +195,6 @@
     {
       "basename": "川端康成",
       "path": "DataBase/Reality/Persons/Authors/川端康成.md"
-    },
-    {
-      "basename": "曹雪芹",
-      "path": "DataBase/Reality/Persons/Authors/曹雪芹.md"
     }
   ],
   "omittedPaths": [],
