@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "谭咏麟94大球场演唱会",
+      "path": "DataBase/Literature/Music/Concert/谭咏麟94大球场演唱会.md"
+    },
+    {
       "basename": "皇后乐队1986布达佩斯演唱会",
       "path": "DataBase/Literature/Music/Concert/皇后乐队1986布达佩斯演唱会.md"
     },
@@ -191,14 +195,6 @@
     {
       "basename": "李连杰",
       "path": "DataBase/Reality/Persons/Entertainers/李连杰.md"
-    },
-    {
-      "basename": "毛泽东",
-      "path": "DataBase/Reality/Persons/Authors/毛泽东.md"
-    },
-    {
-      "basename": "老舍",
-      "path": "DataBase/Reality/Persons/Authors/老舍.md"
     }
   ],
   "omittedPaths": [],
