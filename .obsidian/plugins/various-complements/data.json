@@ -187,30 +187,6 @@
         }
       }
     },
-    "films": {
-      "films": {
-        "frontMatter": {
-          "count": 5,
-          "lastUpdated": 1678935276292
-        }
-      }
-    },
-    "List": {
-      "List": {
-        "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1678938467871
-        }
-      }
-    },
-    "coding": {
-      "coding": {
-        "frontMatter": {
-          "count": 3,
-          "lastUpdated": 1678937723480
-        }
-      }
-    },
     "studyResources": {
       "studyResources": {
         "frontMatter": {
@@ -532,6 +508,14 @@
         "frontMatter": {
           "count": 1,
           "lastUpdated": 1681538767063
+        }
+      }
+    },
+    "concert": {
+      "concert": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1681566495519
         }
       }
     }
