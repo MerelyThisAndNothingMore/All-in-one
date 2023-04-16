@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "Android",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md"
-    },
-    {
-      "basename": "IPFS",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Network/IPFS.md"
-    },
-    {
-      "basename": "Linux",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Operating Systems/Linux.md"
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
     },
     {
       "basename": "Untitled",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Untitled.md"
+      "path": "DataBase/Reality/Websites/Untitled.md"
     },
     {
-      "basename": "Android App",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android App.md"
+      "basename": "Computer Science Roadmap",
+      "path": "DataBase/Reality/Websites/Computer Science Roadmap.md"
     },
     {
-      "basename": "Android Docs",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android Docs.md"
+      "basename": "StockSectorTemplate",
+      "path": "Configuration/Templates/StockSectorTemplate.md"
+    },
+    {
+      "basename": "KnowledgeCards",
+      "path": "Configuration/Templates/KnowledgeCards.md"
     },
     {
       "basename": "Home Page",
       "path": "Home Page.md"
     },
     {
-      "basename": "Abstract Factory Pattern",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Abstract Factory Pattern.md"
+      "basename": "花下",
+      "path": "Outputs/NovelWriting/花下/花下.md"
     },
     {
-      "basename": "Adapter Pattern",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Adapter Pattern.md"
+      "basename": "花下大纲",
+      "path": "Outputs/NovelWriting/花下/花下大纲.canvas"
     },
     {
-      "basename": "Behavioral patterns",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Behavioral patterns.md"
+      "basename": "Untitled 1",
+      "path": "Outputs/NovelWriting/花下/Untitled 1.md"
     },
     {
-      "basename": "Bridge Pattern",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Bridge Pattern.md"
+      "basename": "马克思主义文库",
+      "path": "DataBase/Reality/Websites/马克思主义文库.md"
     },
     {
-      "basename": "Builder Pattern",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Builder Pattern.md"
+      "basename": "poe",
+      "path": "DataBase/Reality/Websites/poe.md"
     },
     {
-      "basename": "Chain of responsibility",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Chain of responsibility.md"
+      "basename": "豆瓣",
+      "path": "DataBase/Reality/Websites/豆瓣.md"
     },
     {
-      "basename": "Command Pattern",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Command Pattern.md"
+      "basename": "Coding Interview University",
+      "path": "DataBase/Reality/Websites/Coding Interview University.md"
     },
     {
-      "basename": "Composite Pattern",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Composite Pattern.md"
+      "basename": "View可见性检测",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View可见性检测.md"
     },
     {
-      "basename": "Creational patterns",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Creational patterns.md"
+      "basename": "日本经济危机",
+      "path": "DataBase/History/Facts/日本经济危机.md"
     },
     {
-      "basename": "Model-View-Controller",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Model-View-Controller.md"
+      "basename": "经济泡沫",
+      "path": "DataBase/Knowledge/Society/Economic/Facts/经济泡沫.md"
     },
     {
-      "basename": "Visitor Pattern",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Visitor Pattern.md"
+      "basename": "黄金一代",
+      "path": "DataBase/History/Facts/黄金一代.md"
+    },
+    {
+      "basename": "东京大空袭",
+      "path": "DataBase/History/Facts/东京大空袭.md"
+    },
+    {
+      "basename": "失业潮",
+      "path": "DataBase/Knowledge/Society/Economic/Facts/失业潮.md"
+    },
+    {
+      "basename": "战后日本经济",
+      "path": "DataBase/Knowledge/Society/Economic/Facts/战后日本经济.md"
+    },
+    {
+      "basename": "Software engineering",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Software engineering.md"
+    },
+    {
+      "basename": "StockTradingDecisionTemplate",
+      "path": "Configuration/Templates/StockTradingDecisionTemplate.md"
+    },
+    {
+      "basename": "StockTemplate",
+      "path": "Configuration/Templates/StockTemplate.md"
+    },
+    {
+      "basename": "浪潮信息-2023-03-22",
+      "path": "DataBase/Investment/StockTradings/浪潮信息-2023-03-22.md"
     },
     {
       "basename": "Template Method Pattern",
       "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Template Method Pattern.md"
     },
     {
-      "basename": "Structural patterns",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Structural patterns.md"
-    },
-    {
-      "basename": "1644",
-      "path": "DataBase/History/timeline/1644.md"
-    },
-    {
       "basename": "Factory Method Pattern",
       "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Factory Method Pattern.md"
     },
     {
-      "basename": "Arrays In Java",
-      "path": "DataBase/Knowledge/Computer/ApplicationLayer/java/Fundamentals/Arrays In Java.md"
-    },
-    {
-      "basename": "Main Memory",
-      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Main Memory.md"
-    },
-    {
-      "basename": "设计模式之禅",
-      "path": "DataBase/Literature/Text/Books/设计模式之禅.md"
+      "basename": "Abstract Factory Pattern",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Abstract Factory Pattern.md"
     },
     {
       "basename": "Singleton Pattern",
       "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Singleton Pattern.md"
     },
     {
+      "basename": "Structural patterns",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Structural patterns.md"
+    },
+    {
+      "basename": "Adapter Pattern",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Adapter Pattern.md"
+    },
+    {
+      "basename": "Proxy Pattern",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Proxy Pattern.md"
+    },
+    {
+      "basename": "Builder Pattern",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Builder Pattern.md"
+    },
+    {
+      "basename": "Facade Pattern",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Facade Pattern.md"
+    },
+    {
+      "basename": "State pattern",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/State pattern.md"
+    },
+    {
+      "basename": "Composite Pattern",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Composite Pattern.md"
+    },
+    {
+      "basename": "设计模式之禅",
+      "path": "DataBase/Literature/Text/Books/设计模式之禅.md"
+    },
+    {
+      "basename": "Open-closed principle",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Open-closed principle.md"
+    },
+    {
       "basename": "WorkDesk",
       "path": "WorkDesk.canvas"
     },
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "Dataview",
+      "path": "DataBase/Tools/Obsidian/Dataview.md"
     },
     {
-      "basename": "Passwords",
-      "path": "DataBase/Life/Passwords.md"
+      "basename": "Obsidian Text Generator",
+      "path": "DataBase/Tools/Obsidian/Obsidian Text Generator.md"
+    },
+    {
+      "basename": "Obsidian Charts",
+      "path": "DataBase/Tools/Obsidian/Obsidian Charts.md"
+    },
+    {
+      "basename": "Processes",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Processes.md"
+    },
+    {
+      "basename": "0001. 两数之和",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/编程题/0001. 两数之和.md"
     },
     {
       "basename": "徐其耀",
       "path": "DataBase/Reality/Persons/Officials/徐其耀.md"
     },
     {
-      "basename": "Steve Jobs",
-      "path": "DataBase/Reality/Persons/Entrepreneurs/Steve Jobs.md"
+      "basename": "Trees",
+      "path": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Trees.md"
     },
     {
-      "basename": "Directors",
-      "path": "DataBase/Reality/Persons/Directors.md"
+      "basename": "市盈率",
+      "path": "DataBase/Investment/StockEvaluationKnowledge/市盈率.md"
     },
     {
-      "basename": "徐童",
-      "path": "DataBase/Reality/Persons/Entertainers/徐童.md"
+      "basename": "Static modifier",
+      "path": "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Static modifier.md"
     },
     {
-      "basename": "李连杰",
-      "path": "DataBase/Reality/Persons/Entertainers/李连杰.md"
+      "basename": "战后日本经济史",
+      "path": "DataBase/Literature/Text/Books/战后日本经济史.md"
     },
     {
-      "basename": "毛泽东",
-      "path": "DataBase/Reality/Persons/Authors/毛泽东.md"
+      "basename": "日本占领期",
+      "path": "DataBase/History/Facts/日本占领期.md"
     },
     {
-      "basename": "老舍",
-      "path": "DataBase/Reality/Persons/Authors/老舍.md"
-    },
-    {
-      "basename": "川端康成",
-      "path": "DataBase/Reality/Persons/Authors/川端康成.md"
-    },
-    {
-      "basename": "曹雪芹",
-      "path": "DataBase/Reality/Persons/Authors/曹雪芹.md"
-    },
-    {
-      "basename": "陈亮",
-      "path": "DataBase/Reality/Persons/Authors/陈亮.md"
-    },
-    {
-      "basename": "夏目簌石",
-      "path": "DataBase/Reality/Persons/Authors/夏目簌石.md"
-    },
-    {
-      "basename": "吴军",
-      "path": "DataBase/Reality/Persons/Authors/吴军.md"
-    },
-    {
-      "basename": "Edgar Allan Poe",
-      "path": "DataBase/Reality/Persons/Authors/Edgar Allan Poe.md"
-    },
-    {
-      "basename": "Randal Bryant",
-      "path": "DataBase/Reality/Persons/Authors/Randal Bryant.md"
-    },
-    {
-      "basename": "古力娜扎",
-      "path": "DataBase/Reality/Persons/Entertainers/古力娜扎.md"
-    },
-    {
-      "basename": "Entertainers",
-      "path": "DataBase/Reality/Persons/Entertainers.md"
-    },
-    {
-      "basename": "范冰冰",
-      "path": "DataBase/Reality/Persons/Entertainers/范冰冰.md"
-    },
-    {
-      "basename": "林青霞",
-      "path": "DataBase/Reality/Persons/Entertainers/林青霞.md"
-    },
-    {
-      "basename": "邱淑贞",
-      "path": "DataBase/Reality/Persons/Entertainers/邱淑贞.md"
-    },
-    {
-      "basename": "桥本环奈",
-      "path": "DataBase/Reality/Persons/Entertainers/桥本环奈.md"
-    },
-    {
-      "basename": "Authors",
-      "path": "DataBase/Reality/Persons/Authors.md"
+      "basename": "通货膨胀",
+      "path": "DataBase/Knowledge/Society/Economic/Theory/通货膨胀.md"
     }
   ],
   "omittedPaths": [],
