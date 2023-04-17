@@ -39,7 +39,85 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Tasks/data/简历准备.md",
+                "file": "DataBase/Reality/Websites/OSSU.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "28f4c4ab0341cb33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Reality/Websites/AndroidNote-zhpanvip.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aae68da308ff19cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5137c4a8cf3a0939",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Processes.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c457cbdf39e577a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2552d878d33bfc36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce4da94430e91658",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Processes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -64,7 +142,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -93,7 +171,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "可见性",
+                "query": "file:proc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -141,7 +219,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Tasks/data/简历准备.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -176,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Tasks/data/简历准备.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +271,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Tasks/data/简历准备.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md"
               }
             }
           },
@@ -219,7 +297,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Tasks/data/简历准备.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -275,10 +353,24 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "898c458660968db4",
+  "active": "2552d878d33bfc36",
   "lastOpenFiles": [
-    "WorkDesk.canvas",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder IPC.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/AIDL.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Service.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/IPC.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Processes.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Operating Systems/Operating System.md",
+    "DataBase/Reality/Websites/AndroidNote-zhpanvip.md",
+    "DataBase/Reality/Websites/OSSU.md",
+    "DataBase/Reality/Websites/Computer Science Roadmap.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/binder线程.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Launcher进程.md",
+    "DataBase/Tasks/data/身体状态管理.md",
     "DataBase/Tasks/data/简历准备.md",
+    "WorkDesk.canvas",
     "Home Page.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View可见性检测.md",
     "DataBase/Reality/Websites/Untitled.md",
@@ -290,24 +382,11 @@
     "DataBase/Literature/Music/Concert",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/zygote进程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/system_server进程.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/binder线程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/app进程.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Launcher进程.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder IPC.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework",
-    "DataBase/Knowledge/Computer/BaseLayer/Operating Systems/Linux.md",
     "DataBase/Knowledge/Computer/BaseLayer/Operating Systems",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Untitled.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md",
     "Resources/Images/Pasted image 20230414234101.png",
-    "DataBase/Reality/Websites/Computer Science Roadmap.md",
-    "Configuration/Templates/StockSectorTemplate.md",
-    "Configuration/Templates/KnowledgeCards.md",
     "Outputs/NovelWriting/花下/花下大纲.canvas",
-    "Outputs/NovelWriting/花下/Untitled 1.md",
-    "Outputs/NovelWriting/花下/花下.md",
     "Outputs/NovelWriting/花下/Drawing 2023-04-14 11.52.54.excalidraw.svg",
     "Outputs/NovelWriting/花下",
     "Outputs/NovelWriting",

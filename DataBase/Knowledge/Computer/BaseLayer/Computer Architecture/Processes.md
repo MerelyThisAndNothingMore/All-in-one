@@ -1,6 +1,7 @@
 ---
 alias: 
 - process
+- 进程
 tags: 
 - computerArchitecture 
 ---
