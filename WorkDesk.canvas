@@ -7,7 +7,6 @@
 		{"type":"text","text":"业务整理","id":"135add753d728543","x":460,"y":-590,"width":250,"height":70},
 		{"type":"text","text":"面试准备","id":"b5e752faf6c412e6","x":460,"y":-840,"width":250,"height":60},
 		{"type":"text","text":"[[计算机知识]]","id":"8c3a0e0ac13b7c92","x":885,"y":-900,"width":250,"height":60},
-		{"type":"text","text":"简历准备","id":"d25ee57a2dea623b","x":885,"y":-780,"width":250,"height":60},
 		{"type":"text","text":"[[经济学学习]]","id":"29f438b4801369c7","x":460,"y":-300,"width":250,"height":60},
 		{"type":"text","text":"创作","id":"3457bf9f1d0e795d","x":-20,"y":-170,"width":250,"height":60},
 		{"type":"text","text":"技术文档","id":"9a7e8446af95657a","x":460,"y":-170,"width":250,"height":60},
@@ -18,8 +17,9 @@
 		{"type":"text","text":"[[设计模式之禅|设计模式之禅]] ","id":"7e781df6a76e2ced","x":1280,"y":-810,"width":250,"height":60},
 		{"type":"text","text":"[[Design Patterns Elements of Reusable Object-Oriented Software|Design Patterns Elements of Reusable Object-Oriented Software]] ","id":"896c34ee66abb696","x":1280,"y":-1000,"width":250,"height":60},
 		{"type":"text","text":"金融危机","id":"4c14f1e2d4485001","x":855,"y":-200,"width":250,"height":60},
-		{"id":"0699c744b5255e35","x":855,"y":-110,"width":250,"height":60,"type":"text","text":"资本论"},
-		{"id":"828349bf93a751fc","x":840,"y":-390,"width":250,"height":60,"type":"text","text":"21世纪资本论"}
+		{"type":"text","text":"资本论","id":"0699c744b5255e35","x":855,"y":-110,"width":250,"height":60},
+		{"type":"text","text":"21世纪资本论","id":"828349bf93a751fc","x":840,"y":-390,"width":250,"height":60},
+		{"type":"text","text":"[[简历准备]]","id":"d25ee57a2dea623b","x":885,"y":-750,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"debee5227fdbd1e3","fromNode":"8326fec1cf2bd1f4","fromSide":"right","toNode":"5dd923f540c2525d","toSide":"left"},

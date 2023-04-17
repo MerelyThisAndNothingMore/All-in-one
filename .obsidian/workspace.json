@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Reality/Websites/Untitled.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View可见性检测.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,20 +34,37 @@
             }
           },
           {
-            "id": "bba72487e4c4d08a",
+            "id": "898c458660968db4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "DataBase/Tasks/data/简历准备.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "511d722a6190687f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "WorkDesk.canvas",
+                "viewState": {
+                  "x": 1352.4559652928403,
+                  "y": -898.538438177874,
+                  "zoom": -0.7193331349861284
+                }
+              },
+              "pinned": true
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -76,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "resource",
+                "query": "可见性",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,7 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "WorkDesk.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -159,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "WorkDesk.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "WorkDesk.canvas"
               }
             }
           },
@@ -202,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "WorkDesk.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,17 +275,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9efb66c5acbe3c31",
+  "active": "511d722a6190687f",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Home Page.md",
-    "DataBase/Tasks/data/面试准备.md",
     "DataBase/Tasks/data/简历准备.md",
+    "WorkDesk.canvas",
+    "Home Page.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View可见性检测.md",
+    "DataBase/Reality/Websites/Untitled.md",
+    "conflict-files-obsidian-git.md",
+    "DataBase/Tasks/data/面试准备.md",
     "DataBase/Literature/Music/Concert/谭咏麟94大球场演唱会.md",
     "DataBase/Literature/Music/Concert/皇后乐队1986布达佩斯演唱会.md",
     "DataBase/Literature/Music/Concert/既然青春留不住.md",
     "DataBase/Literature/Music/Concert",
-    "DataBase/Reality/Websites/Untitled.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/zygote进程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/system_server进程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/binder线程.md",
@@ -289,12 +308,9 @@
     "Outputs/NovelWriting/花下/花下大纲.canvas",
     "Outputs/NovelWriting/花下/Untitled 1.md",
     "Outputs/NovelWriting/花下/花下.md",
-    "DataBase/Reality/Websites/马克思主义文库.md",
-    "Outputs/NovelWriting/花下/Untitled Kanban.md",
     "Outputs/NovelWriting/花下/Drawing 2023-04-14 11.52.54.excalidraw.svg",
     "Outputs/NovelWriting/花下",
     "Outputs/NovelWriting",
-    "WorkDesk.canvas",
     "DataBase/Skills",
     "DataBase/Knowledge/Society/Economic/Theory",
     "DataBase/History/Facts",
