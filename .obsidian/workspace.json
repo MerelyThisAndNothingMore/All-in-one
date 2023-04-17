@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
-                "mode": "preview",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:proc",
+                "query": "activit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +98,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -132,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md"
               }
             }
           },
@@ -175,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,6 +234,7 @@
   },
   "active": "e3811d85143f7dad",
   "lastOpenFiles": [
+    "Home Page.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder IPC.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
@@ -249,7 +251,6 @@
     "DataBase/Tasks/data/身体状态管理.md",
     "DataBase/Tasks/data/简历准备.md",
     "WorkDesk.canvas",
-    "Home Page.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View可见性检测.md",
     "DataBase/Reality/Websites/Untitled.md",
     "conflict-files-obsidian-git.md",
