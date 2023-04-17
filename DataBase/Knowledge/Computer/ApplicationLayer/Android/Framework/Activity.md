@@ -10,8 +10,10 @@ alias:
 	- Activity.startActivity
 	- Activity.startActivityForResult
 	- Instrumentation.execStartActivity
-	- 获取IActivityTaskManager.aidl
+	- 获取IActivityTaskManager.aidl，这里定义了[[IPC]]使用到的[[Binder]]
 - [[system_server进程|system_server进程]] 收到请求后，向[[zygote进程]]进程发起创建进程请求。
+	- 通过ActivityTaskManagerService实现IActivityTaskManager.Stub
+	- ActivityTaskManagerService内部
 - [[zygote进程]]fork出新的子进程，即[[app进程]]
 - [[app进程]]通过[[Binder|Binder IPC]]向[[system_server进程]]发起attachApplication请求
 - [[system_server进程]]收到请求后，进行一系列准备工作，再通过[[Binder|Binder IPC]]向[[app进程]]发送scheduleLaunchActivity请求。
