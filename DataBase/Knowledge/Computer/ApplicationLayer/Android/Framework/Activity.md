@@ -10,7 +10,7 @@ alias:
 	- Activity.startActivity
 	- Activity.startActivityForResult
 	- Instrumentation.execStartActivity
-	- 获取IActivityTaskManager.aidl，这里定义了[[IPC]]使用到的[[Binder]]
+	- 获取到服务线程的IActivityTaskManager.aidl，这里定义了[[IPC]]使用到的[[Binder]]
 	- ![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2019/10/9/16daf8c05d64c40a~tplv-t2oaga2asx-zoom-in-crop-mark:4536:0:0:0.awebp)
 - [[system_server进程|system_server进程]] 收到请求后，向[[zygote进程]]进程发起创建进程请求。
 	- 通过ActivityTaskManagerService实现IActivityTaskManager.Stub
