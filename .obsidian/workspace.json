@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -141,7 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "WorkDesk.canvas",
+                "file": "DataBase/Tasks/data/简历准备.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WorkDesk.canvas",
+                "file": "DataBase/Tasks/data/简历准备.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WorkDesk.canvas"
+                "file": "DataBase/Tasks/data/简历准备.md"
               }
             }
           },
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WorkDesk.canvas",
+                "file": "DataBase/Tasks/data/简历准备.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -275,10 +275,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "511d722a6190687f",
+  "active": "898c458660968db4",
   "lastOpenFiles": [
-    "DataBase/Tasks/data/简历准备.md",
     "WorkDesk.canvas",
+    "DataBase/Tasks/data/简历准备.md",
     "Home Page.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View可见性检测.md",
     "DataBase/Reality/Websites/Untitled.md",
