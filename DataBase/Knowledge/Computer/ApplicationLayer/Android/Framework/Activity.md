@@ -24,7 +24,16 @@ alias:
 ## 进程内启动/普通Activity启动
 ## References 
 [Activity启动分析](https://juejin.cn/post/6844903959581163528#heading-1) 
-
+# 生命周期
+Activity的生命周期方法有:
+- onCreate():Activity第一次被创建时调用,在这里进行初始化操作。
+- onStart():Activity变为可见时调用,可以在这里开始与用户交互。
+- onResume():Activity变为Foreground状态时调用,此时的Activity在屏幕上并且有焦点。
+- onPause():Activity失去焦点但仍处于屏幕前台时调用,在这里可以保存一些临时数据。
+- onStop():Activity完全不可见时调用。
+- onDestroy():Activity被销毁前调用,在这里释放资源。
+- onRestart():Activity由停止状态变为运行状态时调用,比较少使用。
+- 
 
 
 
