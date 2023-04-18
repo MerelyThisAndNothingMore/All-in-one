@@ -15,6 +15,7 @@ alias:
 - 获取到服务线程的IActivityTaskManager.aidl，这里定义了[[IPC]]使用到的[[Binder]]
 ### [[system_server进程|system_server进程]] 调用Process.start
 ### Process.start 调用 startViaZygote
+与Zygote进程建立连接并发送参数。
 
 
 
