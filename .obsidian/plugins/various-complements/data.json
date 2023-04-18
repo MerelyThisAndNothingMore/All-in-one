@@ -187,30 +187,6 @@
         }
       }
     },
-    "films": {
-      "films": {
-        "frontMatter": {
-          "count": 5,
-          "lastUpdated": 1678935276292
-        }
-      }
-    },
-    "List": {
-      "List": {
-        "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1678938467871
-        }
-      }
-    },
-    "coding": {
-      "coding": {
-        "frontMatter": {
-          "count": 3,
-          "lastUpdated": 1678937723480
-        }
-      }
-    },
     "studyResources": {
       "studyResources": {
         "frontMatter": {
@@ -227,91 +203,11 @@
         }
       }
     },
-    "physic": {
-      "physic": {
-        "frontMatter": {
-          "count": 2,
-          "lastUpdated": 1678892343889
-        }
-      }
-    },
-    "[[Computer Systems-A Programmer's Perspective|CS-APP]]": {
-      "[[Computer Systems-A Programmer's Perspective|CS-APP]]": {
-        "frontMatter": {
-          "count": 2,
-          "lastUpdated": 1678891396724
-        }
-      }
-    },
-    "banner": {
-      "banner": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678892751724
-        }
-      }
-    },
-    "[[桂纶镁]]": {
-      "[[桂纶镁]]": {
-        "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1678893846479
-        }
-      }
-    },
-    "directors": {
-      "directors": {
-        "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1678894201200
-        }
-      }
-    },
     "softwareEngineering": {
       "softwareEngineering": {
         "frontMatter": {
           "count": 10,
           "lastUpdated": 1680794354370
-        }
-      }
-    },
-    "[[尼采]]": {
-      "[[尼采]]": {
-        "frontMatter": {
-          "count": 2,
-          "lastUpdated": 1678976027847
-        }
-      }
-    },
-    "saying": {
-      "saying": {
-        "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1678976237789
-        }
-      }
-    },
-    "[[毛泽东]]": {
-      "[[毛泽东]]": {
-        "frontMatter": {
-          "count": 3,
-          "lastUpdated": 1678976783949
-        }
-      }
-    },
-    "text": {
-      "text": {
-        "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1678979350164
-        }
-      }
-    },
-    "Concurrency": {
-      "Concurrency": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1678980273978
         }
       }
     },
@@ -580,6 +476,30 @@
         "customDictionary": {
           "count": 1,
           "lastUpdated": 1681713248629
+        }
+      }
+    },
+    "system_server进程": {
+      "system_server进程": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681798442435
+        }
+      }
+    },
+    "process": {
+      "process": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681798491662
+        }
+      }
+    },
+    "Process": {
+      "Process": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1681798503673
         }
       }
     }
