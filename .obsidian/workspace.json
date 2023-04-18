@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
-                "mode": "preview",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Init进程.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Init进程.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Init进程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Init进程.md"
               }
             }
           },
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Init进程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,13 +233,17 @@
   },
   "active": "749118c619dd1069",
   "lastOpenFiles": [
-    "DataBase/Reality/Websites/OSSU.md",
-    "DataBase/Reality/Websites/Android 知识体系.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android Docs.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/system_server进程.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/zygote进程.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/DVM.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Init进程.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md",
+    "DataBase/Reality/Websites/Android 知识体系.md",
+    "Home Page.md",
+    "DataBase/Reality/Websites/OSSU.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android Docs.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android系统启动流程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
-    "Home Page.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity 生命周期.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity Launch Mode.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity Stack.md",
@@ -255,11 +259,7 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/binder线程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Launcher进程.md",
     "DataBase/Tasks/data/身体状态管理.md",
-    "DataBase/Tasks/data/简历准备.md",
     "WorkDesk.canvas",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View可见性检测.md",
-    "DataBase/Reality/Websites/Untitled.md",
-    "conflict-files-obsidian-git.md",
     "DataBase/Literature/Music/Concert",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework",
     "DataBase/Knowledge/Computer/BaseLayer/Operating Systems",
