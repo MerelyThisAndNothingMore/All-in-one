@@ -19,8 +19,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b09e492b1cb6af76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Init进程.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c108b08cc4c74e50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Init进程.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Init进程.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -132,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Init进程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Init进程.md"
               }
             }
           },
@@ -175,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Init进程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,10 +258,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "55867c7701b7dd56",
+  "active": "c108b08cc4c74e50",
   "lastOpenFiles": [
-    "Home Page.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android系统启动流程.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Init进程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
+    "Home Page.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity 生命周期.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity Launch Mode.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity Stack.md",
@@ -258,8 +287,6 @@
     "conflict-files-obsidian-git.md",
     "DataBase/Tasks/data/面试准备.md",
     "DataBase/Literature/Music/Concert/谭咏麟94大球场演唱会.md",
-    "DataBase/Literature/Music/Concert/皇后乐队1986布达佩斯演唱会.md",
-    "DataBase/Literature/Music/Concert/既然青春留不住.md",
     "DataBase/Literature/Music/Concert",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework",
     "DataBase/Knowledge/Computer/BaseLayer/Operating Systems",
