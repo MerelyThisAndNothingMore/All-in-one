@@ -8,11 +8,14 @@ alias:
 ## 跨进程启动/根Activity启动
 ### Launcher进程调用到systemServer进程
  ![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2019/10/9/16daf8c05d64c40a~tplv-t2oaga2asx-zoom-in-crop-mark:4536:0:0:0.awebp)
-- [[Launcher进程]]：点击App图标后，[[Launcher进程]]获取到[[system_server进程]]的[[Binder|Binder IPC]]，通过这个Binder将启动任务交由[[system_server进程]]执行。
-	- Activity.startActivity
-	- Activity.startActivityForResult
-	- Instrumentation.execStartActivity
-	- 获取到服务线程的IActivityTaskManager.aidl，这里定义了[[IPC]]使用到的[[Binder]]
+点击App图标后，[[Launcher进程]]获取到[[system_server进程]]的[[Binder|Binder IPC]]，通过这个Binder将启动任务交由[[system_server进程]]执行。
+- Activity.startActivity
+- Activity.startActivityForResult
+- Instrumentation.execStartActivity
+- 获取到服务线程的IActivityTaskManager.aidl，这里定义了[[IPC]]使用到的[[Binder]]
+
+
+
 - [[system_server进程|system_server进程]] 收到请求后，向[[zygote进程]]进程发起创建进程请求。[[Launcher进程]]
 	- 通过ActivityTaskManagerService实现IActivityTaskManager.Stub
 	- ActivityTaskManagerService内部
