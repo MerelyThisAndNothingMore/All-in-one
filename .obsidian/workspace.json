@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Launcher进程.md",
+                "file": "DataBase/Literature/Text/Sayings/Saying0008.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -176,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Launcher进程.md",
+                "file": "DataBase/Literature/Text/Sayings/Saying0008.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -211,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Launcher进程.md",
+                "file": "DataBase/Literature/Text/Sayings/Saying0008.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Launcher进程.md"
+                "file": "DataBase/Literature/Text/Sayings/Saying0008.md"
               }
             }
           },
@@ -254,7 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Launcher进程.md",
+                "file": "DataBase/Literature/Text/Sayings/Saying0008.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -311,8 +311,10 @@
   },
   "active": "fedadecc0ee60203",
   "lastOpenFiles": [
-    "DataBase/Literature/Text/Sayings/Saying0002.md",
+    "DataBase/Literature/Text/Books/偶像的黄昏.md",
+    "DataBase/Literature/Text/Books/论道德的谱系.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Launcher进程.md",
+    "DataBase/Literature/Text/Sayings/Saying0002.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android系统启动流程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/system_server进程.md",
     "DataBase/Literature/Text/SayingView.md",
@@ -322,8 +324,6 @@
     "DataBase/Literature/Text/Books.md",
     "DataBase/Literature/Text/Sayings/Saying0004.md",
     "DataBase/Literature/Text/Books/权力意志.md",
-    "DataBase/Literature/Text/Books/论道德的谱系.md",
-    "DataBase/Literature/Text/Books/偶像的黄昏.md",
     "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md",
     "DataBase/Reality/Persons/Authors/尼采.md",
     "DataBase/Reality/Websites/Android 知识体系.md",
