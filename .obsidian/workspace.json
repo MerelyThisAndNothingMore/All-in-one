@@ -52,7 +52,59 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Reality/Websites/Android 知识体系.md",
+                "file": "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b9c73c248f2b803",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Literature/Text/Books/偶像的黄昏.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73f7881a46eb1746",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Literature/Text/Books/论道德的谱系.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fedadecc0ee60203",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Literature/Text/Sayings/Saying0002.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "513b833b4dcea630",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/system_server进程.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -89,7 +141,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "studyre",
+                "query": "尼采",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -137,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Reality/Websites/Android 知识体系.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/system_server进程.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -172,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Reality/Websites/Android 知识体系.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/system_server进程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Reality/Websites/Android 知识体系.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/system_server进程.md"
               }
             }
           },
@@ -215,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Reality/Websites/Android 知识体系.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/system_server进程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,11 +322,23 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "06e283f3b53f51c5",
+  "active": "9efb66c5acbe3c31",
   "lastOpenFiles": [
+    "DataBase/Literature/Text/SayingView.md",
+    "DataBase/Literature/Text/Sayings/Saying0007.md",
+    "DataBase/Literature/Text/Sayings/Saying0006.md",
+    "DataBase/Literature/Text/Sayings/Saying0008.md",
+    "DataBase/Literature/Text/Books.md",
+    "DataBase/Literature/Text/Sayings/Saying0004.md",
+    "DataBase/Literature/Text/Sayings/Saying0002.md",
+    "DataBase/Literature/Text/Books/权力意志.md",
+    "DataBase/Literature/Text/Books/论道德的谱系.md",
+    "DataBase/Literature/Text/Books/偶像的黄昏.md",
+    "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md",
+    "DataBase/Reality/Persons/Authors/尼采.md",
+    "DataBase/Reality/Websites/Android 知识体系.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/DVM.md",
     "DataBase/Reality/Websites/OSSU.md",
-    "DataBase/Reality/Websites/Android 知识体系.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android Docs.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Init进程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android系统启动流程.md",
@@ -286,19 +350,7 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder IPC.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/AIDL.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Service.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/IPC.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Processes.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Operating Systems/Operating System.md",
-    "DataBase/Reality/Websites/AndroidNote-zhpanvip.md",
-    "DataBase/Reality/Websites/Computer Science Roadmap.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/binder线程.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Launcher进程.md",
-    "DataBase/Tasks/data/身体状态管理.md",
-    "DataBase/Tasks/data/简历准备.md",
     "WorkDesk.canvas",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View可见性检测.md",
-    "DataBase/Reality/Websites/Untitled.md",
     "DataBase/Literature/Music/Concert",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework",
     "DataBase/Knowledge/Computer/BaseLayer/Operating Systems",
