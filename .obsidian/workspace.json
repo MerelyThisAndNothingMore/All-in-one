@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Literature/Text/Books/Computer Systems-A Programmer's Perspective.md",
-                "mode": "preview",
+                "file": "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Literature/Text/Books/Computer Systems-A Programmer's Perspective.md",
+                "file": "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Literature/Text/Books/Computer Systems-A Programmer's Perspective.md",
+                "file": "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Literature/Text/Books/Computer Systems-A Programmer's Perspective.md"
+                "file": "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md"
               }
             }
           },
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Literature/Text/Books/Computer Systems-A Programmer's Perspective.md",
+                "file": "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,11 +233,11 @@
   },
   "active": "72db9d73661f7c80",
   "lastOpenFiles": [
-    "DataBase/Literature/Text/Books/设计模式之禅.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Builder Pattern.md",
+    "DataBase/Literature/Text/Books/Computer Systems-A Programmer's Perspective.md",
+    "DataBase/Literature/Text/Books/设计模式之禅.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Template Method Pattern.md",
     "DataBase/Literature/Text/Books/瞧，这个人.md",
-    "DataBase/Literature/Text/Books/Computer Systems-A Programmer's Perspective.md",
     "Home Page.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android系统启动流程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Launcher进程.md",
