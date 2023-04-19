@@ -91,20 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Literature/Text/Sayings/Saying0002.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "513b833b4dcea630",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/system_server进程.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Launcher进程.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -112,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -189,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/system_server进程.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Launcher进程.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -224,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/system_server进程.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Launcher进程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/system_server进程.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Launcher进程.md"
               }
             }
           },
@@ -267,7 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/system_server进程.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Launcher进程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +269,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       },
       {
         "id": "1ae32eceb2a7d7a3",
@@ -322,15 +309,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9efb66c5acbe3c31",
+  "active": "fedadecc0ee60203",
   "lastOpenFiles": [
+    "DataBase/Literature/Text/Sayings/Saying0002.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Launcher进程.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android系统启动流程.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/system_server进程.md",
     "DataBase/Literature/Text/SayingView.md",
     "DataBase/Literature/Text/Sayings/Saying0007.md",
     "DataBase/Literature/Text/Sayings/Saying0006.md",
     "DataBase/Literature/Text/Sayings/Saying0008.md",
     "DataBase/Literature/Text/Books.md",
     "DataBase/Literature/Text/Sayings/Saying0004.md",
-    "DataBase/Literature/Text/Sayings/Saying0002.md",
     "DataBase/Literature/Text/Books/权力意志.md",
     "DataBase/Literature/Text/Books/论道德的谱系.md",
     "DataBase/Literature/Text/Books/偶像的黄昏.md",
@@ -341,15 +331,12 @@
     "DataBase/Reality/Websites/OSSU.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android Docs.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Init进程.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android系统启动流程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
     "Home Page.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity 生命周期.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity Launch Mode.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity Stack.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder IPC.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/AIDL.md",
     "WorkDesk.canvas",
     "DataBase/Literature/Music/Concert",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework",
