@@ -104,7 +104,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Literature/Text/Sayings/Saying0009.md",
+                "file": "DataBase/Literature/Text/Books/毛泽东选集/中国社会各阶级的分析.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Literature/Text/Sayings/Saying0009.md",
+                "file": "DataBase/Literature/Text/Books/毛泽东选集/中国社会各阶级的分析.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -224,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Literature/Text/Sayings/Saying0009.md",
+                "file": "DataBase/Literature/Text/Books/毛泽东选集/中国社会各阶级的分析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Literature/Text/Sayings/Saying0009.md"
+                "file": "DataBase/Literature/Text/Books/毛泽东选集/中国社会各阶级的分析.md"
               }
             }
           },
@@ -267,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Literature/Text/Sayings/Saying0009.md",
+                "file": "DataBase/Literature/Text/Books/毛泽东选集/中国社会各阶级的分析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -324,8 +324,8 @@
   },
   "active": "f7634af1710caa24",
   "lastOpenFiles": [
-    "DataBase/Literature/Text/Sayings/Saying0008.md",
     "DataBase/Literature/Text/Sayings/Saying0009.md",
+    "DataBase/Literature/Text/Sayings/Saying0008.md",
     "DataBase/Literature/Text/Books/偶像的黄昏.md",
     "DataBase/Literature/Text/Books/论道德的谱系.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Launcher进程.md",
