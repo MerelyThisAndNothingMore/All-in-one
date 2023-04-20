@@ -4,11 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "c50b0329cb600721",
+        "id": "0230d6b02e72b9aa",
         "type": "tabs",
         "children": [
           {
-            "id": "72db9d73661f7c80",
+            "id": "55867c7701b7dd56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b09e492b1cb6af76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Init进程.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c108b08cc4c74e50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Reality/Websites/OSSU.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "06e283f3b53f51c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,8 +58,61 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5b9c73c248f2b803",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Literature/Text/Books/偶像的黄昏.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73f7881a46eb1746",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Literature/Text/Books/论道德的谱系.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fedadecc0ee60203",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Literature/Text/Sayings/Saying0008.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f7634af1710caa24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -97,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -132,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md"
               }
             }
           },
@@ -175,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,15 +323,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "72db9d73661f7c80",
+  "active": "f7634af1710caa24",
   "lastOpenFiles": [
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Builder Pattern.md",
-    "DataBase/Literature/Text/Books/Computer Systems-A Programmer's Perspective.md",
-    "DataBase/Literature/Text/Books/设计模式之禅.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Template Method Pattern.md",
-    "DataBase/Literature/Text/Books/瞧，这个人.md",
-    "Home Page.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android系统启动流程.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/zygote进程.md",
+    "DataBase/Literature/Text/Books/瞧，这个人.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Launcher进程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity Stack.md",
     "DataBase/Literature/Text/Books/毛泽东选集/中国社会各阶级的分析.md",
@@ -259,6 +348,9 @@
     "DataBase/Reality/Persons/Authors/尼采.md",
     "DataBase/Reality/Websites/Android 知识体系.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/DVM.md",
+    "DataBase/Reality/Websites/OSSU.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android Docs.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Init进程.md",
     "WorkDesk.canvas",
     "DataBase/Literature/Music/Concert",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework",
