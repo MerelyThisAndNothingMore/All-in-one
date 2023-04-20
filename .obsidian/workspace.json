@@ -208,20 +208,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Operating Systems/用户空间.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac1ad053d6c48a6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/IPC.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -229,7 +216,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -258,7 +245,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "用户空间",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -275,8 +262,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -307,7 +293,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/IPC.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -342,7 +328,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/IPC.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -359,7 +345,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/IPC.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md"
               }
             }
           },
@@ -385,7 +371,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/IPC.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -441,15 +427,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ac1ad053d6c48a6d",
+  "active": "e18775400172fd71",
   "lastOpenFiles": [
-    "DataBase/Knowledge/Computer/BaseLayer/Operating Systems/内存映射.md",
     "DataBase/Knowledge/Computer/BaseLayer/Operating Systems/用户空间.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/IPC.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Operating Systems/内存映射.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
     "DataBase/Knowledge/Computer/BaseLayer/Operating Systems/内核空间.md",
     "DataBase/Knowledge/Computer/BaseLayer/Operating Systems/Linux.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Processes.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/IPC.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/ActivityThread.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",

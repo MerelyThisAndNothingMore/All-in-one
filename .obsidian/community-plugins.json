@@ -29,5 +29,6 @@
   "heatmap-calendar",
   "obsidian-linter",
   "folder-note-plugin",
-  "dbfolder"
+  "dbfolder",
+  "floating-toc"
 ]
