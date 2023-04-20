@@ -4,7 +4,7 @@ alias:
 - Binder IPC
 ---
 Binder是Android中独有的一种[[IPC|进程间通信]]方式。它底层依靠mmap,只需要一次数据拷贝，把一块物理内存同时映射到内核和目标进程的[[用户空间]]。
-在[[Android]]中，Binder机制包含三个部分
+在[[Android]]中，Binder机制包含三个部分，Java Binder、Native Binder、Kernel Binder.
 # 原理
 [[Binder|Binder]]基于[[内存映射]]来实现，
 1.Binder驱动在[[内核空间]]创建一个数据接收缓存区。  
