@@ -104,7 +104,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
+                "file": "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
+                "file": "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -224,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
+                "file": "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md"
+                "file": "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md"
               }
             }
           },
@@ -267,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
+                "file": "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -325,8 +325,10 @@
   },
   "active": "f7634af1710caa24",
   "lastOpenFiles": [
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android系统启动流程.md",
+    "DataBase/Reality/Persons/Authors/尼采.md",
+    "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android系统启动流程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/zygote进程.md",
     "DataBase/Literature/Text/Books/瞧，这个人.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Launcher进程.md",
@@ -344,8 +346,6 @@
     "DataBase/Literature/Text/Books.md",
     "DataBase/Literature/Text/Sayings/Saying0004.md",
     "DataBase/Literature/Text/Books/权力意志.md",
-    "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md",
-    "DataBase/Reality/Persons/Authors/尼采.md",
     "DataBase/Reality/Websites/Android 知识体系.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/DVM.md",
     "DataBase/Reality/Websites/OSSU.md",
