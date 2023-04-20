@@ -1,6 +1,7 @@
 ---
 tags: 
 alias:
+- Launcher
 ---
 [[Android系统启动流程]]的最后一步是启动一个Home应用程序，这个应用程序用来显示系统中已经安装的应用程序，即Launcher。
 当系统开机后，Launcher随之被启动，然后显示应用图标到桌面上。

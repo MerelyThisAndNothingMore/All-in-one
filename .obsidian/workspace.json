@@ -104,7 +104,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/zygote进程.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "90cdc211d1e1b50c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3398613ba853be53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "627258f9d4800064",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1eaadeb9472a838",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "acb03a0cf6b82cc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -112,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -189,7 +254,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/zygote进程.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -224,7 +289,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/zygote进程.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/zygote进程.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md"
               }
             }
           },
@@ -267,7 +332,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/zygote进程.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -323,17 +388,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f7634af1710caa24",
+  "active": "acb03a0cf6b82cc4",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/ActivityThread.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/ApplicationThread.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/AMS.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Launcher进程.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android系统启动流程.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/zygote进程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
     "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md",
     "DataBase/Reality/Persons/Authors/尼采.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android系统启动流程.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/zygote进程.md",
     "DataBase/Literature/Text/Books/瞧，这个人.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Launcher进程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity Stack.md",
     "DataBase/Literature/Text/Books/毛泽东选集/中国社会各阶级的分析.md",
     "DataBase/Literature/Text/Sayings/Saying0009.md",
@@ -347,10 +416,6 @@
     "DataBase/Literature/Text/Sayings/Saying0006.md",
     "DataBase/Literature/Text/Books.md",
     "DataBase/Literature/Text/Sayings/Saying0004.md",
-    "DataBase/Literature/Text/Books/权力意志.md",
-    "DataBase/Reality/Websites/Android 知识体系.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/DVM.md",
-    "DataBase/Reality/Websites/OSSU.md",
     "WorkDesk.canvas",
     "DataBase/Literature/Music/Concert",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework",
