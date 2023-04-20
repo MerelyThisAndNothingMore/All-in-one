@@ -227,9 +227,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "06b756241c2453a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Service Manager.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -306,7 +319,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Native Binder.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Service Manager.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -341,7 +354,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Native Binder.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Service Manager.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -358,7 +371,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Native Binder.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Service Manager.md"
               }
             }
           },
@@ -384,7 +397,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Native Binder.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Service Manager.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -440,10 +453,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e202abdb544eabed",
+  "active": "06b756241c2453a7",
   "lastOpenFiles": [
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Native Binder.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Service Manager.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
     "DataBase/Knowledge/Computer/BaseLayer/Operating Systems/用户空间.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/IPC.md",
     "DataBase/Knowledge/Computer/BaseLayer/Operating Systems/内存映射.md",
@@ -467,7 +481,6 @@
     "DataBase/Literature/Text/Sayings/Saying0009.md",
     "DataBase/Literature/Text/Sayings/Saying0008.md",
     "DataBase/Literature/Text/Books/偶像的黄昏.md",
-    "DataBase/Literature/Text/Books/论道德的谱系.md",
     "WorkDesk.canvas",
     "DataBase/Literature/Music/Concert",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework",
