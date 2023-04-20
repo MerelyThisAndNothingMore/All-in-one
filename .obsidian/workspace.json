@@ -169,7 +169,59 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/IPC.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8208ab9f2d7d0810",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Operating Systems/Linux.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6fdfc5488f1cef41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Operating Systems/用户空间.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e18775400172fd71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Operating Systems/用户空间.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac1ad053d6c48a6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/IPC.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -177,7 +229,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -206,7 +258,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "尼采",
+                "query": "用户空间",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -223,7 +275,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -254,7 +307,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/IPC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -289,7 +342,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/IPC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -306,7 +359,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md"
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/IPC.md"
               }
             }
           },
@@ -332,7 +385,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/IPC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -388,8 +441,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "acb03a0cf6b82cc4",
+  "active": "ac1ad053d6c48a6d",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Computer/BaseLayer/Operating Systems/内存映射.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Operating Systems/用户空间.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Operating Systems/内核空间.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Operating Systems/Linux.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Processes.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/IPC.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/ActivityThread.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
@@ -399,7 +459,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android系统启动流程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/zygote进程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
     "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md",
     "DataBase/Reality/Persons/Authors/尼采.md",
     "DataBase/Literature/Text/Books/瞧，这个人.md",
@@ -410,12 +469,6 @@
     "DataBase/Literature/Text/Books/偶像的黄昏.md",
     "DataBase/Literature/Text/Books/论道德的谱系.md",
     "DataBase/Literature/Text/Sayings/Saying0002.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/system_server进程.md",
-    "DataBase/Literature/Text/SayingView.md",
-    "DataBase/Literature/Text/Sayings/Saying0007.md",
-    "DataBase/Literature/Text/Sayings/Saying0006.md",
-    "DataBase/Literature/Text/Books.md",
-    "DataBase/Literature/Text/Sayings/Saying0004.md",
     "WorkDesk.canvas",
     "DataBase/Literature/Music/Concert",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework",
