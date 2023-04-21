@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Tasks/data/简历准备.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "c3ec170ca1cc018e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Tasks/data/离职交接.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +111,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Tasks/data/离职交接.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -132,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Tasks/data/离职交接.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "DataBase/Tasks/data/离职交接.md"
               }
             }
           },
@@ -175,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Tasks/data/离职交接.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,15 +245,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "31926aaec83cc33d",
+  "active": "c3ec170ca1cc018e",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Native Binder.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Launcher进程.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/zygote进程.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/system_server进程.md",
+    "DataBase/Tasks/data/离职交接.md",
+    "DataBase/Tasks/data/简历准备.md",
+    "WorkDesk.canvas",
+    "Home Page.md",
     "DataBase/Investment/StockWorkdesk.md",
     "DataBase/Investment/Sectors/传媒.md",
     "DataBase/Investment/Sectors/通信服务.md",
     "DataBase/Investment/StockTradings/中金黄金-2023-03-14.md",
-    "WorkDesk.canvas",
-    "Home Page.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Native Binder.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Service Manager.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
     "DataBase/Knowledge/Computer/BaseLayer/Operating Systems/用户空间.md",
@@ -253,13 +272,8 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/ApplicationThread.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/AMS.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Launcher进程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android系统启动流程.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/zygote进程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler.md",
-    "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md",
-    "DataBase/Reality/Persons/Authors/尼采.md",
-    "DataBase/Literature/Text/Books/瞧，这个人.md",
     "DataBase/Literature/Music/Concert",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework",
     "DataBase/Knowledge/Computer/BaseLayer/Operating Systems",
