@@ -24,17 +24,27 @@
             "id": "c3ec170ca1cc018e",
             "type": "leaf",
             "state": {
+              "type": "kanban",
+              "state": {
+                "file": "DataBase/Tasks/TasksBoard.md"
+              }
+            }
+          },
+          {
+            "id": "f719d1a6f6c7a668",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Tasks/data/离职交接.md",
-                "mode": "source",
+                "file": "Home Page.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,7 +121,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Tasks/data/离职交接.md",
+                "file": "Home Page.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -146,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Tasks/data/离职交接.md",
+                "file": "Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Tasks/data/离职交接.md"
+                "file": "Home Page.md"
               }
             }
           },
@@ -189,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Tasks/data/离职交接.md",
+                "file": "Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,13 +255,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c3ec170ca1cc018e",
+  "active": "f719d1a6f6c7a668",
   "lastOpenFiles": [
+    "DataBase/Tasks/TasksBoard.md",
+    "DataBase/Tasks/LongTermPlan.md",
+    "DataBase/Skills/Swim.md",
+    "DataBase/Reality/Persons/Authors/野口悠纪雄.md",
+    "DataBase/Reality/Persons/Entertainers/利智.md",
+    "DataBase/Reality/Persons/Authors/乔治·贝克莱.md",
+    "DataBase/Tasks/data/离职交接.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Native Binder.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Launcher进程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/zygote进程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/system_server进程.md",
-    "DataBase/Tasks/data/离职交接.md",
     "DataBase/Tasks/data/简历准备.md",
     "WorkDesk.canvas",
     "Home Page.md",
@@ -268,12 +284,6 @@
     "DataBase/Knowledge/Computer/BaseLayer/Operating Systems/Linux.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Processes.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/ActivityThread.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/ApplicationThread.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/AMS.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android系统启动流程.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler.md",
     "DataBase/Literature/Music/Concert",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework",
     "DataBase/Knowledge/Computer/BaseLayer/Operating Systems",
