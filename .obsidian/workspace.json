@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "75d4373fc5d85e66",
+        "id": "c7e56873fe92b96b",
         "type": "tabs",
         "children": [
           {
-            "id": "7e86f448ce368055",
+            "id": "31926aaec83cc33d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Investment/Sectors/通信服务.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "920d7a6c84f4150e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Investment/Sectors/传媒.md",
-                "mode": "source",
+                "file": "Home Page.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +97,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Investment/Sectors/传媒.md",
+                "file": "Home Page.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -146,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Investment/Sectors/传媒.md",
+                "file": "Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Investment/Sectors/传媒.md"
+                "file": "Home Page.md"
               }
             }
           },
@@ -189,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Investment/Sectors/传媒.md",
+                "file": "Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +231,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "920d7a6c84f4150e",
+  "active": "31926aaec83cc33d",
   "lastOpenFiles": [
     "DataBase/Investment/StockWorkdesk.md",
     "DataBase/Investment/Sectors/传媒.md",
