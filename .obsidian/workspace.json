@@ -36,8 +36,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
-                "mode": "preview",
+                "file": "DataBase/Reality/Persons/Authors/尼采.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "查拉图斯特拉",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +121,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Reality/Persons/Authors/尼采.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Reality/Persons/Authors/尼采.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "DataBase/Reality/Persons/Authors/尼采.md"
               }
             }
           },
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Reality/Persons/Authors/尼采.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,6 +257,8 @@
   },
   "active": "f719d1a6f6c7a668",
   "lastOpenFiles": [
+    "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md",
+    "Home Page.md",
     "DataBase/Tasks/TasksBoard.md",
     "DataBase/Tasks/LongTermPlan.md",
     "DataBase/Skills/Swim.md",
@@ -270,7 +272,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/system_server进程.md",
     "DataBase/Tasks/data/简历准备.md",
     "WorkDesk.canvas",
-    "Home Page.md",
     "DataBase/Investment/StockWorkdesk.md",
     "DataBase/Investment/Sectors/传媒.md",
     "DataBase/Investment/Sectors/通信服务.md",
@@ -283,7 +284,6 @@
     "DataBase/Knowledge/Computer/BaseLayer/Operating Systems/内核空间.md",
     "DataBase/Knowledge/Computer/BaseLayer/Operating Systems/Linux.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Processes.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
     "DataBase/Literature/Music/Concert",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework",
     "DataBase/Knowledge/Computer/BaseLayer/Operating Systems",
