@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md",
+                "file": "DataBase/Knowledge/Humanities/Philosophy/Concepts/超人.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -186,7 +186,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md",
+                "file": "DataBase/Knowledge/Humanities/Philosophy/Concepts/超人.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -221,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md",
+                "file": "DataBase/Knowledge/Humanities/Philosophy/Concepts/超人.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md"
+                "file": "DataBase/Knowledge/Humanities/Philosophy/Concepts/超人.md"
               }
             }
           },
@@ -264,7 +264,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md",
+                "file": "DataBase/Knowledge/Humanities/Philosophy/Concepts/超人.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -322,11 +322,11 @@
   },
   "active": "eb64658c2e74dc21",
   "lastOpenFiles": [
+    "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md",
     "DataBase/Reality/Persons/Authors/尼采.md",
     "DataBase/Knowledge/Humanities/Philosophy/Concepts/价值重估.md",
     "DataBase/Knowledge/Humanities/Philosophy/Concepts/超人.md",
     "DataBase/Knowledge/Humanities/Philosophy/Concepts/虚无主义.md",
-    "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md",
     "DataBase/Literature/Text/Books/《权力意志》.md",
     "DataBase/Knowledge/Humanities/Philosophy/Concepts/理性主义.md",
     "DataBase/Knowledge/Humanities/Philosophy/Concepts/权力意志.md",
