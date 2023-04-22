@@ -9,5 +9,9 @@
   "blue-topaz-theme@@file-bg-shape-option": "file-bg-pill",
   "blue-topaz-theme@@color-scheme-options": "color-scheme-options-default",
   "minimal-advanced@@styled-scrollbars": false,
-  "minimal-style@@active-line-on": false
+  "minimal-style@@active-line-on": false,
+  "floating-toc-styles@@toggle-floating-toc-header-color": false,
+  "floating-toc-styles@@enable-outline-style": "float-outline-style",
+  "floating-toc-styles@@floating-toc-remove-heading-indicator": true,
+  "floating-toc-styles@@enable-bar-icon": false
 }
