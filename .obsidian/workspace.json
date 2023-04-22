@@ -66,9 +66,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ff831151037ad9c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/主播端/全链路排查.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -145,7 +158,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Work/主播端/主播端.md",
+                "file": "Work/主播端/全链路排查.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -180,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/主播端/主播端.md",
+                "file": "Work/主播端/全链路排查.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/主播端/主播端.md"
+                "file": "Work/主播端/全链路排查.md"
               }
             }
           },
@@ -223,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/主播端/主播端.md",
+                "file": "Work/主播端/全链路排查.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -279,10 +292,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "51c9f07bc40fc1c8",
+  "active": "ff831151037ad9c5",
   "lastOpenFiles": [
-    "Work/主播端/主播直播间.md",
     "Work/主播端/主播端.md",
+    "Work/主播端/开播页.md",
+    "Work/主播端/主播直播间.md",
     "Work/主播端/开播耗时优化.md",
     "Work/主播端/全链路排查.md",
     "DataBase/Tasks/data/简历准备.md",
@@ -312,7 +326,6 @@
     "DataBase/life/diary/2023-03-10.md",
     "DataBase/Reality/Persons/Entertainers/古力娜扎.md",
     "Configuration/Templates/BaseTemplate.md",
-    "DataBase/Investment/Stocks/英飞拓.md",
     "DataBase/Literature/Music/Concert",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework",
     "DataBase/Knowledge/Computer/BaseLayer/Operating Systems",
