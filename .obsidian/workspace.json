@@ -4,112 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "c7e56873fe92b96b",
+        "id": "54c291f99c63101a",
         "type": "tabs",
         "children": [
           {
-            "id": "31926aaec83cc33d",
+            "id": "ca879d23d9c9f30e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Tasks/data/简历准备.md",
+                "file": "Home Page.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "c3ec170ca1cc018e",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "DataBase/Tasks/TasksBoard.md"
-              }
-            }
-          },
-          {
-            "id": "f719d1a6f6c7a668",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Humanities/Philosophy/Concepts/虚无主义.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f92be4f8a0391c1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Humanities/Philosophy/Concepts/权力意志.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "825d4b880c5231ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Humanities/Philosophy/Concepts/虚无主义.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb64658c2e74dc21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Humanities/Philosophy/Concepts/超人.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "613e5b05a6d688bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Humanities/Philosophy/Concepts/虚无主义.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76a8e35563a74c02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Humanities/Philosophy/Concepts/理性主义.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,7 +97,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Humanities/Philosophy/Concepts/超人.md",
+                "file": "Home Page.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -221,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Humanities/Philosophy/Concepts/超人.md",
+                "file": "Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Humanities/Philosophy/Concepts/超人.md"
+                "file": "Home Page.md"
               }
             }
           },
@@ -264,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Humanities/Philosophy/Concepts/超人.md",
+                "file": "Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -320,7 +231,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "eb64658c2e74dc21",
+  "active": "ca879d23d9c9f30e",
   "lastOpenFiles": [
     "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md",
     "DataBase/Reality/Persons/Authors/尼采.md",
