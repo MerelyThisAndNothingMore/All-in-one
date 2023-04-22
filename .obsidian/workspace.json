@@ -4,16 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "0230d6b02e72b9aa",
+        "id": "f28e0d6d73afd12b",
         "type": "tabs",
         "children": [
           {
-            "id": "55867c7701b7dd56",
+            "id": "e75c58d5682c50d6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "ff9b7709b7f5879e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
+                "file": "DataBase/Tasks/data/简历准备.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +29,12 @@
             }
           },
           {
-            "id": "b09e492b1cb6af76",
+            "id": "8a344fa9ccc42fc3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Init进程.md",
+                "file": "Work/主播端/主播端.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +42,12 @@
             }
           },
           {
-            "id": "c108b08cc4c74e50",
+            "id": "0ac993d4c28ee759",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Reality/Websites/OSSU.md",
+                "file": "Work/主播端/主播端.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,215 +55,20 @@
             }
           },
           {
-            "id": "06e283f3b53f51c5",
+            "id": "51c9f07bc40fc1c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md",
+                "file": "Work/主播端/主播端.md",
                 "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b9c73c248f2b803",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Literature/Text/Books/偶像的黄昏.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73f7881a46eb1746",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Literature/Text/Books/论道德的谱系.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fedadecc0ee60203",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Literature/Text/Sayings/Saying0008.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f7634af1710caa24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "90cdc211d1e1b50c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3398613ba853be53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "627258f9d4800064",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1eaadeb9472a838",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "acb03a0cf6b82cc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/IPC.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8208ab9f2d7d0810",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Operating Systems/Linux.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6fdfc5488f1cef41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Operating Systems/用户空间.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e18775400172fd71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e202abdb544eabed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Native Binder.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06b756241c2453a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Proxy Pattern.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e0d1b77bdc63f29f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home Page.md",
-                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -332,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home Page.md",
+                "file": "Work/主播端/主播端.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -367,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "Work/主播端/主播端.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -384,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "Work/主播端/主播端.md"
               }
             }
           },
@@ -410,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "Work/主播端/主播端.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -466,8 +279,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e0d1b77bdc63f29f",
+  "active": "51c9f07bc40fc1c8",
   "lastOpenFiles": [
+    "Work/主播端/主播直播间.md",
+    "Work/主播端/主播端.md",
+    "Work/主播端/开播耗时优化.md",
+    "Work/主播端/全链路排查.md",
+    "DataBase/Tasks/data/简历准备.md",
+    "WorkDesk.canvas",
+    "Home Page.md",
+    "DataBase/Literature/Text/Sayings/Saying0008.md",
+    "Work/主播端",
+    "Work",
+    "DataBase/Untitled",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Proxy Pattern.md",
     "DataBase/Tasks/data/离职交接.md",
     "DataBase/Literature/Text/Books/《权力意志》.md",
@@ -489,14 +313,6 @@
     "DataBase/Reality/Persons/Entertainers/古力娜扎.md",
     "Configuration/Templates/BaseTemplate.md",
     "DataBase/Investment/Stocks/英飞拓.md",
-    "DataBase/Investment/StockEvaluationKnowledge/换手率.md",
-    "DataBase/life/diary/2023-02-15.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Service Manager.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Native Binder.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Operating Systems/用户空间.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/IPC.md",
-    "WorkDesk.canvas",
     "DataBase/Literature/Music/Concert",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework",
     "DataBase/Knowledge/Computer/BaseLayer/Operating Systems",
@@ -505,9 +321,6 @@
     "Outputs/NovelWriting/花下/Drawing 2023-04-14 11.52.54.excalidraw.svg",
     "Outputs/NovelWriting/花下",
     "Outputs/NovelWriting",
-    "DataBase/Skills",
-    "DataBase/Knowledge/Society/Economic/Theory",
-    "DataBase/History/Facts",
     "Resources/Images/The Compilation system.png",
     "Resources/Images/State_Design_Pattern_UML_Class_Diagram.svg",
     "Resources/Images/Isaac Newton.png",
