@@ -105,9 +105,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ce8aa78ce215f42b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android API level.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -184,7 +197,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity 生命周期.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android API level.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -219,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity 生命周期.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android API level.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity 生命周期.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android API level.md"
               }
             }
           },
@@ -262,7 +275,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity 生命周期.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android API level.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -319,8 +332,10 @@
       "notion-like-tables:Create Notion-Like table": false
     }
   },
-  "active": "d6f1a8a213e6e98b",
+  "active": "ce8aa78ce215f42b",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity 生命周期.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android API level.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/AIDL.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity Launch Mode.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
@@ -328,7 +343,6 @@
     "DataBase/Tasks/data/简历准备.md",
     "WorkDesk.canvas",
     "Home Page.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity 生命周期.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/AMS.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity Stack.md",
@@ -351,7 +365,6 @@
     "Work",
     "DataBase/Untitled",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Proxy Pattern.md",
-    "DataBase/Tasks/data/离职交接.md",
     "DataBase/Knowledge/Humanities/Philosophy/Concepts",
     "DataBase/Knowledge/Humanities/Philosophy",
     "DataBase/Literature/Music/Concert",

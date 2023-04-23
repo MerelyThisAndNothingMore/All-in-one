@@ -2,7 +2,7 @@
 tags: 
 alias:
 ---
-Activity的生命周期方法有:
+# 基础
 | 方法         | 描述     |  
 | :------------- |:-------------|   
 | onCreate()      | Activity首次创建时调用,用于初始化Activity     |   
@@ -14,6 +14,16 @@ Activity的生命周期方法有:
 | onDestroy()     | Activity被销毁前调用,用于清理资源     |   
 | onSaveInstanceState() | Activity被销毁前调用,用于保存状态     |  
 | onRestoreInstanceState() | Activity重新创建时调用,用于恢复状态 |
+## 调用原理
+生命周期回调由[[AMS]]通过[[Binder]]通知应用进程调用。
+# onSaveInstanceState的调用时机
+onSaveInstanceState在生命周期中的回调顺序，取决于targetSdkVersion。
+| targetSdkVersion | 顺序 |
+|:---------------- |:---- |
+| <11              |      |
+
+# onRestoreInstanceState的调用时机
+
 
 
 

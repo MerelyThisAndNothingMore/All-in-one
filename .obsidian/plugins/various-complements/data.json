@@ -534,6 +534,22 @@
           "lastUpdated": 1682218356647
         }
       }
+    },
+    "onSaveInstanceState": {
+      "onSaveInstanceState": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1682232448049
+        }
+      }
+    },
+    "onRestoreInstanceState": {
+      "onRestoreInstanceState": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682231918207
+        }
+      }
     }
   }
 }
