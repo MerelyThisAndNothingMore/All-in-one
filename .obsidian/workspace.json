@@ -86,7 +86,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity 生命周期.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6f1a8a213e6e98b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity 生命周期.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +107,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -171,7 +184,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity 生命周期.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -206,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity 生命周期.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity 生命周期.md"
               }
             }
           },
@@ -249,7 +262,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity 生命周期.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,10 +319,21 @@
       "notion-like-tables:Create Notion-Like table": false
     }
   },
-  "active": "7b8b4ac7695ec6c0",
+  "active": "d6f1a8a213e6e98b",
   "lastOpenFiles": [
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/IPC.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/AIDL.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity Launch Mode.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Operating Systems/内核空间.md",
+    "DataBase/Tasks/data/简历准备.md",
+    "WorkDesk.canvas",
+    "Home Page.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity 生命周期.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/AMS.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity Stack.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/IPC.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/ServiceManager.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android系统启动流程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Init进程.md",
@@ -322,25 +346,14 @@
     "Work/主播端/开播页.md",
     "Work/主播端/主播直播间.md",
     "Work/主播端/开播耗时优化.md",
-    "DataBase/Tasks/data/简历准备.md",
-    "WorkDesk.canvas",
-    "Home Page.md",
     "DataBase/Literature/Text/Sayings/Saying0008.md",
     "Work/主播端",
     "Work",
     "DataBase/Untitled",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Proxy Pattern.md",
     "DataBase/Tasks/data/离职交接.md",
-    "DataBase/Literature/Text/Books/《权力意志》.md",
-    "DataBase/Literature/Characters/查拉图斯特拉.md",
-    "DataBase/Knowledge/Humanities/Philosophy/Concepts/价值重估.md",
-    "DataBase/Knowledge/Humanities/Philosophy/Concepts/超人.md",
-    "DataBase/Knowledge/Humanities/Philosophy/Concepts/虚无主义.md",
-    "DataBase/Knowledge/Humanities/Philosophy/Concepts/理性主义.md",
-    "DataBase/Knowledge/Humanities/Philosophy/Concepts/权力意志.md",
     "DataBase/Knowledge/Humanities/Philosophy/Concepts",
     "DataBase/Knowledge/Humanities/Philosophy",
-    "DataBase/Investment/Sectors/传媒.md",
     "DataBase/Literature/Music/Concert",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework",
     "DataBase/Knowledge/Computer/BaseLayer/Operating Systems",
