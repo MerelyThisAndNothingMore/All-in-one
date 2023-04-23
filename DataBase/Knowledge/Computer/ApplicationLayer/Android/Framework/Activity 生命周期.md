@@ -14,6 +14,24 @@ alias:
 | onDestroy()     | Activity被销毁前调用,用于清理资源     |   
 | onSaveInstanceState() | Activity被销毁前调用,用于保存状态     |  
 | onRestoreInstanceState() | Activity重新创建时调用,用于恢复状态 |
+-   **onCreate和onDestory**  
+    分别代表了一个Activity的**创建和销毁**、第一个生命周期和最后一个生命周期回调，期间包裹了一个**完整**(entire lifetime)的Activity生命周期。
+-   **onStart和onStop**  
+    分别代表了Activity已经处于**可见状态和不可见状态**，此时的Activity未处在前台，**不可以与用户交互**，可多次被调用，期间Activity处于可见(visable lifetime)状态。
+-   **onResume和onPause**  
+    分别代表了Activity已经进入前台获得焦点和退出前台失去焦点，此时的Activity是可以和**用户交互的**，可多次被调用，期间的Activity处于前台(foreground lifetime)状态。
+-   **onRestart**  
+    表示Activity正在重新启动，正常状态下，Acitivty调用了onPause--onStop但是并没有被销毁，重新显示此Activity时，onRestart会被调用。
+
+
+
+  
+  
+作者：MeloDev  
+链接：https://www.jianshu.com/p/6d9d830a758d  
+来源：简书  
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+
 ## 调用原理
 生命周期回调由[[AMS]]通过[[Binder]]通知应用进程调用。
 对于 onSaveInstanceState ，由于[[Activity]]的状态是由ActivityManager进行管理的，因此这里会通过[[Binder]]将Bundle信息传输到ActivityManager进行管理。
@@ -64,6 +82,14 @@ onSaveInstanceState(Bundle outState)会在以下情况被调用：
 	- B.onResume 
 	- A.onStop 
 	- A.onDestroy (如果A被移出栈)
+# OnActivityResult的调用时机
+**B.onPause -> A.onActivityResult -> A.onRestart -> A.onStart -> A.onResume**
+# onCreate 中的死循环会导致ANR吗
+不会，死循环会阻塞主线程，在此基础上发生[[Android ANR]]中的情形就会导致ANR。
+
+# References 
+[5道生命周期面试题](https://www.sohu.com/a/402329833_611601) 
+
 
 
 
