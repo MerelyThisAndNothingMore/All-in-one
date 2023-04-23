@@ -86,7 +86,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/ServiceManager.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/IPC.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -171,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/ServiceManager.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/IPC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/ServiceManager.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/IPC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/ServiceManager.md"
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/IPC.md"
               }
             }
           },
@@ -249,7 +249,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/ServiceManager.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/IPC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -308,10 +308,11 @@
   },
   "active": "7b8b4ac7695ec6c0",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/ServiceManager.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android系统启动流程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Init进程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Native Binder.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Untitled.md",
     "DataBase/Reality/Websites/BATcoder-刘望舒.md",
     "Work/主播端/全链路排查.md",
@@ -340,7 +341,6 @@
     "DataBase/Knowledge/Humanities/Philosophy",
     "DataBase/Investment/Sectors/传媒.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Science/Event-driven finite-state matchine.md",
-    "DataBase/Literature/Films/2001-A Space Odyssey(film).md",
     "DataBase/Literature/Music/Concert",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework",
     "DataBase/Knowledge/Computer/BaseLayer/Operating Systems",
