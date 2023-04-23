@@ -86,7 +86,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Service Manager.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/ServiceManager.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -171,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Service Manager.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/ServiceManager.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Service Manager.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/ServiceManager.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Service Manager.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/ServiceManager.md"
               }
             }
           },
@@ -249,7 +249,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Service Manager.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/ServiceManager.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
