@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
-                "mode": "preview",
+                "file": "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md"
               }
             }
           },
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,6 +234,9 @@
   },
   "active": "cc125b67569721a5",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Humanities/Philosophy/Concepts/超人.md",
+    "DataBase/Knowledge/Humanities/Philosophy/Concepts/权力意志.md",
+    "Home Page.md",
     "DataBase/Reality/Websites/BATcoder-刘望舒.md",
     "DataBase/Reality/Websites/Gityuan.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android Docs.md",
@@ -249,7 +252,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity Launch Mode.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md",
     "DataBase/Investment/StockEvaluationKnowledge/换手率.md",
-    "Home Page.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Untitled.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View可见性检测.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Dependency injection in Android.md",
@@ -258,8 +260,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android App.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android Development.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity 生命周期.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android ANR.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application",
     "WorkDesk.canvas",
     "Untitled.table",
