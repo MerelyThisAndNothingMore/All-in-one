@@ -251,7 +251,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       },
       {
         "id": "1ae32eceb2a7d7a3",
@@ -289,16 +289,18 @@
       "homepage:Open homepage": false,
       "dbfolder:Create a new database table": false,
       "obsidian-memos:Memos": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "notion-like-tables:Create Notion-Like table": false
     }
   },
   "active": "ff831151037ad9c5",
   "lastOpenFiles": [
     "Work/主播端/主播端.md",
+    "Untitled.table",
+    "Work/主播端/全链路排查.md",
     "Work/主播端/开播页.md",
     "Work/主播端/主播直播间.md",
     "Work/主播端/开播耗时优化.md",
-    "Work/主播端/全链路排查.md",
     "DataBase/Tasks/data/简历准备.md",
     "WorkDesk.canvas",
     "Home Page.md",
@@ -325,7 +327,6 @@
     "DataBase/Reality/Persons/Entertainers/利智.md",
     "DataBase/life/diary/2023-03-10.md",
     "DataBase/Reality/Persons/Entertainers/古力娜扎.md",
-    "Configuration/Templates/BaseTemplate.md",
     "DataBase/Literature/Music/Concert",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework",
     "DataBase/Knowledge/Computer/BaseLayer/Operating Systems",
@@ -333,7 +334,6 @@
     "Outputs/NovelWriting/花下/花下大纲.canvas",
     "Outputs/NovelWriting/花下/Drawing 2023-04-14 11.52.54.excalidraw.svg",
     "Outputs/NovelWriting/花下",
-    "Outputs/NovelWriting",
     "Resources/Images/The Compilation system.png",
     "Resources/Images/State_Design_Pattern_UML_Class_Diagram.svg",
     "Resources/Images/Isaac Newton.png",
