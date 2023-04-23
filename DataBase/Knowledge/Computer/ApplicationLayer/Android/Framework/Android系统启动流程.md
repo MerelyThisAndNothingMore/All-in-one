@@ -2,6 +2,11 @@
 tags: 
 alias:
 ---
+
+![](https://gd-hbimg.huaban.com/977e7143e32ad1e0dc4254a3c4b3b288c194c1dd9928-EuMXvg) 
+Android系统底层基于[[Linux内核|Linux Kernel]], 当Kernel启动过程会创建[[Init进程]], 该进程是所有用户空间的鼻祖, init进程会启动[[ServiceManager]](binder服务管家), [[zygote进程]](Java进程的鼻祖). Zygote进程会创建[[system_server进程]]以及各种app进程.
+
+
 **1.启动电源以及系统启动**  
 当电源按下时引导芯片代码开始从预定义的地方（固化在ROM）开始执行。加载引导程序Bootloader到RAM，然后执行。  
 **2.引导程序Bootloader**  

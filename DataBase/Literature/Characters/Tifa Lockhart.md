@@ -1,6 +1,6 @@
 ---
 banner: "https://gd-hbimg.huaban.com/51afbcd422b6ad9a0cc9666a05629c4ec404d70d3eeee1-v82GDh_fw1200webp"
-banner_y: 0.33966
+banner_y: 0.333
 origin:
 - "[[最终幻想VII]]"
 alias:

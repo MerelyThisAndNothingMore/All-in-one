@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md",
-                "mode": "source",
+                "file": "DataBase/Tasks/data/简历准备.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "studyresou",
+                "query": "简历",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +98,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md",
+                "file": "DataBase/Tasks/data/简历准备.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -132,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md",
+                "file": "DataBase/Tasks/data/简历准备.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md"
+                "file": "DataBase/Tasks/data/简历准备.md"
               }
             }
           },
@@ -175,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md",
+                "file": "DataBase/Tasks/data/简历准备.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,34 +235,33 @@
   },
   "active": "cc125b67569721a5",
   "lastOpenFiles": [
+    "WorkDesk.canvas",
+    "DataBase/Reality/Websites/Gityuan.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Init进程.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android系统启动流程.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/ServiceManager.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Operating Systems/Linux内核.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Operating Systems/Linux.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Science/computer science.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android 系统架构.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android Development.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android App.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md",
+    "DataBase/Literature/Characters/Tifa Lockhart.md",
+    "DataBase/Literature/Text/Books/查拉图斯特拉如是说.md",
     "DataBase/Knowledge/Humanities/Philosophy/Concepts/超人.md",
     "DataBase/Knowledge/Humanities/Philosophy/Concepts/权力意志.md",
     "Home Page.md",
     "DataBase/Reality/Websites/BATcoder-刘望舒.md",
-    "DataBase/Reality/Websites/Gityuan.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android Docs.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Untitled.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity Stack.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android 系统架构.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/AMS.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Operating Systems/Linux内核.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Operating Systems/Linux.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/ART虚拟机.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity Launch Mode.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md",
-    "DataBase/Investment/StockEvaluationKnowledge/换手率.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Untitled.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View可见性检测.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Dependency injection in Android.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android SDK.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/插件化.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android App.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android Development.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity 生命周期.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application",
-    "WorkDesk.canvas",
     "Untitled.table",
     "Work/主播端",
     "Work",
