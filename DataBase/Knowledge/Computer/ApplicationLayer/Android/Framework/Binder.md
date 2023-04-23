@@ -97,3 +97,6 @@ public class BinderActivity extends AppCompatActivity {
 ```
 # References 
 [Binder与AIDL](https://juejin.cn/post/6994057245113729038) 
+[Binder系列-开篇](http://gityuan.com/2015/10/31/binder-prepare/)
+
+
