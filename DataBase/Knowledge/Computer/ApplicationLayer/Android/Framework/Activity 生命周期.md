@@ -86,6 +86,21 @@ onSaveInstanceState(Bundle outState)会在以下情况被调用：
 **B.onPause -> A.onActivityResult -> A.onRestart -> A.onStart -> A.onResume**
 # onCreate 中的死循环会导致ANR吗
 不会，死循环会阻塞主线程，在此基础上发生[[Android ANR]]中的情形就会导致ANR。
+# 横竖屏切换时生命周期调用
+onPause--onStop--onSaveInstanceState--onDestory--onCreate--onStart--onResume
+默认情况下横竖屏切换时需要重建Activity，如果添加
+```bash
+android:configChanges="keyboardHidden|orientation|screenSize"
+```
+则不会进行销毁重建。
+# 调用Activity.onDestroy后，Activity会出栈吗？
+不会
+
+
+
+
+
+
 
 # References 
 [5道生命周期面试题](https://www.sohu.com/a/402329833_611601) 
