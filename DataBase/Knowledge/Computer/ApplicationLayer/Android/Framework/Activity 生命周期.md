@@ -21,6 +21,12 @@ alias:
 如果有信息，则调用Activity的onResoreInstanceState方法，
 在ActivityThread的performLaunchActivity方法中，统会判断ActivityClientRecord对象的state是否为空
 不为空则通过Activity的onSaveInstanceState获取其UI状态信息，通过这些信息传递给Activity的onCreate方 法，
+## 弹出Dialog对生命周期的影响
+弹出 Dialog、Toast、PopupWindow 本质上都直接是通过 WindowManager.addView 显示的（没有经过 AMS），所以不会对生命周期有任何影响。
+如果是启动一个 **Theme 为 Dialog 的 Activity**, 则生命周期为：
+**A.onPause -> B.onCrete -> B.onStart -> B.onResume**
+注意这边没有前一个 Activity 不会回调 onStop，因为只有在 Activity 切到后台不可见才会回调 onStop；而弹出 Dialog 主题的 Activity 时前一个页面还是可见的，只是失去了焦点而已所以仅有 onPause 回调。
+
 # onSaveInstanceState的调用时机
 onSaveInstanceState在生命周期中的回调顺序，取决于targetSdkVersion。
 | targetSdkVersion | 顺序         |
@@ -34,8 +40,6 @@ onSaveInstanceState(Bundle outState)会在以下情况被调用：
 3、按下电源按键（关闭屏幕显示）时。
 4、从当前activity启动一个新的activity时。
 5、屏幕方向切换时(无论竖屏切横屏还是横屏切竖屏都会调用)。
->需要说明的是，非[[Activity]]的[[Dialog]]展现时不会调用到生命周期。
-
 # onRestoreInstanceState的调用时机
 只有在[[Activity]]确实被系统回收，重新创建时才会被调用：
 - 屏幕切换
@@ -48,7 +52,18 @@ onSaveInstanceState(Bundle outState)会在以下情况被调用：
 	- B.onStart 
 	- B.onResume 
 	- A.onStop 
-	- 
+- B复用且已经在栈顶（singleTop）
+	- B.onPause 
+	- B.onNewIntent
+	- B.onResume 
+- B复用但不在栈顶(singleTask、singleInstance)
+	- A.onPause 
+	- B.onNewIntent 
+	- B.onRestart 
+	- B.onStart 
+	- B.onResume 
+	- A.onStop 
+	- A.onDestroy (如果A被移出栈)
 
 
 

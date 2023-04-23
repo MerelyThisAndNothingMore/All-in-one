@@ -554,16 +554,16 @@
     "onPause": {
       "onPause": {
         "currentFile": {
-          "count": 2,
-          "lastUpdated": 1682234715097
+          "count": 4,
+          "lastUpdated": 1682235409721
         }
       }
     },
     "onStop": {
       "onStop": {
         "currentFile": {
-          "count": 2,
-          "lastUpdated": 1682234740819
+          "count": 3,
+          "lastUpdated": 1682235435346
         }
       }
     },
@@ -578,16 +578,40 @@
     "onStart": {
       "onStart": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1682234731554
+          "count": 2,
+          "lastUpdated": 1682235424571
         }
       }
     },
     "onResume": {
       "onResume": {
         "currentFile": {
+          "count": 3,
+          "lastUpdated": 1682235430055
+        }
+      }
+    },
+    "onNewIntent": {
+      "onNewIntent": {
+        "currentFile": {
           "count": 1,
-          "lastUpdated": 1682234736231
+          "lastUpdated": 1682235414898
+        }
+      }
+    },
+    "onRestart": {
+      "onRestart": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682235420331
+        }
+      }
+    },
+    "onDestroy": {
+      "onDestroy": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682235440463
         }
       }
     }
