@@ -9,7 +9,10 @@ Java Binder、
 [[Native Binder]]、
 Kernel Binder.
 # 原理
+## 组件视角
+Binder通信采用C/S架构
 
+可以看出无论是注册服务和获取服务的过程都需要ServiceManager，需要注意的是此处的Service Manager是指Native层的ServiceManager（C++），并非指framework层的ServiceManager(Java)。
 
 
 [[Binder|Binder]]基于[[内存映射]]来实现，
