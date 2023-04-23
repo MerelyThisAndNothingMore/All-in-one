@@ -10,10 +10,7 @@
   "blue-topaz-theme@@color-scheme-options": "color-scheme-options-default",
   "minimal-advanced@@styled-scrollbars": false,
   "minimal-style@@active-line-on": false,
-  "floating-toc-styles@@toggle-floating-toc-header-color": false,
-  "floating-toc-styles@@enable-outline-style": "float-outline-style",
   "floating-toc-styles@@floating-toc-remove-heading-indicator": true,
-  "floating-toc-styles@@enable-bar-icon": false,
-  "floating-toc-styles@@enable-bar-heading-text": false,
-  "floating-toc-styles@@enable-heading-nowrap": false
+  "floating-toc-styles@@enable-heading-nowrap": true,
+  "floating-toc-styles@@enable-outline-style": "float-outline-style"
 }

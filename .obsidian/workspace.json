@@ -112,7 +112,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android API level.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17370be62ef3da8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity Launch Mode.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -120,7 +133,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -149,7 +162,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "studyre",
+                "query": "Activity Stack",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -197,7 +210,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android API level.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity Launch Mode.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -232,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android API level.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity Launch Mode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,7 +262,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android API level.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity Launch Mode.md"
               }
             }
           },
@@ -275,7 +288,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android API level.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity Launch Mode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -332,39 +345,40 @@
       "notion-like-tables:Create Notion-Like table": false
     }
   },
-  "active": "ce8aa78ce215f42b",
+  "active": "17370be62ef3da8a",
   "lastOpenFiles": [
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity 生命周期.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity Launch Mode.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/中已经存在的[[Activity.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity Stack.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Untitled 1.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Dialog.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application",
+    "DataBase/Reality/Websites/BATcoder-刘望舒.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Untitled.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/zygote进程.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/system_server进程.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Service.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Launcher进程.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Native Binder.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Init进程.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android API level.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/AIDL.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity Launch Mode.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
     "DataBase/Knowledge/Computer/BaseLayer/Operating Systems/内核空间.md",
     "DataBase/Tasks/data/简历准备.md",
     "WorkDesk.canvas",
     "Home Page.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/AMS.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity Stack.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/IPC.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/ServiceManager.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android系统启动流程.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Init进程.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Native Binder.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Untitled.md",
-    "DataBase/Reality/Websites/BATcoder-刘望舒.md",
-    "Work/主播端/全链路排查.md",
-    "Work/主播端/主播端.md",
     "Untitled.table",
-    "Work/主播端/开播页.md",
-    "Work/主播端/主播直播间.md",
-    "Work/主播端/开播耗时优化.md",
-    "DataBase/Literature/Text/Sayings/Saying0008.md",
     "Work/主播端",
     "Work",
     "DataBase/Untitled",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Proxy Pattern.md",
     "DataBase/Knowledge/Humanities/Philosophy/Concepts",
     "DataBase/Knowledge/Humanities/Philosophy",
     "DataBase/Literature/Music/Concert",
@@ -373,7 +387,6 @@
     "Resources/Images/Pasted image 20230414234101.png",
     "Outputs/NovelWriting/花下/花下大纲.canvas",
     "Outputs/NovelWriting/花下/Drawing 2023-04-14 11.52.54.excalidraw.svg",
-    "Outputs/NovelWriting/花下",
     "Resources/Images/The Compilation system.png",
     "Resources/Images/State_Design_Pattern_UML_Class_Diagram.svg",
     "Resources/Images/Isaac Newton.png",

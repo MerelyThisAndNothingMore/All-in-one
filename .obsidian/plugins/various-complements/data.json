@@ -538,8 +538,8 @@
     "onSaveInstanceState": {
       "onSaveInstanceState": {
         "currentFile": {
-          "count": 2,
-          "lastUpdated": 1682232448049
+          "count": 3,
+          "lastUpdated": 1682233896723
         }
       }
     },
@@ -548,6 +548,46 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1682231918207
+        }
+      }
+    },
+    "onPause": {
+      "onPause": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1682234715097
+        }
+      }
+    },
+    "onStop": {
+      "onStop": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1682234740819
+        }
+      }
+    },
+    "onCreate": {
+      "onCreate": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682234724087
+        }
+      }
+    },
+    "onStart": {
+      "onStart": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682234731554
+        }
+      }
+    },
+    "onResume": {
+      "onResume": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682234736231
         }
       }
     }
