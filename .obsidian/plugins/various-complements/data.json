@@ -66,8 +66,8 @@
     "References": {
       "References": {
         "customDictionary": {
-          "count": 24,
-          "lastUpdated": 1682236300794
+          "count": 25,
+          "lastUpdated": 1682258449027
         }
       }
     },
@@ -171,14 +171,6 @@
         }
       }
     },
-    "celebrities": {
-      "celebrities": {
-        "frontMatter": {
-          "count": 10,
-          "lastUpdated": 1679394835401
-        }
-      }
-    },
     "Entertainers": {
       "Entertainers": {
         "frontMatter": {
@@ -208,46 +200,6 @@
         "frontMatter": {
           "count": 10,
           "lastUpdated": 1680794354370
-        }
-      }
-    },
-    "Wikipedia": {
-      "Wikipedia": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1679395486970
-        }
-      }
-    },
-    "[[陆游]]": {
-      "[[陆游]]": {
-        "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1679395567301
-        }
-      }
-    },
-    "poem": {
-      "poem": {
-        "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1679395585881
-        }
-      }
-    },
-    "The Raven": {
-      "The Raven": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1679395591991
-        }
-      }
-    },
-    "narrative poem": {
-      "narrative poem": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1679395885760
         }
       }
     },
