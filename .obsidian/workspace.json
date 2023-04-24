@@ -13,20 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Literature/Text/Poem/古典诗/将进酒.md",
-                "mode": "preview",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithm Analysis/Big-O notation.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "9f2c108e71040882",
+            "id": "a052c57b2a15f051",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Reality/Websites/恋上算法.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithm Analysis/时间复杂度.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "50ff231cb139c3f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithm Analysis/空间复杂度.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Reality/Websites/恋上算法.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithm Analysis/空间复杂度.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -146,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Reality/Websites/恋上算法.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithm Analysis/空间复杂度.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Reality/Websites/恋上算法.md"
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithm Analysis/空间复杂度.md"
               }
             }
           },
@@ -189,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Reality/Websites/恋上算法.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithm Analysis/空间复杂度.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,14 +259,22 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9f2c108e71040882",
+  "active": "50ff231cb139c3f9",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithm Analysis/时间复杂度.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithm Analysis/空间复杂度.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithm Analysis/Big-O notation.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithm Analysis/Computational complexity.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/编程题预览.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithm.md",
+    "DataBase/Reality/Websites/恋上数据结构和算法.md",
+    "DataBase/Reality/Websites/马克思主义文库.md",
+    "DataBase/Literature/Text/Poem/古典诗/将进酒.md",
     "DataBase/Reality/Websites/OSSU.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android Docs.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android 系统架构.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Networks.md",
     "DataBase/Literature/Text/Poem/古典诗/侠客行.md",
-    "DataBase/Literature/Text/Poem/古典诗/将进酒.md",
     "DataBase/Literature/Text/Poem/古典诗/示儿.md",
     "Home Page.md",
     "DataBase/Reality/Websites/BATcoder-刘望舒.md",
@@ -266,14 +287,6 @@
     "DataBase/Knowledge/Computer/BaseLayer/Operating Systems/Linux内核.md",
     "DataBase/Knowledge/Computer/BaseLayer/Operating Systems/Linux.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/ART虚拟机.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity Launch Mode.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md",
-    "DataBase/Investment/StockEvaluationKnowledge/换手率.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Untitled.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View可见性检测.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Dependency injection in Android.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android SDK.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/插件化.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application",
     "WorkDesk.canvas",
     "Untitled.table",
