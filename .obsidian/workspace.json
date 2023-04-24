@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android 系统架构.md",
+                "file": "DataBase/Reality/Websites/恋上算法.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "studyresou",
+                "query": "studyResources",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +111,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android 系统架构.md",
+                "file": "DataBase/Reality/Websites/恋上算法.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android 系统架构.md",
+                "file": "DataBase/Reality/Websites/恋上算法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android 系统架构.md"
+                "file": "DataBase/Reality/Websites/恋上算法.md"
               }
             }
           },
@@ -189,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android 系统架构.md",
+                "file": "DataBase/Reality/Websites/恋上算法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,6 +248,9 @@
   },
   "active": "9f2c108e71040882",
   "lastOpenFiles": [
+    "DataBase/Reality/Websites/OSSU.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android Docs.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android 系统架构.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Networks.md",
     "DataBase/Literature/Text/Poem/古典诗/侠客行.md",
     "DataBase/Literature/Text/Poem/古典诗/将进酒.md",
@@ -255,12 +258,10 @@
     "Home Page.md",
     "DataBase/Reality/Websites/BATcoder-刘望舒.md",
     "DataBase/Reality/Websites/Gityuan.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android Docs.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Untitled.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity Stack.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android 系统架构.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/AMS.md",
     "DataBase/Knowledge/Computer/BaseLayer/Operating Systems/Linux内核.md",
     "DataBase/Knowledge/Computer/BaseLayer/Operating Systems/Linux.md",
@@ -273,7 +274,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Dependency injection in Android.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android SDK.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/插件化.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android App.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application",
     "WorkDesk.canvas",
     "Untitled.table",
