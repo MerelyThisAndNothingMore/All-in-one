@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Literature/Text/Poem/古典诗/侠客行.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android 系统架构.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Literature/Text/Poem/古典诗/侠客行.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android 系统架构.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Literature/Text/Poem/古典诗/侠客行.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android 系统架构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Literature/Text/Poem/古典诗/侠客行.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android 系统架构.md"
               }
             }
           },
@@ -189,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Literature/Text/Poem/古典诗/侠客行.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android 系统架构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,9 +248,10 @@
   },
   "active": "9f2c108e71040882",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Networks.md",
+    "DataBase/Literature/Text/Poem/古典诗/侠客行.md",
     "DataBase/Literature/Text/Poem/古典诗/将进酒.md",
     "DataBase/Literature/Text/Poem/古典诗/示儿.md",
-    "DataBase/Literature/Text/Poem/古典诗/侠客行.md",
     "Home Page.md",
     "DataBase/Reality/Websites/BATcoder-刘望舒.md",
     "DataBase/Reality/Websites/Gityuan.md",
@@ -273,7 +274,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android SDK.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/插件化.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android App.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android Development.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application",
     "WorkDesk.canvas",
     "Untitled.table",
