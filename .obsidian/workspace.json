@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithm Analysis/空间复杂度.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Array.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -124,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithm Analysis/空间复杂度.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Array.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithm Analysis/空间复杂度.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithm Analysis/空间复杂度.md"
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Array.md"
               }
             }
           },
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithm Analysis/空间复杂度.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,8 +261,10 @@
   },
   "active": "50ff231cb139c3f9",
   "lastOpenFiles": [
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithm Analysis/时间复杂度.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Data Structure.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Heap.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithm Analysis/空间复杂度.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithm Analysis/时间复杂度.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithm Analysis/Big-O notation.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithm Analysis/Computational complexity.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/编程题预览.md",
@@ -285,8 +287,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/AMS.md",
     "DataBase/Knowledge/Computer/BaseLayer/Operating Systems/Linux内核.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Operating Systems/Linux.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/ART虚拟机.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application",
     "WorkDesk.canvas",
     "Untitled.table",
