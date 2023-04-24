@@ -4,63 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "f28e0d6d73afd12b",
+        "id": "6a49d26aa227e8d4",
         "type": "tabs",
         "children": [
           {
-            "id": "e75c58d5682c50d6",
+            "id": "758f01e82c334405",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithm Analysis/Big-O notation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a052c57b2a15f051",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithm Analysis/时间复杂度.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "50ff231cb139c3f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Skills/Swim.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dbb2fd92683297e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Skills/Keyboard/双拼.md",
-                "mode": "source",
+                "file": "Home Page.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +97,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Skills/Keyboard/双拼.md",
+                "file": "Home Page.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -172,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Skills/Keyboard/双拼.md",
+                "file": "Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Skills/Keyboard/双拼.md"
+                "file": "Home Page.md"
               }
             }
           },
@@ -215,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Skills/Keyboard/双拼.md",
+                "file": "Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -272,7 +232,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "dbb2fd92683297e8",
+  "active": "758f01e82c334405",
   "lastOpenFiles": [
     "DataBase/Skills/Swim.md",
     "DataBase/Skills/Keyboard/双拼.md",
