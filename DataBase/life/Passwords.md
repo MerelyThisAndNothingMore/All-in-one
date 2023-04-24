@@ -14,3 +14,6 @@
 		- @$kVQjJQmHSX$8L
 - SMS
 	- Kv5E6Xzi89yd57LW
+- JetBrains
+	- 982273937@qq.com
+	- SxQwYgaTU4K8fzQW
