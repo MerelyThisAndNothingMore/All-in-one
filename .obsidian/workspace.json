@@ -117,7 +117,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/life/Passwords.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Binary Tree.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b05cb60a814d6399",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/二叉搜索树.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -171,8 +184,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -203,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/life/Passwords.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/二叉搜索树.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -238,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/life/Passwords.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/二叉搜索树.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/life/Passwords.md"
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/二叉搜索树.md"
               }
             }
           },
@@ -281,7 +293,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/life/Passwords.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/二叉搜索树.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -338,9 +350,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2937d2e8bb60f994",
+  "active": "b05cb60a814d6399",
   "lastOpenFiles": [
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Binary Tree.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/二叉搜索树.md",
+    "DataBase/life/Passwords.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/AlgorithmConcepts/树的遍历.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/AlgorithmConcepts/遍历.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Trees.md",
@@ -358,7 +372,6 @@
     "DataBase/Skills/Swim.md",
     "DataBase/Skills/Keyboard",
     "DataBase/Reality/Websites/恋上数据结构和算法.md",
-    "DataBase/life/Passwords.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Queue.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/链表.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Array.md",
@@ -367,7 +380,6 @@
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithm Analysis/Computational complexity.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/编程题预览.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithm.md",
-    "DataBase/Reality/Websites/马克思主义文库.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application",
     "WorkDesk.canvas",
     "Untitled.table",
