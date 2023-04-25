@@ -4,23 +4,76 @@
     "type": "split",
     "children": [
       {
-        "id": "6a49d26aa227e8d4",
+        "id": "f28e0d6d73afd12b",
         "type": "tabs",
         "children": [
           {
-            "id": "758f01e82c334405",
+            "id": "e75c58d5682c50d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Reality/Websites/恋上数据结构和算法.md",
-                "mode": "preview",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithm Analysis/Big-O notation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a052c57b2a15f051",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithm Analysis/时间复杂度.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "50ff231cb139c3f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Skills/Swim.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dbb2fd92683297e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Literature/Music/Songs/Shake it off.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d2d1addceb88baf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Skills/Keyboard/双拼.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -49,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "数据结构",
+                "query": "双",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Reality/Websites/恋上数据结构和算法.md",
+                "file": "DataBase/Skills/Keyboard/双拼.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -133,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Reality/Websites/恋上数据结构和算法.md",
+                "file": "DataBase/Skills/Keyboard/双拼.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Reality/Websites/恋上数据结构和算法.md"
+                "file": "DataBase/Skills/Keyboard/双拼.md"
               }
             }
           },
@@ -176,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Reality/Websites/恋上数据结构和算法.md",
+                "file": "DataBase/Skills/Keyboard/双拼.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,14 +286,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "758f01e82c334405",
+  "active": "6d2d1addceb88baf",
   "lastOpenFiles": [
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/Java.md",
-    "DataBase/Legislation/Finance/注册制.md",
-    "DataBase/Life/Passwords.md",
-    "Home Page.md",
-    "DataBase/Skills/Swim.md",
+    "DataBase/Literature/Music/Songs/明天会更好.md",
+    "DataBase/Literature/Music/Songs/Talk That Talk.md",
+    "DataBase/Literature/Music/Songs/Shake it off.md",
+    "DataBase/Literature/Music/Songs/Dream of You.md",
     "DataBase/Skills/Keyboard/双拼.md",
+    "DataBase/Skills/Swim.md",
     "DataBase/Skills/Keyboard",
     "DataBase/Reality/Websites/恋上数据结构和算法.md",
     "DataBase/life/Passwords.md",
