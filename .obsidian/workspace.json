@@ -13,14 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/二分查找.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6fce92b529054214",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Reality/Websites/恋上数据结构和算法.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "c412d55aebf44d96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Reality/Websites/掘金稀土.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "67431b0d068b1ce2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home Page.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -189,8 +229,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       },
       {
         "id": "1ae32eceb2a7d7a3",
@@ -232,9 +271,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "22ff419826bef729",
+  "active": "67431b0d068b1ce2",
   "lastOpenFiles": [
+    "DataBase/Reality/Websites/掘金稀土.md",
     "DataBase/Reality/Websites/恋上数据结构和算法.md",
+    "Home Page.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/二分查找.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithm.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms",
     "DataBase/Reality/Websites/力扣加加.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/二叉搜索树.md",
     "Work/主播端/主播端.md",
@@ -245,7 +289,6 @@
     "DataBase/Tasks/data/简历准备.md",
     "Work/主播端/全链路埋点.md",
     "WorkDesk.canvas",
-    "Home Page.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Binary Tree.md",
     "DataBase/life/Passwords.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/AlgorithmConcepts/树的遍历.md",
@@ -262,15 +305,11 @@
     "DataBase/Literature/Music/Songs/Talk That Talk.md",
     "DataBase/Literature/Music/Songs/Shake it off.md",
     "DataBase/Literature/Music/Songs/Dream of You.md",
-    "DataBase/Skills/Swim.md",
     "DataBase/Skills/Keyboard",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Queue.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/链表.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application",
     "Untitled.table",
     "Work/主播端",
     "Work",
-    "DataBase/Untitled",
     "Resources/Images/Pasted image 20230414234101.png",
     "Outputs/NovelWriting/花下/花下大纲.canvas",
     "Outputs/NovelWriting/花下/Drawing 2023-04-14 11.52.54.excalidraw.svg",
