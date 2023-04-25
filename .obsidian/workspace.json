@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Investment/Stocks/三七互娱.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "studyre",
+                "query": "三七互娱",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -137,7 +137,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Investment/Stocks/三七互娱.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Investment/Stocks/三七互娱.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "DataBase/Investment/Stocks/三七互娱.md"
               }
             }
           },
@@ -215,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Investment/Stocks/三七互娱.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -273,9 +273,16 @@
   },
   "active": "67431b0d068b1ce2",
   "lastOpenFiles": [
+    "Configuration/Templates/StockTemplate.md",
+    "DataBase/Investment/Stocks/三七互娱.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/Fundamentals/static in Java.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/Fundamentals/The String Class.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/Fundamentals/Wrapper Types.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/Fundamentals/Arrays In Java.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/Java.md",
+    "Home Page.md",
     "DataBase/Reality/Websites/掘金稀土.md",
     "DataBase/Reality/Websites/恋上数据结构和算法.md",
-    "Home Page.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/二分查找.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithm.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms",
@@ -298,13 +305,6 @@
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Stack.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Untitled.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Data Structure.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Heap.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithm Analysis/时间复杂度.md",
-    "DataBase/Skills/Keyboard/双拼.md",
-    "DataBase/Literature/Music/Songs/明天会更好.md",
-    "DataBase/Literature/Music/Songs/Talk That Talk.md",
-    "DataBase/Literature/Music/Songs/Shake it off.md",
-    "DataBase/Literature/Music/Songs/Dream of You.md",
     "DataBase/Skills/Keyboard",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application",
     "Untitled.table",
