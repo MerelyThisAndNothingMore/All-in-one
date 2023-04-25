@@ -136,9 +136,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "16f1dc9e54072b50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/主播端/主播端.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -215,7 +228,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/二叉搜索树.md",
+                "file": "Work/主播端/主播端.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -250,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/二叉搜索树.md",
+                "file": "Work/主播端/主播端.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +280,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/二叉搜索树.md"
+                "file": "Work/主播端/主播端.md"
               }
             }
           },
@@ -293,7 +306,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/二叉搜索树.md",
+                "file": "Work/主播端/主播端.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -350,10 +363,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b05cb60a814d6399",
+  "active": "9efb66c5acbe3c31",
   "lastOpenFiles": [
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Binary Tree.md",
+    "Work/付费直播",
+    "Work/世界杯",
+    "Work/录播",
+    "Work/主播端/开播页.md",
+    "DataBase/Tasks/data/简历准备.md",
+    "Work/主播端/全链路埋点.md",
+    "Work/主播端/主播端.md",
+    "WorkDesk.canvas",
+    "Home Page.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/二叉搜索树.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Binary Tree.md",
     "DataBase/life/Passwords.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/AlgorithmConcepts/树的遍历.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/AlgorithmConcepts/遍历.md",
@@ -374,21 +396,12 @@
     "DataBase/Reality/Websites/恋上数据结构和算法.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Queue.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/链表.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Array.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithm Analysis/空间复杂度.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithm Analysis/Big-O notation.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithm Analysis/Computational complexity.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/编程题预览.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithm.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application",
-    "WorkDesk.canvas",
     "Untitled.table",
     "Work/主播端",
     "Work",
     "DataBase/Untitled",
     "DataBase/Knowledge/Humanities/Philosophy/Concepts",
-    "DataBase/Knowledge/Humanities/Philosophy",
-    "DataBase/Literature/Music/Concert",
     "Resources/Images/Pasted image 20230414234101.png",
     "Outputs/NovelWriting/花下/花下大纲.canvas",
     "Outputs/NovelWriting/花下/Drawing 2023-04-14 11.52.54.excalidraw.svg",
