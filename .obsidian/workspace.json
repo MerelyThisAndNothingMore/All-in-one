@@ -143,7 +143,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/主播端/主播端.md",
+                "file": "DataBase/Reality/Websites/恋上数据结构和算法.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44dc038905919974",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Reality/Websites/力扣加加.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -151,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -180,7 +193,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "passwor",
+                "query": "studyre",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -228,7 +241,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Work/主播端/主播端.md",
+                "file": "DataBase/Reality/Websites/力扣加加.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -263,7 +276,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/主播端/主播端.md",
+                "file": "DataBase/Reality/Websites/力扣加加.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -280,7 +293,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/主播端/主播端.md"
+                "file": "DataBase/Reality/Websites/力扣加加.md"
               }
             }
           },
@@ -306,7 +319,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/主播端/主播端.md",
+                "file": "DataBase/Reality/Websites/力扣加加.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -363,18 +376,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9efb66c5acbe3c31",
+  "active": "44dc038905919974",
   "lastOpenFiles": [
+    "DataBase/Reality/Websites/恋上数据结构和算法.md",
+    "DataBase/Reality/Websites/力扣加加.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/二叉搜索树.md",
+    "Work/主播端/主播端.md",
     "Work/付费直播",
     "Work/世界杯",
     "Work/录播",
     "Work/主播端/开播页.md",
     "DataBase/Tasks/data/简历准备.md",
     "Work/主播端/全链路埋点.md",
-    "Work/主播端/主播端.md",
     "WorkDesk.canvas",
     "Home Page.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/二叉搜索树.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Binary Tree.md",
     "DataBase/life/Passwords.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/AlgorithmConcepts/树的遍历.md",
@@ -393,7 +408,6 @@
     "DataBase/Literature/Music/Songs/Dream of You.md",
     "DataBase/Skills/Swim.md",
     "DataBase/Skills/Keyboard",
-    "DataBase/Reality/Websites/恋上数据结构和算法.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Queue.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/链表.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application",
@@ -401,7 +415,6 @@
     "Work/主播端",
     "Work",
     "DataBase/Untitled",
-    "DataBase/Knowledge/Humanities/Philosophy/Concepts",
     "Resources/Images/Pasted image 20230414234101.png",
     "Outputs/NovelWriting/花下/花下大纲.canvas",
     "Outputs/NovelWriting/花下/Drawing 2023-04-14 11.52.54.excalidraw.svg",
