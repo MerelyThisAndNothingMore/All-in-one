@@ -195,7 +195,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/平衡二叉搜索树.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Access Control Modifiers.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "845a52bd976b24b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/History/Facts/农村婚姻市场.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c38b04abf63eb690",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/History/Facts/农村人口买卖.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -203,7 +229,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -232,7 +258,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "studyre",
+                "query": "modif",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -280,7 +306,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/平衡二叉搜索树.md",
+                "file": "DataBase/History/Facts/农村人口买卖.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -315,7 +341,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/平衡二叉搜索树.md",
+                "file": "DataBase/History/Facts/农村人口买卖.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -332,7 +358,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/平衡二叉搜索树.md"
+                "file": "DataBase/History/Facts/农村人口买卖.md"
               }
             }
           },
@@ -358,7 +384,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/平衡二叉搜索树.md",
+                "file": "DataBase/History/Facts/农村人口买卖.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -415,12 +441,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9cac59156283528c",
+  "active": "c38b04abf63eb690",
   "lastOpenFiles": [
+    "DataBase/History/Facts/农村婚姻市场.md",
+    "DataBase/History/Facts/农村人口买卖.md",
+    "DataBase/History/Facts/东京大空袭.md",
+    "DataBase/History/Facts/黄金一代.md",
+    "DataBase/History/Facts/日本占领期.md",
+    "DataBase/Knowledge/Society/literature/Utopia.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Access Control Modifiers.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Modifiers.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/平衡二叉搜索树.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/AVL树.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/红黑树.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/B树.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/平衡二叉搜索树.md",
     "Configuration/Templates/DataStructureTemplate.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/二叉搜索树.md",
     "Home Page.md",
@@ -440,15 +474,7 @@
     "DataBase/Tasks/data/简历准备.md",
     "Work/主播端/全链路埋点.md",
     "WorkDesk.canvas",
-    "DataBase/life/Passwords.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/AlgorithmConcepts/树的遍历.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/AlgorithmConcepts/遍历.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/AlgorithmConcepts",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Stack.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Data Structure.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Heap.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithm Analysis/时间复杂度.md",
-    "DataBase/Skills/Keyboard/双拼.md",
     "DataBase/Skills/Keyboard",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application",
     "Untitled.table",
