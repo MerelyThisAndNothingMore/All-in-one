@@ -286,7 +286,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Reality/Persons/Authors/马督工.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/AVL树.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -349,7 +349,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "法律",
+                "query": "AVL",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -366,7 +366,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -397,7 +398,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Reality/Persons/Authors/马督工.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/AVL树.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -432,7 +433,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Reality/Persons/Authors/马督工.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/AVL树.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -449,7 +450,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Reality/Persons/Authors/马督工.md"
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/AVL树.md"
               }
             }
           },
@@ -475,7 +476,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Reality/Persons/Authors/马督工.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/AVL树.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -534,8 +535,8 @@
   },
   "active": "a68ae0971c55f8a8",
   "lastOpenFiles": [
-    "DataBase/Reality/Persons/Authors/川端康成.md",
     "DataBase/Reality/Persons/Authors/马督工.md",
+    "DataBase/Reality/Persons/Authors/川端康成.md",
     "DataBase/Reality/Persons/Entertainers.md",
     "DataBase/Reality/Persons/Directors.md",
     "DataBase/Reality/Persons/Authors.md",

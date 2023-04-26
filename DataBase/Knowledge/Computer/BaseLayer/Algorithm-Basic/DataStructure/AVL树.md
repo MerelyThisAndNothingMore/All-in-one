@@ -29,4 +29,7 @@ alias:
 ### LL-右旋
 ### LR-先左后右
 ### RL-先右后左
+### 统一
+![](https://gd-hbimg.huaban.com/96f948a305ee342cb3f3949abc3df2c3a826bb8124c83-A3CdIv) 
+四种旋转多都是将d变为父节点，b、f为子结点。
 
