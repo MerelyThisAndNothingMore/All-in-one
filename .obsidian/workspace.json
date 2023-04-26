@@ -286,7 +286,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/AVL树.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/B树.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -366,8 +366,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -398,7 +397,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/AVL树.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/B树.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -433,7 +432,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/AVL树.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/B树.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -450,7 +449,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/AVL树.md"
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/B树.md"
               }
             }
           },
@@ -476,7 +475,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/AVL树.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/B树.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -533,8 +532,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a68ae0971c55f8a8",
+  "active": "9efb66c5acbe3c31",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/红黑树.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/AVL树.md",
     "DataBase/Reality/Persons/Authors/马督工.md",
     "DataBase/Reality/Persons/Authors/川端康成.md",
     "DataBase/Reality/Persons/Entertainers.md",
@@ -560,8 +561,6 @@
     "DataBase/History/Facts/日本占领期.md",
     "DataBase/Knowledge/Society/literature/Utopia.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Access Control Modifiers.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Coding/Modifiers.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/平衡二叉搜索树.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms",
     "Work/付费直播",
     "Work/世界杯",
