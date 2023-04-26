@@ -169,8 +169,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
-                "mode": "preview",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/二叉搜索树.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -223,8 +223,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -255,7 +254,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/二叉搜索树.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -290,7 +289,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/二叉搜索树.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/二叉搜索树.md"
               }
             }
           },
@@ -333,7 +332,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/二叉搜索树.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -390,8 +389,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5e5fea182599fa5c",
+  "active": "1947d5667883d021",
   "lastOpenFiles": [
+    "Home Page.md",
     "DataBase/Reality/Websites/掘金稀土.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/二分查找.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms",
@@ -409,7 +409,6 @@
     "DataBase/Tasks/data/简历准备.md",
     "Work/主播端/全链路埋点.md",
     "WorkDesk.canvas",
-    "Home Page.md",
     "DataBase/life/Passwords.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/AlgorithmConcepts/树的遍历.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/AlgorithmConcepts/遍历.md",
