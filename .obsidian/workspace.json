@@ -221,7 +221,85 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "DataBase/Literature/Text/Poem/词/念奴娇·昆仑.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc4751fa3eb7404d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "DataBase/History/Facts/农村人口买卖.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c14ed5c6bafa1aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Society/Sociology/道德.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "153121e073975a5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Society/Sociology/法律.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3e49bfdfba2fcf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Society/Sociology/小资产阶级.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0990749ad23a4d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Society/Sociology/阶级社会.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8edaea7c1396c09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Society/Sociology/法律.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -229,7 +307,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -258,7 +336,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "modif",
+                "query": "法律",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -306,7 +384,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/History/Facts/农村人口买卖.md",
+                "file": "DataBase/Knowledge/Society/Sociology/小资产阶级.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -341,7 +419,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/History/Facts/农村人口买卖.md",
+                "file": "DataBase/Knowledge/Society/Sociology/小资产阶级.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -358,7 +436,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/History/Facts/农村人口买卖.md"
+                "file": "DataBase/Knowledge/Society/Sociology/小资产阶级.md"
               }
             }
           },
@@ -384,7 +462,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/History/Facts/农村人口买卖.md",
+                "file": "DataBase/Knowledge/Society/Sociology/小资产阶级.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -441,10 +519,23 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c38b04abf63eb690",
+  "active": "f3e49bfdfba2fcf9",
   "lastOpenFiles": [
-    "DataBase/History/Facts/农村婚姻市场.md",
+    "DataBase/Knowledge/Society/Sociology/法律.md",
+    "DataBase/Knowledge/Society/Sociology/小资产阶级.md",
     "DataBase/History/Facts/农村人口买卖.md",
+    "DataBase/Knowledge/Society/Sociology/道德.md",
+    "DataBase/Knowledge/Society/Sociology/阶级社会.md",
+    "DataBase/Knowledge/Society/Sociology/统治阶级.md",
+    "DataBase/Knowledge/Society/Sociology",
+    "DataBase/History/Facts/农村婚姻市场.md",
+    "README.md",
+    "DataBase/Reality/News/孔乙己文学.md",
+    "DataBase/Literature/Text/Poem/古典诗/七律·和郭沫若同志.md",
+    "DataBase/Literature/Text/Poem/古典诗/将进酒.md",
+    "DataBase/Literature/Text/Poem/古典诗/侠客行.md",
+    "DataBase/Literature/Text/Poem/古典诗/示儿.md",
+    "DataBase/Literature/Text/Poem/词/念奴娇·昆仑.md",
     "DataBase/History/Facts/东京大空袭.md",
     "DataBase/History/Facts/黄金一代.md",
     "DataBase/History/Facts/日本占领期.md",
@@ -457,29 +548,16 @@
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/B树.md",
     "Configuration/Templates/DataStructureTemplate.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/二叉搜索树.md",
-    "Home Page.md",
-    "DataBase/Reality/Websites/掘金稀土.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/二分查找.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Trees.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Binary Tree.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/哈希表.md",
-    "DataBase/Reality/Websites/力扣加加.md",
-    "DataBase/Reality/Websites/恋上数据结构和算法.md",
-    "Work/主播端/主播端.md",
     "Work/付费直播",
     "Work/世界杯",
     "Work/录播",
-    "Work/主播端/开播页.md",
-    "DataBase/Tasks/data/简历准备.md",
-    "Work/主播端/全链路埋点.md",
     "WorkDesk.canvas",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/AlgorithmConcepts",
     "DataBase/Skills/Keyboard",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application",
     "Untitled.table",
     "Work/主播端",
-    "Work",
     "Resources/Images/Pasted image 20230414234101.png",
     "Outputs/NovelWriting/花下/花下大纲.canvas",
     "Outputs/NovelWriting/花下/Drawing 2023-04-14 11.52.54.excalidraw.svg",
