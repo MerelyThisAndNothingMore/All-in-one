@@ -286,7 +286,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/红黑树.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Set.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -299,7 +299,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Untitled.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Set.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -410,7 +410,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/红黑树.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Set.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -445,7 +445,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/红黑树.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Set.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -462,7 +462,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/红黑树.md"
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Set.md"
               }
             }
           },
@@ -488,7 +488,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/红黑树.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Set.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -547,8 +547,8 @@
   },
   "active": "a68ae0971c55f8a8",
   "lastOpenFiles": [
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Untitled.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/红黑树.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Set.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/平衡二叉搜索树.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/B树.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/AVL树.md",
