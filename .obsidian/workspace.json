@@ -307,6 +307,32 @@
             }
           },
           {
+            "id": "201da3d83cf88595",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/Hash.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "408ce409b5c90e86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/Hash.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "81b84e3b3cc6e265",
             "type": "leaf",
             "state": {
@@ -346,7 +372,7 @@
             }
           }
         ],
-        "currentTab": 22
+        "currentTab": 24
       }
     ],
     "direction": "vertical"
@@ -423,7 +449,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Literature/Text/Sayings/夫人必自侮，然后人侮之；家必自毁，而后人毁之；国必自伐，而后人伐之。.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/Hash.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -458,7 +484,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Literature/Text/Sayings/夫人必自侮，然后人侮之；家必自毁，而后人毁之；国必自伐，而后人伐之。.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/Hash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -475,7 +501,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Literature/Text/Sayings/夫人必自侮，然后人侮之；家必自毁，而后人毁之；国必自伐，而后人伐之。.md"
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/Hash.md"
               }
             }
           },
@@ -501,7 +527,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Literature/Text/Sayings/夫人必自侮，然后人侮之；家必自毁，而后人毁之；国必自伐，而后人伐之。.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/Hash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -558,10 +584,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "677e3aeb7aed2ee1",
+  "active": "408ce409b5c90e86",
   "lastOpenFiles": [
-    "DataBase/Literature/Text/Sayings/Saying0001.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/Hash Collision.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/Hash.md",
     "DataBase/Literature/Text/Sayings/夫人必自侮，然后人侮之；家必自毁，而后人毁之；国必自伐，而后人伐之。.md",
+    "DataBase/Literature/Text/Sayings/Saying0001.md",
     "DataBase/Literature/Text/Sayings/既是社会运转的本源逻辑.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Set.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/红黑树.md",
@@ -585,8 +613,6 @@
     "DataBase/Reality/News/孔乙己文学.md",
     "DataBase/Literature/Text/Poem/古典诗/七律·和郭沫若同志.md",
     "DataBase/Literature/Text/Poem/古典诗/将进酒.md",
-    "DataBase/Literature/Text/Poem/古典诗/侠客行.md",
-    "DataBase/Literature/Text/Poem/古典诗/示儿.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms",
     "Work/付费直播",
     "Work/世界杯",
