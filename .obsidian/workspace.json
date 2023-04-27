@@ -338,7 +338,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Tasks/data/面试准备.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Set.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -462,7 +462,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Tasks/data/面试准备.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Set.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -497,7 +497,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Tasks/data/面试准备.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Set.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -514,7 +514,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Tasks/data/面试准备.md"
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Set.md"
               }
             }
           },
@@ -540,7 +540,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Tasks/data/面试准备.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Set.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -599,6 +599,8 @@
   },
   "active": "e33b0c640029070b",
   "lastOpenFiles": [
+    "DataBase/Reality/Persons/Authors/Martin Fowler.md",
+    "DataBase/Tasks/data/面试准备.md",
     "DataBase/Tasks/data/简历准备.md",
     "WorkDesk.canvas",
     "Home Page.md",
@@ -625,8 +627,6 @@
     "DataBase/Knowledge/Society/Sociology/统治阶级.md",
     "DataBase/Knowledge/Society/Sociology",
     "DataBase/History/Facts/农村婚姻市场.md",
-    "README.md",
-    "DataBase/Reality/News/孔乙己文学.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms",
     "Work/付费直播",
     "Work/世界杯",
