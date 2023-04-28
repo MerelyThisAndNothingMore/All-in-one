@@ -234,7 +234,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/History/Facts/农村人口买卖.md",
+                "file": "DataBase/Tasks/data/简历准备.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -364,7 +364,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Map.md",
+                "file": "DataBase/Tasks/data/简历准备.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -411,7 +411,7 @@
             }
           }
         ],
-        "currentTab": 27
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -488,7 +488,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Map.md",
+                "file": "DataBase/Tasks/data/简历准备.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -523,7 +523,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Map.md",
+                "file": "DataBase/Tasks/data/简历准备.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -540,7 +540,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Map.md"
+                "file": "DataBase/Tasks/data/简历准备.md"
               }
             }
           },
@@ -566,7 +566,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Map.md",
+                "file": "DataBase/Tasks/data/简历准备.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -623,10 +623,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "19f35a57df2ab4f1",
+  "active": "fc4751fa3eb7404d",
   "lastOpenFiles": [
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Queue.md",
+    "DataBase/Tasks/data/付费直播-直播间内创建预售门票.md",
+    "DataBase/History/Facts/农村人口买卖.md",
+    "DataBase/Tasks/data/简历准备.md",
+    "Work/主播端/全链路埋点.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Map.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Queue.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Binary Tree.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Array.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/链表.md",
@@ -637,7 +641,6 @@
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/Hash.md",
     "DataBase/Reality/Persons/Authors/Martin Fowler.md",
     "DataBase/Tasks/data/面试准备.md",
-    "DataBase/Tasks/data/简历准备.md",
     "WorkDesk.canvas",
     "Home Page.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/Hash Collision.md",
@@ -649,9 +652,6 @@
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/AVL树.md",
     "DataBase/Reality/Persons/Authors/马督工.md",
     "DataBase/Reality/Persons/Authors/川端康成.md",
-    "DataBase/Reality/Persons/Entertainers.md",
-    "DataBase/Reality/Persons/Directors.md",
-    "DataBase/Reality/Persons/Authors.md",
     "DataBase/Knowledge/Society/Sociology",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms",
     "Work/付费直播",
