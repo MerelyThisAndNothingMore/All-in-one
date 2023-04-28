@@ -351,7 +351,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/搜索.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Queue.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19f35a57df2ab4f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Map.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -398,7 +411,7 @@
             }
           }
         ],
-        "currentTab": 26
+        "currentTab": 27
       }
     ],
     "direction": "vertical"
@@ -475,7 +488,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/搜索.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Map.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -510,7 +523,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/搜索.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -527,7 +540,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/搜索.md"
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Map.md"
               }
             }
           },
@@ -553,7 +566,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/搜索.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -610,11 +623,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6f50e7397e17f80a",
+  "active": "19f35a57df2ab4f1",
   "lastOpenFiles": [
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/Hash.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/搜索.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Queue.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Map.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Binary Tree.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Array.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/链表.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/红黑树.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Set.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/哈希表.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/搜索.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/Hash.md",
     "DataBase/Reality/Persons/Authors/Martin Fowler.md",
     "DataBase/Tasks/data/面试准备.md",
     "DataBase/Tasks/data/简历准备.md",
@@ -624,7 +644,6 @@
     "DataBase/Literature/Text/Sayings/夫人必自侮，然后人侮之；家必自毁，而后人毁之；国必自伐，而后人伐之。.md",
     "DataBase/Literature/Text/Sayings/Saying0001.md",
     "DataBase/Literature/Text/Sayings/既是社会运转的本源逻辑.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/红黑树.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/平衡二叉搜索树.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/B树.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/AVL树.md",
@@ -633,12 +652,6 @@
     "DataBase/Reality/Persons/Entertainers.md",
     "DataBase/Reality/Persons/Directors.md",
     "DataBase/Reality/Persons/Authors.md",
-    "DataBase/Knowledge/Society/Sociology/小资产阶级.md",
-    "DataBase/Knowledge/Society/Sociology/法律.md",
-    "DataBase/History/Facts/农村人口买卖.md",
-    "DataBase/Knowledge/Society/Sociology/道德.md",
-    "DataBase/Knowledge/Society/Sociology/阶级社会.md",
-    "DataBase/Knowledge/Society/Sociology/统治阶级.md",
     "DataBase/Knowledge/Society/Sociology",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms",
     "Work/付费直播",
