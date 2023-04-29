@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Tasks/data/简历准备.md",
+                "file": "Work/主播端/主播端.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "792685a153bddce5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/主播端/Widget框架.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Tasks/data/简历准备.md",
+                "file": "Work/主播端/Widget框架.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -146,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Tasks/data/简历准备.md",
+                "file": "Work/主播端/Widget框架.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Tasks/data/简历准备.md"
+                "file": "Work/主播端/Widget框架.md"
               }
             }
           },
@@ -189,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Tasks/data/简历准备.md",
+                "file": "Work/主播端/Widget框架.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,14 +259,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9e2de971bec8a1ec",
+  "active": "792685a153bddce5",
   "lastOpenFiles": [
+    "Work/主播端/主播端.md",
+    "Work/主播端/Widget框架.md",
+    "Work/主播端/开播耗时优化.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/system_server进程.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/ServiceManager.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
+    "DataBase/Tasks/data/简历准备.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Message.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Binary Tree.md",
-    "DataBase/Tasks/data/简历准备.md",
     "Work/录播/录播.md",
-    "Work/主播端/主播端.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Handler.md",
     "DataBase/Tasks/data/付费直播-直播间内创建预售门票.md",
     "DataBase/History/Facts/农村人口买卖.md",
@@ -270,11 +288,6 @@
     "DataBase/Reality/Persons/Authors/Martin Fowler.md",
     "DataBase/Tasks/data/面试准备.md",
     "WorkDesk.canvas",
-    "Home Page.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/Hash Collision.md",
-    "DataBase/Literature/Text/Sayings/夫人必自侮，然后人侮之；家必自毁，而后人毁之；国必自伐，而后人伐之。.md",
-    "DataBase/Literature/Text/Sayings/Saying0001.md",
-    "DataBase/Literature/Text/Sayings/既是社会运转的本源逻辑.md",
     "DataBase/Knowledge/Society/Sociology",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms",
     "Work/付费直播",
