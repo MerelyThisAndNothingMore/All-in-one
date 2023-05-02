@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/主播端/主播端.md",
+                "file": "DataBase/Tasks/data/简历准备.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -150,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Work/主播端/主播端.md",
+                "file": "DataBase/Tasks/data/简历准备.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/主播端/主播端.md",
+                "file": "DataBase/Tasks/data/简历准备.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/主播端/主播端.md"
+                "file": "DataBase/Tasks/data/简历准备.md"
               }
             }
           },
@@ -228,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/主播端/主播端.md",
+                "file": "DataBase/Tasks/data/简历准备.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -288,9 +288,9 @@
   "active": "2161fac7202abd86",
   "lastOpenFiles": [
     "Work/主播端/特效.md",
-    "Work/主播端/Effect SDK.md",
     "Work/主播端/主播端.md",
     "DataBase/Tasks/data/简历准备.md",
+    "Work/主播端/Effect SDK.md",
     "Work/主播端/Widget框架.md",
     "Work/主播端/开播耗时优化.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/system_server进程.md",
