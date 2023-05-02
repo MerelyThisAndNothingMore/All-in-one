@@ -1,6 +1,8 @@
 ---
 tags:
 - computerArchitecture 
+alias:
+- I/O设备
 ---
 Input/output (I/O) devices are the system's connection to the external
 world. Our example system has four I/O devices: a keyboard and
