@@ -39,7 +39,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/主播端/Widget框架.md",
+                "file": "Work/主播端/主播端.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c2c4539acfe04d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/主播端/特效.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2161fac7202abd86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/主播端/主播端.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -124,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Work/主播端/Widget框架.md",
+                "file": "Work/主播端/主播端.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -159,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/主播端/Widget框架.md",
+                "file": "Work/主播端/主播端.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/主播端/Widget框架.md"
+                "file": "Work/主播端/主播端.md"
               }
             }
           },
@@ -202,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/主播端/Widget框架.md",
+                "file": "Work/主播端/主播端.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,15 +285,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "792685a153bddce5",
+  "active": "2161fac7202abd86",
   "lastOpenFiles": [
+    "Work/主播端/特效.md",
+    "Work/主播端/Effect SDK.md",
     "Work/主播端/主播端.md",
+    "DataBase/Tasks/data/简历准备.md",
     "Work/主播端/Widget框架.md",
     "Work/主播端/开播耗时优化.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/system_server进程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/ServiceManager.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
-    "DataBase/Tasks/data/简历准备.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Message.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Binary Tree.md",
@@ -285,8 +313,6 @@
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/哈希表.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/搜索.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/Hash.md",
-    "DataBase/Reality/Persons/Authors/Martin Fowler.md",
-    "DataBase/Tasks/data/面试准备.md",
     "WorkDesk.canvas",
     "DataBase/Knowledge/Society/Sociology",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms",
