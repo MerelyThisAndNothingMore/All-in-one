@@ -4,76 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "3acb89a6207bca90",
+        "id": "3b6223a813f12732",
         "type": "tabs",
         "children": [
           {
-            "id": "e42119aa8b69cdba",
+            "id": "99536bade7b59aa3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9e2de971bec8a1ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/主播端/主播端.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "792685a153bddce5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/主播端/主播端.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c2c4539acfe04d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/主播端/特效.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2161fac7202abd86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/主播端/Widget框架.md",
-                "mode": "source",
+                "file": "Home Page.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,7 +97,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Work/主播端/Widget框架.md",
+                "file": "Home Page.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -185,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/主播端/Widget框架.md",
+                "file": "Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/主播端/Widget框架.md"
+                "file": "Home Page.md"
               }
             }
           },
@@ -228,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/主播端/Widget框架.md",
+                "file": "Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -285,7 +232,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2161fac7202abd86",
+  "active": "99536bade7b59aa3",
   "lastOpenFiles": [
     "DataBase/Tasks/data/简历准备.md",
     "Work/主播端/特效.md",
