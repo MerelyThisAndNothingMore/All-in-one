@@ -110,9 +110,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4cee61c122901ad3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -189,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Tasks/data/简历准备.md",
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -224,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Tasks/data/简历准备.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Tasks/data/简历准备.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -267,7 +280,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Tasks/data/简历准备.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -324,10 +337,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9620c8148485cefc",
+  "active": "4cee61c122901ad3",
   "lastOpenFiles": [
-    "Work/主播端/主播端.md",
     "DataBase/Tasks/data/简历准备.md",
+    "conflict-files-obsidian-git.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/处理器.md",
+    "Work/主播端/主播端.md",
     "WorkDesk.canvas",
     "Home Page.md",
     "DataBase/Tasks/data/房子转租2023.md",
@@ -352,7 +367,6 @@
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Queue.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Array.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/链表.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/红黑树.md",
     "DataBase/Knowledge/Society/Sociology",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms",
     "Work/付费直播",
