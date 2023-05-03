@@ -105,7 +105,7 @@
               "type": "markdown",
               "state": {
                 "file": "DataBase/Tasks/data/简历准备.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -189,6 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "DataBase/Tasks/data/简历准备.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -223,6 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DataBase/Tasks/data/简历准备.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +240,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DataBase/Tasks/data/简历准备.md"
+              }
             }
           },
           {
@@ -263,6 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DataBase/Tasks/data/简历准备.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -321,15 +326,15 @@
   },
   "active": "9620c8148485cefc",
   "lastOpenFiles": [
+    "Work/主播端/主播端.md",
+    "DataBase/Tasks/data/简历准备.md",
     "WorkDesk.canvas",
     "Home Page.md",
     "DataBase/Tasks/data/房子转租2023.md",
-    "DataBase/Tasks/data/简历准备.md",
     "Excalidraw/Drawing 2023-05-03 18.49.11.excalidraw.md",
     "Excalidraw",
     "Work/主播端/Widget框架.md",
     "Work/主播端/特效.md",
-    "Work/主播端/主播端.md",
     "Work/主播端/Effect SDK.md",
     "Work/主播端/开播耗时优化.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/system_server进程.md",
