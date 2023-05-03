@@ -19,7 +19,9 @@
 		{"type":"text","text":"金融危机","id":"4c14f1e2d4485001","x":855,"y":-200,"width":250,"height":60},
 		{"type":"text","text":"资本论","id":"0699c744b5255e35","x":855,"y":-110,"width":250,"height":60},
 		{"type":"text","text":"21世纪资本论","id":"828349bf93a751fc","x":840,"y":-390,"width":250,"height":60},
-		{"type":"text","text":"[[简历准备]]","id":"d25ee57a2dea623b","x":885,"y":-750,"width":250,"height":60}
+		{"type":"text","text":"[[简历准备]]","id":"d25ee57a2dea623b","x":885,"y":-750,"width":250,"height":60,"color":"1"},
+		{"type":"text","text":"待办","id":"0215197d75138a61","x":-20,"y":-1260,"width":250,"height":60},
+		{"type":"text","text":"[[房子转租2023]]","id":"159ad9feae3f7313","x":460,"y":-1260,"width":250,"height":60,"color":"1"}
 	],
 	"edges":[
 		{"id":"debee5227fdbd1e3","fromNode":"8326fec1cf2bd1f4","fromSide":"right","toNode":"5dd923f540c2525d","toSide":"left"},
@@ -41,6 +43,8 @@
 		{"id":"4ff2d01805b17806","fromNode":"8c3a0e0ac13b7c92","fromSide":"right","toNode":"7e781df6a76e2ced","toSide":"left"},
 		{"id":"6e2b8aaae2f2eeb3","fromNode":"29f438b4801369c7","fromSide":"right","toNode":"4c14f1e2d4485001","toSide":"left"},
 		{"id":"152f6d0f406bcfc2","fromNode":"29f438b4801369c7","fromSide":"right","toNode":"828349bf93a751fc","toSide":"left"},
-		{"id":"a0d34657f9492329","fromNode":"29f438b4801369c7","fromSide":"right","toNode":"0699c744b5255e35","toSide":"left"}
+		{"id":"a0d34657f9492329","fromNode":"29f438b4801369c7","fromSide":"right","toNode":"0699c744b5255e35","toSide":"left"},
+		{"id":"9053aa3aabd067f6","fromNode":"8326fec1cf2bd1f4","fromSide":"right","toNode":"0215197d75138a61","toSide":"left"},
+		{"id":"65583bd3c1cead85","fromNode":"0215197d75138a61","fromSide":"right","toNode":"159ad9feae3f7313","toSide":"left"}
 	]
 }
