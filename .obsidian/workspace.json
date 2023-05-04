@@ -138,6 +138,19 @@
             }
           },
           {
+            "id": "afe97f9e57d68faf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home Page.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2e85107739d120be",
             "type": "leaf",
             "state": {
@@ -151,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -228,7 +241,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Network/队头阻塞.md",
+                "file": "Home Page.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -263,7 +276,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Network/队头阻塞.md",
+                "file": "Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -280,7 +293,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Network/队头阻塞.md"
+                "file": "Home Page.md"
               }
             }
           },
@@ -306,7 +319,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Network/队头阻塞.md",
+                "file": "Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -363,10 +376,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c88e0fabaeedad10",
+  "active": "afe97f9e57d68faf",
   "lastOpenFiles": [
-    "DataBase/Knowledge/Computer/BaseLayer/Network/HTTP.md",
     "DataBase/Knowledge/Computer/BaseLayer/Network/队头阻塞.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Network/HTTP.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Software engineering.md",
     "DataBase/Knowledge/Computer/BaseLayer/Network",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Science/computer science.md",
