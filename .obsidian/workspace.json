@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d7563f8ddf8a1b48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/video/视频剪辑.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +111,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home Page.md",
+                "file": "Outputs/video/视频剪辑.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -132,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "Outputs/video/视频剪辑.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "Outputs/video/视频剪辑.md"
               }
             }
           },
@@ -175,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "Outputs/video/视频剪辑.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,9 +246,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4de68c5f2e0192f0",
+  "active": "d7563f8ddf8a1b48",
   "lastOpenFiles": [
     "Home Page.md",
+    "Outputs/video/视频剪辑.md",
+    "Outputs/video",
     "DataBase/Literature/Text/Sayings/火车停了.md",
     "DataBase/Knowledge/Computer/BaseLayer/Network/队头阻塞.md",
     "DataBase/Knowledge/Computer/BaseLayer/Network/HTTP.md",
@@ -262,7 +278,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Message.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Binary Tree.md",
     "Work/录播/录播.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Handler.md",
     "DataBase/Knowledge/Society/Sociology",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms",
     "Work/付费直播",
@@ -270,7 +285,6 @@
     "Work/录播",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/AlgorithmConcepts",
     "DataBase/Skills/Keyboard",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application",
     "Resources/Images/Pasted image 20230414234101.png",
     "Outputs/NovelWriting/花下/花下大纲.canvas",
     "Outputs/NovelWriting/花下/Drawing 2023-04-14 11.52.54.excalidraw.svg",
