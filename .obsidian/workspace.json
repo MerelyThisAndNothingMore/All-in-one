@@ -247,7 +247,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/工作经历/主播端/特效.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity 生命周期.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -371,7 +371,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Work/工作经历/主播端/特效.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity 生命周期.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -406,7 +406,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/工作经历/主播端/特效.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity 生命周期.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -423,7 +423,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/工作经历/主播端/特效.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity 生命周期.md"
               }
             }
           },
@@ -449,7 +449,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/工作经历/主播端/特效.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity 生命周期.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -508,19 +508,21 @@
   },
   "active": "a3b6f0796771afff",
   "lastOpenFiles": [
-    "Work/工作经历/主播端/开播.md",
+    "Work/工作经历/付费直播/付费直播.md",
+    "Work/工作经历/录播/录播.md",
+    "Work/工作经历/主播端/主播端.md",
     "Work/工作经历/主播端/开播页.md",
+    "Work/工作经历/主播端/特效.md",
+    "Work/工作经历/主播端/主播分享.md",
+    "Work/工作经历/主播端/主播直播间.md",
+    "Work/工作经历/主播端/开播.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/View加载优化.md",
     "Work/工作经历/主播端/Widget框架.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance",
     "Work/岗位/小红书.md",
     "Work/岗位/Minimax.md",
-    "Work/工作经历/主播端/主播端.md",
-    "Work/工作经历/主播端/特效.md",
-    "Work/工作经历/主播端/主播分享.md",
     "Work/工作经历/主播端/全链路埋点.md",
     "Work/工作经历/主播端/开播耗时优化.md",
-    "Work/工作经历/付费直播/付费直播.md",
     "DataBase/Tasks/data/简历准备.md",
     "WorkDesk.canvas",
     "Home Page.md",
@@ -539,9 +541,7 @@
     "DataBase/Tasks/data/付费直播-直播间内创建预售门票.md",
     "DataBase/Tasks/data/工作.md",
     "Outputs/video/苏联笑话/那他们就得跟你走.md",
-    "Outputs/video/苏联笑话/请您赶快坐到主席台上来.md",
     "Outputs/video/苏联笑话",
-    "Outputs/video/热点/五个女博士.md",
     "Outputs/video/热点",
     "Outputs/video",
     "DataBase/Knowledge/Computer/BaseLayer/Network",

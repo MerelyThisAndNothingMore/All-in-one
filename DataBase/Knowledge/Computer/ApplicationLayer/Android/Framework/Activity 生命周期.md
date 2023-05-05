@@ -97,11 +97,6 @@ android:configChanges="keyboardHidden|orientation|screenSize"
 不会
 
 
-
-
-
-
-
 # References 
 [5道生命周期面试题](https://www.sohu.com/a/402329833_611601) 
 
