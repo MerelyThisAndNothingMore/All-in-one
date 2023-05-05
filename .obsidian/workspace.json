@@ -4,23 +4,193 @@
     "type": "split",
     "children": [
       {
-        "id": "0c0976e789a45efd",
+        "id": "3acb89a6207bca90",
         "type": "tabs",
         "children": [
           {
-            "id": "85b21da412b25df9",
+            "id": "e42119aa8b69cdba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e2de971bec8a1ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/工作经历/主播端/主播端.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "792685a153bddce5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/工作经历/主播端/主播端.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c2c4539acfe04d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/工作经历/主播端/特效.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2161fac7202abd86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/工作经历/主播端/Widget框架.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2eace7b58ef1cc55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/工作经历/主播端/主播端.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "689afe12d881ae54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Tasks/data/房子转租2023.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9620c8148485cefc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Software engineering.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87d1fefb27981173",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Network/HTTP.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c88e0fabaeedad10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Network/队头阻塞.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fa8a011d55903083",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Tasks/data/简历准备.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75fafe743c9220df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Tasks/data/房子转租2023.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "bd53924fcd39101e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/猎头/璐璐.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b69bd843a431ae37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/岗位/Minimax.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -65,14 +235,6 @@
               "type": "starred",
               "state": {}
             }
-          },
-          {
-            "id": "bd17116d6590ad58",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
         ]
       }
@@ -105,7 +267,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home Page.md",
+                "file": "Work/岗位/Minimax.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,7 +302,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "Work/岗位/Minimax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +319,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "Work/岗位/Minimax.md"
               }
             }
           },
@@ -183,7 +345,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "Work/岗位/Minimax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,8 +402,22 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "85b21da412b25df9",
+  "active": "b69bd843a431ae37",
   "lastOpenFiles": [
+    "Work/猎头/璐璐.md",
+    "Work/岗位/Minimax.md",
+    "DataBase/Tasks/找工作/Untitled.md",
+    "Work/岗位",
+    "Work/猎头",
+    "Work/HR",
+    "Work/工作经历",
+    "DataBase/Tasks/data/房子转租2023.md",
+    "DataBase/Tasks/找工作",
+    "DataBase/Tasks/data/经济学学习.md",
+    "DataBase/Tasks/data/计算机知识.md",
+    "DataBase/Tasks/data/付费直播-直播间内创建预售门票.md",
+    "DataBase/Tasks/data/简历准备.md",
+    "DataBase/Tasks/data/工作.md",
     "WorkDesk.canvas",
     "Home Page.md",
     "Outputs/video/苏联笑话/那他们就得跟你走.md",
@@ -252,10 +428,8 @@
     "Outputs/video/文字转音频.md",
     "Outputs/video/文字转视频.md",
     "DataBase/Knowledge/Computer/BaseLayer/Network/队头阻塞.md",
-    "Work/主播端/全链路埋点.md",
-    "Work/主播端/主播端.md",
-    "DataBase/Tasks/data/简历准备.md",
-    "DataBase/Tasks/data/房子转租2023.md",
+    "Work/工作经历/主播端/全链路埋点.md",
+    "Work/工作经历/主播端/主播端.md",
     "DataBase/Literature/Text/Sayings/火车停了.md",
     "Outputs/video/视频剪辑.md",
     "Outputs/video/必剪.md",
@@ -266,18 +440,7 @@
     "DataBase/Knowledge/Computer/BaseLayer/Computer Science/computer science.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Network/IPFS.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/搜索.md",
-    "conflict-files-obsidian-git.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/处理器.md",
-    "Excalidraw/Drawing 2023-05-03 18.49.11.excalidraw.md",
     "Excalidraw",
-    "Work/主播端/Widget框架.md",
-    "Work/主播端/特效.md",
-    "Work/主播端/Effect SDK.md",
-    "DataBase/Knowledge/Society/Sociology",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms",
-    "Work/付费直播",
-    "Work/世界杯",
-    "Work/录播",
     "Resources/Images/Pasted image 20230414234101.png",
     "Outputs/NovelWriting/花下/花下大纲.canvas",
     "Outputs/NovelWriting/花下/Drawing 2023-04-14 11.52.54.excalidraw.svg",
