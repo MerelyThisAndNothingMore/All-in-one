@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ed84bc4a14b95f09",
+        "id": "3acb89a6207bca90",
         "type": "tabs",
         "children": [
           {
-            "id": "4de68c5f2e0192f0",
+            "id": "e42119aa8b69cdba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d7563f8ddf8a1b48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/视频剪辑.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +21,155 @@
             }
           },
           {
-            "id": "777624ef1a0a29ce",
+            "id": "9e2de971bec8a1ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Outputs/video/必剪.md",
+                "file": "Work/主播端/主播端.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "792685a153bddce5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/主播端/主播端.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c2c4539acfe04d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/主播端/特效.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2161fac7202abd86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/主播端/Widget框架.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2eace7b58ef1cc55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/主播端/主播端.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "689afe12d881ae54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Tasks/data/房子转租2023.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9620c8148485cefc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Software engineering.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87d1fefb27981173",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Network/HTTP.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c88e0fabaeedad10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Network/队头阻塞.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "afe97f9e57d68faf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home Page.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d27a2c45ff326cef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Literature/Text/Sayings/火车停了.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e85107739d120be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Tasks/data/房子转租2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -124,7 +254,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Outputs/video/必剪.md",
+                "file": "DataBase/Literature/Text/Sayings/火车停了.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -159,7 +289,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Outputs/video/必剪.md",
+                "file": "DataBase/Literature/Text/Sayings/火车停了.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Outputs/video/必剪.md"
+                "file": "DataBase/Literature/Text/Sayings/火车停了.md"
               }
             }
           },
@@ -202,7 +332,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Outputs/video/必剪.md",
+                "file": "DataBase/Literature/Text/Sayings/火车停了.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,12 +389,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "777624ef1a0a29ce",
+  "active": "d27a2c45ff326cef",
   "lastOpenFiles": [
     "Outputs/video/视频剪辑.md",
     "Outputs/video/必剪.md",
-    "Home Page.md",
     "Outputs/video",
+    "Home Page.md",
     "DataBase/Literature/Text/Sayings/火车停了.md",
     "DataBase/Knowledge/Computer/BaseLayer/Network/队头阻塞.md",
     "DataBase/Knowledge/Computer/BaseLayer/Network/HTTP.md",
