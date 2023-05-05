@@ -229,6 +229,32 @@
             }
           },
           {
+            "id": "4442a01855a62b3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/工作经历/主播端/Widget框架.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3b6f0796771afff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/工作经历/主播端/开播页.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "75fafe743c9220df",
             "type": "leaf",
             "state": {
@@ -268,7 +294,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -345,7 +371,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Work/工作经历/主播端/Widget框架.md",
+                "file": "Work/工作经历/主播端/开播页.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -380,7 +406,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/工作经历/主播端/Widget框架.md",
+                "file": "Work/工作经历/主播端/开播页.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -397,7 +423,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/工作经历/主播端/Widget框架.md"
+                "file": "Work/工作经历/主播端/开播页.md"
               }
             }
           },
@@ -423,7 +449,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/工作经历/主播端/Widget框架.md",
+                "file": "Work/工作经历/主播端/开播页.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -480,11 +506,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e03520c3d303de3d",
+  "active": "a3b6f0796771afff",
   "lastOpenFiles": [
+    "Work/工作经历/主播端/开播.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/View加载优化.md",
+    "Work/工作经历/主播端/Widget框架.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance",
+    "Work/岗位/小红书.md",
+    "Work/岗位/Minimax.md",
     "Work/工作经历/主播端/主播端.md",
     "Work/工作经历/主播端/特效.md",
-    "Work/工作经历/主播端/开播.md",
     "Work/工作经历/主播端/开播页.md",
     "Work/工作经历/主播端/主播分享.md",
     "Work/工作经历/主播端/全链路埋点.md",
@@ -494,7 +525,6 @@
     "WorkDesk.canvas",
     "Home Page.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/minimax算法.md",
-    "Work/岗位/Minimax.md",
     "Work/猎头/璐璐.md",
     "Work/猎头/Roger潘奇.md",
     "DataBase/Tasks/data/房子转租2023.md",
@@ -513,12 +543,8 @@
     "Outputs/video/苏联笑话",
     "Outputs/video/热点/五个女博士.md",
     "Outputs/video/热点",
-    "Outputs/video/文字转音频.md",
-    "Outputs/video/文字转视频.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Network/队头阻塞.md",
     "Outputs/video",
     "DataBase/Knowledge/Computer/BaseLayer/Network",
-    "Excalidraw",
     "Resources/Images/Pasted image 20230414234101.png",
     "Outputs/NovelWriting/花下/花下大纲.canvas",
     "Outputs/NovelWriting/花下/Drawing 2023-04-14 11.52.54.excalidraw.svg",
