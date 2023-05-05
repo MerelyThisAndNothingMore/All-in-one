@@ -190,6 +190,19 @@
             }
           },
           {
+            "id": "f5286d02a4ac2c55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/工作经历/主播端/特效.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "75fafe743c9220df",
             "type": "leaf",
             "state": {
@@ -229,7 +242,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -306,7 +319,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/minimax算法.md",
+                "file": "Work/工作经历/主播端/特效.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -341,7 +354,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/minimax算法.md",
+                "file": "Work/工作经历/主播端/特效.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -358,7 +371,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/minimax算法.md"
+                "file": "Work/工作经历/主播端/特效.md"
               }
             }
           },
@@ -384,7 +397,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/minimax算法.md",
+                "file": "Work/工作经历/主播端/特效.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -441,16 +454,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3fffaa9533ac5fab",
+  "active": "f5286d02a4ac2c55",
   "lastOpenFiles": [
-    "Work/岗位/Minimax.md",
+    "DataBase/Tasks/data/简历准备.md",
+    "WorkDesk.canvas",
+    "Home Page.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/minimax算法.md",
+    "Work/岗位/Minimax.md",
     "Work/猎头/璐璐.md",
     "Work/猎头/Roger潘奇.md",
     "DataBase/Tasks/data/房子转租2023.md",
-    "WorkDesk.canvas",
-    "Home Page.md",
-    "DataBase/Tasks/data/简历准备.md",
     "DataBase/Tasks/找工作/Untitled.md",
     "Work/岗位",
     "Work/猎头",
@@ -478,7 +491,6 @@
     "DataBase/Knowledge/Computer/BaseLayer/Network/HTTP.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Software engineering.md",
     "DataBase/Knowledge/Computer/BaseLayer/Network",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Science/computer science.md",
     "Excalidraw",
     "Resources/Images/Pasted image 20230414234101.png",
     "Outputs/NovelWriting/花下/花下大纲.canvas",
