@@ -151,6 +151,32 @@
             }
           },
           {
+            "id": "df789a685c3ab0f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Tasks/data/房子转租2023.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f9ce82f6d4a8a99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/岗位/Minimax.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "75fafe743c9220df",
             "type": "leaf",
             "state": {
@@ -190,7 +216,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -402,24 +428,25 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b69bd843a431ae37",
+  "active": "4f9ce82f6d4a8a99",
   "lastOpenFiles": [
     "Work/猎头/璐璐.md",
+    "Work/猎头/Roger潘奇.md",
+    "DataBase/Tasks/data/房子转租2023.md",
+    "WorkDesk.canvas",
+    "Home Page.md",
+    "DataBase/Tasks/data/简历准备.md",
     "Work/岗位/Minimax.md",
     "DataBase/Tasks/找工作/Untitled.md",
     "Work/岗位",
     "Work/猎头",
     "Work/HR",
     "Work/工作经历",
-    "DataBase/Tasks/data/房子转租2023.md",
     "DataBase/Tasks/找工作",
     "DataBase/Tasks/data/经济学学习.md",
     "DataBase/Tasks/data/计算机知识.md",
     "DataBase/Tasks/data/付费直播-直播间内创建预售门票.md",
-    "DataBase/Tasks/data/简历准备.md",
     "DataBase/Tasks/data/工作.md",
-    "WorkDesk.canvas",
-    "Home Page.md",
     "Outputs/video/苏联笑话/那他们就得跟你走.md",
     "Outputs/video/苏联笑话/请您赶快坐到主席台上来.md",
     "Outputs/video/苏联笑话",
@@ -439,7 +466,6 @@
     "DataBase/Knowledge/Computer/BaseLayer/Network",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Science/computer science.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Network/IPFS.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/搜索.md",
     "Excalidraw",
     "Resources/Images/Pasted image 20230414234101.png",
     "Outputs/NovelWriting/花下/花下大纲.canvas",
