@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Tasks/data/简历准备.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -114,7 +114,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home Page.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -149,7 +148,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,9 +163,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Home Page.md"
-              }
+              "state": {}
             }
           },
           {
@@ -192,7 +188,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,6 +246,8 @@
   },
   "active": "acfaa358c34ff8a7",
   "lastOpenFiles": [
+    "WorkDesk.canvas",
+    "Home Page.md",
     "Outputs/video/苏联笑话/那他们就得跟你走.md",
     "Outputs/video/苏联笑话/请您赶快坐到主席台上来.md",
     "Outputs/video/苏联笑话",
@@ -258,8 +255,6 @@
     "Outputs/video/热点",
     "Outputs/video/文字转音频.md",
     "Outputs/video/文字转视频.md",
-    "WorkDesk.canvas",
-    "Home Page.md",
     "DataBase/Knowledge/Computer/BaseLayer/Network/队头阻塞.md",
     "Work/主播端/全链路埋点.md",
     "Work/主播端/主播端.md",
@@ -282,7 +277,6 @@
     "Work/主播端/Widget框架.md",
     "Work/主播端/特效.md",
     "Work/主播端/Effect SDK.md",
-    "Work/主播端/开播耗时优化.md",
     "DataBase/Knowledge/Society/Sociology",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms",
     "Work/付费直播",
