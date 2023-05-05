@@ -247,7 +247,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/工作经历/主播端/开播页.md",
+                "file": "Work/工作经历/主播端/特效.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -371,7 +371,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Work/工作经历/主播端/开播页.md",
+                "file": "Work/工作经历/主播端/特效.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -406,7 +406,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/工作经历/主播端/开播页.md",
+                "file": "Work/工作经历/主播端/特效.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -423,7 +423,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/工作经历/主播端/开播页.md"
+                "file": "Work/工作经历/主播端/特效.md"
               }
             }
           },
@@ -449,7 +449,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/工作经历/主播端/开播页.md",
+                "file": "Work/工作经历/主播端/特效.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -509,6 +509,7 @@
   "active": "a3b6f0796771afff",
   "lastOpenFiles": [
     "Work/工作经历/主播端/开播.md",
+    "Work/工作经历/主播端/开播页.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/View加载优化.md",
     "Work/工作经历/主播端/Widget框架.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance",
@@ -516,7 +517,6 @@
     "Work/岗位/Minimax.md",
     "Work/工作经历/主播端/主播端.md",
     "Work/工作经历/主播端/特效.md",
-    "Work/工作经历/主播端/开播页.md",
     "Work/工作经历/主播端/主播分享.md",
     "Work/工作经历/主播端/全链路埋点.md",
     "Work/工作经历/主播端/开播耗时优化.md",
