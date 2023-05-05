@@ -30,6 +30,79 @@ alias:
 ## 进程内启动/普通Activity启动
 ## References 
 [Activity启动分析](https://juejin.cn/post/6844903959581163528#heading-1) 
+# 显式启动和隐式启动
+## 显式启动
+1. intent(compnent)
+2. intent.setComponent(componentName)
+3. intent(className)
+## 隐式启动
+[隐式启动](https://www.jianshu.com/p/12c6253f1851) 
+通过action、category、data来匹配Activity
+### Action的匹配规则
+-   action在Intent-filter可以设置多条
+-   intent中必须指定action否则匹配失败且intent中action最多只有一条
+-   intent中的action和intent-filter中的action必须完全一样时（包括大小写）才算匹配成功
+-   intent中的action只要与intent-filter其中的一条匹配成功即可
+
+```xml
+<activity android:name=".MainActivity">
+    <intent-filter>
+        <action android:name="android.intent.action.MAIN"/>
+        <category android:name="android.intent.category.LAUNCHER"/>
+    </intent-filter>
+
+    <intent-filter>
+        <action android:name="com.jrmf360.action.ENTER"/>
+        <action android:name="com.jrmf360.action.ENTER2"/>
+        <category android:name="android.intent.category.DEFAULT"/>
+    </intent-filter>
+</activity>
+```
+
+下面的两个intent都可以匹配上面MainActivity的action规则
+
+```cpp
+Intent intent = new Intent("com.jrmf360.action.ENTER");
+startActivity(intent);
+
+Intent intent2 = new Intent("com.jrmf360.action.ENTER2");
+startActivity(intent2);
+```
+### category的匹配规则
+-   category在intent-filter中可以有多条
+-   category在intent中也可以有多条
+-   intent中所有的category都可以在intent-filter中找到一样的（包括大小写）才算匹配成功
+-   通过intent启动Activity的时候如果没有添加category会自动添加android.intent.category.DEFAULT，如果intent-filter中没有添加android.intent.category.DEFAULT则会匹配失败
+### data的匹配规则
+```kotlin
+<data 
+  android:host="string"
+  android:mimeType="string"
+  android:path="string"
+  android:pathPattern="string"
+  android:pathPrefix="string"
+  android:port="string"
+  android:scheme="string"/>
+```
+```ruby
+scheme://host:port/path|pathPrefix|pathPattern
+jrmf://jrmf360.com:8888/first
+```
+scheme：主机的协议部分，如jrmf  
+host：主机部分，如jrmf360.com  
+port： 端口号，如8888  
+path：路径，如first  
+pathPrefix：指定了部分路径，它会跟Intent对象中的路径初始部分匹配，如first  
+pathPattern：指定的路径可以进行正则匹配，如first  
+mimeType：处理的数据类型，如image/*
+
+-   intent-filter中可以设置多个data
+-   intent中只能设置一个data
+-   intent-filter中指定了data，intent中就要指定其中的一个data
+-   setType会覆盖setData，setData会覆盖setType，因此需要使用setDataAndType方法来设置data和mimeType
+
+  
+
 
 
 

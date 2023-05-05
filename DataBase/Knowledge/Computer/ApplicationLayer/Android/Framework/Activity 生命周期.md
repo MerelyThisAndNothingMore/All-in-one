@@ -95,6 +95,10 @@ android:configChanges="keyboardHidden|orientation|screenSize"
 则不会进行销毁重建。
 # 调用Activity.onDestroy后，Activity会出栈吗？
 不会
+# onNewIntent的执行时机
+即复用时机，与[[Activity Launch Mode|activity启动模式]]有关。
+- SingleTop: 栈顶时
+- SingleInstance、SingleTask：在栈里时。
 
 
 # References 
