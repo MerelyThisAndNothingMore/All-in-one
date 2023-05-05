@@ -138,38 +138,12 @@
             }
           },
           {
-            "id": "afe97f9e57d68faf",
+            "id": "fa8a011d55903083",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d27a2c45ff326cef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Literature/Text/Sayings/火车停了.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e85107739d120be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Tasks/data/房子转租2023.md",
+                "file": "DataBase/Tasks/data/简历准备.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -177,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -254,7 +228,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Literature/Text/Sayings/火车停了.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -289,7 +262,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Literature/Text/Sayings/火车停了.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -305,9 +277,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DataBase/Literature/Text/Sayings/火车停了.md"
-              }
+              "state": {}
             }
           },
           {
@@ -332,7 +302,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Literature/Text/Sayings/火车停了.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -389,24 +358,25 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d27a2c45ff326cef",
+  "active": "fa8a011d55903083",
   "lastOpenFiles": [
+    "WorkDesk.canvas",
+    "Home Page.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Network/队头阻塞.md",
+    "Work/主播端/全链路埋点.md",
+    "Work/主播端/主播端.md",
+    "DataBase/Tasks/data/简历准备.md",
+    "DataBase/Tasks/data/房子转租2023.md",
+    "DataBase/Literature/Text/Sayings/火车停了.md",
     "Outputs/video/视频剪辑.md",
     "Outputs/video/必剪.md",
     "Outputs/video",
-    "Home Page.md",
-    "DataBase/Literature/Text/Sayings/火车停了.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Network/队头阻塞.md",
     "DataBase/Knowledge/Computer/BaseLayer/Network/HTTP.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Software engineering.md",
     "DataBase/Knowledge/Computer/BaseLayer/Network",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Science/computer science.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Network/IPFS.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/搜索.md",
-    "DataBase/Tasks/data/简历准备.md",
-    "DataBase/Tasks/data/房子转租2023.md",
-    "WorkDesk.canvas",
-    "Work/主播端/主播端.md",
     "conflict-files-obsidian-git.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/处理器.md",
     "Excalidraw/Drawing 2023-05-03 18.49.11.excalidraw.md",
@@ -419,8 +389,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/ServiceManager.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Message.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Binary Tree.md",
     "DataBase/Knowledge/Society/Sociology",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms",
     "Work/付费直播",
