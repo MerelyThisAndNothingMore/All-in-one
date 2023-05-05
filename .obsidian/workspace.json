@@ -208,7 +208,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/工作经历/主播端/主播端.md",
+                "file": "Work/工作经历/主播端/开播页.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e03520c3d303de3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/工作经历/主播端/开播页.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -255,7 +268,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -332,7 +345,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Work/工作经历/主播端/主播端.md",
+                "file": "Work/工作经历/主播端/开播页.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -367,7 +380,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/工作经历/主播端/主播端.md",
+                "file": "Work/工作经历/主播端/开播页.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -384,7 +397,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/工作经历/主播端/主播端.md"
+                "file": "Work/工作经历/主播端/开播页.md"
               }
             }
           },
@@ -410,7 +423,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/工作经历/主播端/主播端.md",
+                "file": "Work/工作经历/主播端/开播页.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -467,12 +480,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c9c5a8aa091c699e",
+  "active": "e03520c3d303de3d",
   "lastOpenFiles": [
-    "Work/工作经历/主播端/主播分享.md",
-    "Work/工作经历/主播端/主播端.md",
-    "Work/工作经历/主播端/全链路埋点.md",
+    "Work/工作经历/主播端/开播.md",
     "Work/工作经历/主播端/开播页.md",
+    "Work/工作经历/主播端/主播端.md",
+    "Work/工作经历/主播端/主播分享.md",
+    "Work/工作经历/主播端/全链路埋点.md",
     "Work/工作经历/主播端/开播耗时优化.md",
     "Work/工作经历/主播端/特效.md",
     "Work/工作经历/付费直播/付费直播.md",
@@ -502,7 +516,6 @@
     "Outputs/video/文字转音频.md",
     "Outputs/video/文字转视频.md",
     "DataBase/Knowledge/Computer/BaseLayer/Network/队头阻塞.md",
-    "DataBase/Literature/Text/Sayings/火车停了.md",
     "Outputs/video",
     "DataBase/Knowledge/Computer/BaseLayer/Network",
     "Excalidraw",
