@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Service/Service.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Service/Service.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5110fe1e4c838c87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Service/Service.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Service/Service.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Service/Service.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -146,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Service/Service.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Service/Service.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Service/Service.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Service/Service.md"
               }
             }
           },
@@ -189,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Service/Service.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Service/Service.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,19 +259,22 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4cf67b13c58c68b3",
+  "active": "9efb66c5acbe3c31",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/BroadcastReceiver",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Service/IntentService.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Service/Service.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Service.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Service/Service.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity 数据保存.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Service",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity 数据传递.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity 生命周期.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 数据保存.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Service",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 数据传递.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 生命周期.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity Thread.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity Thread.md",
     "DataBase/life/Passwords.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity Stack.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity Stack.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/View可见性检测.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Untitled.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Dependency injection in Android.md",
@@ -273,8 +289,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Dialog.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/app进程.md",
     "Work/岗位/小红书.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/AI/OpenAI.md",
-    "Work/岗位/拼多多.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance",
     "WorkDesk.canvas",
     "Work/岗位",
@@ -284,7 +298,6 @@
     "DataBase/Tasks/找工作",
     "Outputs/video/苏联笑话",
     "Outputs/video/热点",
-    "Outputs/video",
     "Resources/Images/Pasted image 20230414234101.png",
     "Outputs/NovelWriting/花下/花下大纲.canvas",
     "Outputs/NovelWriting/花下/Drawing 2023-04-14 11.52.54.excalidraw.svg",
