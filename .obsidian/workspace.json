@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db424eb9454979f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity 数据保存.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity 数据保存.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -146,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity 数据保存.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity 数据保存.md"
               }
             }
           },
@@ -189,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity 数据保存.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,12 +259,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4cf67b13c58c68b3",
+  "active": "db424eb9454979f9",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity 数据保存.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity 数据传递.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity 生命周期.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity Thread.md",
     "DataBase/life/Passwords.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity Stack.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/View可见性检测.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Untitled.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Dependency injection in Android.md",
@@ -261,19 +278,15 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation/Interview preparation.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/GC.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/Java.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Fragment.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Software engineering.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Dialog.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity 数据传递.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/app进程.md",
     "Work/岗位/小红书.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/AI/OpenAI.md",
     "Work/岗位/拼多多.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android ANR.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/schema.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity Launch Mode.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity 生命周期.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance",
     "WorkDesk.canvas",
     "Work/岗位",
