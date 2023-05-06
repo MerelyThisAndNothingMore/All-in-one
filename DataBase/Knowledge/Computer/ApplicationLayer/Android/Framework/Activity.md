@@ -186,6 +186,12 @@ try{}catch(Exception e){}
 设置值：intent.putExtra("id", 0); 
 获取值：String id = getIntent().getStringExtra("id");
 参数类型需要人工约定。
-
+# Activity常用的标记位Flags
+FLAG_ACTIVITY_NEW_TASK
+此标记位作用是为Activity指定“singleTask”启动模式，其效果和在XML中指定相同 android:launchMode="singleTask"
+FLAG_ACTIVITY_SINGLE_TOP
+此标记位作用是为Activity指定“singleTop”启动模式，其效果和在XML中指定相同 android:launchMode="singleTop"
+FLAG_ACTIVITY_CLEAR_TOP 
+具有此标记位的Activity，当它启动时，在同一个任务栈中位于它上面的Activity都要出栈。此标记位一般会和singleTask启动模式一起出现，此情况下，若被启动的Activity实例存在，则系统会调用它的onNewIntent。
 
 

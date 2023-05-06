@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/View可见性检测.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity Thread.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/View可见性检测.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity Thread.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/View可见性检测.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity Thread.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/View可见性检测.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity Thread.md"
               }
             }
           },
@@ -189,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/View可见性检测.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity Thread.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,8 +246,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9efb66c5acbe3c31",
+  "active": "4cf67b13c58c68b3",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity Stack.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/View可见性检测.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Untitled.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Dependency injection in Android.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android Development.md",
@@ -256,7 +259,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation/Interview preparation.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/GC.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/Java.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Fragment.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Software engineering.md",
@@ -272,8 +274,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity 生命周期.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/共享内存.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/IPC.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Intent.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance",
     "WorkDesk.canvas",
     "Work/岗位",
