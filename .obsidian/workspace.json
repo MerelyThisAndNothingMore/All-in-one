@@ -312,7 +312,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/岗位/拼多多.md",
+                "file": "Work/岗位/小红书.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -388,7 +388,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "openai",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -436,7 +436,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Work/岗位/拼多多.md",
+                "file": "Work/岗位/小红书.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -471,7 +471,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/岗位/拼多多.md",
+                "file": "Work/岗位/小红书.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -488,7 +488,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/岗位/拼多多.md"
+                "file": "Work/岗位/小红书.md"
               }
             }
           },
@@ -514,7 +514,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/岗位/拼多多.md",
+                "file": "Work/岗位/小红书.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -573,11 +573,12 @@
   },
   "active": "0800c32c622a9417",
   "lastOpenFiles": [
-    "Work/岗位/小红书.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/AI/OpenAI.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
     "Work/岗位/拼多多.md",
+    "Work/岗位/小红书.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android ANR.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/schema.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity Launch Mode.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity 生命周期.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/共享内存.md",
@@ -599,7 +600,6 @@
     "Work/岗位/Minimax.md",
     "Work/工作经历/主播端/全链路埋点.md",
     "Work/工作经历/主播端/开播耗时优化.md",
-    "DataBase/Tasks/data/简历准备.md",
     "WorkDesk.canvas",
     "Work/岗位",
     "Work/猎头",
