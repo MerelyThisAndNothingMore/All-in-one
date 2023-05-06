@@ -299,7 +299,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android ANR.md",
+                "file": "Work/岗位/小红书.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0800c32c622a9417",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/岗位/拼多多.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -346,7 +359,7 @@
             }
           }
         ],
-        "currentTab": 22
+        "currentTab": 23
       }
     ],
     "direction": "vertical"
@@ -375,7 +388,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:anr",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -392,8 +405,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -424,7 +436,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android ANR.md",
+                "file": "Work/岗位/拼多多.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -459,7 +471,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android ANR.md",
+                "file": "Work/岗位/拼多多.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -476,7 +488,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android ANR.md"
+                "file": "Work/岗位/拼多多.md"
               }
             }
           },
@@ -502,7 +514,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android ANR.md",
+                "file": "Work/岗位/拼多多.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -559,8 +571,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6f18ef515baf9fac",
+  "active": "0800c32c622a9417",
   "lastOpenFiles": [
+    "Work/岗位/小红书.md",
+    "Work/岗位/拼多多.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android ANR.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/schema.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity Launch Mode.md",
@@ -581,14 +596,11 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/View加载优化.md",
     "Work/工作经历/主播端/Widget框架.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance",
-    "Work/岗位/小红书.md",
     "Work/岗位/Minimax.md",
     "Work/工作经历/主播端/全链路埋点.md",
     "Work/工作经历/主播端/开播耗时优化.md",
     "DataBase/Tasks/data/简历准备.md",
     "WorkDesk.canvas",
-    "Home Page.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/minimax算法.md",
     "Work/岗位",
     "Work/猎头",
     "Work/HR",
