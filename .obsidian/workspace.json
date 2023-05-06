@@ -8,103 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e42119aa8b69cdba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9e2de971bec8a1ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/工作经历/主播端/主播端.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "792685a153bddce5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/工作经历/主播端/主播端.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c2c4539acfe04d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/工作经历/主播端/特效.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2161fac7202abd86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/工作经历/主播端/Widget框架.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2eace7b58ef1cc55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/工作经历/主播端/主播端.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "689afe12d881ae54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Tasks/data/房子转租2023.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9620c8148485cefc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Software engineering.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/Java.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -112,246 +21,12 @@
             }
           },
           {
-            "id": "87d1fefb27981173",
+            "id": "4cf67b13c58c68b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Network/HTTP.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c88e0fabaeedad10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Network/队头阻塞.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa8a011d55903083",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Tasks/data/简历准备.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df789a685c3ab0f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Tasks/data/房子转租2023.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f9ce82f6d4a8a99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/岗位/Minimax.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3fffaa9533ac5fab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/minimax算法.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5286d02a4ac2c55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/工作经历/主播端/主播端.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9c5a8aa091c699e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/工作经历/主播端/开播页.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e03520c3d303de3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/工作经历/主播端/Widget框架.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4442a01855a62b3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/工作经历/主播端/Widget框架.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3b6f0796771afff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6730060c687e7b9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity 数据传递.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98165f82a3bbd5e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/IPC.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a33174a392d8e17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f18ef515baf9fac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/岗位/小红书.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0800c32c622a9417",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "75fafe743c9220df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Tasks/data/房子转租2023.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd53924fcd39101e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/猎头/璐璐.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b69bd843a431ae37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/岗位/Minimax.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/View可见性检测.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -359,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 23
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -388,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "openai",
+                "query": "file:gc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -436,7 +111,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/View可见性检测.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -471,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/View可见性检测.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -488,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/View可见性检测.md"
               }
             }
           },
@@ -514,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/View可见性检测.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -571,12 +246,25 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0800c32c622a9417",
+  "active": "9efb66c5acbe3c31",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Untitled.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Dependency injection in Android.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android Development.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android App.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation/Interview preparation.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/GC.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/Java.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Fragment.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Software engineering.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Dialog.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity 数据传递.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/app进程.md",
     "Work/岗位/小红书.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/AI/OpenAI.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity.md",
     "Work/岗位/拼多多.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android ANR.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/schema.md",
@@ -584,22 +272,9 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity 生命周期.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/共享内存.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/IPC.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity 数据传递.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Intent.md",
-    "Work/工作经历/付费直播/付费直播.md",
-    "Work/工作经历/录播/录播.md",
-    "Work/工作经历/主播端/主播端.md",
-    "Work/工作经历/主播端/开播页.md",
-    "Work/工作经历/主播端/特效.md",
-    "Work/工作经历/主播端/主播分享.md",
-    "Work/工作经历/主播端/主播直播间.md",
-    "Work/工作经历/主播端/开播.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/View加载优化.md",
-    "Work/工作经历/主播端/Widget框架.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance",
-    "Work/岗位/Minimax.md",
-    "Work/工作经历/主播端/全链路埋点.md",
     "WorkDesk.canvas",
     "Work/岗位",
     "Work/猎头",
