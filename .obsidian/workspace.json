@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/ContentProvider/ContentProvider.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Handler.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:uri",
+                "query": "file:hand",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -137,7 +137,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/ContentProvider/ContentProvider.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Handler.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/ContentProvider/ContentProvider.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Handler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/ContentProvider/ContentProvider.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Handler.md"
               }
             }
           },
@@ -215,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/ContentProvider/ContentProvider.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Handler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -274,13 +274,16 @@
   },
   "active": "4cf67b13c58c68b3",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Handler.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/ContentProvider/ContentProvider.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Service/Service.md",
     "DataBase/Knowledge/Computer/BaseLayer/Network/URI.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Service/IntentService.md",
     "DataBase/Knowledge/Computer/BaseLayer/Network/队头阻塞.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/ContentProvider/ContentProvider.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/ContentProvider",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/BroadcastReceiver/BroadcastReceiver.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/BroadcastReceiver",
@@ -302,15 +305,12 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation/Interview preparation.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/GC.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/Java.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Fragment.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Software engineering.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance",
     "WorkDesk.canvas",
     "Work/岗位",
     "Work/猎头",
     "Work/HR",
     "Work/工作经历",
-    "DataBase/Tasks/找工作",
     "Resources/Images/Pasted image 20230414234101.png",
     "Outputs/NovelWriting/花下/花下大纲.canvas",
     "Outputs/NovelWriting/花下/Drawing 2023-04-14 11.52.54.excalidraw.svg",
