@@ -100,6 +100,7 @@ mimeType：处理的数据类型，如image/*
 -   intent中只能设置一个data
 -   intent-filter中指定了data，intent中就要指定其中的一个data
 -   setType会覆盖setData，setData会覆盖setType，因此需要使用setDataAndType方法来设置data和mimeType
+### startActivity权限校验
 
   
 
