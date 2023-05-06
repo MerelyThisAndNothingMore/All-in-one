@@ -101,8 +101,14 @@ mimeType：处理的数据类型，如image/*
 -   intent-filter中指定了data，intent中就要指定其中的一个data
 -   setType会覆盖setData，setData会覆盖setType，因此需要使用setDataAndType方法来设置data和mimeType
 ### startActivity权限校验
+-   同一个application下
+-   Uid相同
+-   permission匹配
+-   目标Activity的属性Android:exported=”true”
+-   目标Activity具有相应的IntentFilter，存在Action动作或其他过滤器并且没有设置exported=false
+-   启动者的Pid是一个系统服务（System Server）的Pid【也就是系统服务前来调用普通App的Activity等】
+-   启动者的Uid是一个System Uid（Android规定android.system.uid=1000，具有该Uid的application，我们称之为获得Root权限）
 
-  
 
 
 
