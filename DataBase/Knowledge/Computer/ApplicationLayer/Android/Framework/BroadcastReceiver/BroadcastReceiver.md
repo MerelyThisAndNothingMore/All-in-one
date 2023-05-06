@@ -54,6 +54,9 @@ LocalBroadcastReceiver仅在自己的应用内发送接收广播，也就是只�
 BroadcastReceiver采用的binder方式实现跨进程间的通信;
 LocalBroadcastManager使用Handler通信机制。
 # LocalBroadcastManager
+mReceivers:数据类型为HashMap<BroadcastReceiver, ArrayList>， 记录广播接收者与IntentFilter列表的对 应关系;
+
+mActions:数据类型为HashMap<String, ArrayList>， 记录action与广播接收者的对应关系 根据Intent的action来查询相应的广播接收者列表; 发送MSG_EXEC_PENDING_BROADCASTS消息，回调相应广播接收者的onReceive方法
 广播注册/发送/取消注册过程都使用同步锁mReceivers来保护，从而保证进程内的多线程访问安全。 最后，再来看看使用LocalBroadcastManager的优势：
 
 -   发送的广播不会离开当前所在的app, 因此不用担心私有隐私数据的泄漏，确保安全性；
