@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Service/Service.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/BroadcastReceiver/BroadcastReceiver.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -124,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Service/Service.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/BroadcastReceiver/BroadcastReceiver.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Service/Service.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/BroadcastReceiver/BroadcastReceiver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Service/Service.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/BroadcastReceiver/BroadcastReceiver.md"
               }
             }
           },
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Service/Service.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/BroadcastReceiver/BroadcastReceiver.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,12 +259,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9efb66c5acbe3c31",
+  "active": "5110fe1e4c838c87",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Service/Service.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/BroadcastReceiver/BroadcastReceiver.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/BroadcastReceiver",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Service/IntentService.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Service/Service.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Service.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 数据保存.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Service",
@@ -297,7 +298,6 @@
     "Work/工作经历",
     "DataBase/Tasks/找工作",
     "Outputs/video/苏联笑话",
-    "Outputs/video/热点",
     "Resources/Images/Pasted image 20230414234101.png",
     "Outputs/NovelWriting/花下/花下大纲.canvas",
     "Outputs/NovelWriting/花下/Drawing 2023-04-14 11.52.54.excalidraw.svg",
