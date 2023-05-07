@@ -22,7 +22,7 @@ alias:
 measure() 
 -> onMeasure() 
 -> getDefaultSize() 计算View的宽/高值 
--> setMeasuredDimension存储测量后的View宽 / 高 
+-> setMeasuredDimension存储测量后的View宽 / 高 其实就是将 View 的最终测量宽/高设置到`View.mMeasuredWidth`/`View.mMeasuredHeight`属性中，完成测量过程。
 ###  ViewGroup
 -> measure() 
 -> 需要重写onMeasure( ViewGroup 没有定义测量的具体过程，因为ViewGroup是一个抽象类，其测量过程的onMeasure方法需要各个子类去实现。 如:LinearLayout、RelativeLayout、FrameLayout等等，这些控件的特性都是不一样的，测量规则自然也都不一 样。)遍历测量ViewGroup中所有的View 
