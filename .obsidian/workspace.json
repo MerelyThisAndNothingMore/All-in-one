@@ -203,6 +203,32 @@
             }
           },
           {
+            "id": "f8364b1ad5c0bc1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/双缓冲.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d19450a86c2ced4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/双缓冲.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5110fe1e4c838c87",
             "type": "leaf",
             "state": {
@@ -229,7 +255,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -306,7 +332,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Android 系统显示原理.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/双缓冲.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -341,7 +367,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Android 系统显示原理.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/双缓冲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -358,7 +384,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Android 系统显示原理.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/双缓冲.md"
               }
             }
           },
@@ -384,7 +410,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Android 系统显示原理.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/双缓冲.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -441,10 +467,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0398b354cb43a2e1",
+  "active": "6d19450a86c2ced4",
   "lastOpenFiles": [
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/三级缓冲.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/双缓冲.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Android 系统显示原理.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/MeasureSpec.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 视图结构.md",
@@ -477,8 +505,6 @@
     "DataBase/Knowledge/Computer/BaseLayer/Network/队头阻塞.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/ContentProvider",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/BroadcastReceiver/BroadcastReceiver.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Service.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 数据保存.md",
     "WorkDesk.canvas",
     "Resources/Images/Pasted image 20230414234101.png",
     "Outputs/NovelWriting/花下/花下大纲.canvas",
