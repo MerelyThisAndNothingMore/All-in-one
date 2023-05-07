@@ -11,8 +11,13 @@ alias:
 `LayoutParams`会受到父容器的`MeasureSpec`的影响，测量过程会依据两者之间的相互约束最终生成子View 的`MeasureSpec`，完成 View 的测量规格。
 
 简而言之，View 的`MeasureSpec`受自身的`LayoutParams`和父容器的`MeasureSpec`共同决定（`DecorView`的`MeasureSpec`是由自身的`LayoutParams`和屏幕尺寸共同决定，参考后文）。也因此，如果要求取子View 的`MeasureSpec`，那么首先就需要知道父容器的`MeasureSpec`，层层逆推而上，即最终就是需要知道顶层View（即`DecorView`）的`MeasureSpec`，这样才能一层层传递下来，这整个过程需要结合`Activity`的启动过程进行分析。
+### DecorView 的MeasureSpec
+**`DecorView`的布局参数为`MATCH_PARENT`**
+-   当`DecorView`的`LayoutParams`为`MATCH_PARENT`时，说明`DecorView`的大小与屏幕一样大，而又由于屏幕大小是确定的，因此，其 SpecMode 为`EXACTLY`，SpecSize 为`windowSize`，；
+-   当`DecorView`的`LayoutParams`为`WRAP_CONTENT`时，说明`DecorView`自适应内容大小，因此它的大小不确定，但是最大不能超过屏幕大小，故其 SpecMode 为`AT_MOST`，SpecSize 为`windowSize`；
+-   其余情况为`DecorView`设置了具体数值大小或`UNSPECIFIED`，故以`DecorView`为主，其 SpecMode 为`EXACTLY`，SpecSize 就是自己设置的值，即`rootDimension`；
 
-
+由于`DecorView`的`LayoutParams`为`MATCH_PARENT`，因此，`DecorView`的`MeasureSpec`最终为：`MeasureSpec.makeMeasureSpec(windowSize, MeasureSpec.EXACTLY)`
 ### 单一View
 measure() 
 -> onMeasure() 
