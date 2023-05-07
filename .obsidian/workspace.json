@@ -221,7 +221,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/双缓冲.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Android 系统显示原理.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb7b7296b28487a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Android 系统显示原理.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -255,7 +268,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -332,7 +345,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/双缓冲.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Android 系统显示原理.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -367,7 +380,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/双缓冲.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Android 系统显示原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -384,7 +397,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/双缓冲.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Android 系统显示原理.md"
               }
             }
           },
@@ -410,7 +423,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/双缓冲.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Android 系统显示原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -467,13 +480,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6d19450a86c2ced4",
+  "active": "bb7b7296b28487a7",
   "lastOpenFiles": [
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/三级缓冲.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/双缓冲.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/SurfaceFlinger.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Android 系统显示原理.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/双缓冲.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/三级缓冲.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/MeasureSpec.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 视图结构.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity.md",
@@ -504,7 +518,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Service/IntentService.md",
     "DataBase/Knowledge/Computer/BaseLayer/Network/队头阻塞.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/ContentProvider",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/BroadcastReceiver/BroadcastReceiver.md",
     "WorkDesk.canvas",
     "Resources/Images/Pasted image 20230414234101.png",
     "Outputs/NovelWriting/花下/花下大纲.canvas",

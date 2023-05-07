@@ -6,6 +6,12 @@ Android应用程序把经过测量、布局、绘制后的surface缓存数据、
 也就是说应用层负责绘制，系统层负责渲染，通过进程间通信把应用层需要绘制的数据传递到系统层服务，系统层服务通过刷新机制把数据更新到屏幕。
 
 # 绘制原理
+1.在 App 进程中创建PhoneWindow 后会创建ViewRoot。ViewRoot 的创建会创建一个 Surface壳子，请求 WMS填充Surface，WMS copyFrom() 一个 NativeSurface。
+
+2.响应客户端事件，创建Layer(FrameBuffer)与客户端的Surface建立连接。 
+3.copyFrom()的同时创建匿名共享内存SharedClient(每一个应用和SurfaceFlinger之间都会创建一个SharedClient)  
+
+4.当客户端 addView() 或者需要更新 View 时，App 进程的SharedBufferClient 写入数据到共享内存ShareClient中,SurfaceFlinger中的 SharedBufferServer 接收到通知会将 FrameBuffer 中的数据传输到屏幕上。
 ## 应用层
 在Android的每个View都会经过Measure和Layout来确定当前需要绘制的View所在的大小和位置，然后，再通过Draw绘制到surface上。在Android系统中整体的绘制源码是在ViewRootImpl类的performTraversals()方法，通过这个方法可以看出Measure和Layout都是递归来获取View的大小和位置，并且以深度作为优先级。显然，层级越深，元素越多，耗时就越长。
 
@@ -22,9 +28,12 @@ Android应用程序把经过测量、布局、绘制后的surface缓存数据、
 
 因此，从上可知，**一个Android应用程序最多可以包含31个窗口**。最后，显示的整体流程如下：
 
--   1、**应用层绘制到缓冲区**。
--   2、**SurfaceFlinger把缓冲区数据渲染到屏幕，其中使用了Android匿名共享内存SharedClient缓存需要显示的数据来达到目的**。
-绘制的过程首先是 **CPU准备数据，通过Driver层把数据交给CPU渲染，其中CPU主要负责Measure、Layout、Record、Execute的数据计算工作，GPU负责Rasterization（栅格化）、渲染。因为图形API不允许CPU直接和GPU通信，所以要通过一个图形驱动的中间层来进行连接，在图形驱动里面维护了一个队列，CPU把display list（待显示的数据列表）添加到队列中，GPU从这个队列中取出数据进行绘制，最终才在显示屏上显示出来**。
+-   1、应用层绘制到缓冲区。
+-   2、SurfaceFlinger把缓冲区数据渲染到屏幕，其中使用了Android匿名共享内存SharedClient缓存需要显示的数据来达到目的.
+绘制的过程首先是 
+1.CPU准备数据，通过Driver层把数据交给CPU渲染，其中CPU主要负责Measure、Layout、Record、Execute的数据计算工作，
+2.GPU负责Rasterization（栅格化）、渲染。因为图形API不允许CPU直接和GPU通信，所以要通过一个图形驱动的中间层来进行连接，在图形驱动里面维护了一个队列，CPU把display list（待显示的数据列表）添加到队列中，GPU从这个队列中取出数据进行绘制，最终才在显示屏上显示出来。
+3.Display(屏幕或显示器)屏幕会以一定的帧率刷新，每次刷新的时候，就会从缓存区将图像数据读取显示出 来,如果缓存区没有新的数据，就一直用旧的数据，这样屏幕看起来就没有变
 Android系统每隔16ms发出VSYNC信号，触发对UI进行渲染，如果每次渲染都成功，这样就能够达到流畅画面所需的60FPS。
 # 刷新机制
 
