@@ -273,7 +273,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Handler.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/SurfaceFlinger.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -384,7 +384,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Handler.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/SurfaceFlinger.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -419,7 +419,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Handler.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/SurfaceFlinger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -436,7 +436,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Handler.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/SurfaceFlinger.md"
               }
             }
           },
@@ -462,7 +462,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Handler.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/SurfaceFlinger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -521,6 +521,7 @@
   },
   "active": "b5027b5aeeaf24c8",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Handler.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/三级缓冲.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/VSync.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/双缓冲.md",
@@ -535,7 +536,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Message Queue.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Message.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Handler.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/IdleHandler.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Handler Thread.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md",
