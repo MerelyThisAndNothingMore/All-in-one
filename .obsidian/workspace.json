@@ -182,7 +182,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0398b354cb43a2e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Android 系统显示原理.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -216,7 +229,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -293,7 +306,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Android 系统显示原理.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -328,7 +341,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Android 系统显示原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -345,7 +358,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Android 系统显示原理.md"
               }
             }
           },
@@ -371,7 +384,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Android 系统显示原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -428,13 +441,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "dee31ca91c578282",
+  "active": "0398b354cb43a2e1",
   "lastOpenFiles": [
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 视图结构.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Android 系统显示原理.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/MeasureSpec.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 视图结构.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Message Queue.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Message.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Handler.md",
@@ -465,7 +479,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/BroadcastReceiver/BroadcastReceiver.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Service.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 数据保存.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 数据传递.md",
     "WorkDesk.canvas",
     "Resources/Images/Pasted image 20230414234101.png",
     "Outputs/NovelWriting/花下/花下大纲.canvas",
