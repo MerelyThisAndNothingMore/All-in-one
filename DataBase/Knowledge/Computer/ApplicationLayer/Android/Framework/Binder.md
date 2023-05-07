@@ -4,25 +4,57 @@ alias:
 - Binder IPC
 ---
 # 特性
+从进程间通信的角度看，Binder 是一种进程间通信的机制;
+
+从 Server 进程的角度看，Binder 指的是 Server 中的 Binder 实体对象(Binder类 IBinder);
+
+从 Client 进程的角度看，Binder 指的是对 Binder 代理对象，是 Binder 实体对象的一个远程代理
+
+从传输过程的角度看，Binder 是一个可以跨进程传输的对象;Binder 驱动会自动完成代理对象和本地对象之间 的转换。
+
+从Android Framework角度来说，Binder是ServiceManager连接各种Manager和相应ManagerService的桥梁 Binder跨进程通信机制:基于C/S架构，由Client、Server、ServerManager和Binder驱动组成。
+
+  进程空间分为用户空间和内核空间。用户空间不可以进行数据交互;内核空间可以进行数据交互，所有进程共用
+一个内核空间
+
+Client、Server、ServiceManager均在用户空间中实现，而Binder驱动程序则是在内核空间中实现的;
+
 Binder是Android中独有的一种[[IPC|进程间通信]]方式。它底层依靠mmap,只需要一次数据拷贝，把一块物理内存同时映射到内核和目标进程的[[用户空间]]。
 在[[Android]]中，Binder机制包含三个部分，
 Java Binder、
 [[Native Binder]]、
 Kernel Binder.
 Binder 本身是为了进程间频繁-灵活的通信所设计的, 并不是为了拷贝大量数据
+## 优缺点
+1、效率:传输效率主要影响因素是内存拷贝的次数，拷贝次数越少，传输速率越高。从Android进程架构角度 分析:对于消息队列、Socket和管道来说，数据先从发送方的缓存区拷贝到内核开辟的缓存区中，再从内核缓存区拷 贝到接收方的缓存区，一共两次拷贝。
+
+一次数据传递需要经历:用户空间 –> 内核缓存区 –> 用户空间，需要2次数据拷贝，这样效率不高。 而对于Binder来说，数据从发送方的缓存区拷贝到内核的缓存区，而接收方的缓存区与内核的缓存区是映射到同
+
+一块物理地址的，节省了一次数据拷贝的过程 : 共享内存不需要拷贝，Binder的性能仅次于共享内存。
+
+2、稳定性:上面说到共享内存的性能优于Binder，那为什么不采用共享内存呢，因为共享内存需要处理并发同 步问题，容易出现死锁和资源竞争，稳定性较差。 Binder基于C/S架构 ，Server端与Client端相对独立，稳定性较 好。
+
+3、安全性:传统Linux IPC的接收方无法获得对方进程可靠的UID/PID，从而无法鉴别对方身份;而Binder机制 为每个进程分配了UID/PID，且在Binder通信时会根据UID/PID进行有效性检测。
 # 原理
 
 ## 组件视角
+![](https://gd-hbimg.huaban.com/d3dc2d1f8be06fbe167fb964a68e22b128c7481a8678-DGedSi)
 Binder通信采用C/S架构
 
 可以看出无论是注册服务和获取服务的过程都需要ServiceManager，需要注意的是此处的Service Manager是指Native层的ServiceManager（C++），并非指framework层的ServiceManager(Java)。
 
 ## 内核视角
 [[Binder|Binder]]基于[[内存映射]]来实现，
+![](https://gd-hbimg.huaban.com/f8e4c8baaa8d8ff599f15e3b396a716de35fe8fe5355-pyUyP2)
+![](https://gd-hbimg.huaban.com/0af80ecc18d3c0eb2c6f64499b7c99b3c4b1b4ee1d93f-sHlBkn)
+
 1.Binder驱动在[[内核空间]]创建一个数据接收缓存区。  
 2.在内核空间开辟一块内核缓存区，建立内核缓存区和数据接收缓存区之间的映射关系，以及数据接收缓存区和接收进程[[用户空间]]地址的映射关系。  
 3.发送方进程通过copy_from_user()函数将数据拷贝 到内核中的内核缓存区，由于内核缓存区和接收进程的用户空间存在内存映射，因此也就相当于把数据发送到了接收进程的用户空间，这样便完成了一次进程间的通信。
+![](https://gd-hbimg.huaban.com/0af80ecc18d3c0eb2c6f64499b7c99b3c4b1b4ee1d93f-sHlBkn)
+
 # 一次Binder通信
+![](https://gd-hbimg.huaban.com/c51429c96bbe0f1968372af8cf995bb4909a67723b914-aA7tyw)
 1.  Server 进程向 Binder 驱动发送 Binder 实体请求注册服务， Binder 驱动将请求转发到 ServiceManager 注册后把名字和 Binder 实体等信息填入查找表中。
 2.  Client 进程在 Binder 驱动的帮助下通过名字从 ServiceManager 中获取到Server Binder 实体的引用，至此，Client与Server总算是勾搭上了。
 3.  与此同时，Binder 驱动开始创建数据缓冲区并通过 ServiceManager 提供的 Server 进程信息地址使用 mmap 函数将 Server 进程用户空间地址映射到创建好的缓冲区上，为跨进程通信做好了准备。

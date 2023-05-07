@@ -117,7 +117,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/框架/框架.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/GC.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a7677e7b6ed27c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/内存泄漏.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "200e757ef0189fce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/Android中的内存泄漏.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8210d58ea22e188f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/Android 中的OOM.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b18f96f5df51561a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/内存优化.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6690acf6d58a9291",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/启动优化.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,7 +190,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -154,7 +219,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:约瑟夫",
+                "query": "file:泄漏",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -202,7 +267,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/框架/框架.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/启动优化.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -237,7 +302,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/框架/框架.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/启动优化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +319,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/框架/框架.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/启动优化.md"
               }
             }
           },
@@ -280,7 +345,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/框架/框架.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/启动优化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -337,40 +402,40 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6ad28ef2e75875fa",
+  "active": "6690acf6d58a9291",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/内存优化.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/启动优化.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/Android 中的OOM.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/Android中的内存泄漏.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/内存泄漏.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/GC.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/Java.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/内存泄漏.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Source program.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/ServiceManager.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Service/Service.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Service/IntentService.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/AIDL.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/IPC.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Threads.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Processes.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Handler.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/框架/框架.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/框架/MVVM.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/框架/MVP.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/框架/MVC.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/框架/框架.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Anim/Anim.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/框架",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Bitmap.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/三级缓冲.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/WebView/JsBridge.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Anim",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/WebView/WebView.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Fragment/Fragment.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/WebView",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Fragment/ViewPager.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Fragment/Dialog Fragment.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Fragment/Fragment生命周期.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Fragment.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/RecyclerView/RecyclerView的四级缓存机制.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Fragment",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View事件分发/View事件分发.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/RecyclerView",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/自定义View.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View事件分发",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/SurfaceView.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/SurfaceFlinger.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Handler.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/VSync.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/双缓冲.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/GPU.md",
     "DataBase/Skills/GameDevelop",
     "Outputs/GameDevelop/思考",
     "DataBase/Reality/Games/IndependentGame/Untitled",

@@ -5,6 +5,7 @@ alias:
 tags: 
 - computerArchitecture 
 ---
+它是系统进行资源分配和调度的一个独立单位,也就是说进程是可以独立运行的一段程序。
 进程是操作系统对一个正在运行的程序的一种抽象。在一个系统上可以同时运行多个进程，而每个进程都好像在独占地使用硬件。
 而[[Concurrency|并发]]运行，则是说一个进程的指令和另一个进程的指令是交错执行的。
 A single CPU can appear to execute multiple processes concurrently by having the processor switch among them. The operating system performs this interleaving with a mechanism known as context switching.
