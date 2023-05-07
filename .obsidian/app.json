@@ -13,5 +13,6 @@
   ],
   "attachmentFolderPath": "Resources/Images",
   "newFileLocation": "current",
-  "livePreview": true
+  "livePreview": true,
+  "readableLineLength": true
 }

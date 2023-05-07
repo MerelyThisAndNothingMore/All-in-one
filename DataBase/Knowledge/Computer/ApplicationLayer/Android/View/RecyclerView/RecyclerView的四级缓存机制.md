@@ -9,6 +9,6 @@ alias:
 -   四级缓存：RecycledViewPool
 ## mAttachedScrap
 ```java
-    final ArrayList<ViewHolder> mAttachedScrap = new ArrayList<>(); 
+final ArrayList<ViewHolder> mAttachedScrap = new ArrayList<>(); 
 ```
 
