@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:message",
+                "query": "file:约瑟夫",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -232,7 +233,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e424014f474dd1cf",
+  "active": "5e5fea182599fa5c",
   "lastOpenFiles": [
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View事件分发/View事件分发.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/RecyclerView/RecyclerView的四级缓存机制.md",
