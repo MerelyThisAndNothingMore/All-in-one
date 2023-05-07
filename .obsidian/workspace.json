@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/框架/框架.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/设计框架/设计框架.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/框架/MVC.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/设计框架/MVC.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/框架/MVP.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/设计框架/MVP.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -182,7 +182,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/启动优化.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 视图结构.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -219,7 +219,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:泄漏",
+                "query": "file:window",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -267,7 +267,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/启动优化.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 视图结构.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -302,7 +302,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/启动优化.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 视图结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -319,7 +319,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/启动优化.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 视图结构.md"
               }
             }
           },
@@ -345,7 +345,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/启动优化.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 视图结构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -404,8 +404,12 @@
   },
   "active": "6690acf6d58a9291",
   "lastOpenFiles": [
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/内存优化.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Window.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/设计框架/设计框架.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/启动优化.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/内存优化.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/Android 中的OOM.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/Android中的内存泄漏.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/内存泄漏.md",
@@ -422,15 +426,12 @@
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Threads.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Processes.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Handler.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/框架/框架.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/框架/MVVM.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/框架/MVP.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/框架/MVC.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/设计框架/MVVM.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/设计框架/MVP.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/设计框架/MVC.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Anim/Anim.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/框架",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/设计框架",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Bitmap.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/三级缓冲.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Anim",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/WebView",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Fragment",
@@ -439,7 +440,6 @@
     "DataBase/Skills/GameDevelop",
     "Outputs/GameDevelop/思考",
     "DataBase/Reality/Games/IndependentGame/Untitled",
-    "DataBase/Reality/Games/IndependentGame",
     "WorkDesk.canvas",
     "Resources/Images/Pasted image 20230414234101.png",
     "Outputs/NovelWriting/花下/花下大纲.canvas",
