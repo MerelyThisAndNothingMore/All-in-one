@@ -17,6 +17,6 @@
   "Blue-Topaz-Codebox-Highlight@@mute-code-indent-line": false,
   "Blue-Topaz-Codebox-Highlight@@code-line-number": true,
   "Blue-Topaz-Codebox-Highlight@@remove-language-type": true,
-  "Blue-Topaz-Codebox-Highlight@@nowrap-edit-codebox": true,
+  "Blue-Topaz-Codebox-Highlight@@nowrap-edit-codebox": false,
   "Blue-Topaz-Codebox-Highlight@@whole-code-wrap": false
 }

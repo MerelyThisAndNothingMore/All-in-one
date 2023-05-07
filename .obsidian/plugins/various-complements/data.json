@@ -66,8 +66,8 @@
     "References": {
       "References": {
         "customDictionary": {
-          "count": 27,
-          "lastUpdated": 1683452366526
+          "count": 28,
+          "lastUpdated": 1683454377508
         }
       }
     },
@@ -620,6 +620,14 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1683426469922
+        }
+      }
+    },
+    "Inserted": {
+      "Inserted": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1683453796822
         }
       }
     }
