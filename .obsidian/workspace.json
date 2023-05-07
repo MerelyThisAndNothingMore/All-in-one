@@ -143,7 +143,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Reality/Games/IndependentGame/你好茄子.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "85303184a0c20463",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8440c83da8737494",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -177,7 +203,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -254,7 +280,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Reality/Games/IndependentGame/你好茄子.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -289,7 +315,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Reality/Games/IndependentGame/你好茄子.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -306,7 +332,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Reality/Games/IndependentGame/你好茄子.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md"
               }
             }
           },
@@ -332,7 +358,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Reality/Games/IndependentGame/你好茄子.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -389,25 +415,28 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "631678cf3824b5ad",
+  "active": "8440c83da8737494",
   "lastOpenFiles": [
-    "DataBase/Reality/Games/IndependentGame/人类保存计划.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/MeasureSpec.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Message Queue.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Message.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Handler.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/IdleHandler.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Handler Thread.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md",
     "DataBase/Reality/Games/IndependentGame/你好茄子.md",
+    "DataBase/Reality/Games/IndependentGame/人类保存计划.md",
     "DataBase/Skills/GameDevelop/Steam上线.md",
     "Outputs/GameDevelop/思考/思考.md",
     "DataBase/Skills/GameDevelop",
     "Outputs/GameDevelop/思考",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Message Queue.md",
     "DataBase/Reality/Games/IndependentGame/Untitled",
     "DataBase/Reality/Games/IndependentGame",
     "DataBase/Reality/Games",
     "Outputs/GameDevelop/独立游戏",
     "Outputs/GameDevelop",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Message.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Handler Thread.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/IdleHandler.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Handler.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/子线程更新UI.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity.md",
@@ -424,9 +453,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 数据保存.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 数据传递.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 生命周期.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity Thread.md",
-    "DataBase/life/Passwords.md",
     "WorkDesk.canvas",
     "Resources/Images/Pasted image 20230414234101.png",
     "Outputs/NovelWriting/花下/花下大纲.canvas",

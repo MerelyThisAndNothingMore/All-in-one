@@ -31,4 +31,5 @@ post方法的消息是在post传递的Runnable对象的 run方法中处理，而
 在next()方法中，有一个屏障的概念(message.target \=\= null为屏障消息), 遇到target为null的Message，说明是 同步屏障，循环遍历找出一条异步消息，然后处理。 在同步屏障没移除前，只会处理异步消息，处理完所有的异步 消息后，就会处于堵塞 当出现屏障的时候，会滤过同步消息，而是直接获取其中的异步消息并返回, 就是这样来实现 「异步消息优先执行」的功能
 1、Handler构造方法中传入async参数，设置为true，使用此Handler添加的Message都是异步的; 
 2、创建Message对象时，直接调用setAsynchronous(true) 3、removeSyncBarrier() 移除同步屏障:
-
+# 使用
+当在A线程中创建handler的时候，同时创建了MessageQueue与Looper，Looper在A线程中调用loop进入一个 无限的for循环从MessageQueue中取消息，当B线程调用handler发送一个message的时候，会通过 msg.target.dispatchMessage(msg);将message插入到handler对应的MessageQueue中，Looper发现有message 插入到MessageQueue中，便取出message执行相应的逻辑，因为Looper.loop()是在A线程中启动的，所以则回到 了A线程，达到了从B线程切换到A线程的目的。
