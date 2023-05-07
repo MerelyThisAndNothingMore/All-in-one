@@ -11,6 +11,8 @@ alias:
 `LayoutParams`会受到父容器的`MeasureSpec`的影响，测量过程会依据两者之间的相互约束最终生成子View 的`MeasureSpec`，完成 View 的测量规格。
 
 简而言之，View 的`MeasureSpec`受自身的`LayoutParams`和父容器的`MeasureSpec`共同决定（`DecorView`的`MeasureSpec`是由自身的`LayoutParams`和屏幕尺寸共同决定，参考后文）。也因此，如果要求取子View 的`MeasureSpec`，那么首先就需要知道父容器的`MeasureSpec`，层层逆推而上，即最终就是需要知道顶层View（即`DecorView`）的`MeasureSpec`，这样才能一层层传递下来，这整个过程需要结合`Activity`的启动过程进行分析。
+![](https://gd-hbimg.huaban.com/855ca61cf63d564022c99601d05350779a77b22f2d8a6-BK7djg)
+
 ### DecorView 的MeasureSpec
 **`DecorView`的布局参数为`MATCH_PARENT`**
 -   当`DecorView`的`LayoutParams`为`MATCH_PARENT`时，说明`DecorView`的大小与屏幕一样大，而又由于屏幕大小是确定的，因此，其 SpecMode 为`EXACTLY`，SpecSize 为`windowSize`，；
@@ -41,4 +43,15 @@ ViewRoot创建一个Canvas对象，然后调用OnDraw()。六个步骤:
 4、绘制View子视图，如果没有就不用;
 5、还原图层 (Layer);
 6、绘制View的装饰(例如滚动条等等)。
+
+# 为什么自定义View wrap_content不生效
+## 原因分析
+### `wrap_content`起到与`match_parent`相同的作用
+在onMeasure()中的getDefaultSize（）的默认实现中，当View的测量模式是AT_MOST或EXACTLY时，View的大小都会被设置成子View MeasureSpec的specSize。
+
+因为AT_MOST对应wrap_content；EXACTLY对应match_parent，所以，默认情况下，wrap_content和match_parent是具有相同的效果的。
+### 为什么是填充父容器的效果呢
+因为在计算子View MeasureSpec的getChildMeasureSpec()中，子View MeasureSpec在属性被设置为wrap_content或match_parent情况下，子View MeasureSpec的specSize被设置成parenSize = 父容器当前剩余空间大小
+
+所以：wrap_content起到了和match_parent相同的作用：等于父容器当前剩余空间大小
 
