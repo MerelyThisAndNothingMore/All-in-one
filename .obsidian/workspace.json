@@ -8,306 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9620c8148485cefc",
+            "id": "98b3007dd17309f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/Java.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4cf67b13c58c68b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Handler.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "330484b820c70e68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Message.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "70327a4e9c535dcc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Handler.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c604d661578aa98d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Handler Thread.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0690d6ad62dad0da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "efd80d99565bb6a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Message Queue.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93b52dabbb269967",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Reality/Games/IndependentGame/人类保存计划.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7aaf7c55a024b15a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/GameDevelop/思考/思考.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ded61ae8a12f6f72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Reality/Games/IndependentGame/人类保存计划.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "631678cf3824b5ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "85303184a0c20463",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8440c83da8737494",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dee31ca91c578282",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0398b354cb43a2e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Android 系统显示原理.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f8364b1ad5c0bc1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/双缓冲.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d19450a86c2ced4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Android 系统显示原理.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb7b7296b28487a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/双缓冲.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f3291e762873e10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/CPU.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "985e882d481a7d20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/双缓冲.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b5027b5aeeaf24c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/SurfaceFlinger.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5110fe1e4c838c87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Network/队头阻塞.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "13b359ad39d1b9de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Network/URI.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View事件分发/View事件分发.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 20
+        ]
       }
     ],
     "direction": "vertical"
@@ -384,7 +97,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/SurfaceFlinger.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View事件分发/View事件分发.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -419,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/SurfaceFlinger.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View事件分发/View事件分发.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -436,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/SurfaceFlinger.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View事件分发/View事件分发.md"
               }
             }
           },
@@ -462,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/SurfaceFlinger.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View事件分发/View事件分发.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -519,8 +232,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b5027b5aeeaf24c8",
+  "active": "98b3007dd17309f8",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/自定义View.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View事件分发/View事件分发.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View事件分发",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/SurfaceView.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/SurfaceFlinger.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Handler.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/三级缓冲.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/VSync.md",
@@ -528,8 +247,6 @@
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/GPU.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/CPU.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Android 系统显示原理.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/SurfaceFlinger.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/MeasureSpec.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 视图结构.md",
@@ -552,11 +269,7 @@
     "Outputs/GameDevelop",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/子线程更新UI.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/ContentProvider/ContentProvider.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Service/Service.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/ContentProvider",
     "WorkDesk.canvas",
     "Resources/Images/Pasted image 20230414234101.png",
     "Outputs/NovelWriting/花下/花下大纲.canvas",
