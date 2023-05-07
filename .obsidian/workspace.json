@@ -195,7 +195,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Window Manager.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Window.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -280,7 +280,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Window Manager.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Window.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -315,7 +315,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Window Manager.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Window.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -332,7 +332,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Window Manager.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Window.md"
               }
             }
           },
@@ -358,7 +358,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Window Manager.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Window.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -417,8 +417,8 @@
   },
   "active": "744f5da2412c9bc7",
   "lastOpenFiles": [
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Window.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Window Manager.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Window.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 视图结构.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/设计框架/设计框架.md",
