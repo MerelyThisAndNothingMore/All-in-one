@@ -41,7 +41,23 @@ Android系统每隔16ms发出VSYNC信号，触发对UI进行渲染，如果每�
 
 
 
-
+# 渲染流程
+[[VSync]]调度
+消息调度：doFrame消息调度
+Input处理：触摸事件的处理
+动画处理：animator动画执行，对动画降帧或降复杂度
+View处理：View遍历，降低页面层级
+Measure
+Layout
+Draw
+DisplayList更新：
+OpenGL指令转换：绘制指令转换为OpenGL指令
+指令buffer交换：OpenGL的指令交换到GPU内部执行
+GPU处理：GPU对数据的处理过程
+Layer合成：surface buffer合成屏幕显示buffer的流程
+光栅化：将矢量图转换为位图
+Display:显示控制
+Buffer切换：切换屏幕显示的帧Buffer
 
 
 

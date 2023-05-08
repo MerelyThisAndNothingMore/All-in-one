@@ -630,6 +630,22 @@
           "lastUpdated": 1683453796822
         }
       }
+    },
+    "VSync": {
+      "VSync": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1683527194316
+        }
+      }
+    },
+    "Buffer": {
+      "Buffer": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1683527363342
+        }
+      }
     }
   }
 }

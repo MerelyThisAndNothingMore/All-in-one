@@ -8,3 +8,6 @@ alias:
 
 **VSync同步使得CPU/GPU充分利用了16.6ms时间，减少jank。**
 
+[[VSync|VSync]]需要调度，没有调度就没有。
+消费VSync的双方是App和[[SurfaceFlinger]]。App是生产者，sf代表的是消费者。两者通过Surface Buffer交互。
+
