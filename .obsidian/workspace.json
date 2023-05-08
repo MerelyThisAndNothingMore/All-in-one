@@ -8,384 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e424014f474dd1cf",
+            "id": "2eac9ef070265860",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Fragment/Fragment.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b4b2e3af490713a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Fragment/Fragment.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "90e4b9759507771c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Fragment/Fragment.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2feac81add08ecb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/WebView/WebView.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c32bde01f3951a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/三级缓冲.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9060e1369690f8fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/设计框架/设计框架.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb5507a02b352ee0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/设计框架/MVC.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7214a3a584685b7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/设计框架/MVP.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ad28ef2e75875fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/GC.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a7677e7b6ed27c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/内存泄漏.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "200e757ef0189fce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/Android中的内存泄漏.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8210d58ea22e188f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/Android 中的OOM.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b18f96f5df51561a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/内存优化.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6690acf6d58a9291",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Window.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "744f5da2412c9bc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e338898f3ce2c91b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/apk.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2dbbc7516aa3a97a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/ART虚拟机.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f02179a79cf9a2ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/组件化.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "742d6d195f515478",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/组件化.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee006288bc366a53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/ARouter.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c865d09a4c4c1076",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Jectpack/Jectpack.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "28c426b26fc343df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Jectpack/Navigation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "354b0eac30bb5127",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Jectpack/DataBinding.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab1474ee1270c16a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Jectpack/ViewModel.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55cd834904e543c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/OpenSourceFramework/OpenSourceFramework.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a69fe2761a62774",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/OpenSourceFramework/OKHttp.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45126009d4a7862d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/OpenSourceFramework/Glide.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e49e197be44e043e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/OpenSourceFramework/Retrofit.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "218c07d55b58f89e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/OpenSourceFramework/LeakCanary.md",
+                "file": "Work/工作经历/录播/录播.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 28
+        ]
       }
     ],
     "direction": "vertical"
@@ -462,7 +97,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/OpenSourceFramework/LeakCanary.md",
+                "file": "Work/工作经历/录播/录播.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -497,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/OpenSourceFramework/LeakCanary.md",
+                "file": "Work/工作经历/录播/录播.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -514,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/OpenSourceFramework/LeakCanary.md"
+                "file": "Work/工作经历/录播/录播.md"
               }
             }
           },
@@ -540,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/OpenSourceFramework/LeakCanary.md",
+                "file": "Work/工作经历/录播/录播.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -597,10 +232,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "218c07d55b58f89e",
+  "active": "2eac9ef070265860",
   "lastOpenFiles": [
+    "Work/工作经历/录播/进房预加载优化.md",
+    "Work/工作经历/录播/录播.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/组件化.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/OpenSourceFramework/Retrofit.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/OpenSourceFramework/LeakCanary.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/VSync.md",
+    "DataBase/Tasks/data/简历准备.md",
+    "WorkDesk.canvas",
+    "Home Page.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/OpenSourceFramework/Glide.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/OpenSourceFramework/OKHttp.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/OpenSourceFramework/OpenSourceFramework.md",
@@ -616,18 +258,12 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/插件化.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/AOP",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/ARouter.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/组件化.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/模块化.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Anim/Anim.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/ART虚拟机.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Dalvik.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/序列化.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/apk.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/zygote进程.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/ServiceManager.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android系统启动流程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/设计框架",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Anim",
@@ -635,7 +271,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Fragment",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/RecyclerView",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View事件分发",
-    "WorkDesk.canvas",
     "Resources/Images/Pasted image 20230414234101.png",
     "Outputs/NovelWriting/花下/花下大纲.canvas",
     "Outputs/NovelWriting/花下/Drawing 2023-04-14 11.52.54.excalidraw.svg",
