@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/设计框架/MVP.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/热修复/热修复.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -152,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/设计框架/MVP.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/热修复/热修复.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/设计框架/MVP.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/热修复/热修复.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/设计框架/MVP.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/热修复/热修复.md"
               }
             }
           },
@@ -230,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/设计框架/MVP.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/热修复/热修复.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -289,14 +289,18 @@
   },
   "active": "adae46a87001576a",
   "lastOpenFiles": [
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/设计框架/MVC.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/布局/布局.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/热修复/热修复.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/热修复",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/设计框架/设计框架.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/插件化.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Jectpack/Jectpack.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/设计框架/MVP.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/设计框架/MVC.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/插件化.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android 签名.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Untitled.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/JNI.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Jectpack/Jectpack.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/NDK.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/JDK.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/AIDL.md",
@@ -304,7 +308,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/java/Java.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/OpenSourceFramework/OpenSourceFramework.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/performance.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/布局/布局.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/子线程更新UI.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/布局",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/zygote进程.md",
@@ -314,8 +317,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android 进程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Service/Service.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Intent.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/ContentProvider/ContentProvider.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/持久化",
     "Resources/Images/Pasted image 20230508155739.png",
     "WorkDesk.canvas",
@@ -326,7 +327,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/设计框架",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Anim",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/WebView",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Fragment",
     "Resources/Images/Pasted image 20230414234101.png",
     "Outputs/NovelWriting/花下/花下大纲.canvas",
     "Outputs/NovelWriting/花下/Drawing 2023-04-14 11.52.54.excalidraw.svg",
