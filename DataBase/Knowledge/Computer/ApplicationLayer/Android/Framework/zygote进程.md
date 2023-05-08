@@ -2,7 +2,10 @@
 tags: 
 alias:
 ---
-在[[Android]]系统中，[[DVM]]、应用程序进程以及运行系统的关键服务的[[system_server进程]]都是由Zygote进程来创建的，我们也将它称为孵化器。
+
+![](https://gd-hbimg.huaban.com/92961f8b40f74ba18f83194343ffba14bb6082d18aae-vyGrL4)
+
+在[[DataBase/Knowledge/Computer/ApplicationLayer/Android/Android]]系统中，[[DVM]]、应用程序进程以及运行系统的关键服务的[[system_server进程]]都是由Zygote进程来创建的，我们也将它称为孵化器。
 它通过fork  (复制进程)的形式来创建应用程序进程和SystemServer进程，由于Zygote进程在启动时会创建DVM，因此通过fork而创建的应用程序进程和SystemServer进程可以在内部获取一个DVM的实例拷贝。
 
 

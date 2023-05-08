@@ -2,9 +2,9 @@
 tags: 
 alias:
 ---
-刷新UI， 都会调用到ViewRootImpl.Android每次刷新UI的时候，最终根布局ViewRootImpl.checkThread()来检 验线程是否是View的创建线程。 
-ViewRootImpl创建的第一个地方，从Acitivity声明周期handleResumeActivity会被优先调用到，也就是说在OnResume后ViewRootImpl就被创建，这个时候无法在在子线程中访问UI了，上面子线程 延迟了一会，handleResumeActivity已经被调用了，所以发生了崩溃 不延迟在creae里直接设置不会崩溃 线程更新 UI也行，但是只能更新自己创建的View
-
+# 为什么只有主线程能更新UI线程
+-   从代码角度：ViewRootImpl在更新UI的时候检查当前线程是不是创建它的线程，不然的话会报错。（Activity的onResume()之后，ViewRootImpl才实例化，在这之前用子线程更新UI是不会报错的）
+-   从设计角度：如果可以让多个线程更新UI，就要加锁来做线程同步，不然的话就会出现多个线程一起更新UI，导致花屏，和多个线程同时写文件导致文件错乱一样。而加锁来做线程同步的话，不但设计起来很麻烦很容易错，还会导致系统开销增大，性能下降。所以不单是Android，很多其它GUI系统都是使用单线程更新UI。
 
 # 为什么Android系统不建议子线程访问UI
 在android中子线程可以有好多个，但是如果每个线程都可以对ui进行访问，我们的界面可能就会变得混乱不 堪，这样多个线程操作同一资源就会造成线程安全问题，当然，需要解决线程安全问题的时候，我们第一想到的可能 就是加锁，但是加锁会降低运行效率，所以android出于性能的考虑，并没有使用加锁来进行ui操作的控制。

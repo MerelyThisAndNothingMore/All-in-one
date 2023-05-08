@@ -1,7 +1,7 @@
 ---
 tags: 
 alias:
-- activity启动模式
+- Activity 启动模式
 ---
 Activity的启动模式决定了[[Activity]]启动时要进入的[[Activity Stack|任务栈]]中已经存在的[[Activity]]实例是否会被重用。
 

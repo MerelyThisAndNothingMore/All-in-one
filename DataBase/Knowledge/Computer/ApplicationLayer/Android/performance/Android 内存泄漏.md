@@ -2,6 +2,7 @@
 tags: 
 alias:
 ---
+![](https://gd-hbimg.huaban.com/3b085e7cd9190e3b39a06a1b5aacc513a176e9911846a-4ky4yN)
 
 1 非静态内部类默示持有外部类的引用，如非静态handler持有activity的引用
 

@@ -3,6 +3,9 @@ tags:
 alias:
 ---
 # 原理
+
+![](https://gd-hbimg.huaban.com/538657b5f9b4ab0c197484538bbcc35f04092ee7cf45-0EsHdr_fw1200webp)
+
 ## 启动流程
 ![](https://gd-hbimg.huaban.com/6ed5ce04b6586ffa92d944d83b293535a67b87aee6fc-Cl4LRw) 
 1.  Process A进程采用Binder IPC向system_server进程发起startService请求；

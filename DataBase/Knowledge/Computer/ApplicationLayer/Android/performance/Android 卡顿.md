@@ -2,6 +2,9 @@
 tags: 
 alias:
 ---
+
+![](https://gd-hbimg.huaban.com/ed85ec89ad65e9c60159c9c8b295c463d3cbfb1157d6-j9ZmnT)
+
 # 分类
 ## UI卡顿
 ### 系统负载
@@ -12,6 +15,7 @@ CPU、GPU、内存、功耗、发热
 ### UI引起的流卡顿
 ### 流引起的UI卡顿
 # 优化方案
+
 ## UI布局优化
 overdraw：指定绘制区域、选择合理的控件、去掉不必要的背景
 inflate：异步Inflate、X2C

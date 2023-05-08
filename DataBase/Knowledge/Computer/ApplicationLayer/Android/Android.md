@@ -9,10 +9,22 @@ alias:
 #### 生命周期
 [[Activity 生命周期]]
 [[Fragment生命周期]]
-#### 启动模式
+#### 启动
 [[Activity Launch Mode|activity启动模式]]
+[[Activity 启动过程]]
+#### 卡顿
+[[Android 卡顿]]
+[[Activity 启动优化]]
+#### 状态保存
+[[Activity 数据保存]]
+### [[BroadcastReceiver]]
+### [[ContentProvider]]
+[[Intent]]
+[[Binder]]
+### [[Service]]
 
-
+## 多线程
+[[Handler]]
 
 # Android Architecture 
  ![android 架构](https://gd-hbimg.huaban.com/0013250d2f5e5785df2cac0155578e63e95a223018c2f-WHEJyK)
