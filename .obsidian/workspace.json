@@ -253,9 +253,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ee006288bc366a53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/ARouter.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c865d09a4c4c1076",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/AOP/AOP.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 18
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -284,7 +310,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:dalv",
+                "query": "tag:#组件化优点和方案",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -332,7 +358,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/组件化.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/AOP/AOP.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -367,7 +393,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/组件化.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/AOP/AOP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -384,7 +410,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/组件化.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/AOP/AOP.md"
               }
             }
           },
@@ -410,7 +436,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/组件化.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/AOP/AOP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -467,10 +493,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "742d6d195f515478",
+  "active": "c865d09a4c4c1076",
   "lastOpenFiles": [
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/模块化.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/插件化.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/AOP/AOP.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/AOP",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/ARouter.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/组件化.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/模块化.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Anim/Anim.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/ART虚拟机.md",
@@ -493,9 +523,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/内存优化.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/Android 中的OOM.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/Android中的内存泄漏.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/内存泄漏.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/GC.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/Java.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/设计框架",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Anim",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/WebView",
@@ -504,7 +531,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View事件分发",
     "DataBase/Skills/GameDevelop",
     "Outputs/GameDevelop/思考",
-    "DataBase/Reality/Games/IndependentGame/Untitled",
     "WorkDesk.canvas",
     "Resources/Images/Pasted image 20230414234101.png",
     "Outputs/NovelWriting/花下/花下大纲.canvas",
