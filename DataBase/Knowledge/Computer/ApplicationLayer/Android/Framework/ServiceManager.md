@@ -30,3 +30,19 @@ alias:
 4、ActivityManagerService把从Service处得到这个Binder对象传给Activity，这里是通过IServiceConnection binder实现。
 
 5、Activity被唤醒后通过Binder Stub的asInterface函数将Binder转换为代理Proxy，完成业务代理的转换，之 后就能利用Proxy进行通信了。
+
+# SystemServer，ServiceManager，SystemServiceManager的关系
+在SystemServer进程中创建SystemServiceManager, ServiceManager是系统服务管理 者,SysytemServiceManager启动一些继承自SystemService的服务，并将这些服务的Binder注册到ServiceManager 中，对于其他的一些继承于IBinder的服务,通过ServiceMaanager的addService方法添加
+
+SystemServer:
+
+SystemServer是一个由zygote孵化出来的进程， 名字为system_server 。 SystemServer叫做系统服务进程， 大部分Android提供的一些系统服务都运行在该进程中,包括AMS，WMS，PMS，这些系统的服务都是以一个线程的 方式存在在SysyemServer进程中。
+
+SystemServiceManager: 管理一些系统的服务，在SystemServer中初始化。启动各种系统服务:WMS/PMS/AMS等,调用ServerManager
+
+的addService方，将这些Service服务注册到ServerManager里面 ServiceManager:
+
+ServiceManager像是一个路由，Service把自己注册在ServiceManager中,客户端 通过ServiceManager查询服 务
+
+1、维护一个svclist列表来存储service信息。  
+2、向客户端提供Service的代理，也就是BinderProxy。 3、维护一个死循环，不断的查看是否有service的操作请求，如果有就读取相应的内核binder driver。
