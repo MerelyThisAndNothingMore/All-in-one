@@ -58,9 +58,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2d6d73d1b28b899d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/卡顿.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -137,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/冷启动.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/卡顿.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -172,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/冷启动.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/卡顿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/冷启动.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/卡顿.md"
               }
             }
           },
@@ -215,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/冷启动.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/卡顿.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -272,11 +285,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a8a9ac0a0c152b73",
+  "active": "2d6d73d1b28b899d",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/冷启动.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/卡顿.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/温启动.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/热启动.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/冷启动.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/performance.md",
     "Work/工作经历/录播/录播.md",
     "Work/工作经历/录播/进房预加载优化.md",
@@ -303,7 +317,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/AOP",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/ARouter.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/模块化.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Anim/Anim.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/设计框架",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Anim",
