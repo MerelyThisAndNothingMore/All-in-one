@@ -67,7 +67,85 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/引用类型.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/Feature.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c2e4d593bfe9bf4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/Collections/HashMap 1.7.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26f3f865a9515051",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/MultiThread.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16d94010bd9df017",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/volatile.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1e19ae5582077c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/Synchronized.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1fdc33129c6c1184",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/方法重载.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f84d442ffb76a6e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/Synchronized.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -114,7 +192,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -143,7 +221,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:更新",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -191,7 +269,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/引用类型.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/Synchronized.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -226,7 +304,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/引用类型.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/Synchronized.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +321,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/引用类型.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/Synchronized.md"
               }
             }
           },
@@ -269,7 +347,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/引用类型.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/Synchronized.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -326,12 +404,22 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "67062e5473b3aee1",
+  "active": "f84d442ffb76a6e4",
   "lastOpenFiles": [
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/方法重写.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/引用类型.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/MultiThread.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/反射.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/方法重载.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/Feature.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/线程池.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/Synchronized.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/volatile.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/Android 中的OOM.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/Collections/HashMap 1.8.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/Collections/HashMap 1.7.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/Collections",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/引用类型.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/方法重写.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/Java.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md",
@@ -348,15 +436,7 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Untitled.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/JNI.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/NDK.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/JDK.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/AIDL.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/OpenSourceFramework/OpenSourceFramework.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/performance.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/子线程更新UI.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/布局",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/zygote进程.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 启动过程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/持久化",
     "Resources/Images/Pasted image 20230508155739.png",
     "WorkDesk.canvas",
@@ -364,8 +444,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Jectpack",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/AOP",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/设计框架",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Anim",
     "Resources/Images/Pasted image 20230414234101.png",
     "Outputs/NovelWriting/花下/花下大纲.canvas",
     "Outputs/NovelWriting/花下/Drawing 2023-04-14 11.52.54.excalidraw.svg",
