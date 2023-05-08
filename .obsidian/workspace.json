@@ -36,12 +36,12 @@
             }
           },
           {
-            "id": "65418787708269e1",
+            "id": "9c621a3b05a13932",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 对象.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/排序.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,12 +49,12 @@
             }
           },
           {
-            "id": "e81b641eb3976f83",
+            "id": "4c5eddcdb51bc1fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/垃圾回收.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/快速排序.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -139,7 +139,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/垃圾回收.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/快速排序.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/垃圾回收.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/快速排序.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/垃圾回收.md"
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/快速排序.md"
               }
             }
           },
@@ -217,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/垃圾回收.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/快速排序.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -274,9 +274,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e81b641eb3976f83",
+  "active": "4c5eddcdb51bc1fe",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/排序.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/快速排序.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/冒泡排序.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 对象.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/Java.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/垃圾回收.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 类加载.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 内存模型.md",
@@ -301,11 +306,7 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/java/Collections",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/引用类型.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/方法重写.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/Java.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/设计框架/MVVM.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/设计框架/MVP.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/热修复",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/布局",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/持久化",
@@ -313,7 +314,6 @@
     "WorkDesk.canvas",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/OpenSourceFramework",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Jectpack",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/AOP",
     "Resources/Images/Pasted image 20230414234101.png",
     "Outputs/NovelWriting/花下/花下大纲.canvas",
     "Outputs/NovelWriting/花下/Drawing 2023-04-14 11.52.54.excalidraw.svg",
