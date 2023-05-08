@@ -3,6 +3,10 @@ tags:
 alias:
 ---
 # 原理
+![](https://imgconvert.csdnimg.cn/aHR0cHM6Ly91cGxvYWQtaW1hZ2VzLmppYW5zaHUuaW8vdXBsb2FkX2ltYWdlcy85NDQzNjUtOWYwOTkzMjg3NzBkYWZhYi5wbmc?x-oss-process=image/format,png)
+![](https://imgconvert.csdnimg.cn/aHR0cHM6Ly91cGxvYWQtaW1hZ2VzLmppYW5zaHUuaW8vdXBsb2FkX2ltYWdlcy85NDQzNjUtMGVkODc0Y2IzMjg3YTdlMi5wbmc?x-oss-process=image/format,png)
+
+
 
 MVP框架由3部分组成:View负责显示，Presenter负责逻辑处理，Model提供数据。
 

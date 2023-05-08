@@ -25,6 +25,11 @@ alias:
 
 ## 多线程
 [[Handler]]
+## [[自定义View]]
+## [[performance]]
+## [[OpenSourceFramework]]
+## 进阶技术
+kotlin
 
 # Android Architecture 
  ![android 架构](https://gd-hbimg.huaban.com/0013250d2f5e5785df2cac0155578e63e95a223018c2f-WHEJyK)

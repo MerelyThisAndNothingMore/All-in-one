@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android 签名.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/设计框架/MVP.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -41,7 +41,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/布局/布局.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/AIDL.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b6462742ded01dd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/JNI.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07713f2c05fd3285",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/布局/布局.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/设计框架/MVP.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -161,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/布局/布局.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/设计框架/MVP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/布局/布局.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/设计框架/MVP.md"
               }
             }
           },
@@ -204,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/布局/布局.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/设计框架/MVP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,35 +287,35 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "bcb33e481c3d173d",
+  "active": "adae46a87001576a",
   "lastOpenFiles": [
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/子线程更新UI.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/设计框架/MVC.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/设计框架/设计框架.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/插件化.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android 签名.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Untitled.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/JNI.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Jectpack/Jectpack.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/NDK.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/JDK.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/AIDL.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/Java.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/OpenSourceFramework/OpenSourceFramework.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/performance.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/布局/布局.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/子线程更新UI.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/布局",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/zygote进程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 启动过程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 启动方法.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android 进程.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android 签名.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Service/Service.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Intent.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/ContentProvider/ContentProvider.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 数据保存.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/BroadcastReceiver/BroadcastReceiver.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/Activity 启动优化.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/Android 卡顿.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/Android 内存泄漏.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/Android.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity Launch Mode.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/持久化/持久化.md",
-    "Home Page.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 生命周期.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 视图结构.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Fragment/Fragment生命周期.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Window.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/持久化",
     "Resources/Images/Pasted image 20230508155739.png",
     "WorkDesk.canvas",
