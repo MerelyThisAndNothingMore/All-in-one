@@ -3,7 +3,7 @@ tags:
 alias:
 ---
 # 创建流程
-![](https://imgconvert.csdnimg.cn/aHR0cDovL3VwbG9hZC1pbWFnZXMuamlhbnNodS5pby91cGxvYWRfaW1hZ2VzLzk0NDM2NS0yZGIxYjExYTRjYjk4ZjFiLnBuZw?x-oss-process=image/format,png)
+![](https://imgconvert.csdnimg.cn/aHR0cDovL3VwbG9hZC1pbWFnZXMuamlhbnNodS5pby91cGxvYWRfaW1hZ2VzLzk0NDM2NS1kY2FjYTJhYTc4NDMwMGZjLnBuZw?x-oss-process=image/format,png)
 ## 步骤1：类加载检查
 1.  检查 该`new`指令的参数 是否能在 常量池中 定位到一个类的符号引用
 2.  检查 该类符号引用 代表的类是否已被加载、解析和初始化过
@@ -50,15 +50,39 @@ alias:
 虚拟机是否使用TLAB，可以通过-XX:+/-UseTLAB参数来设定。
 ## 步骤3： 将内存空间初始化为零值
 
+内存分配完成后，虚拟机需要将分配到的内存空间初始化为零（不包括对象头）
+
+> 1.  保证了对象的实例字段在使用时可不赋初始值就直接使用（对应值 = 0）
+> 2.  如使用本地线程分配缓冲（TLAB），这一工作过程也可以提前至TLAB分配时进行。
+
+## 步骤4： 对对象进行必要的设置
+
+如，设置 这个对象是哪个类的实例、如何才能找到类的元数据信息、对象的哈希码、对象的GC分代年龄等信息。
+
+**这些信息存放在对象的对象头中**。
+-   至此，从 `Java` 虚拟机的角度来看，一个新的 `Java`对象创建完毕
+-   但从 `Java` 程序开发来说，对象创建才刚开始，需要进行一些初始化操作。
 
 
+# 对象的内存布局
+-   问题：在 `Java` 对象创建后，到底是如何被存储在Java内存里的呢？
+-   答：在`Java`虚拟机（`HotSpot`）中，对象在 `Java` 内存中的 存储布局 可分为三块：
+    1.  对象头 存储区域
+    2.  实例数据 存储区域
+    3.  对齐填充 存储区域
+![](https://imgconvert.csdnimg.cn/aHR0cDovL3VwbG9hZC1pbWFnZXMuamlhbnNodS5pby91cGxvYWRfaW1hZ2VzLzk0NDM2NS1mOWQyNTk3NTczMjE2NGJjLnBuZw?x-oss-process=image/format,png)
+# 对象的访问定位
+问：建立对象后，该如何访问对象呢？
+实际上需访问的是 对象类型数据 & 对象实例数据
 
+答：Java程序 通过 栈上的引用类型数据（reference） 来访问Java堆上的对象
+由于引用类型数据（reference）在 Java虚拟机中只规定了一个指向对象的引用，但没定义该引用应该通过何种方式去定位、访问堆中的对象的具体位置
 
+所以对象访问方式取决于虚拟机实现。目前主流的对象访问方式有两种：
 
-
-
-
-
+句柄 访问
+直接指针 访问
+![](https://imgconvert.csdnimg.cn/aHR0cDovL3VwbG9hZC1pbWFnZXMuamlhbnNodS5pby91cGxvYWRfaW1hZ2VzLzk0NDM2NS0yZjQ5MjgxNzNlNzM0ZTNlLnBuZw?x-oss-process=image/format,png)
 
 # Java对象如何判断存活
 ## 引用计数法
