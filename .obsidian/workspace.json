@@ -195,7 +195,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Window.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity Stack.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -280,7 +280,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Window.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity Stack.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -315,7 +315,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Window.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity Stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -332,7 +332,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Window.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity Stack.md"
               }
             }
           },
@@ -358,7 +358,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Window.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity Stack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -417,10 +417,14 @@
   },
   "active": "744f5da2412c9bc7",
   "lastOpenFiles": [
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Window Manager.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Window.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 视图结构.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity Thread.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/AMS.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android系统启动流程.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Window.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Window Manager.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 视图结构.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/设计框架/设计框架.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/启动优化.md",
@@ -440,10 +444,6 @@
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/IPC.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Threads.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Processes.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Handler.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/设计框架/MVVM.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/设计框架/MVP.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/设计框架/MVC.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/设计框架",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Anim",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/WebView",
