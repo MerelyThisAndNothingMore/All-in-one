@@ -17,7 +17,11 @@ Presenter: 逻辑处理，从Model拿数据，回显到UI层，响应用户的�
 Model:负责存储、检索、操纵数据(有时也实现一个Model interface用来降低耦合)。
 
 google todo-mvp加入契约类来统一管理view与presenter的所有的接口，这种方式使得view与presenter中有哪 些功能，一目了然
+## 优点：（对比MVC模式）
+耦合度更低：通过Presenter实现数据和视图之间的交互，完全隔离了View层与Mode层，二者互不干涉
+避免了View、Model的直接联系，又通过Presenter实现两者之间的沟通
 
+Activity代码变得更加简洁：简化了Activity的职责，仅负责UI相关操作，其余复杂的逻辑代码提取到了Presenter层中进行处理
 # 优点
 
 1.分离视图逻辑和业务逻辑，降低了耦合，修改视图而不影响模型，不需要改变Presenter的逻辑 模型与视图完 全分离，我们可以修改视图而不影响模型;
@@ -28,7 +32,7 @@ google todo-mvp加入契约类来统一管理view与presenter的所有的接口�
 
 Presenter是通过interface与View(Activity)进行交互的，这说明我们可以通过自定义类实现这个interface来模拟 Activity的行为对Presenter进行单元测试，省去了大量的部署及测试的时间(不需要将应用部署到Android模拟器或 真机上，然后通过模拟用 户操作进行测试)
 
-缺点  
+## 缺点  
 1.那就是对 UI 的操作必须在 Activity 与 Fragment 的生命周期之内，更细致一点，最好在 onStart() 之后
 
 onPause()之前，否则极其容易出现各种异常，内存泄漏。 2.Presenter与View之间的耦合度高，app中很多界面都使用了同一个Presenter 。一旦需要变更，那么视图需要变更了。

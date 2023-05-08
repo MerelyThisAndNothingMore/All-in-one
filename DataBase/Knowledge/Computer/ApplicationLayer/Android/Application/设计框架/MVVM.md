@@ -2,6 +2,10 @@
 tags: 
 alias:
 ---
+
+# 定义
+![](https://gd-hbimg.huaban.com/21e403c8403f48072aab06f9ff473cf169ef4b7fce96-uFmpWb)
+
 View层包含布局,以及布局生命周期控制器(Activity/Fragment)
 
 ViewModel与Presenter大致相同,都是负责处理数据和实现业务逻辑,但 ViewModel层不应该直接或者间接地持 有View层的任何引用
