@@ -3,6 +3,7 @@ tags:
 alias:
 ---
 # 介绍
+![](https://gd-hbimg.huaban.com/0fbb8a4891c3a1cb92bbbf7612877ec0fae5b6287942-FCdTK9)
 ![](https://gd-hbimg.huaban.com/a3005ced87fdb78f746f96ca53ffa6fbae8bf0d9ec87-qQPZ1q)
 `Fragment`的生命周期函数很多，但其实`Fragment`中只定义了6种状态
 

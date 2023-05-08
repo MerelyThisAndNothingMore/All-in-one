@@ -1,3 +1,19 @@
+---
+tags: 
+alias:
+---
+# 考点介绍
+![](https://gd-hbimg.huaban.com/2e64c959a359c60889ab92745205d63e0ce8e48e688e7-PlteSl)
+## 四大组件
+### [[Activity|Activity]] 
+#### 生命周期
+[[Activity 生命周期]]
+[[Fragment生命周期]]
+#### 启动模式
+[[Activity Launch Mode|activity启动模式]]
+
+
+
 # Android Architecture 
  ![android 架构](https://gd-hbimg.huaban.com/0013250d2f5e5785df2cac0155578e63e95a223018c2f-WHEJyK)
 #### **应用层**

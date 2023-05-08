@@ -2,6 +2,7 @@
 tags: 
 alias:
 ---
+![](https://gd-hbimg.huaban.com/02aa19919a77143dbf62c28c6be0a9ed6478dd5b768c-FEkR1l_fw1200webp)
 # 基础
 | 方法         | 描述     |  
 | :------------- |:-------------|   

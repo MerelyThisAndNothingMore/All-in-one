@@ -11,6 +11,7 @@ Activity的启动模式决定了[[Activity]]启动时要进入的[[Activity Stac
 | singleTop      | 若栈顶存在实例,重用栈顶实例;否则创建新实例入栈                                                  | 尽量一个     | 消息打开的页面 |
 | singleTask     | 每次启动都会创建新的栈,并将实例入栈；如果对应栈中已经有实例，则弹出所有位于该实例上的Activity。 | 一个         | 主界面         |
 | singleInstance | 同singleTask,但新栈只能容纳该Activity实例,完全隔离                                              | 一个         | 呼叫来电界面               |
+![](https://gd-hbimg.huaban.com/4dafbc63a391c01039f4c1272d8064cda8b4ff6baf00-S9nE32)
 
 
 
