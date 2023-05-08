@@ -60,9 +60,165 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a4b9bb3db8f4b08a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/插入排序.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef51faa34e58b71c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/希尔排序.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec3c935af2b4c6ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/简单选择排序.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a7321aa19d4b010",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/堆排序.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe5b49f809ed4d2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/查找/查找.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "152b5cb48d3adc8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/查找/顺序查找.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f74d31b1e16a863",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/查找/有序查找.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee0f9b7d914c4d5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/查找/线性索引查找.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c635fdfae86ef7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/查找/动态查找.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d8b66b26f3e395b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/AVL树.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "38c9623455bd37d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/查找/动态查找.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd4d95bcef972001",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/Hash Collision.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -139,7 +295,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/快速排序.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/Hash Collision.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -174,7 +330,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/快速排序.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/Hash Collision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +347,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/快速排序.md"
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/Hash Collision.md"
               }
             }
           },
@@ -217,7 +373,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/快速排序.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/Hash Collision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -274,9 +430,26 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4c5eddcdb51bc1fe",
+  "active": "cd4d95bcef972001",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/Hash.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/Hash Collision.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/查找/散列查找.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/查找/动态查找.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/查找/有序查找.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/多路查找树.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/AVL树.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/查找/线性索引查找.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/查找/顺序查找.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/查找/查找.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/搜索.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/排序.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/查找",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/归并排序.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/堆排序.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/简单选择排序.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/希尔排序.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/插入排序.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/快速排序.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/冒泡排序.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 对象.md",
@@ -287,25 +460,9 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 内存模型.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 堆.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java虚拟机栈.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/本地方法栈.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/程序计数器.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/方法区.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/JVM.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/Feature.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/MultiThread.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/Synchronized.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/反射.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/方法重载.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/线程池.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/volatile.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/Android 中的OOM.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/Collections/HashMap 1.8.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/Collections/HashMap 1.7.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/Collections",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/引用类型.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/方法重写.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/热修复",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/布局",
@@ -313,7 +470,6 @@
     "Resources/Images/Pasted image 20230508155739.png",
     "WorkDesk.canvas",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/OpenSourceFramework",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Jectpack",
     "Resources/Images/Pasted image 20230414234101.png",
     "Outputs/NovelWriting/花下/花下大纲.canvas",
     "Outputs/NovelWriting/花下/Drawing 2023-04-14 11.52.54.excalidraw.svg",

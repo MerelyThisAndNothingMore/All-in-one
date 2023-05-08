@@ -5,6 +5,8 @@ alias:
 ---
 不同的入参，在hash函数下得到相同的结果
 # 处理方法
+![](https://img-blog.csdnimg.cn/img_convert/af4ee6af33708aa2dcea69b3707a02e2.png)
+
 ## 开放定址法
 按照一定规则向其他地址探测，直到遇到空桶
 ## 再Hash法
