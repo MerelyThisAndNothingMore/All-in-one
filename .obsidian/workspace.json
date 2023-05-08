@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "adae46a87001576a",
+            "id": "a6c5ed045a74ce09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/Feature.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 对象.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -36,233 +36,12 @@
             }
           },
           {
-            "id": "8e58c828cb406566",
+            "id": "65418787708269e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/方法重载.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "681c7fbee0e765ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/方法重写.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "67062e5473b3aee1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/Feature.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c2e4d593bfe9bf4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/Collections/HashMap 1.7.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26f3f865a9515051",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/MultiThread.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16d94010bd9df017",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/volatile.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1e19ae5582077c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/Synchronized.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1fdc33129c6c1184",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/方法重载.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f84d442ffb76a6e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/JVM.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "87f105297ff1c6a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 内存模型.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5aa5db63513e6160",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 堆.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "156e13e10acfb054",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java虚拟机栈.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "116530c743f337d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/本地方法栈.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a405d61efde2f5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 内存模型.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "65c8a82a51f4a0e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 内存模型.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bcb33e481c3d173d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/AIDL.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b6462742ded01dd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/JNI.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "07713f2c05fd3285",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Untitled.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 类加载.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -270,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -347,7 +126,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 内存模型.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 类加载.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -382,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 内存模型.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 类加载.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -399,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 内存模型.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 类加载.md"
               }
             }
           },
@@ -425,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 内存模型.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 类加载.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -482,13 +261,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "65c8a82a51f4a0e4",
+  "active": "65418787708269e1",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 对象.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 类加载.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 内存模型.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 堆.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java虚拟机栈.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/本地方法栈.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/程序计数器.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 内存模型.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/方法区.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/JVM.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/Feature.md",
@@ -512,8 +293,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/设计框架/MVVM.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/设计框架/MVP.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/设计框架/设计框架.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/热修复/热修复.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/布局/布局.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/热修复",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/布局",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/持久化",
