@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Android 系统显示原理.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/卡顿.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -150,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Android 系统显示原理.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/卡顿.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Android 系统显示原理.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/卡顿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Android 系统显示原理.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/卡顿.md"
               }
             }
           },
@@ -228,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Android 系统显示原理.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/卡顿.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -287,6 +287,7 @@
   },
   "active": "2d6d73d1b28b899d",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Android 系统显示原理.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/VSync.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/卡顿.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/冷启动.md",
@@ -316,7 +317,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/插件化.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/AOP",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/ARouter.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/模块化.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/设计框架",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Anim",
