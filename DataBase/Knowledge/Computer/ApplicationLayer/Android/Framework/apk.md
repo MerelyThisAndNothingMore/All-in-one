@@ -3,6 +3,7 @@ tags:
 alias:
 ---
 # apk组成和Android的打包流程?
+## 文件目录
 resources.arsc 编译后的二进制资源文件。
 
 classes.dex 是.dex文件。最终生成的Dalvik字节码
@@ -19,9 +20,18 @@ CERT.SF(待签名文件):除了开头处定义的SHA256(SHA1)-Digest-Manifest值
 
 CERT.RSA(签名结果文件):其中包含了公钥、加密算法等信息。首先对前一步生成的MANIFEST.MF使用了 SHA256(SHA1)-RSA算法，用开发者私钥签名，然后在安装时使用公钥解密。最后，将其与未加密的摘要信息 (MANIFEST.MF文件)进行对比，如果相符，则表明内容没有被修改。
 
-具体打包过程
+## 具体打包过程
 
-1.aapt 打包资源文件生成 R.java 文件;aidl 生成 java 文件 2.将 java 文件编译为 class 文件 3.将工程及第三方的 class 文件转换成 dex 文件 4.将 dex 文件、so、编译过的资源、原始资源等打包成 apk 文件 5.签名 6.资源文件对 齐，减少运行时内存
+1.aapt 打包资源
+文件生成 R.java 文件;
+aidl 生成 java 文件 
+编译AndroidManifest.xml，
+编译生成resources.arsc
+2.将 java 文件编译为 class 文件 
+3.将工程及第三方的 class 文件转换成 dex 文件 
+4.将 dex 文件、so、编译过的资源、原始资源等打包成 apk 文件 
+5.签名 
+6.资源文件对齐，减少运行时内存
 
 通过AAPT工具进行资源文件 打包，生成R.java、resources.arsc和res文件
 
@@ -105,5 +115,9 @@ MANIFEST.MF
 
 
 # APK的安装流程
-复制APK到/data/app目录下，解压并扫描安装包。 资源管理器解析APK里的资源文件。 解析AndroidManifest文件，并在/data/data/目录下创建对应的应用数据目录。 然后对dex文件进行优化，并保存在dalvik-cache目录下。 将AndroidManifest文件解析出的四大组件信息注册到PackageManagerService中。 安装完成后，发送广播。
+复制APK到/data/app目录下，解压并扫描安装包。 
+资源管理器解析APK里的资源文件。 解析AndroidManifest文件，并在/data/data/目录下创建对应的应用数据目录。 
+然后针对Dalvik/ART环境优化dex文件，保存到dalvik-cache目录
+将AndroidManifest文件解析出的四大组件和权限信息注册到PackageManagerService中。
+安装完成后，发送广播。
 

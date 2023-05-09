@@ -21,7 +21,7 @@ JNI 是属于 Java 的，与 Android 无直接关系
 1. 在Java中声明Native方法（即需要调用的本地方法）
 2. 编译上述 Java源文件javac（得到 .class文件）
 3. 通过 javah 命令导出JNI的头文件（.h文件）
-4. 使用 Java需要交互的本地代码 实现在 Java中声明的Native方法
+4. 使用 Java需要交互的本地代码（如C++） 实现在 Java中声明的Native方法
    如 Java 需要与 C++ 交互，那么就用C++实现 Java的Native方法
 5. 编译.so库文件
 6. 通过Java命令执行 Java程序，最终实现Java调用本地代码

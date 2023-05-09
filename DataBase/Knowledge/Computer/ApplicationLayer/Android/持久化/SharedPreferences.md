@@ -2,8 +2,28 @@
 tags: 
 alias:
 ---
+# 介绍
 SharedPreference是Android系统中一种简单的、轻量级的文件存储，它是一种持久化的存储方式，以名称/值对（NVP）机制存放在xml中map根标签下，正如其名，它比较适合一些简单数据的存储，用于保存Int、long、boolean、String、Float、Set这些数据类型，可以在data/data/应用程序/shared_prefs的目录下可以查找到保存的xml文件。
 
+## 初始化
+
+第一次getSharePreference会读取磁盘文件，异步读取，写入到内存中，后续的getSharePreference都是从内存中拿了  
+
+第一次读取完毕之前，所有的get/set请求都会被卡住，等待读取完毕后再执行，所以第一次读取会有ANR风险  
+
+所有的get都是从内存中读取
+
+## 提交
+提交都是写入到内存和磁盘中，
+
+apply跟commit的区别在于apply是内存同步，然后磁盘异步写入任务放到一个单线程队列中等待调用，方法无返回，即void  
+
+commit内存同步，只不过要等待磁盘写入结束才返回，直接返回写入成功状态 true or false
+
+## 线程安全
+SharePreferences是线程安全的，里面的方法有大量的synchronized来保障  
+
+SharePreferences不是进程安全的，即使你用了MODE_MULTI_PROCESS
   
 # 优化方向
 -   建议在Application中初始化，重写attachBaseContext()，参数context直接传入Application对象即可。

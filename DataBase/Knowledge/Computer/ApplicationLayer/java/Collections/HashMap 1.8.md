@@ -69,3 +69,9 @@ ConcurrentHashMap使用锁分段技术确保线性安全
 JDK8为何又放弃分段锁，是因为多个分段锁浪费内存空间，竞争同一个锁的概率非常小，分段锁反而会造成效率低。
 
 
+# 为什么推荐用SparseArray代替HashMap？
+
+并不能替换所有的HashMap。只能替换以int类型为key的HashMap。  
+HashMap中如果以int为key，会强制使用Integer这个包装类型，当我们使用int类型作为key的时候系统会自用装箱成为Integer，这个过程会创建对象一想效率。  
+SparseArray内部是一个int数组和一个object数组。可以直接使用int减少了自动装箱操作。
+

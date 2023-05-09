@@ -132,7 +132,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/String.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android App.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5f5fa6bcba8b9fe3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -153,7 +166,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -182,7 +195,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:http",
+                "query": "file:启动",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -199,7 +212,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -230,7 +244,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/String.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -265,7 +279,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/String.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -282,7 +296,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/String.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md"
               }
             }
           },
@@ -308,7 +322,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/String.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -365,14 +379,26 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d723f2f61dcd015d",
+  "active": "5f5fa6bcba8b9fe3",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity Thread.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android系统启动流程.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 启动方法.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/JNI.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/apk.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/Collections/HashMap 1.8.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/LruCache.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Bitmap.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android App.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/持久化/SharedPreferences.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Network/HTTP.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/String.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Array.md",
     "DataBase/Knowledge/Computer/BaseLayer/Network/中间人攻击.md",
     "DataBase/Knowledge/Computer/BaseLayer/Network/ICMP.md",
     "DataBase/Knowledge/Computer/BaseLayer/Network/HTTPS.md",
     "DataBase/Knowledge/Computer/BaseLayer/Network/SSL、TLS.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Network/HTTP.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/序列化.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 数据传递.md",
@@ -381,18 +407,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/组件化.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/插件化.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Anim/Anim.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/持久化/SharedPreferences.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/持久化/DataStore.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/持久化/持久化.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/WebView/WebView.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/WebView/Android Hybrid.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/WebView/JsBridge.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/设计框架/设计框架.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Window.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Handler.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/RecyclerView/RecyclerView的四级缓存机制.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/ViewStub.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/Activity 启动优化.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/字符串匹配",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/动态规划",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Untitled",

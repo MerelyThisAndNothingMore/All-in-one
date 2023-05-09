@@ -154,8 +154,8 @@
     "system_server进程": {
       "system_server进程": {
         "internalLink": {
-          "count": 1,
-          "lastUpdated": 1681798442435
+          "count": 3,
+          "lastUpdated": 1683637099722
         }
       }
     },
@@ -388,6 +388,14 @@
         "internalLink": {
           "count": 2,
           "lastUpdated": 1683635336097
+        }
+      }
+    },
+    "AMS": {
+      "AMS": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1683636881274
         }
       }
     }
