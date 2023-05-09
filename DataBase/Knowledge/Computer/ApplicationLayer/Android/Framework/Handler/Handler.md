@@ -33,3 +33,28 @@ post方法的消息是在post传递的Runnable对象的 run方法中处理，而
 2、创建Message对象时，直接调用setAsynchronous(true) 3、removeSyncBarrier() 移除同步屏障:
 # 使用
 当在A线程中创建handler的时候，同时创建了MessageQueue与Looper，Looper在A线程中调用loop进入一个 无限的for循环从MessageQueue中取消息，当B线程调用handler发送一个message的时候，会通过 msg.target.dispatchMessage(msg);将message插入到handler对应的MessageQueue中，Looper发现有message 插入到MessageQueue中，便取出message执行相应的逻辑，因为Looper.loop()是在A线程中启动的，所以则回到 了A线程，达到了从B线程切换到A线程的目的。
+
+# Handler发送消息的delay可靠吗？
+不可靠
+## 主线程压力过大(待处理消息过多) 
+若发送的消息过多，主线程处理较慢，导致堆积很多待处理消息，会导致主线程卡顿
+
+handler.postDelayed(run, delay)的消息，调用时间非delay 
+
+MessageQueue如何处理消息： 
+Working Thread(工作线程)
+-->enquequeMessage(MessageQueue，入队一条消息)
+-->wake(Native层：NativeMessageQueue，唤醒)
+-->write(mWakeEventFd，写入消息)
+--↓(唤醒mEpollFd) Looper
+-->next(MessageQueue，处理下一条消息)
+-->pollOnce(Native层：NativeMessageQueue，轮询一条)
+-->epoll_wait(mEpollFd，若此时消息队列中无消息，则在此等待，唤醒后返回一条消息)
+
+
+
+
+  
+
+
+

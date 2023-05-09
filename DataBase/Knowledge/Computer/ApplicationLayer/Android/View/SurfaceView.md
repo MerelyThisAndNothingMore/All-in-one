@@ -2,9 +2,26 @@
 tags: 
 alias:
 ---
+
+Android系统在硬件抽象层中提供了一个Gralloc模块，封装了对帧缓冲区的所有访问操作。 Linux内核在启动的过程中会创建一个类别和名称分别为“graphics”和“fb0”的设备，用来描述系统中的第一个帧缓冲区，即第一个显示屏，其中，数字0表示从设备号。注意，系统中至少要存在一个显示屏，因此，名称为“fb0”的设备是肯定会存在的，否则的话，就是出错了。
+Android系统和Linux内核本身的设计都是支持多个显示屏的，不过，在Android目前的实现中，只支持一个显示屏。 
+init进程在启动的过程中，会启动另外一个进程ueventd来管理系统的设备文件。当ueventd进程启动起来之后，会通过netlink接口来Linux内核通信，以便可以获得内核中的硬件设备变化通知。而当ueventd进程发现内核中创建了一个类型和名称分别为“graphics”和“fb0”的设备的时候，就会这个设备创建一个/dev/graphics/fb0设备文件。这样，用户空间的应用程序就可以通过设备文件/dev/graphics/fb0来访问内核中的帧缓冲区，即在设备的显示屏中绘制指定的画面。
+注意，用户空间的应用程序一般是通过内存映射的方式来访问设备文件/dev/graphics/fb0的。 用户空间的应用程序在使用帧缓冲区之间，首先要加载Gralloc模块，并且获得一个gralloc设备和一个fb设备。有了gralloc设备之后，用户空间中的应用程序就可以申请分配一块图形缓冲区，并且将这块图形缓冲区映射到应用程序的地址空间来，以便可以向里面写入要绘制的画面的内容。最后，用户空间中的应用程序就通过fb设备来将前面已经准备好了的图形缓冲区渲染到帧缓冲区中去，即将图形缓冲区的内容绘制到显示屏中去。
+相应地，当用户空间中的应用程序不再需要使用一块图形缓冲区的时候，就可以通过gralloc设备来释放它，并且将它从地址空间中解除映射 
+
+
+
+
+一般来说，每一个窗口在SurfaceFlinger服务中都对应有一个Layer，用来描述它的绘图表面。对于那些具有SurfaceView的窗口来说，每一个SurfaceView在SurfaceFlinger服务中还对应有一个独立的Layer或者LayerBuffer，用来单独描述它的绘图表面，以区别于它的宿主窗口的绘图表面。 无论是LayerBuffer，还是Layer，它们都是以LayerBase为基类的，也就是说，SurfaceFlinger服务把所有的LayerBuffer和Layer都抽象为LayerBase，因此就可以用统一的流程来绘制和合成它们的UI。 注意，用来描述SurfaceView的Layer或者LayerBuffer的Z轴位置是小于用来其宿主Activity窗口的Layer的Z轴位置的，但是前者会在后者的上面挖一个“洞”出来，以便它的UI可以对用户可见。实际上，SurfaceView在其宿主Activity窗口上所挖的“洞”只不过是在其宿主Activity窗口上设置了一块透明区域。 
+SurfaceView有以下三个特点：
+A. 具有独立的绘图表面； 
+B. 需要在宿主窗口上挖一个洞(即需要在宿主窗口的绘图表面上设置一块透明区域)来显示自己； 
+C. 它的UI绘制可以在独立的线程中进行，这样就可以进行复杂的UI绘制，并且不会影响应用程序的主线程响应用户输入。
+
 # 介绍
 ## 引入
-我们知道View是通过刷新来重绘视图，系统通过发出VSSYNC信号来进行屏幕的重绘，刷新的时间间隔是16ms, 如果我们可以在16ms以内将绘制工作完成，则没有任何问题，如果我们绘制过程逻辑很复杂，并且我们的界面更新 还非常频繁，这时候就会造成界面的卡顿，影响用户体验，为此Android提供了SurfaceView来解决这一问题。他们 的UI不适合在主线程中绘制。对一些游戏画面，或者摄像头，视频播放等，UI都比较复杂，要求能够进行高效的绘 制，因此，他们的UI不适合在主线程中绘制。这时候就必须要给那些需要复杂而高效的UI视图生成一个独立的绘制表 面Surface,并且使用独立的线程来绘制这些视图UI。
+我们知道View是通过刷新来重绘视图，系统通过发出VSSYNC信号来进行屏幕的重绘，刷新的时间间隔是16ms, 如果我们可以在16ms以内将绘制工作完成，则没有任何问题，如果我们绘制过程逻辑很复杂，并且我们的界面更新 还非常频繁，这时候就会造成界面的卡顿，影响用户体验，为此Android提供了SurfaceView来解决这一问题。
+对一些游戏画面，或者摄像头，视频播放等，UI都比较复杂，要求能够进行高效的绘 制，因此，他们的UI不适合在主线程中绘制。这时候就必须要给那些需要复杂而高效的UI视图生成一个独立的绘制表 面Surface,并且使用独立的线程来绘制这些视图UI。
 ## 定义
 SurfaceView是View的子类，且实现了Parcelable接口，其中内嵌了一个专门用于绘制 的Surface，SurfaceView可以控制这个Surface的格式和尺寸，以及Surface的绘制位置。
 可以理解为Surface就是管 理数据的地方，SurfaceView就是展示数据的地方。使用双缓冲机制，有自己的 surface，在一个独立的线程里绘 制。 
@@ -19,6 +36,38 @@ View适用于主动更新的情况，而SurfaceView则适用于被动更新的�
 # SurfaceView、TextureView、SurfaceTexture、GLSurfaceView
 
 SurfaceView:使用双缓冲机制，有自己的 surface，在一个独立的线程里绘制，Android7.0之前不能平移、缩放 TextureView:它不会在WMS中单独创建窗口，而是作为一个普通View，可以和其它普通View一样进行移动，旋 转，缩放，动画等变化。值得注意的是TextureView必须在硬件加速的窗口中。 SurfaceTexture:SurfaceTexture和 SurfaceView不同的是，它对图像流的处理并不直接显示，而是转为OpenGL外部纹理，因此可用于图像流数据的二 次处理(如Camera滤镜，桌面特效等)。 GLSurfaceView:SurfaceView不同的是，它加入了EGL的管理，并自带 了渲染线程。
+
+## SurfaceView
+从Android 1.0(API level 1)时就有 。它继承自类View，因此它本质上是一个View。但与普通View不同的是，它有自己的Surface。
+我们知道，一般的Activity包含的多个View会组成View hierachy的树形结构，只有最顶层的DecorView，也就是根结点视图，才是对WMS可见的。这个DecorView在WMS中有一个对应的WindowState。相应地，在SF中对应的Layer。
+而SurfaceView自带一个Surface，这个Surface在WMS中有自己对应的WindowState，在SF中也会有自己的Layer。 
+虽然在App端它仍在View hierachy中，但在Server端（WMS和SF）中，它与宿主窗口是分离的。
+这样的好处是对这个Surface的渲染可以放到单独线程去做，渲染时可以有自己的GL context。这对于一些游戏、视频等性能相关的应用非常有益，因为它不会影响主线程对事件的响应。
+但它也有缺点，因为这个Surface不在View hierachy中，它的显示也不受View的属性控制，所以不能进行平移，缩放等变换，也不能放在其它ViewGroup中，一些View中的特性也无法使用。 
+## GLSurfaceView
+从Android 1.5(API level 3)开始加入，作为SurfaceView的补充。它可以看作是SurfaceView的一种典型使用模式。在SurfaceView的基础上，它加入了EGL的管理，并自带了渲染线程。另外它定义了用户需要实现的Render接口，提供了用Strategy pattern更改具体Render行为的灵活性。作为GLSurfaceView的Client，只需要将实现了渲染函数的Renderer的实现类设置给GLSurfaceView即可。 其中SurfaceView中的SurfaceHolder主要是提供了一坨操作Surface的接口。GLSurfaceView中的EglHelper和GLThread分别实现了上面提到的管理EGL环境和渲染线程的工作。GLSurfaceView的使用者需要实现Renderer接口。
+## SurfaceTexture
+从Android 3.0(API level 11)加入。和SurfaceView不同的是，它对图像流的处理并不直接显示，而是转为GL外部纹理，因此可用于图像流数据的二次处理（如Camera滤镜，桌面特效等）。
+比如Camera的预览数据，变成纹理后可以交给GLSurfaceView直接显示，也可以通过SurfaceTexture交给TextureView作为View heirachy中的一个硬件加速层来显示。
+首先，SurfaceTexture从图像流（来自Camera预览，视频解码，GL绘制场景等）中获得帧数据，当调用updateTexImage()时， 根据内容流中最近的图像更新SurfaceTexture对应的GL纹理对象，接下来，就可以像操作普通GL纹理一样操作它了。
+从下面的类图中可以看出，它核心管理着一个BufferQueue的Consumer和Producer两端。
+Producer端用于内容流的源输出数据，
+Consumer端用于拿GraphicBuffer并生成纹理。
+SurfaceTexture.OnFrameAvailableListener用于让SurfaceTexture的使用者知道有新数据到来。
+JNISurfaceTextureContext是OnFrameAvailableListener从Native到Java的JNI跳板。其中SurfaceTexture中的attachToGLContext()和detachToGLContext()可以让多个GL context共享同一个内容源。
+Android 5.0中将BufferQueue的核心部分分离出来，放在BufferQueueCore这个类中。BufferQueueProducer和BufferQueueConsumer分别是它的生产者和消费者实现基类（分别实现了IGraphicBufferProducer和IGraphicBufferConsumer接口）。它们都是由BufferQueue的静态函数createBufferQueue()来创建的。Surface是生产者端的实现类，提供dequeueBuffer/queueBuffer等硬件渲染接口，和lockCanvas/unlockCanvasAndPost等软件渲染接口，使内容流的源可以往BufferQueue中填graphic buffer。GLConsumer继承自ConsumerBase，是消费者端的实现类。它在基类的基础上添加了GL相关的操作，如将graphic buffer中的内容转为GL纹理等操作。 
+## TextureView
+在4.0(API level 14)中引入。它可以将内容流直接投影到View中，可以用于实现Live preview等功能。
+和SurfaceView不同，它不会在WMS中单独创建窗口，而是作为View hierachy中的一个普通View，因此可以和其它普通View一样进行移动，旋转，缩放，动画等变化。值得注意的是TextureView必须在硬件加速的窗口中。它显示的内容流数据可以来自App进程或是远端进程。 
+TextureView继承自View，它与其它的View一样在View hierachy中管理与绘制。TextureView重载了draw()方法，其中主要把SurfaceTexture中收到的图像数据作为纹理更新到对应的HardwareLayer中。
+SurfaceTexture.OnFrameAvailableListener用于通知TextureView内容流有新图像到来。S
+urfaceTextureListener接口用于让TextureView的使用者知道SurfaceTexture已准备好，这样就可以把SurfaceTexture交给相应的内容源。
+Surface为BufferQueue的Producer接口实现类，使生产者可以通过它的软件或硬件渲染接口为SurfaceTexture内部的BufferQueue提供graphic buffer。
+
+
+
+
+
 
 
 

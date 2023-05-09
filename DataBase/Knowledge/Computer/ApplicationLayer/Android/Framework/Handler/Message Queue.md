@@ -13,3 +13,18 @@ alias:
 
 # 阻塞
 调用 MessageQueue.next() 方法的时候会调用 Native 层的 nativePollOnce() 方法进行精准时间的阻塞。在 Native 层，将进入 pullInner() 方法，使用 epoll_wait 阻塞等待以读取管道的通知。如果没有从 Native 层得到消 息，那么这个方法就不会返回。此时主线程会释放 CPU 资源进入休眠状态。
+
+
+# 队列优化
+
+重复消息过滤：
+主要针对运行时高频发送的事件类型。
+通过一定手段判断一个合适的频率，通过handler.removeCallbacksAndMessages(msg)移除重复消息。 
+
+互斥消息取消：
+主要针对后面的事件与前面消息的互斥。通过handler.removeCallbacksAndMessages(msg)移除前面互斥的消息。 
+
+复用消息：
+Message.obtain();防止消息对象创建过多引发gc。
+
+  
