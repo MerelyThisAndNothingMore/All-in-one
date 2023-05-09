@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/持久化/SharedPreferences.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/组件化.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -191,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/持久化/SharedPreferences.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/组件化.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -226,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/持久化/SharedPreferences.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/组件化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/持久化/SharedPreferences.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/组件化.md"
               }
             }
           },
@@ -269,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/持久化/SharedPreferences.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/组件化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -328,9 +328,14 @@
   },
   "active": "a61c4bca6f1d2817",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/插件化.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/模块化.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/序列化.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/组件化.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Anim/Anim.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/持久化/SharedPreferences.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/持久化/DataStore.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/持久化/持久化.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/持久化/SharedPreferences.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/WebView/WebView.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/WebView/Android Hybrid.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/WebView/JsBridge.md",
@@ -349,11 +354,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View事件分发/View事件分发.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/Collections/HashMap 1.7.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/Collections/HashMap 1.8.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/Fundamentals/equals().md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation/Interview preparation.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/三级缓冲.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/双缓冲.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Android 系统显示原理.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/字符串匹配",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/动态规划",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Untitled",
