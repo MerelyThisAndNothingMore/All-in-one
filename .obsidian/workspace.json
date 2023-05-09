@@ -236,7 +236,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/链表.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Stack.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -321,7 +321,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/链表.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Stack.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -356,7 +356,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/链表.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -373,7 +373,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/链表.md"
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Stack.md"
               }
             }
           },
@@ -399,7 +399,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/链表.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Stack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -458,6 +458,7 @@
   },
   "active": "0075de243e062d89",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/链表.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/平衡二叉搜索树.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Array.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/查找/查找.md",
@@ -484,7 +485,6 @@
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/插入排序.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/快速排序.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/冒泡排序.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 对象.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread",
