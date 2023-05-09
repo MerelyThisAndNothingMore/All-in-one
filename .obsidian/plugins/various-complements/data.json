@@ -79,103 +79,11 @@
         }
       }
     },
-    "programming": {
-      "programming": {
-        "customDictionary": {
-          "count": 5,
-          "lastUpdated": 1680176413012
-        }
-      }
-    },
-    "any": {
-      "any": {
-        "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1680179503996
-        }
-      }
-    },
-    "Object-oriented": {
-      "Object-oriented": {
-        "internalLink": {
-          "count": 6,
-          "lastUpdated": 1680176408345
-        }
-      }
-    },
-    "concept": {
-      "concept": {
-        "customDictionary": {
-          "count": 3,
-          "lastUpdated": 1680176403729
-        }
-      }
-    },
-    "Object": {
-      "Object": {
-        "internalLink": {
-          "count": 11,
-          "lastUpdated": 1680872385757
-        }
-      }
-    },
-    "Java": {
-      "Java": {
-        "customDictionary": {
-          "count": 3,
-          "lastUpdated": 1680176530048
-        },
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1680176531799
-        }
-      }
-    },
-    "class": {
-      "class": {
-        "internalLink": {
-          "count": 12,
-          "lastUpdated": 1680872378179
-        }
-      }
-    },
-    "Method": {
-      "Method": {
-        "internalLink": {
-          "count": 4,
-          "lastUpdated": 1680179216394
-        }
-      }
-    },
-    "defined": {
-      "defined": {
-        "customDictionary": {
-          "count": 4,
-          "lastUpdated": 1680179293198
-        }
-      }
-    },
-    "1210-01-26": {
-      "1210-01-26": {
-        "frontMatter": {
-          "count": 2,
-          "lastUpdated": 1679823029193
-        }
-      }
-    },
     "tags": {
       "tags": {
         "customDictionary": {
           "count": 10,
           "lastUpdated": 1680958706499
-        }
-      }
-    },
-    "Entertainers": {
-      "Entertainers": {
-        "frontMatter": {
-          "count": 4,
-          "lastUpdated": 1680682151812
         }
       }
     },
@@ -192,194 +100,6 @@
         "frontMatter": {
           "count": 4,
           "lastUpdated": 1681035182783
-        }
-      }
-    },
-    "softwareEngineering": {
-      "softwareEngineering": {
-        "frontMatter": {
-          "count": 10,
-          "lastUpdated": 1680794354370
-        }
-      }
-    },
-    "Description": {
-      "Description": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1679801110973
-        }
-      }
-    },
-    "Social Psychology": {
-      "Social Psychology": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1679822606072
-        }
-      }
-    },
-    "半导体及元件": {
-      "半导体及元件": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1679836754273
-        }
-      }
-    },
-    "Encapsulation": {
-      "Encapsulation": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1680176394346
-        }
-      }
-    },
-    "fundamental": {
-      "fundamental": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1680176399893
-        }
-      }
-    },
-    "OOP": {
-      "OOP": {
-        "internalLink": {
-          "count": 2,
-          "lastUpdated": 1680179210219
-        }
-      }
-    },
-    "involves": {
-      "involves": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1680176469401
-        }
-      }
-    },
-    "procedure": {
-      "procedure": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1680179221145
-        }
-      }
-    },
-    "Function": {
-      "Function": {
-        "internalLink": {
-          "count": 5,
-          "lastUpdated": 1680872368220
-        },
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1680179272467
-        }
-      }
-    },
-    "Documentation": {
-      "Documentation": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1680233910742
-        }
-      }
-    },
-    "[[浪潮信息]]": {
-      "[[浪潮信息]]": {
-        "frontMatter": {
-          "count": 2,
-          "lastUpdated": 1680522238453
-        }
-      }
-    },
-    "Table": {
-      "Table": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1680523013827
-        }
-      }
-    },
-    "profit": {
-      "profit": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1680523161588
-        }
-      }
-    },
-    "chineseActress": {
-      "chineseActress": {
-        "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1680682157933
-        }
-      }
-    },
-    "Android Development": {
-      "Android Development": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1680701168698
-        }
-      }
-    },
-    "设计模式之禅": {
-      "设计模式之禅": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1680793631464
-        }
-      }
-    },
-    "Design Patterns Elements of Reusable Object-Oriented Software": {
-      "Design Patterns Elements of Reusable Object-Oriented Software": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1680793645892
-        }
-      }
-    },
-    "never": {
-      "never": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1680871545410
-        }
-      }
-    },
-    "than": {
-      "than": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1680871551590
-        }
-      }
-    },
-    "reason": {
-      "reason": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1680871555334
-        }
-      }
-    },
-    "origin": {
-      "origin": {
-        "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1680878088178
-        }
-      }
-    },
-    "[[最终幻想VII]]": {
-      "[[最终幻想VII]]": {
-        "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1680878077556
         }
       }
     },
@@ -652,6 +372,22 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1683532355547
+        }
+      }
+    },
+    "Parcelable": {
+      "Parcelable": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683634328201
+        }
+      }
+    },
+    "HTTPS": {
+      "HTTPS": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1683635336097
         }
       }
     }
