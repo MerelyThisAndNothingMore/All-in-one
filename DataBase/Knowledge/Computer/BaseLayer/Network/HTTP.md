@@ -2,7 +2,7 @@
 tags: 
 alias:
 ---
-
+https://carsonho.blog.csdn.net/article/details/82106781
 # 版本
 在`HTTP/1.0` 中每一次请求都需要建立一个 TCP 连接，请求结束后立即断开连接。
 

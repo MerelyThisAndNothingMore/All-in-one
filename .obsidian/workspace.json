@@ -255,9 +255,165 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "aa3fe390b5f18496",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5aa6ad069e4a55e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Threads.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "569898315c14950c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Network/Network.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "50e50a0682dfd77f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Network/Network.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9aea0fd726bb5b4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Network/IP地址.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef5c9b335a535026",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Network/ICMP.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad1d600d9ffded85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Network/Ping.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd4af15154730c3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Network/路由机.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4890a4444ef825db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Network/Cookie.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a78dbe56858e524",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Network/TCP.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "602a8a5d2bc7652a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Network/HTTP.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b6bffd6e5f64bba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/JVM.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 18
+        "currentTab": 30
       }
     ],
     "direction": "vertical"
@@ -286,7 +442,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:TCP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -334,7 +490,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Map.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/JVM.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -369,7 +525,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Map.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/JVM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -386,7 +542,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Map.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/JVM.md"
               }
             }
           },
@@ -412,7 +568,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Map.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/JVM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -469,35 +625,35 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9d9e171c5d178090",
+  "active": "1b6bffd6e5f64bba",
   "lastOpenFiles": [
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/String.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Set.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Trees.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/树的遍历.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Stack.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/链表.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/平衡二叉搜索树.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Array.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/查找/查找.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/编程题/数字在排序数组中出现的次数（53）.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/编程题/数组中唯一出现一次的数字（56-1）.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/编程题/0020. 有效的括号.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/编程题/0001. 两数之和.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/Hash Collision.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/Hash.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/查找/散列查找.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/查找/动态查找.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/查找/有序查找.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/多路查找树.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/AVL树.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/查找/线性索引查找.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/查找/顺序查找.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/搜索.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/排序.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/Java.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Design Patterns.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Software engineering.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Network/Network.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation/Interview preparation.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Science/computer science.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Network/Socket.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Network/HTTP.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Network/TCP.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Network/UDP.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Network/Cookie.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Network/路由机.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Network/Ping.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Network/ICMP.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Network/IP地址.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Network/计算机网络体系.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Network/队头阻塞.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Virtual Memory.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/死锁.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Threads.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Processes.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android 进程.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android 跨进程通信.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/IPC.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/共享内存.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/查找",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/归并排序.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/堆排序.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread",
