@@ -145,7 +145,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View事件分发/View事件分发.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fa36c3794e37cd8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/热启动.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -166,7 +179,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -195,7 +208,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:启动",
+                "query": "file:优化",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -212,8 +225,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -244,7 +256,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/热启动.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -279,7 +291,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/热启动.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +308,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/热启动.md"
               }
             }
           },
@@ -322,7 +334,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/热启动.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -379,10 +391,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5f5fa6bcba8b9fe3",
+  "active": "fa36c3794e37cd8d",
   "lastOpenFiles": [
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity Thread.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/Activity 启动优化.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/performance.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/内存优化.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View事件分发/滑动冲突.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View事件分发/View事件分发.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity Thread.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android系统启动流程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 启动方法.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/JNI.md",
@@ -402,11 +419,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/序列化.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 数据传递.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/热修复/热修复.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/模块化.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/组件化.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/插件化.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Anim/Anim.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/字符串匹配",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/动态规划",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Untitled",
