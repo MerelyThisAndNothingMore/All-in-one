@@ -51,10 +51,21 @@ Working Thread(工作线程)
 -->pollOnce(Native层：NativeMessageQueue，轮询一条)
 -->epoll_wait(mEpollFd，若此时消息队列中无消息，则在此等待，唤醒后返回一条消息)
 
+# [[内存泄漏|内存泄漏]]分析
+https://www.cnblogs.com/jimuzz/p/14187408.html
 
+## 发送延迟消息
+`Handler`导致内存泄漏一般发生在发送延迟消息的时候，当`Activity`关闭之后，延迟消息还没发出，那么主线程中的`MessageQueue`就会持有这个消息的引用，而这个消息是持有`Handler`的引用，而`handler`作为匿名内部类持有了`Activity`的引用，所以就有了以下的一条引用链:
 
+主线程 
+—> threadlocal 
+—> [[Looper]] 
+—> [[Message Queue]] 
+—> [[Message]] 
+—> [[Handler]] 
+—> [[Activity|Activity]] 
 
-  
-
+  所以这次引用的`头头`就是`主线程`，主线程肯定是不会被回收的，只要是`运行中的线程`都不会被[[JVM]]回收，跟`静态变量`一样被JVM特殊照顾。
+## 子线程运行没结束
 
 

@@ -3,7 +3,12 @@ tags:
 alias:
 ---
 # 介绍
-Android系统架分为应用层，framework层，系统运行库层(Native)，Linux内核层 启动按照一个流程: Loader->kernel->framework->Application来进行的
+Android系统架分为
+应用层，
+framework层，
+系统运行库层(Native)，
+Linux内核层 
+启动按照一个流程: Loader->kernel->framework->Application来进行的
 ![](https://gd-hbimg.huaban.com/977e7143e32ad1e0dc4254a3c4b3b288c194c1dd9928-EuMXvg) 
 Android系统底层基于[[Linux内核|Linux Kernel]], 当Kernel启动过程会创建[[Init进程]], 该进程是所有用户空间的鼻祖, init进程会启动[[ServiceManager]](binder服务管家), [[zygote进程]](Java进程的鼻祖). Zygote进程会创建[[system_server进程]]以及各种app进程.
 
