@@ -23,415 +23,12 @@
             }
           },
           {
-            "id": "a6c5ed045a74ce09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 对象.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c621a3b05a13932",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/排序.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c5eddcdb51bc1fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/快速排序.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a4b9bb3db8f4b08a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/插入排序.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef51faa34e58b71c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/希尔排序.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec3c935af2b4c6ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/简单选择排序.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a7321aa19d4b010",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/堆排序.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe5b49f809ed4d2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/查找/查找.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "152b5cb48d3adc8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/查找/顺序查找.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f74d31b1e16a863",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/查找/有序查找.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee0f9b7d914c4d5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/查找/线性索引查找.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0c635fdfae86ef7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/查找/动态查找.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d8b66b26f3e395b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/AVL树.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38c9623455bd37d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/查找/动态查找.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd4d95bcef972001",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/编程题/0001. 两数之和.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6eb488947df4c960",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/编程题/数组中唯一出现一次的数字（56-1）.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0075de243e062d89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Set.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d9e171c5d178090",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Map.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa3fe390b5f18496",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b5aa6ad069e4a55e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Threads.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "569898315c14950c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Network/Network.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "50e50a0682dfd77f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Network/Network.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9aea0fd726bb5b4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Network/IP地址.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef5c9b335a535026",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Network/ICMP.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad1d600d9ffded85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Network/Ping.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd4af15154730c3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Network/路由机.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4890a4444ef825db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Network/Cookie.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a78dbe56858e524",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Network/TCP.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "602a8a5d2bc7652a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Network/HTTP.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b6bffd6e5f64bba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/SurfaceFlinger.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92680973e75211a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/子线程更新UI.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b159d88caf92f3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity Thread.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/并查集.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -439,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 32
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -468,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:Activity",
+                "query": "file:tree",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -485,8 +82,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -517,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity Thread.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/并查集.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -552,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity Thread.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/并查集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -569,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity Thread.md"
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/并查集.md"
               }
             }
           },
@@ -595,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity Thread.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/并查集.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -652,8 +248,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5b159d88caf92f3d",
+  "active": "602a8a5d2bc7652a",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Trees.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Network/HTTP.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/并查集.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/二叉堆.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Binary Tree.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity Thread.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android ANR.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Message Queue.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Handler.md",
@@ -662,7 +265,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/SurfaceView.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/SurfaceFlinger.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/ViewRoot.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Window.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Window Manager.md",
     "DataBase/Knowledge/Computer/BaseLayer/Network/TCP.md",
@@ -674,12 +276,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation/Interview preparation.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Science/computer science.md",
     "DataBase/Knowledge/Computer/BaseLayer/Network/Socket.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Network/HTTP.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Network/UDP.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Network/Cookie.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Network/路由机.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Network/Ping.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Network/ICMP.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/查找",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM",
