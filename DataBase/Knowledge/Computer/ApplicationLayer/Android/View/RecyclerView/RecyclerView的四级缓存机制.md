@@ -119,7 +119,62 @@ mCachedViews，mRecyclerPool 针对的是滑动回收与复用
 
 另外可以通过setItemViewCacheSize 设置mCachedViews缓存大小，可以通过 recycledViewPool.setMaxRecycledViews() 修改mRecyclerPool缓存大小
 
+-   RecyclerView最多可以缓存 N（屏幕最多可显示的item数【Scrap缓存】） + 2 (屏幕外的缓存【CacheView缓存】) + 5\*M (M代表M个ViewType，缓存池的缓存【RecycledViewPool】)。
+-   RecyclerView实际只有两层缓存可供使用和优化。因为Scrap缓存池不参与滚动的回收复用，所以CacheView缓存池被称为一级缓存，又因为ViewCacheExtension缓存池是给开发者定义的缓存池，一般不用到，所以RecycledViewPool缓存池被称为二级缓存。
+
+  
+# 性能优化方向
+## 提高ViewHolder的复用
+### 多使用Scrap进行局部更新。
+(1) 使用`notifyItemChange`、`notifyItemInserted`、`notifyItemMoved`和`notifyItemRemoved`等方法替代`notifyDataSetChanged`方法。
+
+(2) 使用`notifyItemChanged(int position, @Nullable Object payload)`方法，传入需要刷新的内容进行局部增量刷新。这个方法一般很少有人知道，具体做法如下：
+
+-   首先在notify的时候，在payload中传入需要刷新的数据，一般使用Bundle作为数据的载体。
+-   然后重写`RecyclerView.Adapter`的`onBindViewHolder(@NonNull RecyclerViewHolder holder, int position, @NonNull List<Object> payloads)`方法
+(3) 使用`DiffUtil`、`SortedList`进行局部增量刷新，提高刷新效率。和上面讲的传入`payload`原理一样，这两个是Android默认提供给我们使用的两个封装类。这里我以`DiffUtil`举例说明该如何使用。
+
+-   首先需要实现`DiffUtil.Callback`的5个抽象方法，具体可参考[DiffUtilCallback.java](https://link.juejin.cn?target=https%3A%2F%2Fgithub.com%2Fxuexiangjys%2FXUI%2Fblob%2Fmaster%2Fapp%2Fsrc%2Fmain%2Fjava%2Fcom%2Fxuexiang%2Fxuidemo%2Ffragment%2Fcomponents%2Frefresh%2Fsample%2Fdiffutil%2FDiffUtilCallback.java "https://github.com/xuexiangjys/XUI/blob/master/app/src/main/java/com/xuexiang/xuidemo/fragment/components/refresh/sample/diffutil/DiffUtilCallback.java")
+-   然后调用`DiffUtil.calculateDiff`方法返回比较的结果`DiffUtil.DiffResult`。
+-   最后调用`DiffUtil.DiffResult`的`dispatchUpdatesTo`方法，传入RecyclerView.Adapter进行数据刷新。
+### 合理设置RecyclerViewPool的大小。
+如果一屏的item较多，那么RecyclerViewPool的大小就不能再使用默认的5，可适度增大Pool池的大小。
+如果存在RecyclerView中嵌套RecyclerView的情况，可以考虑复用RecyclerViewPool缓存池，减少开销。
+### 提高缓存的复用率
+为RecyclerView设置`setHasStableIds`为true，并同时重写RecyclerView.Adapter的`getItemId`方法来给每个Item一个唯一的ID，提高缓存的复用率。
+### CacheViews的缓存数量
+视情况使用`setItemViewCacheSize(size)`来加大CacheView缓存数目，用空间换取时间提高流畅度。对于可能来回滑动的RecyclerView，把CacheViews的缓存数量设置大一些，可以省去ViewHolder绑定的时间，加快布局显示。
+### swapAdapter
+当两个数据源大部分相似时，使用`swapAdapter`代替`setAdapter`。这是因为`setAdapter`会直接清空RecyclerView上的所有缓存，但是`swapAdapter`会将RecyclerView上的ViewHolder保存到pool中，这样当数据源相似时，就可以提高缓存的复用率。
+## 优化onBindViewHolder方法
+### 去除冗余的setOnItemClick等事件
+在onBindViewHolder方法中，去除冗余的setOnItemClick等事件。
+因为直接在onBindViewHolder方法中创建匿名内部类的方式来实现setOnItemClick，会导致在RecyclerView快速滑动时创建很多对象。
+应当把事件的绑定在ViewHolder创建的时候和对应的rootView进行绑定。
+### 去除onBindViewHolder方法里面的耗时操作
+
+数据处理与视图绑定分离，去除onBindViewHolder方法里面的耗时操作，只做纯粹的数据绑定操作。当程序走到onBindViewHolder方法时，数据应当是准备完备的，禁止在onBindViewHolder方法里面进行数据获取的操作。
+  
+### 滚动时停止加载图片
+有大量图片时，滚动时停止加载图片，停止后再去加载图片。
+### setHasFixedSize
+对于固定尺寸的item，可以使用`setHasFixedSize`避免`requestLayout`。
+### 优化onCreateViewHolder方法
+1.降低item的布局层级，可以减少界面创建的渲染时间。
+
+2.Prefetch预取。如果你使用的是嵌套的RecyclerView，或者你自己写LayoutManager，则需要自己实现Prefetch，重写`collectAdjacentPrefetchPositions`方法。
+
+## 其他
+1.取消不需要的item动画。具体的做法是：
+
+```java
+((SimpleItemAnimator) recyclerView.getItemAnimator()).setSupportsChangeAnimations(false);
+复制代码
+```
+
+2.使用`getExtraLayoutSpace`为LayoutManager设置更多的预留空间。当RecyclerView的元素比较高，一屏只能显示一个元素的时候，第一次滑动到第二个元素会卡顿，这个时候就需要预留的额外空间，让RecyclerView预加载可重用的缓存。
 
 # References 
 [简书](https://juejin.cn/post/6854573221702795277#heading-9)
 [wan安卓](https://www.wanandroid.com/wenda/show/14222) 
+https://juejin.cn/post/7164032795310817294
