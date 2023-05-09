@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "602a8a5d2bc7652a",
+            "id": "09decbf23152a0af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/图.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Android 系统显示原理.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -36,129 +36,12 @@
             }
           },
           {
-            "id": "1c7946215c38d40d",
+            "id": "4222fddb1e194922",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/布隆过滤器.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "90e61330b4e91ae2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/递归/递归.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7eae38f90d2525c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/递归/斐波那契数列.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a48d8093aab4b762",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/递归/递归.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b02597d35223a40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/回溯/回溯.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "748d50482fd3fa71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/贪心/贪心.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dff0a76a156f277a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/贪心/0-1背包问题.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d84a895db0d976b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/计数排序.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "87ba3b69178fe03c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/桶排序.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80c1b0a002dd8133",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/基数排序.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/字符串匹配/KMP.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -166,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -243,7 +126,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/贪心/0-1背包问题.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Android 系统显示原理.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -278,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/贪心/0-1背包问题.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Android 系统显示原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/贪心/0-1背包问题.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Android 系统显示原理.md"
               }
             }
           },
@@ -321,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/贪心/0-1背包问题.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Android 系统显示原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -378,9 +261,24 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "dff0a76a156f277a",
+  "active": "9efb66c5acbe3c31",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/字符串匹配/字符串匹配.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/字符串匹配/KMP.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/编程题/最长上升子序列（LIS）.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/字符串匹配",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/编程题/最长公共子串.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/编程题/最长公共子序列.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/编程题/0-1背包.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/编程题/0020. 有效的括号.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/动态规划/动态规划.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/分治/分治.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/动态规划",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/编程题/最大连续子序列和.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Untitled",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/编程题/数字在排序数组中出现的次数（53）.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/贪心/贪心.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/分治",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/贪心/0-1背包问题.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/回溯/回溯.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/贪心",
@@ -398,24 +296,9 @@
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/桶排序.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/跳表.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/布隆过滤器.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/图.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/并查集.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Trees.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Network/HTTP.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/二叉堆.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Binary Tree.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity Thread.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android ANR.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Message Queue.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Handler.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/查找",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/Collections",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/热修复",
     "Resources/Images/Pasted image 20230508155739.png",
     "WorkDesk.canvas",
     "Resources/Images/Pasted image 20230414234101.png",
