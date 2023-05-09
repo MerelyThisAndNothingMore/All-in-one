@@ -22,9 +22,11 @@ return true 拦截这个事件 并交由自身的onTouchEvent方法进行消费.
 return false 是不消费事件，会被传递给父视图的onTouchEvent方法进行处理。
 return true 是消费事件。
 # view的onTouchEvent，OnClickListerner和OnTouchListener的 onTouch方法 三者优先级
-dispatchTouchEvent->onTouch->onInterceptTouchEvent->onTouchEvent。
-1.dispatchTouchEvent中限制性 mOnTouchListener.onTouch() onTouchListener的onTouch方法优先级比onTouchEvent高，会先触发。 
-2.假如 onTouch方法返回false会接着触发onTouchEvent，返回true,onTouchEvent方法不会被调用。 
+**dispatchTouchEvent->onTouch->onInterceptTouchEvent->onTouchEvent**
+
+1.dispatchTouchEvent
+onTouchListener的onTouch方法优先级比onTouchEvent高，会先触发。 
+2.假如 onTouch方法返回false会接着触发onTouchEvent，返回true, onTouchEvent方法不会被调用。 
 3.onClick事件是在 onTouchEvent的MotionEvent.ACTION_UP事件通过performClick() 触发的。 
 OnTouchListener中onTouch方法如 果返回true，则不会执行view的onTouchEvent方法，也就更不会执行view的onClickListener的onClick方法,
 返回 false，则两个都会执行。

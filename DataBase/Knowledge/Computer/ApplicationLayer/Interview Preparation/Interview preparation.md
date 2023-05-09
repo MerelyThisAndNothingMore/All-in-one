@@ -2,6 +2,16 @@
 tags:
  - grows
 ---
+# 流程
+总体来说，面试一般都是基于你的简历来进行的，
+一般先考察你的基础，
+然后考察你知识体系的完备程度，
+接着会考察你的极限，
+最后还会考察一些软技能，比如你的学习能力、协作能力、沟通能力、分析解决未知问题的能力、抗压能力等。
+
+
+
+
 # General Computer Knowledge
 [[computer science]]
 # [[Android Development|Android Development]] 

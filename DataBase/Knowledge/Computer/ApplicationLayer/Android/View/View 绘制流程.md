@@ -56,11 +56,9 @@ ViewRoot创建一个Canvas对象，然后调用OnDraw()。六个步骤:
 所以：wrap_content起到了和match_parent相同的作用：等于父容器当前剩余空间大小
 
 # getWidth()方法和getMeasureWidth()区别
-1getMeasuredWidth方法获得的值是setMeasuredDimension方法设置的值，它的值在measure方法运行后就
+1getMeasuredWidth方法获得的值是setMeasuredDimension方法设置的值，它的值在measure方法运行后就会确定
 
-会确定
-
-2getWidth方法获得是layout方法中传递的四个参数中的mRight-mLeft，它的值是在layout方法运行后确定的
+2getWidth方法获得是layout方法中传递的四个参数中的mRight - mLeft，它的值是在layout方法运行后确定的
 
 3一般情况下在onLayout方法中使用getMeasuredWidth方法，而在除onLayout方法之外的地方用getWidth方 法。
 
