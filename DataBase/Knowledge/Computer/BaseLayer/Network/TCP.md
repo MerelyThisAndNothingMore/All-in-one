@@ -39,7 +39,7 @@ https://carsonho.blog.csdn.net/article/details/85316719
 ![](https://imgconvert.csdnimg.cn/aHR0cDovL3VwbG9hZC1pbWFnZXMuamlhbnNodS5pby91cGxvYWRfaW1hZ2VzLzk0NDM2NS00NzQwZGI5MTE1ODI5MzlmLnBuZz9pbWFnZU1vZ3IyL2F1dG8tb3JpZW50L3N0cmlwJTdDaW1hZ2VWaWV3Mi8yL3cvMTI0MA)
 
 # 建立连接过程
-
+## 三次握手
 -   TCP建立连接需 **三次握手**
 -   具体介绍如下
 
@@ -95,12 +95,12 @@ SYN洪泛攻击：
 -   对比于`UDP`，`TCP`的传输是可靠的、无差错的
 -   那么，为什么`TCP`的传输为什么是可靠的、无差错的呢？
 -   下面，我将详细讲解`TCP`协议的无差错传输
-### 含义
+## 含义
 
 -   无差错：即 传输信道不出差错
 -   发送 & 接收效率匹配：即 无论发送方以多快的速度发送数据，接收方总来得及处理收到的数据
 
-### 基础：滑动窗口 协议
+## 基础：滑动窗口 协议
 
 ![](https://imgconvert.csdnimg.cn/aHR0cDovL3VwbG9hZC1pbWFnZXMuamlhbnNodS5pby91cGxvYWRfaW1hZ2VzLzk0NDM2NS05Njc1ZDdmYTIwMDdkMzc0LnBuZz9pbWFnZU1vZ3IyL2F1dG8tb3JpZW50L3N0cmlwJTdDaW1hZ2VWaWV3Mi8yL3cvMTI0MA)
 -   工作原理  
@@ -115,7 +115,7 @@ SYN洪泛攻击：
 对于接收端：当收到数据帧后，将窗口向前移动一个位置，并发回确认帧，若收到的数据帧落在接收窗口之外，则一律丢弃。
 ![](https://imgconvert.csdnimg.cn/aHR0cDovL3VwbG9hZC1pbWFnZXMuamlhbnNodS5pby91cGxvYWRfaW1hZ2VzLzk0NDM2NS05YmVkMWRjNmQ3ZGQwZWFhLnBuZz9pbWFnZU1vZ3IyL2F1dG8tb3JpZW50L3N0cmlwJTdDaW1hZ2VWaWV3Mi8yL3cvMTI0MA)
 
-### 滑动窗口 协议的重要特性
+## 滑动窗口 协议的重要特性
 
 -   只有接收窗口向前滑动、接收方发送了确认帧时，发送窗口才有可能（只有发送方收到确认帧才是一定）向前滑动
 -   停止-等待协议、后退N帧协议 & 选择重传协议只是在发送窗口大小和接收窗口大小上有所差别：
@@ -127,7 +127,7 @@ SYN洪泛攻击：
 -   当接收窗口的大小为1时，可保证帧有序接收。
 -   数据链路层的滑动窗口协议中，窗口的大小在传输过程中是固定的（注意要与TCP的滑动窗口协议区别）
 
-### 实现无差错传输的解决方案
+## 实现无差错传输的解决方案
 
 核心思想：采用一些可靠传输协议，使得
 
@@ -145,7 +145,7 @@ SYN洪泛攻击：
 
 ![](https://imgconvert.csdnimg.cn/aHR0cDovL3VwbG9hZC1pbWFnZXMuamlhbnNodS5pby91cGxvYWRfaW1hZ2VzLzk0NDM2NS0zMGZkNzhhYzE1ODk5MzlmLnBuZz9pbWFnZU1vZ3IyL2F1dG8tb3JpZW50L3N0cmlwJTdDaW1hZ2VWaWV3Mi8yL3cvMTI0MA)
 
-### 类型1：停等式ARQ（Stop-and-Wait）
+#### 类型1：停等式ARQ（Stop-and-Wait）
 
 -   原理：（单帧滑动窗口）停止 - 等待协议 + 超时重传
 
@@ -157,7 +157,7 @@ SYN洪泛攻击：
 > 2.  接收方每接收一帧，都要反馈一个应答信号，表示可接下一帧
 > 3.  若接收方不反馈应答信号，则发送方必须一直等待
 
-### 类型2：后退N帧协议
+#### 类型2：后退N帧协议
 
 -   原理  
     多帧滑动窗口 + 累计确认 + 后退N帧 + 超时重传
@@ -170,7 +170,7 @@ SYN洪泛攻击：
 
 ![](https://imgconvert.csdnimg.cn/aHR0cDovL3VwbG9hZC1pbWFnZXMuamlhbnNodS5pby91cGxvYWRfaW1hZ2VzLzk0NDM2NS0yNzg0NjYwNTgyZjBmZjE4LnBuZz9pbWFnZU1vZ3IyL2F1dG8tb3JpZW50L3N0cmlwJTdDaW1hZ2VWaWV3Mi8yL3cvMTI0MA)
 ![](https://imgconvert.csdnimg.cn/aHR0cDovL3VwbG9hZC1pbWFnZXMuamlhbnNodS5pby91cGxvYWRfaW1hZ2VzLzk0NDM2NS0xMzBiNGU0MjNlODY0ZWY5LnBuZz9pbWFnZU1vZ3IyL2F1dG8tb3JpZW50L3N0cmlwJTdDaW1hZ2VWaWV3Mi8yL3cvMTI0MA)
-### 类型3：选择重传ARQ（Selective Repeat）
+#### 类型3：选择重传ARQ（Selective Repeat）
 
 -   原理
 -   多帧滑动窗口 + 累计确认 + 后退N帧 + 超时重传
@@ -185,16 +185,16 @@ SYN洪泛攻击：
 > 由此可见，若信道传输质量很差，导致误码率较大时，后退N帧协议不一定优于停止-等待协议
 
 
-# 解决方案2：流量控制 & 拥塞控制（针对 速度匹配）
+### 解决方案2：流量控制 & 拥塞控制（针对 速度匹配）
 
-### 措施1：流量控制
+#### 措施1：流量控制
 
 
 ![](https://imgconvert.csdnimg.cn/aHR0cDovL3VwbG9hZC1pbWFnZXMuamlhbnNodS5pby91cGxvYWRfaW1hZ2VzLzk0NDM2NS0xZmZjZTM4YzMyMTFlNzE1LnBuZz9pbWFnZU1vZ3IyL2F1dG8tb3JpZW50L3N0cmlwJTdDaW1hZ2VWaWV3Mi8yL3cvMTI0MA)
 ![](https://imgconvert.csdnimg.cn/aHR0cDovL3VwbG9hZC1pbWFnZXMuamlhbnNodS5pby91cGxvYWRfaW1hZ2VzLzk0NDM2NS05ZDgyMGZhZDFlNGFiMWViLnBuZz9pbWFnZU1vZ3IyL2F1dG8tb3JpZW50L3N0cmlwJTdDaW1hZ2VWaWV3Mi8yL3cvMTI0MA)
 ![](https://imgconvert.csdnimg.cn/aHR0cDovL3VwbG9hZC1pbWFnZXMuamlhbnNodS5pby91cGxvYWRfaW1hZ2VzLzk0NDM2NS02Yzk2MTlhNTNmMjdjYWM2LnBuZz9pbWFnZU1vZ3IyL2F1dG8tb3JpZW50L3N0cmlwJTdDaW1hZ2VWaWV3Mi8yL3cvMTI0MA)
 
-### 措施2：拥塞控制
+#### 措施2：拥塞控制
 
 -   定义  
     防止过多的数据注入到网络中，使得网络中的路由器 & 链路不致于过载
@@ -208,13 +208,66 @@ SYN洪泛攻击：
 
 > 其中，涉及4种算法，即 慢开始 & 拥塞避免、快重传 & 快恢复
 
-#### 解决方案1：慢开始 & 拥塞避免
+##### 解决方案1：慢开始 & 拥塞避免
 
-### 储备知识：拥塞窗口、慢开始算法、拥塞避免算法
-
-### a. 拥塞窗口
+###### a. 拥塞窗口
 
 -   发送方维持一个状态变量：拥塞窗口`（cwnd， congestion window ）`，具体介绍如下
+![](https://imgconvert.csdnimg.cn/aHR0cDovL3VwbG9hZC1pbWFnZXMuamlhbnNodS5pby91cGxvYWRfaW1hZ2VzLzk0NDM2NS02YTg0MzY2MWU4YmQyNmFmLnBuZz9pbWFnZU1vZ3IyL2F1dG8tb3JpZW50L3N0cmlwJTdDaW1hZ2VWaWV3Mi8yL3cvMTI0MA)
+###### b. 慢开始算法
+-   原理  
+    当主机开始发送数据时，由小到大逐渐增大 拥塞窗口数值（即 发送窗口数值），从而 由小到大逐渐增大发送报文段
+    
+-   目的  
+    开始传输时，**试探**网络的拥塞情况
+    
+-   具体措施
+![](https://imgconvert.csdnimg.cn/aHR0cDovL3VwbG9hZC1pbWFnZXMuamlhbnNodS5pby91cGxvYWRfaW1hZ2VzLzk0NDM2NS00ZDc5OTA5MzY1OWM0MTllLnBuZz9pbWFnZU1vZ3IyL2F1dG8tb3JpZW50L3N0cmlwJTdDaW1hZ2VWaWV3Mi8yL3cvMTI0MA)
+-   特别注意  
+    慢开始的“慢”指：一开始发送报文段时拥塞窗口`（cwnd）`设置得较小（为1），使得发送方在开始时只发送一个报文段（目的是试探一下网络的拥塞情况）
+
+> 并不是指拥塞窗口`（cwnd）`的增长速率慢
+
+###### c. 拥塞避免 算法
+-   原理  
+    使得拥塞窗口`（cwnd）`**按线性规律 缓慢增长**：每经过一个往返时间`RTT`，发送方的拥塞窗口`（cwnd）`加1
+
+> 1.  **拥塞避免 并不可避免拥塞**，只是将拥塞窗口按现行规律缓慢增长，使得网络比较不容易出现拥塞
+> 2.  相比慢开始算法的加倍，拥塞窗口增长速率缓慢得多
+
+###### 解决方案描述（慢开始 & 拥塞避免）
+-   为了防止拥塞窗口`（cwnd）`增长过大而引起网络拥塞，采用慢开始 & 拥塞避免 2种算法，具体规则如下
+![](https://imgconvert.csdnimg.cn/aHR0cDovL3VwbG9hZC1pbWFnZXMuamlhbnNodS5pby91cGxvYWRfaW1hZ2VzLzk0NDM2NS00ZDY0MzMwYjVjMjIzODQ5LnBuZz9pbWFnZU1vZ3IyL2F1dG8tb3JpZW50L3N0cmlwJTdDaW1hZ2VWaWV3Mi8yL3cvMTI0MA)
+![](https://imgconvert.csdnimg.cn/aHR0cDovL3VwbG9hZC1pbWFnZXMuamlhbnNodS5pby91cGxvYWRfaW1hZ2VzLzk0NDM2NS01ODg5MDFmYjAxYzlhZWEyLnBuZz9pbWFnZU1vZ3IyL2F1dG8tb3JpZW50L3N0cmlwJTdDaW1hZ2VWaWV3Mi8yL3cvMTI0MA)
+##### 解决方案2：快重传 & 快恢复
+快重传 & 快恢复的解决方案 是对慢开始 & 拥塞避免算法的改进
+###### a. 快重传算法
+
+-   原理
+    
+    1.  接收方 每收到一个失序的报文段后 就立即发出重复确认（为的是使发送方及早知道有报文段没有到达对方），而不要等到自己发送数据时才进行捎带确认
+    2.  发送方只要一连收到3个重复确认就立即重传对方尚未收到的报文段，而不必 继续等待设置的重传计时器到期
+
+-   作用  
+    由于发送方尽早重传未被确认的报文段，因此采用快重传后可以使整个网络吞吐量提高约20%
+
+###### b. 快恢复
+当发送方连续收到3个重复确认后，就：
+1.  执行 **乘法减小** 算法：把 慢开始门限`（ssthresh）`设置为 出现拥塞时发送方窗口值的一半 = 拥塞窗口的1半
+2.  将拥塞窗口`（cwnd）`值设置为 慢开始门限`ssthresh`减半后的数值 = 拥塞窗口的1半
+3.  执行 **加法增大** 算法：执行拥塞避免算法，使拥塞窗口缓慢地线性增大。
+注：
+
+1.  由于跳过了拥塞窗口`（cwnd）`从1起始的慢开始过程，所以称为：快恢复
+2.  此处网络不会发生网络拥塞，因若拥塞，则不会收到多个重复确认报文
+
+###### 解决方案描述（快重传 & 快恢复）
+
+为了优化慢开始 & 拥塞避免的解决方案，在上述方案中加入快重传 & 快恢复 2种算法，具体规则如下
+![](https://imgconvert.csdnimg.cn/aHR0cDovL3VwbG9hZC1pbWFnZXMuamlhbnNodS5pby91cGxvYWRfaW1hZ2VzLzk0NDM2NS1iY2MzNWI2M2NkMDJkMmFiLnBuZz9pbWFnZU1vZ3IyL2F1dG8tb3JpZW50L3N0cmlwJTdDaW1hZ2VWaWV3Mi8yL3cvMTI0MA)
+
+![](https://imgconvert.csdnimg.cn/aHR0cDovL3VwbG9hZC1pbWFnZXMuamlhbnNodS5pby91cGxvYWRfaW1hZ2VzLzk0NDM2NS0xMDMyY2UwNzhlZmU2Y2Q4LnBuZz9pbWFnZU1vZ3IyL2F1dG8tb3JpZW50L3N0cmlwJTdDaW1hZ2VWaWV3Mi8yL3cvMTI0MA)
+
 
 
 

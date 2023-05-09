@@ -11,3 +11,5 @@ alias:
 [[VSync|VSync]]需要调度，没有调度就没有。
 消费VSync的双方是App和[[SurfaceFlinger]]。App是生产者，sf代表的是消费者。两者通过Surface Buffer交互。
 
+每收到Vsync信号，[[CPU]]就开始处理各帧数据
+

@@ -4,6 +4,10 @@ alias:
 ---
 
 ![](https://gd-hbimg.huaban.com/ed85ec89ad65e9c60159c9c8b295c463d3cbfb1157d6-j9ZmnT)
+# 原因
+-   **UI布局太复杂，过度绘制，导致布局无法在16ms内完成渲染**
+-   **频繁触发地View的measure、layout、draw流程，造成多次不必要的布局重新渲染**。
+
 
 # 分类
 ## UI卡顿

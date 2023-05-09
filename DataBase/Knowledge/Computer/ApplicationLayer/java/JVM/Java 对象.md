@@ -67,9 +67,9 @@ alias:
 # 对象的内存布局
 -   问题：在 `Java` 对象创建后，到底是如何被存储在Java内存里的呢？
 -   答：在`Java`虚拟机（`HotSpot`）中，对象在 `Java` 内存中的 存储布局 可分为三块：
-    1.  对象头 存储区域
-    2.  实例数据 存储区域
-    3.  对齐填充 存储区域
+1.  对象头（Header）
+2.  实例数据（Instance Data）
+3.  对齐填充（Padding）
 ![](https://imgconvert.csdnimg.cn/aHR0cDovL3VwbG9hZC1pbWFnZXMuamlhbnNodS5pby91cGxvYWRfaW1hZ2VzLzk0NDM2NS1mOWQyNTk3NTczMjE2NGJjLnBuZw?x-oss-process=image/format,png)
 # 对象的访问定位
 问：建立对象后，该如何访问对象呢？
