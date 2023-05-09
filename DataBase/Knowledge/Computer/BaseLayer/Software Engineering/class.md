@@ -1,4 +1,8 @@
-
+---
+tags: 
+alias:
+- 类
+---
 # Introduction 
 ## Declaring Instance Variables 
 When defining a class, we can declare any number of instance variables. An important principle of object-orientation is that each instance of a class maintains its own individual set of instance variables (that is, in fact, why they are called instance variables).

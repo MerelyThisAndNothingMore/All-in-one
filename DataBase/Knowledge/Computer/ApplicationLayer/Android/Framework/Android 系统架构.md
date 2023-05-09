@@ -14,7 +14,7 @@ alias:
 ![](https://gd-hbimg.huaban.com/15332c539c3d7ad40e7ab6647eaab3a64913a04f3350d-7WRvyT)
 
 ## [[Linux]]内核层
-Android平台的基础是Linux内核，比如[[ART虚拟机]]最终调用底层Linux内核来执行功能。
+Android平台的基础是Linux内核，比如[[ART]]最终调用底层Linux内核来执行功能。
 ## 硬件抽象层
 HAL包含多个库模块，其中每个模块都为特定类型的硬件组件实现一组接口，比如WIFI/蓝牙模块，当框架API请求访问设备硬件时，Android系统将为该硬件加载相应的库模块。
 ## Android Runtime & 系统库
