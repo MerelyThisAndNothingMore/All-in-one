@@ -28,8 +28,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 内存模型.md",
-                "mode": "preview",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Chain of responsibility.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:内存",
+                "query": "Responsibility",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 内存模型.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Chain of responsibility.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 内存模型.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Chain of responsibility.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 内存模型.md"
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Chain of responsibility.md"
               }
             }
           },
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 内存模型.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Chain of responsibility.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,6 +251,9 @@
   },
   "active": "6e6d0ee70849b38e",
   "lastOpenFiles": [
+    "DataBase/Literature/Text/Books/Design Patterns Wiki Book.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 虚拟机栈.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 内存模型.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Handler.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 启动过程.md",
@@ -261,7 +264,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/Synchronized.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 对象.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 类加载.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 内存模型.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/MultiThread.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/垃圾回收.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/Java 引用类型.md",
@@ -275,8 +277,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/IdleHandler.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Handler Thread.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Window.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Network/TCP.md",
     "DataBase/Knowledge/Computer/BaseLayer/Network/计算机网络体系",
     "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/字符串匹配",
