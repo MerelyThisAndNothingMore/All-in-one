@@ -67,7 +67,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Tasks/data/简历准备.md",
+                "file": "DataBase/Reality/Websites/掘金稀土.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9d15c83a2d24ded",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/Synchronized.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18dc19f2d42b5532",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/岗位/拼多多.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c6e0ef56654bc16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/岗位/淘宝.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -75,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -104,7 +143,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "简历",
+                "query": "file:sync",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -152,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Tasks/data/简历准备.md",
+                "file": "Work/岗位/淘宝.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -187,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Tasks/data/简历准备.md",
+                "file": "Work/岗位/淘宝.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Tasks/data/简历准备.md"
+                "file": "Work/岗位/淘宝.md"
               }
             }
           },
@@ -230,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Tasks/data/简历准备.md",
+                "file": "Work/岗位/淘宝.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -287,15 +326,27 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9efb66c5acbe3c31",
+  "active": "2c6e0ef56654bc16",
   "lastOpenFiles": [
+    "Work/岗位/拼多多.md",
+    "Work/岗位/小红书.md",
+    "Work/岗位/淘宝.md",
+    "Work/岗位/Minimax.md",
+    "Work/猎头/璐璐.md",
+    "Work/工作经历/录播/录播.md",
+    "Work/工作经历/主播端/主播端.md",
+    "Work/工作经历/主播端/全链路埋点.md",
+    "Work/工作经历/付费直播/付费直播.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/Lock.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/Synchronized.md",
+    "DataBase/Reality/Websites/Android 复习路径.md",
+    "DataBase/Reality/Websites/chatgpt.md",
+    "DataBase/Reality/Websites/掘金稀土.md",
+    "DataBase/Tasks/data/简历准备.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android ANR.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/apk.md",
-    "Work/猎头/璐璐.md",
     "DataBase/Reality/Websites/廖雪峰的官方网站.md",
-    "DataBase/Reality/Websites/掘金稀土.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/组件化.md",
-    "DataBase/Reality/Websites/Android 复习路径.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/Java.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/堆排序.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/RecyclerView/RecyclerView的四级缓存机制.md",
@@ -303,18 +354,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/volatile.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 生命周期.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity Launch Mode.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/插件化.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/线程池.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/死锁.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Chain of responsibility.md",
-    "DataBase/Literature/Text/Books/Design Patterns Wiki Book.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 虚拟机栈.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 内存模型.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Handler.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 启动过程.md",
     "DataBase/Knowledge/Computer/BaseLayer/Network/计算机网络体系",
     "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/字符串匹配",
