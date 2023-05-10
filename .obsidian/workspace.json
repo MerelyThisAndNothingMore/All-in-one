@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android ANR.md",
+                "file": "DataBase/Tasks/data/简历准备.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ANR",
+                "query": "简历",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,8 +121,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -153,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android ANR.md",
+                "file": "DataBase/Tasks/data/简历准备.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -188,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android ANR.md",
+                "file": "DataBase/Tasks/data/简历准备.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android ANR.md"
+                "file": "DataBase/Tasks/data/简历准备.md"
               }
             }
           },
@@ -231,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android ANR.md",
+                "file": "DataBase/Tasks/data/简历准备.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -288,8 +287,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b8ec20259fae4fed",
+  "active": "9efb66c5acbe3c31",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android ANR.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/apk.md",
     "Work/猎头/璐璐.md",
     "DataBase/Reality/Websites/廖雪峰的官方网站.md",
@@ -315,7 +315,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Handler.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 启动过程.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android系统启动流程.md",
     "DataBase/Knowledge/Computer/BaseLayer/Network/计算机网络体系",
     "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/字符串匹配",
