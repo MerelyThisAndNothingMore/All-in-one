@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/基数排序.md",
-                "mode": "source",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/设计框架/MVVM.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:排序",
+                "query": "file:启动",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,8 +88,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -120,7 +119,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/基数排序.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/设计框架/MVVM.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -155,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/基数排序.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/设计框架/MVVM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/基数排序.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/设计框架/MVVM.md"
               }
             }
           },
@@ -198,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/基数排序.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/设计框架/MVVM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,6 +256,25 @@
   },
   "active": "0c0ab12f9f453025",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/设计框架/MVP.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/设计框架/设计框架.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/performance.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity Launch Mode.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 启动方法.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/希尔排序.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/桶排序.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/排序.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/冒泡排序.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/快速排序.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/简单选择排序.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/计数排序.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/基数排序.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/归并排序.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/堆排序.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/插入排序.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/AQS.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/MultiThread.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/垃圾回收.md",
@@ -264,25 +282,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 对象.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 类加载.md",
     "Home Page.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md",
-    "Outputs/video/苏联笑话/请您赶快坐到主席台上来.md",
-    "Outputs/video/苏联笑话/那他们就得跟你走.md",
-    "Work/岗位/拼多多.md",
-    "Work/岗位/小红书.md",
-    "Work/岗位/淘宝.md",
-    "Work/岗位/Minimax.md",
-    "Work/猎头/璐璐.md",
-    "Work/工作经历/录播/录播.md",
-    "Work/工作经历/主播端/主播端.md",
-    "Work/工作经历/主播端/全链路埋点.md",
-    "Work/工作经历/付费直播/付费直播.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/Lock.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/Synchronized.md",
-    "DataBase/Reality/Websites/Android 复习路径.md",
-    "DataBase/Reality/Websites/chatgpt.md",
-    "DataBase/Reality/Websites/掘金稀土.md",
-    "DataBase/Tasks/data/简历准备.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android ANR.md",
     "DataBase/Knowledge/Computer/BaseLayer/Network/计算机网络体系",
     "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/字符串匹配",
