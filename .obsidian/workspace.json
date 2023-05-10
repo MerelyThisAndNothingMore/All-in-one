@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/死锁.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/线程池.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "死锁",
+                "query": "线程",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/死锁.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/线程池.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/死锁.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/线程池.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/死锁.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/线程池.md"
               }
             }
           },
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/死锁.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/线程池.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,6 +251,7 @@
   },
   "active": "6e6d0ee70849b38e",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/死锁.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Chain of responsibility.md",
     "DataBase/Literature/Text/Books/Design Patterns Wiki Book.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 虚拟机栈.md",
@@ -276,7 +277,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Message.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Message Queue.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/IdleHandler.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Handler Thread.md",
     "DataBase/Knowledge/Computer/BaseLayer/Network/计算机网络体系",
     "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/字符串匹配",
