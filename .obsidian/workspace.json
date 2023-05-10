@@ -39,15 +39,56 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/岗位/淘宝.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "66bd3f1b4c3acec2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b1c9be01e2f32b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Android 版本特性.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d67078c5fe7dfda",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/岗位/淘宝.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -132,7 +173,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Work/岗位/淘宝.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Android 版本特性.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -167,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/岗位/淘宝.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Android 版本特性.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/岗位/淘宝.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Android 版本特性.md"
               }
             }
           },
@@ -210,7 +251,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/岗位/淘宝.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Android 版本特性.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,15 +308,23 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "acc18106a89b51d4",
+  "active": "4b1c9be01e2f32b6",
   "lastOpenFiles": [
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Android 版本特性.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/保活.md",
+    "Work/岗位/淘宝.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android 进程优先级.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Inflate.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/双缓冲.md",
+    "Work/岗位/拼多多.md",
+    "Work/岗位/小红书.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/Java.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Kotlin.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/协程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 生命周期.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 启动过程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Handler.md",
     "DataBase/Tasks/data/简历准备.md",
@@ -288,14 +337,6 @@
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Adapter Pattern.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Prototype Pattern.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Builder Pattern.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Factory Method Pattern.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Abstract Factory Pattern.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Chain of responsibility.md",
-    "DataBase/Reality/Websites/廖雪峰的官方网站.md",
-    "Work/猎头/璐璐.md",
-    "Work/岗位/Minimax.md",
-    "Work/岗位/小红书.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/CAS.md",
     "DataBase/Knowledge/Computer/BaseLayer/Network/计算机网络体系",
     "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/字符串匹配",
