@@ -22,8 +22,7 @@ CERT.RSA(签名结果文件):其中包含了公钥、加密算法等信息。首
 
 ## 具体打包过程
 
-1.aapt 打包资源
-文件生成 R.java 文件;
+1.aapt 打包资源文件生成 R.java 文件;
 aidl 生成 java 文件 
 编译AndroidManifest.xml，
 编译生成resources.arsc

@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/猎头/璐璐.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android ANR.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "打包",
+                "query": "ANR",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -153,7 +153,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Work/猎头/璐璐.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android ANR.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -188,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/猎头/璐璐.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android ANR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/猎头/璐璐.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android ANR.md"
               }
             }
           },
@@ -231,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/猎头/璐璐.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android ANR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -290,6 +290,8 @@
   },
   "active": "b8ec20259fae4fed",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/apk.md",
+    "Work/猎头/璐璐.md",
     "DataBase/Reality/Websites/廖雪峰的官方网站.md",
     "DataBase/Reality/Websites/掘金稀土.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/组件化.md",
@@ -314,8 +316,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Handler.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 启动过程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android系统启动流程.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Intent.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/持久化/SharedPreferences.md",
     "DataBase/Knowledge/Computer/BaseLayer/Network/计算机网络体系",
     "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/字符串匹配",
