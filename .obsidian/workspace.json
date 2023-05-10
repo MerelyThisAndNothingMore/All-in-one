@@ -41,7 +41,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/RecyclerView/RecyclerView的四级缓存机制.md",
+                "file": "DataBase/Reality/Websites/掘金稀土.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d72c41b450d918b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/组件化.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -78,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "recyclerview",
+                "query": "组件化",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,8 +108,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -127,7 +139,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/RecyclerView/RecyclerView的四级缓存机制.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/组件化.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -162,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/RecyclerView/RecyclerView的四级缓存机制.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/组件化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/RecyclerView/RecyclerView的四级缓存机制.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/组件化.md"
               }
             }
           },
@@ -205,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/RecyclerView/RecyclerView的四级缓存机制.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/组件化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -262,8 +274,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "eee4c7c66752e3f0",
+  "active": "9efb66c5acbe3c31",
   "lastOpenFiles": [
+    "DataBase/Reality/Websites/掘金稀土.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/组件化.md",
+    "DataBase/Reality/Websites/Android 复习路径.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/Java.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/堆排序.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/RecyclerView/RecyclerView的四级缓存机制.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/CAS.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/volatile.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
@@ -284,12 +302,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Intent.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/持久化/SharedPreferences.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/Synchronized.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 对象.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 类加载.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/MultiThread.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/垃圾回收.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/Java 引用类型.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/GC.md",
     "DataBase/Knowledge/Computer/BaseLayer/Network/计算机网络体系",
     "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/字符串匹配",
