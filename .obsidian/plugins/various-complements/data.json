@@ -374,6 +374,70 @@
           "lastUpdated": 1683646978587
         }
       }
+    },
+    "Android": {
+      "Android": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1683731283067
+        }
+      }
+    },
+    "Java": {
+      "Java": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1683731295338
+        }
+      }
+    },
+    "Bitmap": {
+      "Bitmap": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1683731313683
+        }
+      }
+    },
+    "Recycler": {
+      "Recycler": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683731341294
+        }
+      }
+    },
+    "RecyclerView的四级缓存机制": {
+      "RecyclerView的四级缓存机制": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1683731342869
+        }
+      }
+    },
+    "Android 复习路径": {
+      "Android 复习路径": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1683731745556
+        }
+      }
+    },
+    "ApplicationThread": {
+      "ApplicationThread": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1683732411320
+        }
+      }
+    },
+    "ViewRootImpl": {
+      "ViewRootImpl": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1683732658286
+        }
+      }
     }
   }
 }

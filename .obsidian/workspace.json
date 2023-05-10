@@ -65,7 +65,59 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Android 版本特性.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Inflate.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b36c90371f75c84d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Window Manager.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d590246ffdf9a5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/WMS.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6a654603dd4a34b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/SurfaceFlinger.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "997ec5f8878a0104",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Surface.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -117,7 +169,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:峰",
+                "query": "file:surface",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,7 +225,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Android 版本特性.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Surface.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -208,7 +260,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Android 版本特性.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Surface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Android 版本特性.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Surface.md"
               }
             }
           },
@@ -251,7 +303,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Android 版本特性.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Surface.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -308,35 +360,35 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4b1c9be01e2f32b6",
+  "active": "997ec5f8878a0104",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/SurfaceFlinger.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Surface.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Android 版本特性.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/保活.md",
-    "Work/岗位/淘宝.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android 进程优先级.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/ViewRootImpl.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/WMS.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Window Manager.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Window.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/ApplicationThread.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 启动过程.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/LayoutInflater.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Inflate.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Bitmap.md",
+    "DataBase/Reality/Websites/Android 复习路径.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md",
+    "Work/岗位/淘宝.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Android 版本特性.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/保活.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android 进程优先级.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/双缓冲.md",
     "Work/岗位/拼多多.md",
     "Work/岗位/小红书.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/Java.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Kotlin.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/协程.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 生命周期.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 启动过程.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Handler.md",
-    "DataBase/Tasks/data/简历准备.md",
     "WorkDesk.canvas",
-    "Home Page.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/组件化.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/序列化.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/模块化.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/插件化.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Adapter Pattern.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Prototype Pattern.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Builder Pattern.md",
     "DataBase/Knowledge/Computer/BaseLayer/Network/计算机网络体系",
     "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/字符串匹配",

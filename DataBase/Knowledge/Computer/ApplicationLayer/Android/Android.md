@@ -3,6 +3,7 @@ tags:
 alias:
 ---
 # 考点介绍
+[[Android 复习路径|Android 复习路径]] 
 ![](https://gd-hbimg.huaban.com/2e64c959a359c60889ab92745205d63e0ce8e48e688e7-PlteSl)
 ## 四大组件
 ### [[Activity|Activity]] 
