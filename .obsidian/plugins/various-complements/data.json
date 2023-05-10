@@ -66,8 +66,8 @@
     "References": {
       "References": {
         "customDictionary": {
-          "count": 29,
-          "lastUpdated": 1683534411292
+          "count": 30,
+          "lastUpdated": 1683711967589
         }
       }
     },
@@ -79,51 +79,11 @@
         }
       }
     },
-    "tags": {
-      "tags": {
-        "customDictionary": {
-          "count": 10,
-          "lastUpdated": 1680958706499
-        }
-      }
-    },
     "studyResources": {
       "studyResources": {
         "frontMatter": {
           "count": 12,
           "lastUpdated": 1683703526676
-        }
-      }
-    },
-    "designPatterns": {
-      "designPatterns": {
-        "frontMatter": {
-          "count": 4,
-          "lastUpdated": 1681035182783
-        }
-      }
-    },
-    "Capital": {
-      "Capital": {
-        "customDictionary": {
-          "count": 3,
-          "lastUpdated": 1680959119898
-        }
-      }
-    },
-    "Income": {
-      "Income": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1680959059439
-        }
-      }
-    },
-    "country": {
-      "country": {
-        "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1680960423012
         }
       }
     },
