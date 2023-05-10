@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 生命周期.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "activity",
+                "query": "request",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +82,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -113,7 +114,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 生命周期.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 生命周期.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 生命周期.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md"
               }
             }
           },
@@ -191,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 生命周期.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,8 +251,8 @@
   },
   "active": "6e6d0ee70849b38e",
   "lastOpenFiles": [
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity Launch Mode.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 生命周期.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity Launch Mode.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/插件化.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/线程池.md",

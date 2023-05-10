@@ -71,7 +71,7 @@ invalidate:触发 onDraw 流程，在 UI 线程调用。 postInvalidate:触发on
 2. postInvalidate(),它可以在UI线程调用，也可以在子线程中调用， postInvalidate()方法内部通过Handler发 送了一个消息将线程切回到UI线程通知重新绘制 。最终还是调用了子View的invalidate()
 
 # Requestlayout，onlayout，onDraw，DrawChild区别与联系
-requestLayout()方法 :会导致调用 measure()过程 和 layout()过程,不一定会触发OnDraw。 requestLayout会 直接递归调用父窗口的requestLayout，直到ViewRootImpl,然后触发peformTraversals，由于mLayoutRequested 为true，会导致onMeasure和onLayout被调用。不一定会触发OnDraw， 将会根据标志位判断是否需要ondraw。
+requestLayout()方法 :会导致调用 measure()过程 和 layout()过程,不一定会触发OnDraw。 requestLayout会 直接递归调用父窗口的requestLayout，直到ViewRootImpl ,然后触发peformTraversals ，由于mLayoutRequested 为true，会导致onMeasure和onLayout被调用。不一定会触发OnDraw， 将会根据标志位判断是否需要onDraw。
 onLayout()方法(如果该View是ViewGroup对象，需要实现该方法，对每个子视图进行布局) 
 onDraw()方法:绘制视 图本身 (每个View都需要重载该方法，ViewGroup不需要实现该方法)。
 drawChild():去重新回调每个子视图的 draw()方法。
