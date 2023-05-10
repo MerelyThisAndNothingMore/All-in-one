@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Adapter Pattern.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/组件化.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "acc18106a89b51d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/岗位/淘宝.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,7 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Adapter Pattern.md",
+                "file": "Work/岗位/淘宝.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -154,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Adapter Pattern.md",
+                "file": "Work/岗位/淘宝.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Adapter Pattern.md"
+                "file": "Work/岗位/淘宝.md"
               }
             }
           },
@@ -197,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Adapter Pattern.md",
+                "file": "Work/岗位/淘宝.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,8 +267,25 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0c0ab12f9f453025",
+  "active": "acc18106a89b51d4",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/Java.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Kotlin.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/协程.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 生命周期.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 启动过程.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Handler.md",
+    "DataBase/Tasks/data/简历准备.md",
+    "WorkDesk.canvas",
+    "Home Page.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/组件化.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/序列化.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/模块化.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/插件化.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Adapter Pattern.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Prototype Pattern.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Builder Pattern.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Factory Method Pattern.md",
@@ -266,22 +296,6 @@
     "Work/岗位/Minimax.md",
     "Work/岗位/小红书.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/CAS.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/Lock.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/排序.md",
-    "Work/工作经历/主播端/主播端.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation/Interview preparation.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Android SDK.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Android Docs.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/设计框架/设计框架.md",
-    "Work/岗位/淘宝.md",
-    "Work/工作经历/录播/进房预加载优化.md",
-    "Work/工作经历/录播/录播.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/Fundamentals/equals().md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/设计框架/MVVM.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/设计框架/MVP.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/performance.md",
     "DataBase/Knowledge/Computer/BaseLayer/Network/计算机网络体系",
     "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/字符串匹配",
@@ -293,7 +307,6 @@
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/递归",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/查找",
     "Resources/Images/Pasted image 20230508155739.png",
-    "WorkDesk.canvas",
     "Resources/Images/Pasted image 20230414234101.png",
     "Outputs/NovelWriting/花下/花下大纲.canvas",
     "Outputs/NovelWriting/花下/Drawing 2023-04-14 11.52.54.excalidraw.svg",
