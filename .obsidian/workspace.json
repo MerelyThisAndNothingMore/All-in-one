@@ -4,117 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "e71ddc3b57a688ca",
+        "id": "36362d35ff913af0",
         "type": "tabs",
         "children": [
           {
-            "id": "ae7ea31554d9fe71",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "6e6d0ee70849b38e",
+            "id": "1b393f4de4c14c77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/volatile.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eee4c7c66752e3f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Reality/Websites/掘金稀土.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d72c41b450d918b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Reality/Websites/掘金稀土.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b8ec20259fae4fed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Reality/Websites/掘金稀土.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9d15c83a2d24ded",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/Synchronized.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "18dc19f2d42b5532",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/岗位/拼多多.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c6e0ef56654bc16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/岗位/淘宝.md",
-                "mode": "source",
+                "file": "Home Page.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,6 +65,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "04f371f948a31d34",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -191,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Work/岗位/淘宝.md",
+                "file": "Home Page.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -226,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/岗位/淘宝.md",
+                "file": "Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/岗位/淘宝.md"
+                "file": "Home Page.md"
               }
             }
           },
@@ -269,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/岗位/淘宝.md",
+                "file": "Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -326,7 +240,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2c6e0ef56654bc16",
+  "active": "1b393f4de4c14c77",
   "lastOpenFiles": [
     "Work/岗位/拼多多.md",
     "Work/岗位/小红书.md",
