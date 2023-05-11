@@ -4,23 +4,58 @@
     "type": "split",
     "children": [
       {
-        "id": "36362d35ff913af0",
+        "id": "f43a2dbecfc525c0",
         "type": "tabs",
         "children": [
           {
-            "id": "1b393f4de4c14c77",
+            "id": "3ea89d2e40ba095a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "44ee0edf0b7eefb5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Reality/Websites/chatgpt.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dfdd2ebb95229610",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c9ab1b4834ca660",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -49,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:chatgpt",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +109,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -106,7 +140,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Reality/Websites/chatgpt.md",
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -141,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Reality/Websites/chatgpt.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Reality/Websites/chatgpt.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -184,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Reality/Websites/chatgpt.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,13 +275,27 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1b393f4de4c14c77",
+  "active": "3c9ab1b4834ca660",
   "lastOpenFiles": [
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/AQS.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
+    "conflict-files-obsidian-git.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Android 系统显示原理.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/自定义View.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/热修复/热修复.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/布局/布局.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/组件化.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/模块化.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/插件化.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/持久化/持久化.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/持久化/SharedPreferences.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/持久化/DataStore.md",
+    "Home Page.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Anim/Anim.md",
+    "DataBase/Reality/Websites/chatgpt.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/AQS.md",
     "Outputs/video/苏联笑话/请您赶快坐到主席台上来.md",
     "Outputs/video/苏联笑话/那他们就得跟你走.md",
-    "Home Page.md",
     "Work/岗位/拼多多.md",
     "Work/岗位/小红书.md",
     "Work/岗位/淘宝.md",
@@ -255,20 +303,6 @@
     "Work/猎头/璐璐.md",
     "Work/工作经历/录播/录播.md",
     "Work/工作经历/主播端/主播端.md",
-    "Work/工作经历/主播端/全链路埋点.md",
-    "Work/工作经历/付费直播/付费直播.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/Lock.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/Synchronized.md",
-    "DataBase/Reality/Websites/Android 复习路径.md",
-    "DataBase/Reality/Websites/chatgpt.md",
-    "DataBase/Reality/Websites/掘金稀土.md",
-    "DataBase/Tasks/data/简历准备.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android ANR.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/apk.md",
-    "DataBase/Reality/Websites/廖雪峰的官方网站.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/组件化.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/Java.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/堆排序.md",
     "DataBase/Knowledge/Computer/BaseLayer/Network/计算机网络体系",
     "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/字符串匹配",
