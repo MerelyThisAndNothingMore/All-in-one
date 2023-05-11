@@ -4,17 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "9a1ee8390875640e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Intent.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
+        "id": "4dfaa679207e54dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da3d093b2f8482fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home Page.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -43,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:网络",
+                "query": "file:反射",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Intent.md",
+                "file": "Home Page.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -134,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Intent.md",
+                "file": "Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Intent.md"
+                "file": "Home Page.md"
               }
             }
           },
@@ -177,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Intent.md",
+                "file": "Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,9 +240,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9a1ee8390875640e",
+  "active": "da3d093b2f8482fc",
   "lastOpenFiles": [
+    "Work/岗位/小红书.md",
+    "Work/岗位/快手.md",
+    "Work/岗位/淘宝.md",
+    "Work/岗位/Minimax.md",
     "Work/岗位/拼多多.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/反射.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/注解.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/代理.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java Crash.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Network/计算机网络体系/计算机网络体系.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Intent.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/网络请求优化.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/冷启动.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 生命周期.md",
@@ -246,22 +262,12 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/Android 中的OOM.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/ViewStub.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/View加载优化.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Network/计算机网络体系/计算机网络体系.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/组件化.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/WebView/WebView.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Android 混合开发.md",
-    "Work/岗位/淘宝.md",
-    "Work/岗位/小红书.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Fragment/Fragment生命周期.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/桶排序.md",
     "Home Page.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/ART.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/apk.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Dalvik.md",
-    "Work/猎头/璐璐.md",
-    "Work/岗位/Minimax.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/Lock.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/线程池.md",
     "Resources/Images/Hardware Organization.png",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile",
     "WorkDesk.canvas",
