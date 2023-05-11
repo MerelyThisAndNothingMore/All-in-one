@@ -18,6 +18,7 @@ Surface 对应了一块屏幕缓冲区，是要显示到屏幕的内容 的载�
 ### 绑定应用
 每一个Android应用程序与SurfaceFlinger服务都有一个连接，这个连接都是通过一个类型为Client的Binder对象来描述的。
 这些Client对象是Android应用程序连接到SurfaceFlinger服务的时候由SurfaceFlinger服务创建的，而当Android应用程序成功连接到SurfaceFlinger服务之后，就可以获得一个对应的Client对象的Binder代理接口了。有了这些Binder代理接口之后，Android应用程序就可以通知SurfaceFlinger服务来绘制自己的UI了。
+ISurface 就是需要的和 SurfaceFlinger 通信的 AIDL ，每个窗口都持有一个 ISurface ，具体来说 WindowManageService 持有的 ISurface 用来进行窗口大小改变，动画等操作，ViewRootImpl 持有的 ISurface 用来进行 UI 的绘制，所以 canvas 才有用武之地
 ### 数据传输
 Android应用程序在通知SurfaceFlinger服务来绘制自己的UI的时候，需要将UI元数据传递给SurfaceFlinger服务，例如，要绘制UI的区域、位置等信息。
 一个Android应用程序可能会有很多个窗口，而每一个窗口都有自己的UI元数据，因此，Android应用程序需要传递给SurfaceFlinger服务的UI元数据是相当可观的。
