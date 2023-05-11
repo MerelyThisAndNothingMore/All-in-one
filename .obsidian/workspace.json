@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
-                "mode": "preview",
+                "file": "Work/岗位/淘宝.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -106,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home Page.md",
+                "file": "Work/岗位/淘宝.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -141,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "Work/岗位/淘宝.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "Work/岗位/淘宝.md"
               }
             }
           },
@@ -184,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "Work/岗位/淘宝.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,14 +242,14 @@
   },
   "active": "59c5f3ed907cd6b9",
   "lastOpenFiles": [
+    "Work/岗位/拼多多.md",
+    "Work/岗位/淘宝.md",
+    "Home Page.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/编程题/数字在排序数组中出现的次数（53）.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/排序.md",
-    "Home Page.md",
     "Work/岗位/小红书.md",
     "Work/岗位/快手.md",
-    "Work/岗位/淘宝.md",
     "Work/岗位/Minimax.md",
-    "Work/岗位/拼多多.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/反射.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/注解.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/代理.md",
