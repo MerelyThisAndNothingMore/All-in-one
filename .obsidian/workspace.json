@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Home Page.md",
+            "file": "Work/工作经历/付费直播/付费直播.md",
             "mode": "preview",
             "backlinks": true,
             "source": false
@@ -43,7 +43,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:inflate",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home Page.md",
+                "file": "Work/工作经历/付费直播/付费直播.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "Work/工作经历/付费直播/付费直播.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "Work/工作经历/付费直播/付费直播.md"
               }
             }
           },
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "Work/工作经历/付费直播/付费直播.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,6 +236,18 @@
   },
   "active": "465e680110087566",
   "lastOpenFiles": [
+    "Work/工作经历/录播/录播.md",
+    "Work/工作经历/录播/进房预加载优化.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/查找/线性索引查找.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/查找/顺序查找.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/查找/散列查找.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/查找/动态查找.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/查找/查找.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/动态规划/动态规划.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/排序.md",
+    "Configuration/Templates/SongsTemplate.md",
+    "Resources/Images/Hardware Organization.png",
+    "Home Page.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Inflate.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 内存模型.md",
     "Work/岗位/淘宝.md",
@@ -252,17 +264,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Android 版本特性.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Bitmap.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Acticity 显式流程.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/三级缓冲.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/自定义View.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/子线程更新UI.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/MeasureSpec.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/SurfaceView.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/UI线程.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/WMS.md",
     "WorkDesk.canvas",
     "DataBase/Knowledge/Computer/BaseLayer/Network/计算机网络体系",
     "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin",
@@ -280,7 +281,6 @@
     "Resources/Images/The Compilation system.png",
     "Resources/Images/State_Design_Pattern_UML_Class_Diagram.svg",
     "Resources/Images/Isaac Newton.png",
-    "Resources/Images/Hardware Organization.png",
     "Resources/Images/Pasted image 20230303101829.png",
     "Resources/canvas/UML of state pattern structure.canvas"
   ]
