@@ -156,7 +156,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 对象.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Inflate.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -179,7 +179,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -208,7 +208,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:特性",
+                "query": "file:inflate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -264,7 +264,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 对象.md",
+                "file": "Work/岗位/淘宝.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -299,7 +299,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 对象.md",
+                "file": "Work/岗位/淘宝.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -316,7 +316,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 对象.md"
+                "file": "Work/岗位/淘宝.md"
               }
             }
           },
@@ -342,7 +342,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 对象.md",
+                "file": "Work/岗位/淘宝.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -399,12 +399,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7781b47b4120832b",
+  "active": "5d67078c5fe7dfda",
   "lastOpenFiles": [
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 类加载.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Inflate.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 内存模型.md",
     "Work/岗位/淘宝.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Inflate.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/LayoutInflater.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/Lock.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 对象.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 类加载.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java Crash.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/ViewStub.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/targetSDKVersion.md",
@@ -420,14 +423,11 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/三级缓冲.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/自定义View.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/子线程更新UI.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/LayoutInflater.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/MeasureSpec.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/SurfaceView.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/UI线程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/WMS.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/ViewRootImpl.md",
-    "Work/岗位/拼多多.md",
     "WorkDesk.canvas",
     "DataBase/Knowledge/Computer/BaseLayer/Network/计算机网络体系",
     "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin",
