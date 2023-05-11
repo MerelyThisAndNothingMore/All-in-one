@@ -8,20 +8,142 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3ea89d2e40ba095a",
+            "id": "17760b211c559ced",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/MultiThread.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
-            "id": "44ee0edf0b7eefb5",
+            "id": "0c0ab12f9f453025",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/组件化.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "acc18106a89b51d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66bd3f1b4c3acec2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b1c9be01e2f32b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Inflate.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b36c90371f75c84d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Window Manager.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d590246ffdf9a5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/WMS.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6a654603dd4a34b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/SurfaceFlinger.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "997ec5f8878a0104",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Window.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf6a7dd100f87807",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/apk.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a74199ca02a70ca7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 内存模型.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -29,33 +151,35 @@
             }
           },
           {
-            "id": "dfdd2ebb95229610",
+            "id": "7781b47b4120832b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
-                "mode": "preview",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Inflate.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "3c9ab1b4834ca660",
+            "id": "5d67078c5fe7dfda",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "preview",
+                "file": "Work/岗位/淘宝.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -84,7 +208,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:inflate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,7 +264,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Work/岗位/淘宝.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -175,7 +299,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Work/岗位/淘宝.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +316,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Work/岗位/淘宝.md"
               }
             }
           },
@@ -218,7 +342,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Work/岗位/淘宝.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -275,34 +399,36 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3c9ab1b4834ca660",
+  "active": "5d67078c5fe7dfda",
   "lastOpenFiles": [
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
-    "conflict-files-obsidian-git.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Android 系统显示原理.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/自定义View.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/热修复/热修复.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/布局/布局.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/组件化.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/模块化.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/插件化.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/持久化/持久化.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/持久化/SharedPreferences.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/持久化/DataStore.md",
-    "Home Page.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Anim/Anim.md",
-    "DataBase/Reality/Websites/chatgpt.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/AQS.md",
-    "Outputs/video/苏联笑话/请您赶快坐到主席台上来.md",
-    "Outputs/video/苏联笑话/那他们就得跟你走.md",
-    "Work/岗位/拼多多.md",
-    "Work/岗位/小红书.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Inflate.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 内存模型.md",
     "Work/岗位/淘宝.md",
-    "Work/岗位/Minimax.md",
-    "Work/猎头/璐璐.md",
-    "Work/工作经历/录播/录播.md",
-    "Work/工作经历/主播端/主播端.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/LayoutInflater.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/Lock.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 对象.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 类加载.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java Crash.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/ViewStub.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/targetSDKVersion.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/apk.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Window.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Android 版本特性.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Bitmap.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Acticity 显式流程.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/三级缓冲.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/自定义View.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/子线程更新UI.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/MeasureSpec.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/SurfaceView.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/UI线程.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/WMS.md",
+    "WorkDesk.canvas",
     "DataBase/Knowledge/Computer/BaseLayer/Network/计算机网络体系",
     "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/字符串匹配",
@@ -312,9 +438,7 @@
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/贪心",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/回溯",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/递归",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/查找",
     "Resources/Images/Pasted image 20230508155739.png",
-    "WorkDesk.canvas",
     "Resources/Images/Pasted image 20230414234101.png",
     "Outputs/NovelWriting/花下/花下大纲.canvas",
     "Outputs/NovelWriting/花下/Drawing 2023-04-14 11.52.54.excalidraw.svg",

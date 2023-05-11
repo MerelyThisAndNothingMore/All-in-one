@@ -3,10 +3,14 @@ tags:
 alias:
 ---
 # Bitmap 内存占用的计算
+### 原始图像大小
 占用的内存大小 = 像素总数量(图片宽x高)x 每个像素的字节大小
-# getByteCount() & getAllocationByteCount()的区别
-如果被复用的Bitmap的内存比待分配内存的Bitmap大 getByteCount()获取到的是当前图片应当所占内存大小 getAllocationByteCount()获取到的是被复用Bitmap真实占用内存大小 在复用Bitmap的情况下，getAllocationByteCount()可能会比getByteCount()大。
+### decodeResource()
+通过 decodeResource() 方式生成的Bitmap,占用的内存除了和图片的宽高、options.inPreferredConfig、options.inSampleSize相关之外还和当前设备的 dpi( inTargetDensity ) 与图片所在文件夹对应的 dpi( inDensity ) 有关,通过上面的结果，我们可以知道具体的换算关系如下：
 
+```
+占用内存 = 图片宽度/inSampleSize*inTargetDensity/inDensity*图片高度/inSampleSize**inTargetDensity/inDensity*每个像素所占的内存
+```
 
 # 缓存
 ## LruCache & DiskLruCache原理
