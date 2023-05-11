@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/线程池.md",
-                "mode": "preview",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/链表.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "线程池",
+                "query": "file:链表",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/线程池.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/链表.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/线程池.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/链表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/线程池.md"
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/链表.md"
               }
             }
           },
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/线程池.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/链表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,6 +243,15 @@
   },
   "active": "0d4e70d43e254785",
   "lastOpenFiles": [
+    "Work/岗位/淘宝.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/ART.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/apk.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Dalvik.md",
+    "Work/猎头/璐璐.md",
+    "Work/岗位/Minimax.md",
+    "Work/岗位/小红书.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/Lock.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/线程池.md",
     "Home Page.md",
     "Work/工作经历/录播/录播.md",
     "Work/工作经历/录播/进房预加载优化.md",
@@ -257,20 +266,11 @@
     "Resources/Images/Hardware Organization.png",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Inflate.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 内存模型.md",
-    "Work/岗位/淘宝.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/LayoutInflater.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/Lock.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 对象.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 类加载.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java Crash.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/ViewStub.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/targetSDKVersion.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/apk.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Window.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Android 版本特性.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md",
     "WorkDesk.canvas",
     "DataBase/Knowledge/Computer/BaseLayer/Network/计算机网络体系",
     "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin",
