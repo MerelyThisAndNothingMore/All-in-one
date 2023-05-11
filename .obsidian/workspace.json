@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/岗位/拼多多.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/三级缓冲.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -225,7 +225,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Work/岗位/拼多多.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/三级缓冲.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -260,7 +260,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/岗位/拼多多.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/三级缓冲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -277,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/岗位/拼多多.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/三级缓冲.md"
               }
             }
           },
@@ -303,7 +303,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/岗位/拼多多.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/三级缓冲.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -362,18 +362,25 @@
   },
   "active": "997ec5f8878a0104",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/自定义View.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/子线程更新UI.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/LayoutInflater.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/MeasureSpec.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/SurfaceView.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/UI线程.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Window.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/WMS.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/ViewRootImpl.md",
+    "Work/岗位/拼多多.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/SurfaceFlinger.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Surface.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/ViewRootImpl.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/WMS.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Window Manager.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Window.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/ApplicationThread.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 启动过程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/LayoutInflater.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Inflate.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Bitmap.md",
     "DataBase/Reality/Websites/Android 复习路径.md",
@@ -381,13 +388,6 @@
     "Work/岗位/淘宝.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Android 版本特性.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/保活.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android 进程优先级.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/双缓冲.md",
-    "Work/岗位/拼多多.md",
-    "Work/岗位/小红书.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/Java.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Kotlin.md",
     "WorkDesk.canvas",
     "DataBase/Knowledge/Computer/BaseLayer/Network/计算机网络体系",
     "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin",
