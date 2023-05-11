@@ -7,6 +7,8 @@ alias:
 
 通过WebView的loadUrl（）
 通过WebView的evaluateJavascript（）
+
+
 对于JS调用Android代码的方法有3种：
 
 通过WebView的addJavascriptInterface（）进行对象映射
