@@ -35,8 +35,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Bitmap.md",
+                "file": "Work/岗位/淘宝.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -156,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Bitmap.md",
+                "file": "Work/岗位/淘宝.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Bitmap.md"
+                "file": "Work/岗位/淘宝.md"
               }
             }
           },
@@ -199,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Bitmap.md",
+                "file": "Work/岗位/淘宝.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,11 +255,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e2a193fb6c1d5e73",
+  "active": "995cf5ee52de625f",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Bitmap.md",
     "Work/岗位/淘宝.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/SurfaceView.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Bitmap.md",
     "Work/岗位/拼多多.md",
     "Home Page.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/编程题/数字在排序数组中出现的次数（53）.md",
