@@ -28,14 +28,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Skills/Keyboard/双拼.md",
-                "mode": "preview",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Refied.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8aa7bba2522092ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Kotlin interface.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4bc087db5bd5105",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Refied.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8216a5b8b9a618c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Refied.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Work/岗位/快手.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Kotlin interface.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -155,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/岗位/快手.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Kotlin interface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/岗位/快手.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Kotlin interface.md"
               }
             }
           },
@@ -198,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/岗位/快手.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Kotlin interface.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,12 +295,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "14aa00b6be58f5e9",
+  "active": "8aa7bba2522092ad",
   "lastOpenFiles": [
-    "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Kotlin.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Refied.md",
-    "DataBase/Skills/Keyboard/双拼.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Kotlin interface.md",
     "Work/岗位/快手.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/Java 泛型.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Kotlin.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/类型擦除.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Kotlin 泛型.md",
+    "DataBase/Skills/Keyboard/双拼.md",
     "Home Page.md",
     "conflict-files-obsidian-git.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/FPS.md",
@@ -279,10 +323,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java Crash.md",
     "DataBase/Knowledge/Computer/BaseLayer/Network/计算机网络体系/计算机网络体系.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Intent.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/网络请求优化.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/冷启动.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 生命周期.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/内存优化.md",
     "Resources/Images/Hardware Organization.png",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile",
     "WorkDesk.canvas",
