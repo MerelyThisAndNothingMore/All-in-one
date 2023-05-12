@@ -54,14 +54,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/FPS.md",
+                "file": "Work/岗位/快手.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -146,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Work/岗位/淘宝.md",
+                "file": "Work/岗位/快手.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -181,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/岗位/淘宝.md",
+                "file": "Work/岗位/快手.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/岗位/淘宝.md"
+                "file": "Work/岗位/快手.md"
               }
             }
           },
@@ -224,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/岗位/淘宝.md",
+                "file": "Work/岗位/快手.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -281,12 +282,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "995cf5ee52de625f",
+  "active": "8924cc97b0d9e9c1",
   "lastOpenFiles": [
+    "Work/岗位/小红书.md",
+    "Work/岗位/淘宝.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/FPS.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Window.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Bitmap.md",
-    "Work/岗位/淘宝.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/RxJava.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/保活.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java Crash.md",
@@ -296,7 +298,6 @@
     "Home Page.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/编程题/数字在排序数组中出现的次数（53）.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/排序.md",
-    "Work/岗位/小红书.md",
     "Work/岗位/快手.md",
     "Work/岗位/Minimax.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/反射.md",
