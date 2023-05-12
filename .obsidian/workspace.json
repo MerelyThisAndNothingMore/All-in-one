@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "42ff210685309f18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,7 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Work/岗位/快手.md",
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -154,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/岗位/快手.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/岗位/快手.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -197,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/岗位/快手.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,8 +267,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c3fd7868693128a8",
+  "active": "42ff210685309f18",
   "lastOpenFiles": [
+    "Work/岗位/快手.md",
+    "conflict-files-obsidian-git.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/FPS.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/RxJava.md",
     "Work/岗位/会玩.md",
     "Work/猎头/璐璐.md",
     "Work/岗位/淘宝.md",
@@ -265,7 +282,6 @@
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/编程题/数字在排序数组中出现的次数（53）.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/排序.md",
     "Work/岗位/小红书.md",
-    "Work/岗位/快手.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/反射.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/注解.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/代理.md",
@@ -279,9 +295,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/Android 内存泄漏.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/Android 卡顿.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/Android 中的OOM.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/ViewStub.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/View加载优化.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/组件化.md",
     "Resources/Images/Hardware Organization.png",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile",
     "WorkDesk.canvas",
