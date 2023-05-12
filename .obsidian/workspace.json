@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "79a7c0fff5bf1859",
+        "id": "8434ced57f5f969f",
         "type": "tabs",
         "children": [
           {
-            "id": "835ffe3ccd627374",
+            "id": "14aa00b6be58f5e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/岗位/淘宝.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c3fd7868693128a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/岗位/快手.md",
-                "mode": "source",
+                "file": "Home Page.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Work/岗位/快手.md",
+                "file": "Home Page.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -154,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/岗位/快手.md",
+                "file": "Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/岗位/快手.md"
+                "file": "Home Page.md"
               }
             }
           },
@@ -197,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/岗位/快手.md",
+                "file": "Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +240,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c3fd7868693128a8",
+  "active": "14aa00b6be58f5e9",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Work/岗位/快手.md",
