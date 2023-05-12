@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Kotlin interface.md",
+                "file": "Outputs/video/文字转音频.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -160,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Kotlin interface.md",
+                "file": "Outputs/video/文字转音频.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -195,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Kotlin interface.md",
+                "file": "Outputs/video/文字转音频.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Kotlin interface.md"
+                "file": "Outputs/video/文字转音频.md"
               }
             }
           },
@@ -238,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Kotlin interface.md",
+                "file": "Outputs/video/文字转音频.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -297,8 +297,14 @@
   },
   "active": "8aa7bba2522092ad",
   "lastOpenFiles": [
-    "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Refied.md",
+    "Outputs/video/文字转视频.md",
+    "Outputs/video/视频剪辑.md",
+    "Outputs/video/必剪.md",
+    "Outputs/video/苏联笑话/请您赶快坐到主席台上来.md",
+    "Outputs/video/苏联笑话/那他们就得跟你走.md",
+    "Outputs/GameDevelop/思考/思考.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Kotlin interface.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Refied.md",
     "Work/岗位/快手.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/Java 泛型.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Kotlin.md",
@@ -317,12 +323,6 @@
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/编程题/数字在排序数组中出现的次数（53）.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/排序.md",
     "Work/岗位/小红书.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/反射.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/注解.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/代理.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java Crash.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Network/计算机网络体系/计算机网络体系.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Intent.md",
     "Resources/Images/Hardware Organization.png",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile",
     "WorkDesk.canvas",
