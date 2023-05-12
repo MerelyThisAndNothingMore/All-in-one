@@ -10,10 +10,25 @@
           {
             "id": "14aa00b6be58f5e9",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
+                "file": "Work/岗位/快手.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "ab99781e9778ee69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Skills/Keyboard/双拼.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -105,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home Page.md",
+                "file": "Work/岗位/快手.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "Work/岗位/快手.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "Work/岗位/快手.md"
               }
             }
           },
@@ -183,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "Work/岗位/快手.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,15 +257,18 @@
   },
   "active": "14aa00b6be58f5e9",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Kotlin.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Refied.md",
+    "DataBase/Skills/Keyboard/双拼.md",
     "Work/岗位/快手.md",
+    "Home Page.md",
+    "conflict-files-obsidian-git.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/FPS.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/RxJava.md",
     "Work/岗位/会玩.md",
     "Work/猎头/璐璐.md",
     "Work/岗位/淘宝.md",
     "Work/岗位/Minimax.md",
-    "Home Page.md",
     "Work/岗位/拼多多.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/编程题/数字在排序数组中出现的次数（53）.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/排序.md",
@@ -265,9 +283,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/冷启动.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 生命周期.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/内存优化.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/Android 内存泄漏.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/Android 卡顿.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/Android 中的OOM.md",
     "Resources/Images/Hardware Organization.png",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile",
     "WorkDesk.canvas",

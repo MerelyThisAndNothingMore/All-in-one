@@ -378,16 +378,16 @@
     "Android": {
       "Android": {
         "internalLink": {
-          "count": 1,
-          "lastUpdated": 1683731283067
+          "count": 2,
+          "lastUpdated": 1683875689689
         }
       }
     },
     "Java": {
       "Java": {
         "internalLink": {
-          "count": 1,
-          "lastUpdated": 1683731295338
+          "count": 2,
+          "lastUpdated": 1683875672524
         }
       }
     },
@@ -444,6 +444,14 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1683799279596
+        }
+      }
+    },
+    "Kotlin": {
+      "Kotlin": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1683875681517
         }
       }
     }
