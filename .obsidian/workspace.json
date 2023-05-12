@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Outputs/video/苏联笑话/给猫下芥末.md",
+                "file": "DataBase/Literature/Text/Sayings/Saying0005.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f923a0b042fa8ea2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/video/杂文/饱食终日，无所事事.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -63,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:链表",
+                "query": "file:say",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Outputs/video/苏联笑话/给猫下芥末.md",
+                "file": "Outputs/video/杂文/饱食终日，无所事事.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -154,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Outputs/video/苏联笑话/给猫下芥末.md",
+                "file": "Outputs/video/杂文/饱食终日，无所事事.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Outputs/video/苏联笑话/给猫下芥末.md"
+                "file": "Outputs/video/杂文/饱食终日，无所事事.md"
               }
             }
           },
@@ -197,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Outputs/video/苏联笑话/给猫下芥末.md",
+                "file": "Outputs/video/杂文/饱食终日，无所事事.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,10 +267,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d64de1bf151bcea4",
+  "active": "f923a0b042fa8ea2",
   "lastOpenFiles": [
-    "Outputs/video/苏联笑话/那他们就得跟你走.md",
+    "DataBase/Literature/Text/Sayings/Saying0010.md",
+    "Outputs/video/杂文/饱食终日，无所事事.md",
+    "Outputs/video/杂文",
+    "DataBase/Literature/Text/Sayings/Saying0005.md",
     "Outputs/video/苏联笑话/给猫下芥末.md",
+    "Outputs/video/苏联笑话/那他们就得跟你走.md",
     "Home Page.md",
     "Outputs/video/热点/室温超导.md",
     "Outputs/video/热点/马斯克卸任TwitterCEO.md",
@@ -279,9 +296,6 @@
     "conflict-files-obsidian-git.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/FPS.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/RxJava.md",
-    "Work/岗位/会玩.md",
-    "Work/猎头/璐璐.md",
-    "Work/岗位/淘宝.md",
     "Resources/Images/Hardware Organization.png",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile",
     "WorkDesk.canvas",
@@ -293,7 +307,6 @@
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/分治",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/贪心",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/回溯",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/递归",
     "Resources/Images/Pasted image 20230508155739.png",
     "Resources/Images/Pasted image 20230414234101.png",
     "Outputs/NovelWriting/花下/花下大纲.canvas",
