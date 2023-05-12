@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f283418c11da4258",
+        "id": "d253efaa5edf7161",
         "type": "tabs",
         "children": [
           {
-            "id": "b023ac21f74d04cd",
+            "id": "1086c62b98fe9d04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Outputs/video/热点/室温超导.md",
+                "file": "Outputs/video/苏联笑话/那他们就得跟你走.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "09e839027a7eb225",
+            "id": "d64de1bf151bcea4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Outputs/video/热点/马斯克卸任TwitterCEO.md",
+                "file": "Outputs/video/苏联笑话/给猫下芥末.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -119,7 +119,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Outputs/video/热点/马斯克卸任TwitterCEO.md",
+                "file": "Outputs/video/苏联笑话/给猫下芥末.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Outputs/video/热点/马斯克卸任TwitterCEO.md",
+                "file": "Outputs/video/苏联笑话/给猫下芥末.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Outputs/video/热点/马斯克卸任TwitterCEO.md"
+                "file": "Outputs/video/苏联笑话/给猫下芥末.md"
               }
             }
           },
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Outputs/video/热点/马斯克卸任TwitterCEO.md",
+                "file": "Outputs/video/苏联笑话/给猫下芥末.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,18 +254,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "09e839027a7eb225",
+  "active": "d64de1bf151bcea4",
   "lastOpenFiles": [
+    "Outputs/video/苏联笑话/那他们就得跟你走.md",
+    "Outputs/video/苏联笑话/给猫下芥末.md",
+    "Home Page.md",
     "Outputs/video/热点/室温超导.md",
     "Outputs/video/热点/马斯克卸任TwitterCEO.md",
     "Outputs/video/热点/五个女博士.md",
-    "Home Page.md",
     "Outputs/video/必剪.md",
     "Outputs/video/视频剪辑.md",
     "Outputs/video/文字转视频.md",
     "Outputs/video/文字转音频.md",
     "Outputs/video/苏联笑话/请您赶快坐到主席台上来.md",
-    "Outputs/video/苏联笑话/那他们就得跟你走.md",
     "Outputs/GameDevelop/思考/思考.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Kotlin interface.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Refied.md",
@@ -281,7 +282,6 @@
     "Work/岗位/会玩.md",
     "Work/猎头/璐璐.md",
     "Work/岗位/淘宝.md",
-    "Work/岗位/Minimax.md",
     "Resources/Images/Hardware Organization.png",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile",
     "WorkDesk.canvas",
