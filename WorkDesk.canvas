@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"f96bd27196d96de7","x":384,"y":-1151,"width":250,"height":60,"type":"text","text":""},
 		{"type":"text","text":"工作","id":"5dd923f540c2525d","x":-20,"y":-650,"width":250,"height":60},
 		{"type":"text","text":"目的","id":"8326fec1cf2bd1f4","x":-540,"y":-360,"width":250,"height":60},
 		{"type":"text","text":"投机","id":"fd804cfd3d3f606a","x":-20,"y":-420,"width":250,"height":60},
