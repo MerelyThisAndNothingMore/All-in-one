@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Tasks/data/搬家.md",
+                "file": "Outputs/video/Films/《好好先生》：写给年轻人的情书.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -136,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Tasks/data/搬家.md",
+                "file": "Outputs/video/Films/《好好先生》：写给年轻人的情书.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Tasks/data/搬家.md",
+                "file": "Outputs/video/Films/《好好先生》：写给年轻人的情书.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Tasks/data/搬家.md"
+                "file": "Outputs/video/Films/《好好先生》：写给年轻人的情书.md"
               }
             }
           },
@@ -214,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Tasks/data/搬家.md",
+                "file": "Outputs/video/Films/《好好先生》：写给年轻人的情书.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -273,12 +273,15 @@
   },
   "active": "0d9967816a55181b",
   "lastOpenFiles": [
-    "DataBase/Tasks/data/房子转租2023.md",
+    "Outputs/video/杂文/饱食终日，无所事事.md",
+    "Outputs/video/Films/《好好先生》：写给年轻人的情书.md",
+    "Outputs/video/Films",
+    "Work/岗位/淘宝.md",
     "DataBase/Tasks/data/搬家.md",
+    "DataBase/Tasks/data/房子转租2023.md",
     "WorkDesk.canvas",
     "Home Page.md",
     "DataBase/Literature/Text/Sayings/Saying0010.md",
-    "Outputs/video/杂文/饱食终日，无所事事.md",
     "Outputs/video/杂文",
     "DataBase/Literature/Text/Sayings/Saying0005.md",
     "Outputs/video/苏联笑话/给猫下芥末.md",
@@ -299,8 +302,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Kotlin.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/类型擦除.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Kotlin 泛型.md",
-    "DataBase/Skills/Keyboard/双拼.md",
-    "conflict-files-obsidian-git.md",
     "Resources/Images/Hardware Organization.png",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile",
     "DataBase/Knowledge/Computer/BaseLayer/Network/计算机网络体系",
@@ -310,7 +311,6 @@
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Untitled",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/分治",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/贪心",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/回溯",
     "Resources/Images/Pasted image 20230508155739.png",
     "Resources/Images/Pasted image 20230414234101.png",
     "Outputs/NovelWriting/花下/花下大纲.canvas",
