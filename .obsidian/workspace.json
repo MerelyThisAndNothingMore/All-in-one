@@ -30,8 +30,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Tasks/data/房子转租2023.md",
-                "mode": "preview",
+                "file": "Outputs/video/Films/《好好先生》：写给当代青年人的情书.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Outputs/video/Films/《好好先生》：写给年轻人的情书.md",
+                "file": "DataBase/Literature/Text/Poem/现代诗/面朝大海，春暖花开.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -51,7 +51,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:say",
+                "query": "poem",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Outputs/video/Films/《好好先生》：写给年轻人的情书.md",
+                "file": "Outputs/video/Films/《好好先生》：写给当代青年人的情书.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Outputs/video/Films/《好好先生》：写给年轻人的情书.md",
+                "file": "Outputs/video/Films/《好好先生》：写给当代青年人的情书.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Outputs/video/Films/《好好先生》：写给年轻人的情书.md"
+                "file": "Outputs/video/Films/《好好先生》：写给当代青年人的情书.md"
               }
             }
           },
@@ -214,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Outputs/video/Films/《好好先生》：写给年轻人的情书.md",
+                "file": "Outputs/video/Films/《好好先生》：写给当代青年人的情书.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -271,15 +271,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0d9967816a55181b",
+  "active": "d622cf90e0df0ef7",
   "lastOpenFiles": [
+    "WorkDesk.canvas",
+    "DataBase/Tasks/data/房子转租2023.md",
+    "DataBase/Literature/Text/Poem/现代诗/面朝大海，春暖花开.md",
+    "DataBase/Literature/Text/Poem/词/念奴娇·登多景楼.md",
+    "DataBase/Knowledge/Humanities/Literature/Theory/narrative poem.md",
+    "DataBase/Literature/Text/Poetry.md",
+    "Outputs/video/Films/《好好先生》：写给当代青年人的情书.md",
     "Outputs/video/杂文/饱食终日，无所事事.md",
-    "Outputs/video/Films/《好好先生》：写给年轻人的情书.md",
     "Outputs/video/Films",
     "Work/岗位/淘宝.md",
     "DataBase/Tasks/data/搬家.md",
-    "DataBase/Tasks/data/房子转租2023.md",
-    "WorkDesk.canvas",
     "Home Page.md",
     "DataBase/Literature/Text/Sayings/Saying0010.md",
     "Outputs/video/杂文",
@@ -297,11 +301,6 @@
     "Outputs/GameDevelop/思考/思考.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Kotlin interface.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Refied.md",
-    "Work/岗位/快手.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/Java 泛型.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Kotlin.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/类型擦除.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Kotlin 泛型.md",
     "Resources/Images/Hardware Organization.png",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile",
     "DataBase/Knowledge/Computer/BaseLayer/Network/计算机网络体系",
