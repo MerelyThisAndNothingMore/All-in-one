@@ -4,50 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "d253efaa5edf7161",
+        "id": "cd7499e477568b3e",
         "type": "tabs",
         "children": [
           {
-            "id": "1086c62b98fe9d04",
+            "id": "ecc5b1c42bb1b076",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Outputs/video/苏联笑话/那他们就得跟你走.md",
+                "file": "Home Page.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "d64de1bf151bcea4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Literature/Text/Sayings/Saying0005.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f923a0b042fa8ea2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/杂文/饱食终日，无所事事.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Outputs/video/杂文/饱食终日，无所事事.md",
+                "file": "Home Page.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -167,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Outputs/video/杂文/饱食终日，无所事事.md",
+                "file": "Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Outputs/video/杂文/饱食终日，无所事事.md"
+                "file": "Home Page.md"
               }
             }
           },
@@ -210,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Outputs/video/杂文/饱食终日，无所事事.md",
+                "file": "Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,7 +240,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f923a0b042fa8ea2",
+  "active": "ecc5b1c42bb1b076",
   "lastOpenFiles": [
     "DataBase/Literature/Text/Sayings/Saying0010.md",
     "Outputs/video/杂文/饱食终日，无所事事.md",
