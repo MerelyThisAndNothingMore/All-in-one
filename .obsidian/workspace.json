@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "afdb72236836fa58",
+        "id": "27ae4e0c49e73834",
         "type": "tabs",
         "children": [
           {
-            "id": "612e476845fd2f35",
+            "id": "7f3e7fb912b2f994",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Outputs/video/热点/室温超导.md",
+                "file": "Home Page.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "d3d21dcffdab487b",
+            "id": "137f171ccc287551",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Literature/Text/Poem/现代诗/面朝大海，春暖花开.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "毛泽东",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,8 +88,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -120,7 +119,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Literature/Text/Poem/现代诗/面朝大海，春暖花开.md",
+                "file": "Untitled.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -155,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Literature/Text/Poem/现代诗/面朝大海，春暖花开.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Literature/Text/Poem/现代诗/面朝大海，春暖花开.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -198,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Literature/Text/Poem/现代诗/面朝大海，春暖花开.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,17 +254,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d3d21dcffdab487b",
+  "active": "137f171ccc287551",
   "lastOpenFiles": [
-    "Outputs/video/热点/骨灰漂流瓶.md",
+    "Home Page.md",
+    "Untitled.md",
+    "DataBase/Literature/Text/Poem/现代诗/面朝大海，春暖花开.md",
     "Outputs/video/热点/室温超导.md",
+    "Outputs/video/热点/骨灰漂流瓶.md",
     "Outputs/video/热点/五个女博士.md",
     "Outputs/video/热点/马斯克卸任TwitterCEO.md",
-    "Home Page.md",
     "Outputs/video/Films/《好好先生》：写给当代青年人的情书.md",
     "WorkDesk.canvas",
     "DataBase/Tasks/data/房子转租2023.md",
-    "DataBase/Literature/Text/Poem/现代诗/面朝大海，春暖花开.md",
     "DataBase/Literature/Text/Poem/词/念奴娇·登多景楼.md",
     "DataBase/Knowledge/Humanities/Literature/Theory/narrative poem.md",
     "DataBase/Literature/Text/Poetry.md",
@@ -285,7 +285,6 @@
     "Outputs/video/苏联笑话/请您赶快坐到主席台上来.md",
     "Outputs/GameDevelop/思考/思考.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Kotlin interface.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Refied.md",
     "Resources/Images/Hardware Organization.png",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile",
     "DataBase/Knowledge/Computer/BaseLayer/Network/计算机网络体系",
