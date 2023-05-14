@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Outputs/video/热点/骨灰漂流瓶.md",
+                "file": "DataBase/Literature/Text/Poem/现代诗/面朝大海，春暖花开.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -120,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Outputs/video/热点/骨灰漂流瓶.md",
+                "file": "DataBase/Literature/Text/Poem/现代诗/面朝大海，春暖花开.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Outputs/video/热点/骨灰漂流瓶.md",
+                "file": "DataBase/Literature/Text/Poem/现代诗/面朝大海，春暖花开.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Outputs/video/热点/骨灰漂流瓶.md"
+                "file": "DataBase/Literature/Text/Poem/现代诗/面朝大海，春暖花开.md"
               }
             }
           },
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Outputs/video/热点/骨灰漂流瓶.md",
+                "file": "DataBase/Literature/Text/Poem/现代诗/面朝大海，春暖花开.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,10 +255,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5e5fea182599fa5c",
+  "active": "d3d21dcffdab487b",
   "lastOpenFiles": [
-    "Outputs/video/热点/室温超导.md",
     "Outputs/video/热点/骨灰漂流瓶.md",
+    "Outputs/video/热点/室温超导.md",
     "Outputs/video/热点/五个女博士.md",
     "Outputs/video/热点/马斯克卸任TwitterCEO.md",
     "Home Page.md",
