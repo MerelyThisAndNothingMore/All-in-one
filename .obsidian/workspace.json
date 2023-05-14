@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d3d21dcffdab487b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/video/热点/骨灰漂流瓶.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "poem",
+                "query": "毛泽东",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +88,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -105,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Outputs/video/热点/室温超导.md",
+                "file": "Outputs/video/热点/骨灰漂流瓶.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Outputs/video/热点/室温超导.md",
+                "file": "Outputs/video/热点/骨灰漂流瓶.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Outputs/video/热点/室温超导.md"
+                "file": "Outputs/video/热点/骨灰漂流瓶.md"
               }
             }
           },
@@ -183,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Outputs/video/热点/室温超导.md",
+                "file": "Outputs/video/热点/骨灰漂流瓶.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,11 +255,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "612e476845fd2f35",
+  "active": "5e5fea182599fa5c",
   "lastOpenFiles": [
+    "Outputs/video/热点/室温超导.md",
+    "Outputs/video/热点/骨灰漂流瓶.md",
     "Outputs/video/热点/五个女博士.md",
     "Outputs/video/热点/马斯克卸任TwitterCEO.md",
-    "Outputs/video/热点/室温超导.md",
     "Home Page.md",
     "Outputs/video/Films/《好好先生》：写给当代青年人的情书.md",
     "WorkDesk.canvas",
