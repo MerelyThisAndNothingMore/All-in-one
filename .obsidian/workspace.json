@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "27ae4e0c49e73834",
+        "id": "afcef5f9f78978cc",
         "type": "tabs",
         "children": [
           {
-            "id": "7f3e7fb912b2f994",
+            "id": "1f87615b99dc3267",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "137f171ccc287551",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled.md",
+                "file": "Home Page.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -154,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Home Page.md"
               }
             }
           },
@@ -197,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,10 +240,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "137f171ccc287551",
+  "active": "9efb66c5acbe3c31",
   "lastOpenFiles": [
     "Home Page.md",
-    "Untitled.md",
+    "蒲柳人家.md",
     "DataBase/Literature/Text/Poem/现代诗/面朝大海，春暖花开.md",
     "Outputs/video/热点/室温超导.md",
     "Outputs/video/热点/骨灰漂流瓶.md",
