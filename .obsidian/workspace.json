@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Outputs/video/杂文/蒲柳人家.md",
-                "mode": "preview",
+                "file": "Work/岗位/快手.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Outputs/video/杂文/蒲柳人家.md",
+                "file": "Work/岗位/快手.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Outputs/video/杂文/蒲柳人家.md",
+                "file": "Work/岗位/快手.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Outputs/video/杂文/蒲柳人家.md"
+                "file": "Work/岗位/快手.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Outputs/video/杂文/蒲柳人家.md",
+                "file": "Work/岗位/快手.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,8 +242,9 @@
   },
   "active": "1f87615b99dc3267",
   "lastOpenFiles": [
-    "Outputs/video/杂文/五中.md",
+    "Work/岗位/会玩.md",
     "Outputs/video/杂文/蒲柳人家.md",
+    "Outputs/video/杂文/五中.md",
     "Outputs/video/杂文/饱食终日，无所事事.md",
     "Outputs/video/Films/《好好先生》：写给当代青年人的情书.md",
     "Outputs/video/热点/五个女博士.md",
@@ -270,7 +271,6 @@
     "Outputs/video/文字转视频.md",
     "Outputs/video/文字转音频.md",
     "Outputs/video/苏联笑话/请您赶快坐到主席台上来.md",
-    "Outputs/GameDevelop/思考/思考.md",
     "Resources/Images/Hardware Organization.png",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile",
     "DataBase/Knowledge/Computer/BaseLayer/Network/计算机网络体系",
