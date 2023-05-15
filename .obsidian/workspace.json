@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 内存模型.md",
+                "file": "Outputs/video/热点/骨灰漂流瓶.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "79af15187c839b70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/video/热点/骨灰漂流瓶.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "内存区",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +88,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -106,7 +119,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 内存模型.md",
+                "file": "Outputs/video/热点/骨灰漂流瓶.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -141,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 内存模型.md",
+                "file": "Outputs/video/热点/骨灰漂流瓶.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 内存模型.md"
+                "file": "Outputs/video/热点/骨灰漂流瓶.md"
               }
             }
           },
@@ -184,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 内存模型.md",
+                "file": "Outputs/video/热点/骨灰漂流瓶.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,8 +254,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1f87615b99dc3267",
+  "active": "79af15187c839b70",
   "lastOpenFiles": [
+    "Outputs/video/热点/比老无所养更难的是无老可养.md",
+    "Outputs/video/热点/骨灰漂流瓶.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 内存模型.md",
     "Outputs/video/杂文/蒲柳人家.md",
     "Outputs/video/Films/《好好先生》：写给当代青年人的情书.md",
     "Outputs/video/杂文/饱食终日，无所事事.md",
@@ -252,7 +268,6 @@
     "Outputs/video/热点/五个女博士.md",
     "Outputs/video/热点/室温超导.md",
     "Outputs/video/热点/马斯克卸任TwitterCEO.md",
-    "Outputs/video/热点/骨灰漂流瓶.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/类型擦除.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Refied.md",
     "Work/岗位/快手.md",
@@ -270,8 +285,6 @@
     "DataBase/Tasks/data/搬家.md",
     "DataBase/Literature/Text/Sayings/Saying0010.md",
     "Outputs/video/杂文",
-    "DataBase/Literature/Text/Sayings/Saying0005.md",
-    "Outputs/video/必剪.md",
     "Resources/Images/Hardware Organization.png",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile",
     "DataBase/Knowledge/Computer/BaseLayer/Network/计算机网络体系",
