@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/岗位/快手.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/类型擦除.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Work/岗位/快手.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/类型擦除.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/岗位/快手.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/类型擦除.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/岗位/快手.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/类型擦除.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/岗位/快手.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/类型擦除.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,6 +242,8 @@
   },
   "active": "1f87615b99dc3267",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Refied.md",
+    "Work/岗位/快手.md",
     "Work/岗位/会玩.md",
     "Outputs/video/杂文/蒲柳人家.md",
     "Outputs/video/杂文/五中.md",
@@ -269,8 +271,6 @@
     "Outputs/video/必剪.md",
     "Outputs/video/视频剪辑.md",
     "Outputs/video/文字转视频.md",
-    "Outputs/video/文字转音频.md",
-    "Outputs/video/苏联笑话/请您赶快坐到主席台上来.md",
     "Resources/Images/Hardware Organization.png",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile",
     "DataBase/Knowledge/Computer/BaseLayer/Network/计算机网络体系",
