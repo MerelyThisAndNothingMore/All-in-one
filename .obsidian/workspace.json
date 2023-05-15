@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/类型擦除.md",
+                "file": "Outputs/video/杂文/蒲柳人家.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/类型擦除.md",
+                "file": "Outputs/video/杂文/蒲柳人家.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/类型擦除.md",
+                "file": "Outputs/video/杂文/蒲柳人家.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/类型擦除.md"
+                "file": "Outputs/video/杂文/蒲柳人家.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/类型擦除.md",
+                "file": "Outputs/video/杂文/蒲柳人家.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,17 +242,21 @@
   },
   "active": "1f87615b99dc3267",
   "lastOpenFiles": [
-    "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Refied.md",
-    "Work/岗位/快手.md",
-    "Work/岗位/会玩.md",
-    "Outputs/video/杂文/蒲柳人家.md",
-    "Outputs/video/杂文/五中.md",
-    "Outputs/video/杂文/饱食终日，无所事事.md",
     "Outputs/video/Films/《好好先生》：写给当代青年人的情书.md",
+    "Outputs/video/杂文/饱食终日，无所事事.md",
+    "Outputs/video/杂文/蒲柳人家.md",
+    "Outputs/video/苏联笑话/请您赶快坐到主席台上来.md",
+    "Outputs/video/苏联笑话/那他们就得跟你走.md",
+    "Outputs/video/苏联笑话/给猫下芥末.md",
     "Outputs/video/热点/五个女博士.md",
     "Outputs/video/热点/室温超导.md",
     "Outputs/video/热点/马斯克卸任TwitterCEO.md",
     "Outputs/video/热点/骨灰漂流瓶.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/类型擦除.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Refied.md",
+    "Work/岗位/快手.md",
+    "Work/岗位/会玩.md",
+    "Outputs/video/杂文/五中.md",
     "Home Page.md",
     "DataBase/Literature/Text/Poem/现代诗/面朝大海，春暖花开.md",
     "WorkDesk.canvas",
@@ -266,11 +270,7 @@
     "DataBase/Literature/Text/Sayings/Saying0010.md",
     "Outputs/video/杂文",
     "DataBase/Literature/Text/Sayings/Saying0005.md",
-    "Outputs/video/苏联笑话/给猫下芥末.md",
-    "Outputs/video/苏联笑话/那他们就得跟你走.md",
     "Outputs/video/必剪.md",
-    "Outputs/video/视频剪辑.md",
-    "Outputs/video/文字转视频.md",
     "Resources/Images/Hardware Organization.png",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile",
     "DataBase/Knowledge/Computer/BaseLayer/Network/计算机网络体系",
