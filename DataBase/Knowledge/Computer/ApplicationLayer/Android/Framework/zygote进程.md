@@ -25,7 +25,7 @@ SystemServer里跑了一堆系统服务，这些不能继承到应用进程
 # Zygote的IPC通信机制为什么使用socket而不采用binder
 Zygote是通过fork生成进程的 
 因为fork只能拷贝当前线程，不支持多线程的fork，fork的原理是copy-on-write机制，当父子进程任一方 修改内存数据时(这是on-write时机)，才发生缺页中断，从而分配新的物理内存(这是copy操作)。 
-zygote进程中已经启动了虚拟机、进行资源和类的预加载以及各种初始化操作，App进程用时拷贝即可。 Zygotefork出来的进程A只有一个线程，如果Zygote有多个线程，那么A会丢失其他线程。这时可能造成死 锁。 
-Binder通信需要使用Binder线程池,binder维护了一个16个线程的线程池，fork()出的App进程的binder通 讯没法用
+zygote进程中已经启动了虚拟机、进行资源和类的预加载以及各种初始化操作，App进程用时拷贝即可。 Zygotefork出来的进程A只有一个线程，如果Zygote有多个线程，那么A会丢失其他线程。这时可能造成死锁。 
+[[Binder]]通信需要使用Binder线程池,binder维护了一个16个线程的线程池，fork()出的App进程的binder通 讯没法用
 
 
