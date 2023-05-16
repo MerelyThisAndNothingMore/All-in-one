@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
-                "mode": "preview",
+                "file": "Outputs/video/杂文/蒲柳人家.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "studyre",
+                "query": "蒲柳人家",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -105,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home Page.md",
+                "file": "Outputs/video/杂文/蒲柳人家.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "Outputs/video/杂文/蒲柳人家.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "Outputs/video/杂文/蒲柳人家.md"
               }
             }
           },
@@ -183,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "Outputs/video/杂文/蒲柳人家.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,6 +243,7 @@
   },
   "active": "99cd5b2e199d1770",
   "lastOpenFiles": [
+    "Home Page.md",
     "Outputs/video/杂文/饱食终日，无所事事.md",
     "Outputs/video/杂文/蒲柳人家.md",
     "Outputs/video/苏联笑话/猫是大象的祖先.md",
@@ -250,7 +252,6 @@
     "Outputs/video/热点/室温超导.md",
     "Outputs/video/热点/五个女博士.md",
     "Outputs/video/必剪.md",
-    "Home Page.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
     "Work/岗位/会玩.md",
     "Work/岗位/快手.md",
