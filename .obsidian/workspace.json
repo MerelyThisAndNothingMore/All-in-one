@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "c7aef738ffac16cc",
+        "id": "b24fb91d82dfb6bd",
         "type": "tabs",
         "children": [
           {
-            "id": "6f7a37a835cf1b37",
+            "id": "99cd5b2e199d1770",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Outputs/video/苏联笑话/给猫下芥末.md",
+                "file": "Home Page.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "9446650809ef45c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/猫是大象的祖先.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Outputs/video/苏联笑话/猫是大象的祖先.md",
+                "file": "Home Page.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -154,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Outputs/video/苏联笑话/猫是大象的祖先.md",
+                "file": "Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Outputs/video/苏联笑话/猫是大象的祖先.md"
+                "file": "Home Page.md"
               }
             }
           },
@@ -197,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Outputs/video/苏联笑话/猫是大象的祖先.md",
+                "file": "Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,10 +240,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9446650809ef45c0",
+  "active": "99cd5b2e199d1770",
   "lastOpenFiles": [
-    "Outputs/video/苏联笑话/给猫下芥末.md",
+    "Outputs/video/杂文/饱食终日，无所事事.md",
+    "Outputs/video/杂文/蒲柳人家.md",
     "Outputs/video/苏联笑话/猫是大象的祖先.md",
+    "Outputs/video/苏联笑话/给猫下芥末.md",
     "Outputs/video/热点/骨灰漂流瓶.md",
     "Outputs/video/热点/室温超导.md",
     "Outputs/video/热点/五个女博士.md",
@@ -280,8 +268,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/双缓冲.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/三级缓冲.md",
-    "Outputs/video/热点/比老无所养更难的是无老可养.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 内存模型.md",
     "WorkDesk.canvas",
     "Outputs/video/Films",
     "Outputs/video/杂文",
