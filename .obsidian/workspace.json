@@ -25,18 +25,32 @@
           {
             "id": "625eaafaf8247e80",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Reality/Websites/Android 复习路径.md",
+                "file": "Work/岗位/快手.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "92c7c4b771c0ffc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Kotlin 泛型.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Reality/Websites/Android 复习路径.md",
+                "file": "Work/岗位/会玩.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -156,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Reality/Websites/Android 复习路径.md",
+                "file": "Work/岗位/会玩.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Reality/Websites/Android 复习路径.md"
+                "file": "Work/岗位/会玩.md"
               }
             }
           },
@@ -199,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Reality/Websites/Android 复习路径.md",
+                "file": "Work/岗位/会玩.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,11 +270,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "625eaafaf8247e80",
+  "active": "80c56e78a009841c",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Kotlin 泛型.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/Java 泛型.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Kotlin.md",
+    "Work/岗位/快手.md",
+    "Work/岗位/会玩.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/MeasureSpec.md",
+    "DataBase/Reality/Websites/Android 复习路径.md",
     "DataBase/Reality/Websites/掘金稀土.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/apk.md",
-    "Work/岗位/会玩.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/双缓冲.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/三级缓冲.md",
@@ -278,13 +298,7 @@
     "Outputs/video/热点/室温超导.md",
     "Outputs/video/热点/马斯克卸任TwitterCEO.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/类型擦除.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Refied.md",
-    "Work/岗位/快手.md",
-    "Outputs/video/杂文/五中.md",
-    "DataBase/Literature/Text/Poem/现代诗/面朝大海，春暖花开.md",
     "WorkDesk.canvas",
-    "DataBase/Tasks/data/房子转租2023.md",
-    "DataBase/Literature/Text/Poem/词/念奴娇·登多景楼.md",
     "Outputs/video/Films",
     "Outputs/video/杂文",
     "Resources/Images/Hardware Organization.png",
