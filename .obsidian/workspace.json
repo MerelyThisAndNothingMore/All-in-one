@@ -4,23 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "06c06175bb71cc7d",
+        "id": "5a55ce6bb3916c61",
         "type": "tabs",
         "children": [
           {
-            "id": "3ffdff8df37c88c3",
+            "id": "c4a7a7dba4f1d537",
             "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "4fbcf71a5d4e8fc4",
+            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
-                "mode": "preview",
+                "file": "DataBase/Tasks/data/搬家.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +116,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home Page.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,7 +150,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,9 +165,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Home Page.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,7 +190,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,9 +246,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9efb66c5acbe3c31",
+  "active": "4fbcf71a5d4e8fc4",
   "lastOpenFiles": [
+    "WorkDesk.canvas",
     "Home Page.md",
+    "DataBase/Tasks/data/搬家.md",
     "Outputs/video/杂文/饱食终日，无所事事.md",
     "Outputs/video/杂文/蒲柳人家.md",
     "Outputs/video/苏联笑话/猫是大象的祖先.md",
@@ -266,9 +274,6 @@
     "DataBase/Reality/Websites/掘金稀土.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/apk.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/双缓冲.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/三级缓冲.md",
-    "WorkDesk.canvas",
     "Outputs/video/Films",
     "Outputs/video/杂文",
     "Resources/Images/Hardware Organization.png",
