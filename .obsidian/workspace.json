@@ -11,8 +11,26 @@
             "id": "c4a7a7dba4f1d537",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/video/苏联笑话/猫是大象的祖先.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "70398d58d0edcc35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/video/苏联笑话/连子弹也没有.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
@@ -116,6 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Outputs/video/苏联笑话/连子弹也没有.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -150,6 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Outputs/video/苏联笑话/连子弹也没有.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +185,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Outputs/video/苏联笑话/连子弹也没有.md"
+              }
             }
           },
           {
@@ -190,6 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Outputs/video/苏联笑话/连子弹也没有.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,14 +269,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4fbcf71a5d4e8fc4",
+  "active": "70398d58d0edcc35",
   "lastOpenFiles": [
+    "Outputs/video/苏联笑话/猫是大象的祖先.md",
+    "Outputs/video/苏联笑话/连子弹也没有.md",
+    "Outputs/video/苏联笑话/请您赶快坐到主席台上来.md",
+    "DataBase/Tasks/data/搬家.md",
     "WorkDesk.canvas",
     "Home Page.md",
-    "DataBase/Tasks/data/搬家.md",
     "Outputs/video/杂文/饱食终日，无所事事.md",
     "Outputs/video/杂文/蒲柳人家.md",
-    "Outputs/video/苏联笑话/猫是大象的祖先.md",
     "Outputs/video/苏联笑话/给猫下芥末.md",
     "Outputs/video/热点/骨灰漂流瓶.md",
     "Outputs/video/热点/室温超导.md",
@@ -273,7 +298,6 @@
     "DataBase/Reality/Websites/Android 复习路径.md",
     "DataBase/Reality/Websites/掘金稀土.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/apk.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/双缓冲.md",
     "Outputs/video/Films",
     "Outputs/video/杂文",
     "Resources/Images/Hardware Organization.png",
