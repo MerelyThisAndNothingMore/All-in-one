@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
-                "mode": "preview",
+                "file": "Outputs/video/杂文/德邦快递，实属弟弟.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home Page.md",
+                "file": "Outputs/video/杂文/德邦快递，实属弟弟.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "Outputs/video/杂文/德邦快递，实属弟弟.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "Outputs/video/杂文/德邦快递，实属弟弟.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "Outputs/video/杂文/德邦快递，实属弟弟.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,11 +240,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9efb66c5acbe3c31",
+  "active": "c2970a023c2f985f",
   "lastOpenFiles": [
+    "Home Page.md",
     "DataBase/Tasks/data/搬家.md",
     "WorkDesk.canvas",
-    "Home Page.md",
     "Outputs/video/苏联笑话/伊万他住我家隔壁.md",
     "Outputs/video/苏联笑话/五分钟从苏联跑到美国.md",
     "Outputs/video/苏联笑话/连子弹也没有.md",
