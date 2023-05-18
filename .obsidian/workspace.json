@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
-                "mode": "preview",
+                "file": "DataBase/Tasks/data/搬家.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -105,7 +105,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home Page.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,7 +139,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,9 +154,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Home Page.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,7 +179,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,16 +237,16 @@
   },
   "active": "cc41bea244a29d76",
   "lastOpenFiles": [
+    "WorkDesk.canvas",
+    "Home Page.md",
     "Outputs/video/苏联笑话/伊万他住我家隔壁.md",
     "Outputs/video/苏联笑话/五分钟从苏联跑到美国.md",
     "Outputs/video/苏联笑话/连子弹也没有.md",
     "Outputs/video/杂文/德邦快递，实属弟弟.md",
     "Outputs/video/杂文/蒲柳人家.md",
-    "Home Page.md",
     "Outputs/video/苏联笑话/猫是大象的祖先.md",
     "Outputs/video/苏联笑话/请您赶快坐到主席台上来.md",
     "DataBase/Tasks/data/搬家.md",
-    "WorkDesk.canvas",
     "Outputs/video/杂文/饱食终日，无所事事.md",
     "Outputs/video/苏联笑话/给猫下芥末.md",
     "Outputs/video/热点/骨灰漂流瓶.md",
@@ -268,7 +263,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Kotlin 泛型.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/Java 泛型.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Kotlin.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/MeasureSpec.md",
     "Outputs/video/Films",
     "Outputs/video/杂文",
     "Resources/Images/Hardware Organization.png",
