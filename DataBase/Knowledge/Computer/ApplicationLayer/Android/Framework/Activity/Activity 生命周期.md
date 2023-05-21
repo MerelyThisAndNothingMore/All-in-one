@@ -24,15 +24,6 @@ alias:
 -   **onRestart**  
     表示Activity正在重新启动，正常状态下，Acitivty调用了onPause--onStop但是并没有被销毁，重新显示此Activity时，onRestart会被调用。
 
-
-
-  
-  
-作者：MeloDev  
-链接：https://www.jianshu.com/p/6d9d830a758d  
-来源：简书  
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
-
 ## 调用原理
 生命周期回调由[[AMS]]通过[[Binder]]通知应用进程调用。
 对于 onSaveInstanceState ，由于[[Activity]]的状态是由ActivityManager进行管理的，因此这里会通过[[Binder]]将Bundle信息传输到ActivityManager进行管理。

@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Home Page.md",
-            "mode": "preview",
+            "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 生命周期.md",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -43,7 +43,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "st",
+                "query": "activity",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,8 +68,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -100,7 +99,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 生命周期.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 生命周期.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 生命周期.md"
               }
             }
           },
@@ -178,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 生命周期.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,10 +234,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5e5fea182599fa5c",
+  "active": "74dbbed10c14fa0e",
   "lastOpenFiles": [
-    "Outputs/video/苏联笑话/伊万他住我家隔壁.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
+    "DataBase/Reality/Websites/Android 复习路径.md",
+    "DataBase/Reality/Websites/掘金稀土.md",
     "Home Page.md",
+    "Outputs/video/苏联笑话/伊万他住我家隔壁.md",
     "WorkDesk.canvas",
     "Outputs/video/苏联笑话/工人各尽所能.md",
     "Outputs/video/苏联笑话/五分钟从苏联跑到美国.md",
@@ -261,8 +263,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/自定义View.md",
     "Work/岗位/淘宝.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Kotlin 泛型.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/Java 泛型.md",
     "Outputs/video/Films",
     "Outputs/video/杂文",
     "Resources/Images/Hardware Organization.png",
