@@ -5,6 +5,8 @@ alias:
 
 
 ![](https://img-blog.csdnimg.cn/img_convert/a6a78febe892f54380eb6bd51be9fb2b.png)
+
+
 # 数据结构
 `HashMap` 采用的数据结构 = **数组（主） + 单链表（副）**，具体描述如下
 > 该数据结构方式也称：拉链法
