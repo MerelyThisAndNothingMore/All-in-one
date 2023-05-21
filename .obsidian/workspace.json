@@ -4,17 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "74dbbed10c14fa0e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 生命周期.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
+        "id": "bdf06d7dd0f2944f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f198c3c5eb60645",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Reality/Websites/Android 复习路径.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -43,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "activity",
+                "query": "studyre",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 生命周期.md",
+                "file": "DataBase/Reality/Websites/Android 复习路径.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -134,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 生命周期.md",
+                "file": "DataBase/Reality/Websites/Android 复习路径.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 生命周期.md"
+                "file": "DataBase/Reality/Websites/Android 复习路径.md"
               }
             }
           },
@@ -177,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 生命周期.md",
+                "file": "DataBase/Reality/Websites/Android 复习路径.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,12 +240,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "74dbbed10c14fa0e",
+  "active": "2f198c3c5eb60645",
   "lastOpenFiles": [
+    "DataBase/Reality/Websites/Gityuan.md",
+    "Home Page.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
     "DataBase/Reality/Websites/Android 复习路径.md",
     "DataBase/Reality/Websites/掘金稀土.md",
-    "Home Page.md",
     "Outputs/video/苏联笑话/伊万他住我家隔壁.md",
     "WorkDesk.canvas",
     "Outputs/video/苏联笑话/工人各尽所能.md",
@@ -262,7 +269,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/zygote进程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/自定义View.md",
-    "Work/岗位/淘宝.md",
     "Outputs/video/Films",
     "Outputs/video/杂文",
     "Resources/Images/Hardware Organization.png",
