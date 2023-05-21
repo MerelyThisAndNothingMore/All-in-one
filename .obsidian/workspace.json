@@ -4,23 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "923df57accaaf6c2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c0b2869abd8d2031",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home Page.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
+        "id": "74dbbed10c14fa0e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Home Page.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": false
           }
-        ]
+        }
       }
     ],
     "direction": "vertical"
@@ -49,7 +43,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "蒲柳人家",
+                "query": "st",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +68,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -240,14 +235,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c0b2869abd8d2031",
+  "active": "5e5fea182599fa5c",
   "lastOpenFiles": [
-    "WorkDesk.canvas",
+    "Outputs/video/苏联笑话/伊万他住我家隔壁.md",
     "Home Page.md",
+    "WorkDesk.canvas",
     "Outputs/video/苏联笑话/工人各尽所能.md",
     "Outputs/video/苏联笑话/五分钟从苏联跑到美国.md",
     "DataBase/Tasks/data/搬家.md",
-    "Outputs/video/苏联笑话/伊万他住我家隔壁.md",
     "Outputs/video/苏联笑话/连子弹也没有.md",
     "Outputs/video/杂文/德邦快递，实属弟弟.md",
     "Outputs/video/杂文/蒲柳人家.md",
