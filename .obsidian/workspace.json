@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 对象.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/垃圾回收.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -173,7 +173,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 对象.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/垃圾回收.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -208,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 对象.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/垃圾回收.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 对象.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/垃圾回收.md"
               }
             }
           },
@@ -251,7 +251,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 对象.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/垃圾回收.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -310,6 +310,7 @@
   },
   "active": "f95c477d0725817c",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 对象.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/JVM.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 虚拟机栈.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 内存模型.md",
@@ -336,7 +337,6 @@
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Binary Tree.md",
     "Home Page.md",
     "DataBase/Reality/Websites/AndroidNote-zhpanvip.md",
-    "DataBase/Tasks/data/面试准备.md",
     "WorkDesk.canvas",
     "Outputs/video/Films",
     "Outputs/video/杂文",
