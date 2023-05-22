@@ -10,17 +10,65 @@
           {
             "id": "ad0a7178a3ffa436",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Tasks/data/简历准备.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "98c1e2ccb4dacbcf",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "WorkDesk.canvas",
+                "viewState": {
+                  "x": 495,
+                  "y": -1007.5625,
+                  "zoom": -0.6818240399737455
+                }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "9892141d32130cd0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Tasks/data/面试准备.md",
                 "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "953d8c0cd2c327f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Tasks/data/简历投递.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -49,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jni",
+                "query": "studyresources",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +153,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Tasks/data/简历投递.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Tasks/data/简历投递.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "DataBase/Tasks/data/简历投递.md"
               }
             }
           },
@@ -183,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Tasks/data/简历投递.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,8 +288,24 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ad0a7178a3ffa436",
+  "active": "953d8c0cd2c327f2",
   "lastOpenFiles": [
+    "DataBase/Tasks/data/面试准备.md",
+    "DataBase/Tasks/data/简历投递.md",
+    "WorkDesk.canvas",
+    "DataBase/Tasks/data/简历准备.md",
+    "DataBase/Reality/Websites/Android 复习路径.md",
+    "DataBase/Reality/Websites/掘金稀土.md",
+    "Home Page.md",
+    "Outputs/video/热点/比老无所养更难的是无老可养.md",
+    "Outputs/video/热点/骨灰漂流瓶.md",
+    "Outputs/video/热点/马斯克卸任TwitterCEO.md",
+    "Outputs/video/热点/室温超导.md",
+    "Outputs/video/热点/五个女博士.md",
+    "Work/工作经历/付费直播/付费直播.md",
+    "Work/工作经历/录播/进房预加载优化.md",
+    "Work/工作经历/主播端/Effect SDK.md",
+    "Work/工作经历/主播端/Widget框架.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 内存模型.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/本地方法栈.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java Crash.md",
@@ -252,23 +316,7 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/JVM.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/内存泄漏.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/Java.md",
-    "DataBase/Tasks/data/面试准备.md",
-    "DataBase/Reality/Websites/Android 复习路径.md",
     "DataBase/Reality/Websites/AndroidNote-zhpanvip.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Kotlin 泛型.md",
-    "DataBase/Reality/Websites/Teach Yourself Computer Science.md",
-    "Work/岗位/快手.md",
-    "Work/岗位/会玩.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/垃圾回收.md",
-    "DataBase/Reality/Websites/掘金稀土.md",
-    "Work/工作经历/主播端/全链路埋点.md",
-    "Work/工作经历/主播端/主播端.md",
-    "Work/工作经历/主播端/特效.md",
-    "DataBase/Tasks/data/简历准备.md",
-    "WorkDesk.canvas",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/zygote进程.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View事件分发/View事件分发.md",
     "Outputs/video/Films",
     "Outputs/video/杂文",
     "Resources/Images/Hardware Organization.png",
