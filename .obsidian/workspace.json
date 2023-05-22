@@ -60,7 +60,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/zygote进程.md",
+                "file": "Work/工作经历/主播端/全链路埋点.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -154,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Tasks/data/面试准备.md",
+                "file": "Work/工作经历/主播端/全链路埋点.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Tasks/data/面试准备.md",
+                "file": "Work/工作经历/主播端/全链路埋点.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Tasks/data/面试准备.md"
+                "file": "Work/工作经历/主播端/全链路埋点.md"
               }
             }
           },
@@ -232,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Tasks/data/面试准备.md",
+                "file": "Work/工作经历/主播端/全链路埋点.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -289,18 +289,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "580ffc35d356b100",
+  "active": "0e4c943e59a77e18",
   "lastOpenFiles": [
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/zygote进程.md",
+    "Work/工作经历/主播端/主播端.md",
+    "Work/工作经历/主播端/特效.md",
     "DataBase/Knowledge/Computer/BaseLayer/Network/Socket.md",
     "DataBase/Tasks/data/面试准备.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
+    "DataBase/Tasks/data/简历准备.md",
     "WorkDesk.canvas",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/zygote进程.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
     "Work/岗位/会玩.md",
     "Work/岗位/快手.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View事件分发/View事件分发.md",
-    "DataBase/Tasks/data/简历准备.md",
-    "Work/工作经历/主播端/主播端.md",
     "DataBase/Tasks/data/Untitled.md",
     "Home Page.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/Collections/HashMap 1.7.md",
