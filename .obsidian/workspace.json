@@ -60,7 +60,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/工作经历/主播端/全链路埋点.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/垃圾回收.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:socket",
+                "query": "studyre",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -153,7 +153,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Work/工作经历/主播端/全链路埋点.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/垃圾回收.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -188,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/工作经历/主播端/全链路埋点.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/垃圾回收.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/工作经历/主播端/全链路埋点.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/垃圾回收.md"
               }
             }
           },
@@ -231,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/工作经历/主播端/全链路埋点.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/垃圾回收.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -288,12 +288,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9efb66c5acbe3c31",
+  "active": "0e4c943e59a77e18",
   "lastOpenFiles": [
+    "DataBase/Tasks/data/面试准备.md",
+    "DataBase/Reality/Websites/Android 复习路径.md",
+    "DataBase/Reality/Websites/掘金稀土.md",
+    "Work/工作经历/主播端/全链路埋点.md",
     "Work/工作经历/主播端/主播端.md",
     "Work/工作经历/主播端/特效.md",
     "DataBase/Knowledge/Computer/BaseLayer/Network/Socket.md",
-    "DataBase/Tasks/data/面试准备.md",
     "DataBase/Tasks/data/简历准备.md",
     "WorkDesk.canvas",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/zygote进程.md",
@@ -304,10 +307,8 @@
     "DataBase/Tasks/data/Untitled.md",
     "Home Page.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/Collections/HashMap 1.7.md",
-    "DataBase/Reality/Websites/Android 复习路径.md",
     "DataBase/Reality/Websites/Gityuan.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
-    "DataBase/Reality/Websites/掘金稀土.md",
     "Outputs/video/苏联笑话/伊万他住我家隔壁.md",
     "Outputs/video/苏联笑话/工人各尽所能.md",
     "Outputs/video/苏联笑话/五分钟从苏联跑到美国.md",
@@ -316,7 +317,6 @@
     "Outputs/video/杂文/德邦快递，实属弟弟.md",
     "Outputs/video/杂文/蒲柳人家.md",
     "Outputs/video/苏联笑话/猫是大象的祖先.md",
-    "Outputs/video/苏联笑话/请您赶快坐到主席台上来.md",
     "Outputs/video/Films",
     "Outputs/video/杂文",
     "Resources/Images/Hardware Organization.png",
