@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 内存模型.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 对象.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -142,8 +142,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -174,7 +173,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 内存模型.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 对象.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -209,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 内存模型.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 对象.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 内存模型.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 对象.md"
               }
             }
           },
@@ -252,7 +251,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 内存模型.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 对象.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -311,8 +310,10 @@
   },
   "active": "f95c477d0725817c",
   "lastOpenFiles": [
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/本地方法栈.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/JVM.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 虚拟机栈.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 内存模型.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/本地方法栈.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/apk.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/注解.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/反射.md",
@@ -336,9 +337,7 @@
     "Home Page.md",
     "DataBase/Reality/Websites/AndroidNote-zhpanvip.md",
     "DataBase/Tasks/data/面试准备.md",
-    "DataBase/Tasks/data/简历投递.md",
     "WorkDesk.canvas",
-    "DataBase/Tasks/data/简历准备.md",
     "Outputs/video/Films",
     "Outputs/video/杂文",
     "Resources/Images/Hardware Organization.png",
