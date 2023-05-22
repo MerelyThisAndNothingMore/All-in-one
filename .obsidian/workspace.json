@@ -10,6 +10,7 @@
           {
             "id": "89d30e28c3a6c7d6",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
@@ -19,7 +20,8 @@
                   "y": -709.1875,
                   "zoom": -0.6818240399737455
                 }
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -245,6 +247,8 @@
   },
   "active": "89d30e28c3a6c7d6",
   "lastOpenFiles": [
+    "DataBase/Tasks/data/简历准备.md",
+    "WorkDesk.canvas",
     "Home Page.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/Collections/HashMap 1.7.md",
     "DataBase/Reality/Websites/Android 复习路径.md",
@@ -252,7 +256,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
     "DataBase/Reality/Websites/掘金稀土.md",
     "Outputs/video/苏联笑话/伊万他住我家隔壁.md",
-    "WorkDesk.canvas",
     "Outputs/video/苏联笑话/工人各尽所能.md",
     "Outputs/video/苏联笑话/五分钟从苏联跑到美国.md",
     "DataBase/Tasks/data/搬家.md",
@@ -271,7 +274,6 @@
     "Work/岗位/会玩.md",
     "Work/岗位/快手.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/zygote进程.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
     "Outputs/video/Films",
     "Outputs/video/杂文",
     "Resources/Images/Hardware Organization.png",
