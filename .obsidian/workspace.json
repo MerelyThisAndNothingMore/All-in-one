@@ -122,8 +122,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -289,7 +288,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0e4c943e59a77e18",
+  "active": "9efb66c5acbe3c31",
   "lastOpenFiles": [
     "Work/工作经历/主播端/主播端.md",
     "Work/工作经历/主播端/特效.md",
