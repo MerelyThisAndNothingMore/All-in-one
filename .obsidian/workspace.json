@@ -42,14 +42,16 @@
           {
             "id": "3c5a0bbd925ce78f",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/zygote进程.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Network/Socket.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -82,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "快手",
+                "query": "file:socket",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +109,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -138,7 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/zygote进程.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Network/Socket.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -173,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/zygote进程.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Network/Socket.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/zygote进程.md"
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Network/Socket.md"
               }
             }
           },
@@ -216,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/zygote进程.md",
+                "file": "DataBase/Knowledge/Computer/BaseLayer/Network/Socket.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -273,8 +276,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3c5a0bbd925ce78f",
+  "active": "5e5fea182599fa5c",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/zygote进程.md",
     "Work/岗位/会玩.md",
     "Work/岗位/快手.md",
     "DataBase/Tasks/data/面试准备.md",
@@ -300,7 +305,6 @@
     "Outputs/video/苏联笑话/请您赶快坐到主席台上来.md",
     "Outputs/video/杂文/饱食终日，无所事事.md",
     "Outputs/video/苏联笑话/给猫下芥末.md",
-    "Outputs/video/热点/骨灰漂流瓶.md",
     "Outputs/video/Films",
     "Outputs/video/杂文",
     "Resources/Images/Hardware Organization.png",
