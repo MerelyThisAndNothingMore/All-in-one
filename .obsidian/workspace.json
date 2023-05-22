@@ -53,9 +53,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "0e4c943e59a77e18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/zygote进程.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Network/Socket.md",
+                "file": "DataBase/Tasks/data/面试准备.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -176,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Network/Socket.md",
+                "file": "DataBase/Tasks/data/面试准备.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Network/Socket.md"
+                "file": "DataBase/Tasks/data/面试准备.md"
               }
             }
           },
@@ -219,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Network/Socket.md",
+                "file": "DataBase/Tasks/data/面试准备.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -276,14 +289,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5e5fea182599fa5c",
+  "active": "580ffc35d356b100",
   "lastOpenFiles": [
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/zygote进程.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Network/Socket.md",
+    "DataBase/Tasks/data/面试准备.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
+    "WorkDesk.canvas",
     "Work/岗位/会玩.md",
     "Work/岗位/快手.md",
-    "DataBase/Tasks/data/面试准备.md",
-    "WorkDesk.canvas",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View事件分发/View事件分发.md",
     "DataBase/Tasks/data/简历准备.md",
     "Work/工作经历/主播端/主播端.md",
@@ -303,8 +317,6 @@
     "Outputs/video/杂文/蒲柳人家.md",
     "Outputs/video/苏联笑话/猫是大象的祖先.md",
     "Outputs/video/苏联笑话/请您赶快坐到主席台上来.md",
-    "Outputs/video/杂文/饱食终日，无所事事.md",
-    "Outputs/video/苏联笑话/给猫下芥末.md",
     "Outputs/video/Films",
     "Outputs/video/杂文",
     "Resources/Images/Hardware Organization.png",

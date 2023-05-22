@@ -22,10 +22,20 @@ Zygote进程是所有Android进程的母体，包括system_server和各个App进
 
 SystemServer里跑了一堆系统服务，这些不能继承到应用进程
 
-# Zygote的IPC通信机制为什么使用socket而不采用binder
-Zygote是通过fork生成进程的 
-因为fork只能拷贝当前线程，不支持多线程的fork，fork的原理是copy-on-write机制，当父子进程任一方 修改内存数据时(这是on-write时机)，才发生缺页中断，从而分配新的物理内存(这是copy操作)。 
-zygote进程中已经启动了虚拟机、进行资源和类的预加载以及各种初始化操作，App进程用时拷贝即可。 Zygotefork出来的进程A只有一个线程，如果Zygote有多个线程，那么A会丢失其他线程。这时可能造成死锁。 
-[[Binder]]通信需要使用Binder线程池,binder维护了一个16个线程的线程池，fork()出的App进程的binder通 讯没法用
+# Zygote的IPC通信机制为什么使用[[Socket]]而不采用binder
+### 先后时序问题
+   binder驱动是早于init进程加载的。而init进程是安卓系统启动的第一个进程。 
+   安卓中一般使用的**binder引用**，都是**保存在ServiceManager进程中的**，而如果想从ServiceManager中获取到对应的binder引用，前提是需要注册。虽然Init进程是先创建ServiceManager，后创建Zygote进程的。虽然Zygote更晚创建，但是也不能保证Zygote进程去注册binder的时候，ServiceManager已经初始化好了。注册时间点无法保证，AMS无法获取到Zygote的binder引用，
+### 多线程问题
+Linux中，fork进程其实并不是完美的fork，linux设计之初只考虑到了主线程的fork，也就是说如果主进程中存在子线程，那么fork进程中，其子线程的锁状态，挂起状态等等都是不可恢复的，只有主进程的才可以恢复。
+
+所以，zygote如果使用binder，会导致子进程中binder线程的挂起和锁状态不可恢复，这是原因之二。
+### 效率问题
+AMS和Zygote之间使用的LocalSocket，相对于网络Socket，减少了数据验证等环节，所以其实效率相对于正常的网络Socket会大幅的提升。虽然还是要经过两次拷贝，但是由于数据量并不大，所以其实影响并不明显。  
+所以，LocalSocket效率其实也不低
+### 安全问题
+LocalSocket其实也有权限校验，并不意味着可以被所有进程随意调用
+### Binder拷贝问题
+
 
 
