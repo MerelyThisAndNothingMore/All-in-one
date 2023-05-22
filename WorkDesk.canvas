@@ -21,8 +21,7 @@
 		{"type":"text","text":"21世纪资本论","id":"828349bf93a751fc","x":840,"y":-390,"width":250,"height":60},
 		{"type":"text","text":"[[简历准备]]","id":"d25ee57a2dea623b","x":885,"y":-750,"width":250,"height":60,"color":"1"},
 		{"type":"text","text":"待办","id":"0215197d75138a61","x":-20,"y":-1260,"width":250,"height":60},
-		{"type":"text","text":"[[房子转租2023]]","id":"159ad9feae3f7313","x":460,"y":-1260,"width":250,"height":60,"color":"1"},
-		{"id":"f96bd27196d96de7","x":460,"y":-1160,"width":250,"height":60,"type":"text","text":"[[搬家]]"}
+		{"type":"text","text":"[[搬家]]","id":"f96bd27196d96de7","x":460,"y":-1160,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"debee5227fdbd1e3","fromNode":"8326fec1cf2bd1f4","fromSide":"right","toNode":"5dd923f540c2525d","toSide":"left"},
@@ -46,7 +45,6 @@
 		{"id":"152f6d0f406bcfc2","fromNode":"29f438b4801369c7","fromSide":"right","toNode":"828349bf93a751fc","toSide":"left"},
 		{"id":"a0d34657f9492329","fromNode":"29f438b4801369c7","fromSide":"right","toNode":"0699c744b5255e35","toSide":"left"},
 		{"id":"9053aa3aabd067f6","fromNode":"8326fec1cf2bd1f4","fromSide":"right","toNode":"0215197d75138a61","toSide":"left"},
-		{"id":"65583bd3c1cead85","fromNode":"0215197d75138a61","fromSide":"right","toNode":"159ad9feae3f7313","toSide":"left"},
 		{"id":"1906dd260ef3df31","fromNode":"0215197d75138a61","fromSide":"right","toNode":"f96bd27196d96de7","toSide":"left"}
 	]
 }
