@@ -60,7 +60,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/垃圾回收.md",
+                "file": "DataBase/Reality/Websites/Android 复习路径.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -153,7 +153,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/垃圾回收.md",
+                "file": "DataBase/Reality/Websites/Android 复习路径.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -188,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/垃圾回收.md",
+                "file": "DataBase/Reality/Websites/Android 复习路径.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/垃圾回收.md"
+                "file": "DataBase/Reality/Websites/Android 复习路径.md"
               }
             }
           },
@@ -231,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/垃圾回收.md",
+                "file": "DataBase/Reality/Websites/Android 复习路径.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -290,19 +290,22 @@
   },
   "active": "0e4c943e59a77e18",
   "lastOpenFiles": [
+    "DataBase/Reality/Websites/BATcoder-刘望舒.md",
+    "DataBase/Reality/Websites/Teach Yourself Computer Science.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Network/Socket.md",
+    "Work/岗位/快手.md",
+    "Work/岗位/会玩.md",
     "DataBase/Tasks/data/面试准备.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/垃圾回收.md",
     "DataBase/Reality/Websites/Android 复习路径.md",
     "DataBase/Reality/Websites/掘金稀土.md",
     "Work/工作经历/主播端/全链路埋点.md",
     "Work/工作经历/主播端/主播端.md",
     "Work/工作经历/主播端/特效.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Network/Socket.md",
     "DataBase/Tasks/data/简历准备.md",
     "WorkDesk.canvas",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/zygote进程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
-    "Work/岗位/会玩.md",
-    "Work/岗位/快手.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View事件分发/View事件分发.md",
     "DataBase/Tasks/data/Untitled.md",
     "Home Page.md",
@@ -314,9 +317,6 @@
     "Outputs/video/苏联笑话/五分钟从苏联跑到美国.md",
     "DataBase/Tasks/data/搬家.md",
     "Outputs/video/苏联笑话/连子弹也没有.md",
-    "Outputs/video/杂文/德邦快递，实属弟弟.md",
-    "Outputs/video/杂文/蒲柳人家.md",
-    "Outputs/video/苏联笑话/猫是大象的祖先.md",
     "Outputs/video/Films",
     "Outputs/video/杂文",
     "Resources/Images/Hardware Organization.png",
