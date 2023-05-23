@@ -26,28 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Literature/Music/Songs/蜻蜓.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea89009aa74a233e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Reality/Persons/Entertainers/罗大佑.md",
+                "file": "DataBase/Reality/Persons/Entertainers/长渕刚.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +118,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Literature/Music/Songs/蜻蜓.md",
+                "file": "DataBase/Literature/Music/Songs/明天会更好.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -167,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Literature/Music/Songs/蜻蜓.md",
+                "file": "DataBase/Literature/Music/Songs/明天会更好.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Literature/Music/Songs/蜻蜓.md"
+                "file": "DataBase/Literature/Music/Songs/明天会更好.md"
               }
             }
           },
@@ -210,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Literature/Music/Songs/蜻蜓.md",
+                "file": "DataBase/Literature/Music/Songs/明天会更好.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,15 +253,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "bb3cf21c374b84da",
+  "active": "335797a3b289b0c8",
   "lastOpenFiles": [
-    "DataBase/Literature/Music/Songs/明天会更好.md",
+    "DataBase/Reality/Persons/Entertainers/长渕刚.md",
     "DataBase/Literature/Music/Songs/蜻蜓.md",
+    "DataBase/Literature/Music/Songs/明天会更好.md",
     "DataBase/Literature/Music/Songs/Dream of You.md",
-    "DataBase/Reality/Persons/Entertainers/金请夏.md",
-    "DataBase/Reality/Persons/Entertainers/罗大佑.md",
-    "DataBase/Literature/Music/Songs/Shake it off.md",
     "DataBase/Literature/Music/Songs/Talk That Talk.md",
+    "DataBase/Literature/Music/Songs/Shake it off.md",
+    "DataBase/Reality/Persons/Entertainers/罗大佑.md",
+    "DataBase/Reality/Persons/Entertainers/金请夏.md",
     "Home Page.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View事件分发/View事件分发.md",
@@ -294,7 +281,6 @@
     "Outputs/video/热点/马斯克卸任TwitterCEO.md",
     "Outputs/video/热点/骨灰漂流瓶.md",
     "Outputs/video/热点/比老无所养更难的是无老可养.md",
-    "Outputs/video/杂文/系列电影.md",
     "DataBase/Knowledge/Computer/BaseLayer/Network/NetworkSecurity",
     "WorkDesk.canvas",
     "Outputs/video/Films",
