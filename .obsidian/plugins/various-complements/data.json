@@ -103,94 +103,6 @@
         }
       }
     },
-    "Service Manager": {
-      "Service Manager": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1682218356647
-        }
-      }
-    },
-    "onSaveInstanceState": {
-      "onSaveInstanceState": {
-        "currentFile": {
-          "count": 3,
-          "lastUpdated": 1682233896723
-        }
-      }
-    },
-    "onRestoreInstanceState": {
-      "onRestoreInstanceState": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1682231918207
-        }
-      }
-    },
-    "onPause": {
-      "onPause": {
-        "currentFile": {
-          "count": 4,
-          "lastUpdated": 1682235409721
-        }
-      }
-    },
-    "onStop": {
-      "onStop": {
-        "currentFile": {
-          "count": 3,
-          "lastUpdated": 1682235435346
-        }
-      }
-    },
-    "onCreate": {
-      "onCreate": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1682236589176
-        }
-      }
-    },
-    "onStart": {
-      "onStart": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1682235424571
-        }
-      }
-    },
-    "onResume": {
-      "onResume": {
-        "currentFile": {
-          "count": 3,
-          "lastUpdated": 1682235430055
-        }
-      }
-    },
-    "onNewIntent": {
-      "onNewIntent": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1682235414898
-        }
-      }
-    },
-    "onRestart": {
-      "onRestart": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1682235420331
-        }
-      }
-    },
-    "onDestroy": {
-      "onDestroy": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1682243752355
-        }
-      }
-    },
     "Lyric": {
       "Lyric": {
         "customDictionary": {
@@ -412,6 +324,14 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1684762420404
+        }
+      }
+    },
+    "softwareEngineering": {
+      "softwareEngineering": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1684844492872
         }
       }
     }
