@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -133,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View.md"
               }
             }
           },
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,9 +270,11 @@
   },
   "active": "e7716a6d8b1fccdd",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Window.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Window Manager.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
     "Work/岗位/河马生鲜.md",
     "Work/岗位/会玩.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/垃圾回收.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
@@ -294,8 +296,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/本地方法栈.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/apk.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/注解.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/反射.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/Java 泛型.md",
     "DataBase/Knowledge/Computer/BaseLayer/Network/NetworkSecurity",
     "WorkDesk.canvas",
     "Outputs/video/Films",
