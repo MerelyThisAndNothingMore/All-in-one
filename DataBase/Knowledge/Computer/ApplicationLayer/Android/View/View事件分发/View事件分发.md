@@ -45,8 +45,9 @@ onTouchListener的onTouch方法优先级比onTouchEvent高，会先触发。 假
 
 可将点击事件传到下面的View, 剥夺了父view 对除了ACTION_DOWN以外的事件的处理权。
 # 如何解决View的事件冲突
-外部拦截法:指点击事件都先经过父容器的拦截处理，如果父容器需要此事件就拦截，否则就不拦截。具体方 法:需要重写父容器的onInterceptTouchEvent方法，在内部做出相应的拦截。 
-内部拦截法:指父容器不拦截任何事 件，而将所有的事件都传递给子容器，如果子容器需要此事件就直接消耗，否则就交由父容器进行处理。具体方法: 需要配合requestDisallowInterceptTouchEvent方法。
+外部拦截法:指点击事件都先经过父容器的拦截处理，如果父容器需要此事件就拦截，否则就不拦截。具体方法:需要重写父容器的onInterceptTouchEvent方法，在内部做出相应的拦截。 
+
+内部拦截法:指父容器不拦截任何事件，而将所有的事件都传递给子容器，如果子容器需要此事件就直接消耗，否则就交由父容器进行处理。具体方法: 需要配合requestDisallowInterceptTouchEvent方法。
 # 在 ViewGroup 中的 onTouchEvent 中消费 ACTION_DOWN 事件， ACTION_UP事件是怎么传递
 一个事件序列只能被一个View拦截且消耗。因为一旦一个元素拦截了此事件，那么同一个事件序列内的所有事 件都会直接交给它处理(即不会再调用这个View的拦截方法去询问它是否要拦截了，而是把剩余的ACTION_MOVE、 ACTION_DOWN等事件直接交给它来处理)。
 
