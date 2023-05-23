@@ -45,7 +45,7 @@ measure()
 
 ## Layout
 主要用于确定 View 在父容器中的放置位置。
-先通过 measure 测量出 ViewGroup 宽高，ViewGroup 再通过 layout 方法根据自身宽高来确定自身 位置。当 ViewGroup 的位置被确定后，就开始在 onLayout 方法中调用子元素的 layout 方法确定子元素的位置。子元素如果是 ViewGroup 的子类，又开始执行 onLayout，如此循环往复，直到所有子元素的位置都被确定，整个 View 树的 layout 过程就执行完了。
+先通过 measure 测量出 ViewGroup 宽高，ViewGroup 再通过 layout 方法根据自身宽高来确定自身位置。当 ViewGroup 的位置被确定后，就开始在 onLayout 方法中调用子元素的 layout 方法确定子元素的位置。子元素如果是 ViewGroup 的子类，又开始执行 onLayout，如此循环往复，直到所有子元素的位置都被确定，整个 View 树的 layout 过程就执行完了。
 ## Draw
 ViewRoot创建一个Canvas对象，然后调用OnDraw()。六个步骤:
 1、绘制视图的背景; 
@@ -71,7 +71,7 @@ ViewRoot创建一个Canvas对象，然后调用OnDraw()。六个步骤:
 
 2getWidth方法获得是layout方法中传递的四个参数中的mRight - mLeft，它的值是在layout方法运行后确定的
 
-3一般情况下在onLayout方法中使用getMeasuredWidth方法，而在除onLayout方法之外的地方用getWidth方 法。
+3一般情况下在onLayout方法中使用getMeasuredWidth方法，而在除onLayout方法之外的地方用getWidth方法。
 
 # invalidate() 和 postInvalidate() 方法的区别
 requestLayout:会触发三大流程。

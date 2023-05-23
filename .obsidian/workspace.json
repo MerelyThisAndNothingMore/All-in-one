@@ -26,15 +26,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
-                "mode": "preview",
+                "file": "Work/岗位/会玩.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7716a6d8b1fccdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -63,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:binder",
+                "query": "file:view",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -155,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md"
               }
             }
           },
@@ -198,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,10 +268,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "adc05d8125acafd4",
+  "active": "e7716a6d8b1fccdd",
   "lastOpenFiles": [
-    "Home Page.md",
+    "Work/岗位/河马生鲜.md",
+    "Work/岗位/会玩.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/垃圾回收.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
+    "Home Page.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/MeasureSpec.md",
     "Outputs/video/热点/520过去了，结婚率符合预期.md",
     "Outputs/video/热点/五个女博士.md",
@@ -270,7 +288,6 @@
     "Outputs/video/杂文/饱食终日，无所事事.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/字节码.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/JVM.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/垃圾回收.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 对象.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 虚拟机栈.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 内存模型.md",
@@ -279,10 +296,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/注解.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/反射.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/Feature/Java 泛型.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Network/HTTPS.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Network/TCP.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/Hash.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Network/NetworkSecurity/加密.md",
     "DataBase/Knowledge/Computer/BaseLayer/Network/NetworkSecurity",
     "WorkDesk.canvas",
     "Outputs/video/Films",
