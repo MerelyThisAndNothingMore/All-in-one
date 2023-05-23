@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
-                "mode": "preview",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:",
+                "query": "file:view",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -105,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md"
               }
             }
           },
@@ -183,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,6 +243,8 @@
   },
   "active": "d096f19864034abc",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/MeasureSpec.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
     "Home Page.md",
     "Outputs/video/热点/520过去了，结婚率符合预期.md",
     "Outputs/video/热点/五个女博士.md",
@@ -266,8 +269,6 @@
     "DataBase/Knowledge/Computer/BaseLayer/Network/TCP.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/Hash.md",
     "DataBase/Knowledge/Computer/BaseLayer/Network/NetworkSecurity/加密.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Network/NetworkSecurity/NetworkSecurity.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Network/计算机网络体系/计算机网络体系.md",
     "DataBase/Knowledge/Computer/BaseLayer/Network/NetworkSecurity",
     "WorkDesk.canvas",
     "Outputs/video/Films",
