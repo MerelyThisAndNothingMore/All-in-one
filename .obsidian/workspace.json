@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "aa714bcde563a30f",
+        "id": "2fa3a5112e452aca",
         "type": "tabs",
         "children": [
           {
-            "id": "3777a743394dfeac",
+            "id": "7548c0398b856ec6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Outputs/video/杂文/德邦快递，实属弟弟.md",
-                "mode": "preview",
+                "file": "Outputs/video/杂文/谈生命.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "52cfb8bbb0e8cef9",
+            "id": "97304845ab794919",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -254,11 +254,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "52cfb8bbb0e8cef9",
+  "active": "97304845ab794919",
   "lastOpenFiles": [
-    "Outputs/video/杂文/德邦快递，实属弟弟.md",
     "Outputs/video/杂文/谈生命.md",
+    "Outputs/video/杂文/系列电影.md",
+    "Work/猎头/Roger潘奇.md",
+    "Work/猎头/璐璐.md",
     "Home Page.md",
+    "Outputs/video/杂文/德邦快递，实属弟弟.md",
     "Outputs/GameDevelop/思考/思考.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/class.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/programming paradigm.md",
@@ -279,9 +282,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Window Manager.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/DecorView.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Window.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
-    "Work/岗位/河马生鲜.md",
     "DataBase/Knowledge/Computer/BaseLayer/Network/NetworkSecurity",
     "WorkDesk.canvas",
     "Outputs/video/Films",
