@@ -21,6 +21,32 @@
             }
           },
           {
+            "id": "0d03cf7b73a83012",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Window Manager.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3e2599e87f865d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/岗位/Minimax.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "97304845ab794919",
             "type": "leaf",
             "state": {
@@ -32,17 +58,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b3958cbd32af57e6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -71,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:锁",
+                "query": "file:view",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/线程安全.md",
+                "file": "Work/岗位/Minimax.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -162,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/线程安全.md",
+                "file": "Work/岗位/Minimax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/线程安全.md"
+                "file": "Work/岗位/Minimax.md"
               }
             }
           },
@@ -205,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/线程安全.md",
+                "file": "Work/岗位/Minimax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -262,8 +280,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "97304845ab794919",
+  "active": "a3e2599e87f865d1",
   "lastOpenFiles": [
+    "Work/岗位/小红书.md",
+    "Work/岗位/拼多多.md",
+    "Work/岗位/淘宝.md",
+    "Work/岗位/快手.md",
+    "Work/岗位/会玩.md",
+    "Work/岗位/河马生鲜.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Choreographer.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Window Manager.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
+    "DataBase/Tasks/data/面试准备.md",
+    "WorkDesk.canvas",
+    "Home Page.md",
     "Outputs/video/杂文/谈生命.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/线程安全.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/线程池.md",
@@ -271,10 +301,7 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/Lock.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/Synchronized.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/持久化/SharedPreferences.md",
-    "DataBase/Tasks/data/面试准备.md",
-    "WorkDesk.canvas",
     "DataBase/Tasks/data/简历准备.md",
-    "Home Page.md",
     "Outputs/video/杂文/系列电影.md",
     "Work/猎头/Roger潘奇.md",
     "Work/猎头/璐璐.md",
@@ -282,15 +309,6 @@
     "Outputs/GameDevelop/思考/思考.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/class.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/programming paradigm.md",
-    "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Theory/行星风系.md",
-    "DataBase/Literature/Characters/查拉图斯特拉.md",
-    "DataBase/Literature/Films/不能说的秘密.md",
-    "DataBase/Literature/Films/2001-A Space Odyssey(film).md",
-    "DataBase/Literature/Music/Songs/明天会更好.md",
-    "DataBase/Reality/Persons/Entertainers/长渕刚.md",
-    "DataBase/Literature/Music/Songs/蜻蜓.md",
-    "DataBase/Literature/Music/Songs/Dream of You.md",
-    "DataBase/Literature/Music/Songs/Talk That Talk.md",
     "DataBase/Knowledge/Computer/BaseLayer/Network/NetworkSecurity",
     "Outputs/video/Films",
     "Outputs/video/杂文",
