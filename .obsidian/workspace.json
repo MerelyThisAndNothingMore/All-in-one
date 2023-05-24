@@ -21,12 +21,40 @@
             }
           },
           {
+            "id": "8906c5aa14451761",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Tasks/data/面试准备.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
             "id": "0d03cf7b73a83012",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android 进程优先级.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30e9f97a28028afd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Input触控事件处理.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -89,7 +117,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:启动",
+                "query": "file:事件",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,8 +142,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -146,7 +173,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -181,7 +207,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,9 +222,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md"
-              }
+              "state": {}
             }
           },
           {
@@ -224,7 +247,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -281,8 +303,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0d03cf7b73a83012",
+  "active": "8906c5aa14451761",
   "lastOpenFiles": [
+    "WorkDesk.canvas",
+    "Home Page.md",
+    "Outputs/video/杂文/谈生命.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android 进程优先级.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Input触控事件处理.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View事件分发/View事件分发.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Choreographer.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Window Manager.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Looper.md",
@@ -296,20 +325,12 @@
     "Work/岗位/会玩.md",
     "Work/岗位/河马生鲜.md",
     "DataBase/Tasks/data/面试准备.md",
-    "WorkDesk.canvas",
-    "Home Page.md",
-    "Outputs/video/杂文/谈生命.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/线程安全.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/线程池.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/MultiThread.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/Lock.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/Synchronized.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/持久化/SharedPreferences.md",
-    "DataBase/Tasks/data/简历准备.md",
-    "Outputs/video/杂文/系列电影.md",
-    "Work/猎头/Roger潘奇.md",
-    "Work/猎头/璐璐.md",
-    "Outputs/video/杂文/德邦快递，实属弟弟.md",
     "DataBase/Knowledge/Computer/BaseLayer/Network/NetworkSecurity",
     "Outputs/video/Films",
     "Outputs/video/杂文",
