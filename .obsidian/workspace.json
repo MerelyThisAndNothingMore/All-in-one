@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/岗位/Minimax.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Looper.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:view",
+                "query": "file:looper",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -145,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Work/岗位/Minimax.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Looper.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -180,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/岗位/Minimax.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Looper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/岗位/Minimax.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Looper.md"
               }
             }
           },
@@ -223,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/岗位/Minimax.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Looper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,6 +283,9 @@
   },
   "active": "a3e2599e87f865d1",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Handler.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
+    "Work/岗位/Minimax.md",
     "Work/岗位/小红书.md",
     "Work/岗位/拼多多.md",
     "Work/岗位/淘宝.md",
@@ -290,7 +294,6 @@
     "Work/岗位/河马生鲜.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Choreographer.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Window Manager.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
     "DataBase/Tasks/data/面试准备.md",
     "WorkDesk.canvas",
     "Home Page.md",
@@ -307,8 +310,6 @@
     "Work/猎头/璐璐.md",
     "Outputs/video/杂文/德邦快递，实属弟弟.md",
     "Outputs/GameDevelop/思考/思考.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/class.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/programming paradigm.md",
     "DataBase/Knowledge/Computer/BaseLayer/Network/NetworkSecurity",
     "Outputs/video/Films",
     "Outputs/video/杂文",

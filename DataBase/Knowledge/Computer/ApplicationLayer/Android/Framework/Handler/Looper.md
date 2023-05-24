@@ -14,6 +14,10 @@ Handler的sendMessage()方法,会给msg的target赋值为handler自身,然后加
 
 在构造Handler实例时,我们会重写handlerMessage方法.也就是msg.target,dispatchMessage(msg)最终调用的方法.
 
+# 初始化
+## 主线程
+在应用进程启动时进行初始化
+
 
 
 
