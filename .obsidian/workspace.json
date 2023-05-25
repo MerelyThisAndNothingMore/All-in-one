@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Home Page.md",
-            "mode": "preview",
+            "file": "DataBase/Tasks/data/面试准备.md",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -99,7 +99,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home Page.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -134,7 +133,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,9 +148,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Home Page.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,7 +173,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
