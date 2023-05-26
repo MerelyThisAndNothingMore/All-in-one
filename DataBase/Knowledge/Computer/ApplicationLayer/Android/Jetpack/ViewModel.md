@@ -2,10 +2,31 @@
 tags: 
 alias:
 ---
+# 定义
+ViewModel是[[Jetpack]] [[Android Architecture Component]]的重要组件，同时也有一个同名抽象类。
+## 引入
+1. [[Activity]]可能会在某些场景（例如屏幕旋转）销毁和重新创建界面，那么存储在其中的界面相关数据都会丢失。
+
+2. UI层（如 Activity 和 Fragment）经常需要通过逻辑层（如[[MVP]]中的Presenter）进行异步请求，可能需要一些时间才能返回结果，如果逻辑层持有UI层应用（如context），那么UI层需要管理这些请求，确保界面销毁后清理这些调用以**避免潜在的内存泄露**，但此项管理**需要大量的维护工作**。
+
+## 特点
+### 生命周期长于Activity
+**因系统配置变更Activity销毁重建，ViewModel对象会保留并关联到新的Activity**。而Activity的正常销毁（系统不会重建Activity）时，ViewModel对象是会清除的。
+### 不持有UI层引用
+在MVP的Presenter中需要持有IView接口来回调结果给界面。
+
+而ViewModel是不需要持有UI层引用的，通过[[LiveData]]将数据传输到UI层
+
+# 使用
+# 原理
+
+
+
+
 
 https://blog.csdn.net/c10wtiybq1ye3/article/details/89934891
 
-https://www.jianshu.com/p/41c56570a266?utm_campaign=haruki&utm_content=note&utm_medium=seo _notes&utm_source=recommendation
+
 
 https://www.jianshu.com/p/ebdf656b6dd4 https://blog.csdn.net/qq_15988951/article/details/105106867  
 how  

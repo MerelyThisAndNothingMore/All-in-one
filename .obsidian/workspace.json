@@ -60,7 +60,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Jetpack/LiveData.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Fragment/Fragment.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c69b691114be6d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Fragment/DataBinding.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -146,7 +159,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -175,7 +188,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:",
+                "query": " file:mvv",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -231,7 +244,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Jetpack/LiveData.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Fragment/DataBinding.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -266,7 +279,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Jetpack/LiveData.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Fragment/DataBinding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +296,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Jetpack/LiveData.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Fragment/DataBinding.md"
               }
             }
           },
@@ -309,7 +322,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Jetpack/LiveData.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Fragment/DataBinding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -366,11 +379,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1b9b78e29447585b",
+  "active": "0c69b691114be6d4",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Fragment/Fragment.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Fragment/DataBinding.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Android 设计框架/MVVM.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Android 设计框架/MVC.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Android 设计框架/Android 设计框架.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Jetpack/ViewModel.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Jetpack/LiveData.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Jetpack/Android Architecture Component.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Jetpack/lifecycle.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Jetpack/LiveData.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Jetpack/Jetpack.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/AOP/AOP.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Anim/Anim.md",
@@ -388,13 +407,7 @@
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/内存模型.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Operating System.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Networks.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Virtual Memory.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/MultiThread.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/线程安全.md",
     "WorkDesk.canvas",
-    "Outputs/video/杂文/谈生命.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android 进程优先级.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Input触控事件处理.md",
     "DataBase/Knowledge/Computer/BaseLayer/Network/NetworkSecurity",
     "Outputs/video/Films",
     "Outputs/video/杂文",
