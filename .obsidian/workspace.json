@@ -55,6 +55,19 @@
             }
           },
           {
+            "id": "353cc06c565c439b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home Page.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a85ce09de0a3dcdb",
             "type": "leaf",
             "state": {
@@ -133,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -219,7 +232,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/自定义View.md",
+                "file": "Home Page.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -254,7 +267,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/自定义View.md",
+                "file": "Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +284,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/自定义View.md"
+                "file": "Home Page.md"
               }
             }
           },
@@ -297,7 +310,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/自定义View.md",
+                "file": "Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -354,8 +367,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "170e724335b5242c",
+  "active": "353cc06c565c439b",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/自定义View.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/ViewRoot.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/DecorView.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Android GUI.md",
@@ -381,7 +395,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Android 设计框架/Android 设计框架.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Jetpack/ViewModel.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Jetpack/LiveData.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Jetpack/Android Architecture Component.md",
     "WorkDesk.canvas",
     "DataBase/Knowledge/Computer/BaseLayer/Network/NetworkSecurity",
     "Outputs/video/Films",

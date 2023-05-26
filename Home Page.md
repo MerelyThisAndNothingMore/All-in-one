@@ -53,7 +53,33 @@ https://github.com/labuladong/fucking-algorithm
 https://juejin.cn/post/6876968255597051917
 https://juejin.cn/post/6844904147712475149
 https://juejin.cn/post/6979882374725107720
+https://github.com/JsonChao/Awesome-Android-Exercise
 
+https://juejin.cn/post/6844904106545414157
+
+https://juejin.cn/post/6844903613865672718
+
+
+http://liuwangshu.cn/tags/ClassLoader/
+
+
+https://rengwuxian.com/tag/kotlin/
+
+
+https://rengwuxian.com/tag/custom-view/
+
+https://juejin.cn/post/6862548590092140558
+
+
+https://juejin.cn/post/6914802148614242312
+
+https://juejin.cn/post/6884505736836022280
+
+https://blog.csdn.net/hzwailll/article/details/85339714
+http://liuwangshu.cn/tags/ActivityManagerService/
+https://blog.csdn.net/zhaoyanjun6/article/details/76408024
+
+https://juejin.cn/post/6844903446814916621#comment
 
 偏B端，
 
