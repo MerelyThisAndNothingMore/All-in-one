@@ -274,8 +274,8 @@
     "ViewRootImpl": {
       "ViewRootImpl": {
         "internalLink": {
-          "count": 1,
-          "lastUpdated": 1683732658286
+          "count": 2,
+          "lastUpdated": 1685094531420
         }
       }
     },
@@ -324,6 +324,14 @@
         "internalLink": {
           "count": 2,
           "lastUpdated": 1685080909702
+        }
+      }
+    },
+    "resume": {
+      "resume": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685094063427
         }
       }
     }
