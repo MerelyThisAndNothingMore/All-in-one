@@ -1,6 +1,8 @@
 ---
 tags: 
 alias:
+- JMM
+- Java Memory Model
 ---
 # 内存划分
 -   `Java`虚拟机在运行`Java`程序时，会管理着一块内存区域：运行时数据区

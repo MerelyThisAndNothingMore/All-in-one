@@ -71,14 +71,6 @@
         }
       }
     },
-    "Introduction": {
-      "Introduction": {
-        "customDictionary": {
-          "count": 43,
-          "lastUpdated": 1682303875922
-        }
-      }
-    },
     "studyResources": {
       "studyResources": {
         "frontMatter": {
@@ -100,14 +92,6 @@
         "internalLink": {
           "count": 3,
           "lastUpdated": 1683637099722
-        }
-      }
-    },
-    "Lyric": {
-      "Lyric": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1682386999066
         }
       }
     },
@@ -332,6 +316,14 @@
         "frontMatter": {
           "count": 1,
           "lastUpdated": 1684844492872
+        }
+      }
+    },
+    "volatile": {
+      "volatile": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1685080909702
         }
       }
     }

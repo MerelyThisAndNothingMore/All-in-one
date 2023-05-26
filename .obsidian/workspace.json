@@ -21,7 +21,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/可见性.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/volatile.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a85ce09de0a3dcdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 内存模型.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -179,7 +192,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/可见性.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/volatile.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -214,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/可见性.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/volatile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/可见性.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/volatile.md"
               }
             }
           },
@@ -257,7 +270,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/可见性.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/volatile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -316,10 +329,11 @@
   },
   "active": "d07d16c582800b34",
   "lastOpenFiles": [
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/Untitled.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/原子性.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/可见性.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 内存模型.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/有序性.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/Untitled.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/原子性.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/缓存一致性.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/内存模型.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/volatile.md",
@@ -342,7 +356,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
     "Work/岗位/Minimax.md",
     "Work/岗位/小红书.md",
-    "Work/岗位/拼多多.md",
     "DataBase/Knowledge/Computer/BaseLayer/Network/NetworkSecurity",
     "Outputs/video/Films",
     "Outputs/video/杂文",
