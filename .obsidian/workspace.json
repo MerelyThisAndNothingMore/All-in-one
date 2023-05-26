@@ -60,7 +60,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Life/Passwords.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -175,7 +175,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " file:自定义",
+                "query": " file:passw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -232,7 +232,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Life/Passwords.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -267,7 +267,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Life/Passwords.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -284,7 +284,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "DataBase/Life/Passwords.md"
               }
             }
           },
@@ -310,7 +310,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Life/Passwords.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -369,6 +369,13 @@
   },
   "active": "353cc06c565c439b",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Computer/ApplicationLayer/Unity/Unity.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Kotlin.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Unity",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/Java.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation/Interview preparation.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md",
+    "Home Page.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/自定义View.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/ViewRoot.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/DecorView.md",
@@ -389,12 +396,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/zygote进程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Fragment/Fragment.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Input触控事件处理.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Fragment/DataBinding.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Android 设计框架/MVVM.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Android 设计框架/MVC.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Android 设计框架/Android 设计框架.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Jetpack/ViewModel.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Jetpack/LiveData.md",
     "WorkDesk.canvas",
     "DataBase/Knowledge/Computer/BaseLayer/Network/NetworkSecurity",
     "Outputs/video/Films",
@@ -406,7 +407,6 @@
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/字符串匹配",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/动态规划",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Untitled",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/分治",
     "Resources/Images/Pasted image 20230508155739.png",
     "Resources/Images/Pasted image 20230414234101.png",
     "Outputs/NovelWriting/花下/花下大纲.canvas",
