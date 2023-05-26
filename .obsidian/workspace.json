@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/apk.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " file:unity",
+                "query": " file:apk",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -106,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/apk.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -141,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/apk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/apk.md"
               }
             }
           },
@@ -184,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/apk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,6 +242,11 @@
   },
   "active": "d83af839c0a850fc",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/android compile.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/apk.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/targetSDKVersion.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/ContentProvider/ContentProvider.md",
+    "Home Page.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Unity/Unity.md",
     "DataBase/Life/Passwords.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Kotlin.md",
@@ -250,7 +254,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/java/Java.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation/Interview preparation.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md",
-    "Home Page.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/自定义View.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/ViewRoot.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/DecorView.md",
@@ -266,10 +269,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/FPS.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Window.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Looper.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Handler.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Message Queue.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/zygote进程.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/Fragment/Fragment.md",
     "WorkDesk.canvas",
     "DataBase/Knowledge/Computer/BaseLayer/Network/NetworkSecurity",
     "Outputs/video/Films",

@@ -2,17 +2,33 @@
 tags: 
 alias:
 ---
-# apk组成和Android的打包流程?
+
+
+
+
+# apk组成
+**APK 其实是一个 zip 类型的压缩包**
 ## 文件目录
-resources.arsc 编译后的二进制资源文件。
+### AndroidManifest.xml
+程序的全局清单配置文件
 
-classes.dex 是.dex文件。最终生成的Dalvik字节码
+### classes.dex 
+**是由项目源码生成的 .class 文件经过进一步地转换而生成的 Android 系统可识别的 Dalvik Byte Code。并且，由于 Android 系统中的字节码和标准 JVM 中的字节码是有区别的，所以如果 App 中引用了第三方 jar 包的话，那么通常情况下它也会被包含在 classes.dex 中**。
 
-AndroidManifest.xml 程序的全局清单配置文件
+### resources.arsc 
+**资源索引表，包含编译后的二进制资源文件**。每当在 **res** 文件夹下放一个文件时，**aapt** 就会自动生成对应的 **id** 并保存在 **.R** 文件中，**但 .R 文件仅仅只是保证编译程序不会报错，实际上在应用运行时，系统会根据 ID 寻找对应的资源路径，而 resources.arsc 文件就是用来记录这些 ID 和 资源文件位置对应关系 的文件**。
 
-res是uncompiled resources。存放资源文件的目录。
+### res目录
+**未编译的资源文件**。
 
-META-INF是签名文件夹。 存放签名信息
+### asserts
+**额外建立的资源文件夹**。**res** 和 **assets** 的不同在于 **res** 目录下的文件会在 **.R** 文件中生成对应的资源 **ID**，而 **assets** 不会自动生成对应的 **ID**，而是通过 **AssetManager** 类的接口来获取。
+
+### libs目录
+**如果存在的话，存放的是 ndk 编出来的 so 库** 。
+
+### META-INF目录
+**用于保存 App 的签名和校验信息，以保证程序的完整性。当生成 APK 包时，系统会对包中的所有内容做一次校验，然后将结果保存在这里。而手机在安装这一 App 时还会对内容再做一次校验，并和 META-INF 中的值进行比较，以避免 APK 被恶意篡改**。
 
 MANIFEST.MF(清单文件):其中每一个资源文件都有一个SHA-256-Digest签名，MANIFEST.MF文件的 SHA256(SHA1)并base64编码的结果即为CERT.SF中的SHA256-Digest-Manifest值。
 
@@ -20,15 +36,22 @@ CERT.SF(待签名文件):除了开头处定义的SHA256(SHA1)-Digest-Manifest值
 
 CERT.RSA(签名结果文件):其中包含了公钥、加密算法等信息。首先对前一步生成的MANIFEST.MF使用了 SHA256(SHA1)-RSA算法，用开发者私钥签名，然后在安装时使用公钥解密。最后，将其与未加密的摘要信息 (MANIFEST.MF文件)进行对比，如果相符，则表明内容没有被修改。
 
-## 具体打包过程
+# 编译打包流程
+- 1、**首先，.aidl（Android Interface Description Language）文件需要通过 aidl 工具转换成编译器能够处理的 Java 接口文件**。
 
-1.  通过aapt打包res资源文件,生成R.java、resources.arsc和res文件(二进制&非二进制如res/raw和pic保持原样)。resources.arsc保存的是一个资源索引表，可以理解为一个map映射表，map的key是R.java中的资源ID，而value就是其对应的资源所在路径；R.java定义了各个资源ID常量，这两者结合就可以在代码中找到对应的资源引用。
-2.  处理.aidl文件,生成对应的Java接口文件
-3.  通过Java Compiler编译R.java、Java接口文件、Java源文件,生成.class文件
-4.  通过dex工具,将.class文件和第三方库中的.class文件处理生成classes.dex
-5.  通过apkbuilder工具,将aapt生成的resources.arsc和res文件、assets文件、动态库`.so`文件、`AndroidManifest.xml` 清单文件和classes.dex一起打包生成apk
-6.  通过jarsigner对上面的apk进行debug或者release签名
-7.  通过zipalign工具,将签名后的apk进行对齐处理
+- 2、**同时，资源文件（包括 AndroidManifest.xml、布局文件、各种 xml 资源等等）将被 AAPT（Asset Packaging Tool）（Android Gradle Plugin 3.0.0 及之后使用 AAPT2 替代了 AAPT）处理为最终的 resources.arsc，并生成 R.java 文件以保证源码编写时可以方便地访问到这些资源**。
+
+- 3、**然后，通过 Java Compiler 编译 R.java、Java 接口文件、Java 源文件，最终它们会统一被编译成 .class 文件**。
+
+- 4、**因为 .class 并不是 Android 系统所能识别的格式，所以还需要通过 dex 工具将它们转化为相应的 Dalvik 字节码（包含压缩常量池以及清除冗余信息等工作）。这个过程中还会加入应用所依赖的所有 “第三方库”**。
+
+- 5、**下一步，通过 ApkBuilder 工具将资源文件、DEX 文件打包生成 APK 文件**。
+- 6、**接着，系统将上面生成的 DEX、资源包以及其它资源通过 apkbuilder 生成初始的 APK 文件包**。
+
+- 7、**然后，通过签名工具 Jarsigner 或者其它签名工具对 APK 进行签名得到签名后的 APK。如果是在 Debug 模式下，签名所用的 keystore 是系统自带的默认值，否则我们需要提供自己的私钥以完成签名过程**。
+
+- 8、**最后，如果是正式版的 APK，还会利用 ZipAlign 工具进行对齐处理，以提高程序的加载和运行速度。而对齐的过程就是将 APK 文件中所有的资源文件距离文件的起始位置都偏移4字节的整数倍，这样通过 mmap 访问 APK 文件的速度会更快，并且会减少其在设备上运行时的内存占用**。
+
 ### assets和res/raw
 
 这两个文件目录里的文件都会直接在打包apk的时候直接打包到apk中，携带在应用里面供应用访问，而且不会 被编译成二进制;
