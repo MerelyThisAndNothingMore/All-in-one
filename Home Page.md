@@ -44,7 +44,6 @@ renderHeatmapCalendar(this.container, calendarData)
 
 ```
 
-https://juejin.cn/post/7072110404737957918
 https://github.com/xfhy/Android-Notes
 [[WorkDesk.canvas]]
 https://github.com/labuladong/fucking-algorithm
