@@ -34,7 +34,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/内存屏障.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/volatile.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "170e724335b5242c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Jetpack/lifecycle.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b9b78e29447585b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Jetpack/LiveData.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -120,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -149,7 +175,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:可见",
+                "query": "file:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,7 +231,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/内存屏障.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Jetpack/LiveData.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -240,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/内存屏障.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Jetpack/LiveData.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/内存屏障.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Jetpack/LiveData.md"
               }
             }
           },
@@ -283,7 +309,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/内存屏障.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Jetpack/LiveData.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -340,8 +366,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "26b036a268909d31",
+  "active": "1b9b78e29447585b",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Jetpack/Android Architecture Component.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Jetpack/lifecycle.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Jetpack/LiveData.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Jetpack/Jetpack.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/AOP/AOP.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Anim/Anim.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/持久化/持久化.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md",
+    "Home Page.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/volatile.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/内存屏障.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/可见性.md",
@@ -356,19 +391,10 @@
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Virtual Memory.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/MultiThread.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/线程安全.md",
-    "Home Page.md",
     "WorkDesk.canvas",
     "Outputs/video/杂文/谈生命.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Android 进程优先级.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Input触控事件处理.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View事件分发/View事件分发.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Choreographer.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Window Manager.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Looper.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Handler.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
-    "Work/岗位/Minimax.md",
     "DataBase/Knowledge/Computer/BaseLayer/Network/NetworkSecurity",
     "Outputs/video/Films",
     "Outputs/video/杂文",
