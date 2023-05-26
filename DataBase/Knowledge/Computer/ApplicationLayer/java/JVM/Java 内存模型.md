@@ -50,7 +50,3 @@ Java堆是JVM所管理的内存中最大的一块，该区域唯一目的就是�
 
 ![](https://imgconvert.csdnimg.cn/aHR0cHM6Ly91cGxvYWQtaW1hZ2VzLmppYW5zaHUuaW8vdXBsb2FkX2ltYWdlcy85NDQzNjUtMWM2Njk1MzIwMGU4MjUzZC5wbmc?x-oss-process=image/format,png)
 
-
-
-
-
