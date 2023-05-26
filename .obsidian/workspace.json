@@ -29,6 +29,19 @@
             }
           },
           {
+            "id": "26b036a268909d31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/内存屏障.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a85ce09de0a3dcdb",
             "type": "leaf",
             "state": {
@@ -107,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -192,7 +205,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/volatile.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/内存屏障.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -227,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/volatile.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/内存屏障.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/volatile.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/内存屏障.md"
               }
             }
           },
@@ -270,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/volatile.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/内存屏障.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -327,8 +340,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d07d16c582800b34",
+  "active": "26b036a268909d31",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/volatile.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/内存屏障.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/可见性.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 内存模型.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/有序性.md",
@@ -336,7 +351,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/原子性.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/缓存一致性.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/内存模型.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/volatile.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Operating System.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Networks.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Virtual Memory.md",
@@ -355,7 +369,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Handler/Handler.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
     "Work/岗位/Minimax.md",
-    "Work/岗位/小红书.md",
     "DataBase/Knowledge/Computer/BaseLayer/Network/NetworkSecurity",
     "Outputs/video/Films",
     "Outputs/video/杂文",
