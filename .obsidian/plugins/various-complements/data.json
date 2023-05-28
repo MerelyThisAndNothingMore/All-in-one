@@ -95,30 +95,6 @@
         }
       }
     },
-    "author": {
-      "author": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1682491011525
-        }
-      }
-    },
-    "[[毛泽东]]": {
-      "[[毛泽东]]": {
-        "frontMatter": {
-          "count": 2,
-          "lastUpdated": 1682581601611
-        }
-      }
-    },
-    "AVL树": {
-      "AVL树": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1682576914693
-        }
-      }
-    },
     "Interactive": {
       "Interactive": {
         "customDictionary": {
@@ -332,6 +308,22 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1685094063427
+        }
+      }
+    },
+    "celebrities": {
+      "celebrities": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1685244857874
+        }
+      }
+    },
+    "physicists": {
+      "physicists": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1685244953042
         }
       }
     }

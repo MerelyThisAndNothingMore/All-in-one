@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "0e3fe502717e6bf6",
+            "id": "f32044feff6f11c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Literature/Text/Articles/Articles.md",
+                "file": "DataBase/Reality/Persons/Scientists/Katia Krafft.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "f32044feff6f11c2",
+            "id": "5756faf114fe1dcc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Literature/Text/Articles/我的世界观.md",
+                "file": "DataBase/Reality/Persons/Scientists/Albert Einstein.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -59,8 +59,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "einstein",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,8 +113,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -146,7 +144,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Literature/Text/Articles/我的世界观.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/apk.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -181,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Literature/Text/Articles/我的世界观.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/apk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Literature/Text/Articles/我的世界观.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/apk.md"
               }
             }
           },
@@ -224,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Literature/Text/Articles/我的世界观.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/apk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -281,11 +279,22 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5e5fea182599fa5c",
+  "active": "aa24a62e17c29251",
   "lastOpenFiles": [
     "DataBase/Literature/Text/Sayings/Saying0010.md",
+    "DataBase/Literature/Text/Sayings/Saying0009.md",
+    "DataBase/Literature/Text/Sayings/Saying0008.md",
+    "DataBase/Literature/Text/Sayings/Saying0007.md",
     "DataBase/Literature/Text/Articles/我的世界观.md",
     "DataBase/Literature/Text/Articles/Articles.md",
+    "DataBase/Reality/Persons/Scientists/Katia Krafft.md",
+    "DataBase/Reality/Persons/Scientists/Albert Einstein.md",
+    "DataBase/Reality/Persons/Scientists/Isaac Newton.md",
+    "DataBase/Reality/Persons/Scientists/Maurice Krafft.md",
+    "DataBase/Reality/Persons/Scientists/Johannes Kepler.md",
+    "DataBase/Reality/Persons/Entertainers/长渕刚.md",
+    "DataBase/Literature/Music/Songs/蜻蜓.md",
+    "DataBase/Literature/Text/Sayings/夫人必自侮，然后人侮之；家必自毁，而后人毁之；国必自伐，而后人伐之。.md",
     "DataBase/Literature/Text/Books/毛泽东选集/毛泽东选集.md",
     "DataBase/Literature/Text/Articles",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/Android Gradle.md",
@@ -299,18 +308,7 @@
     "Home Page.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/targetSDKVersion.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/ContentProvider/ContentProvider.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Unity/Unity.md",
-    "DataBase/Life/Passwords.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Kotlin.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Unity",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/Java.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Interview Preparation/Interview preparation.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/自定义View.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/ViewRoot.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/DecorView.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Android GUI.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Jetpack/lifecycle.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Android 系统显示原理.md",
     "WorkDesk.canvas",
     "DataBase/Knowledge/Computer/BaseLayer/Network/NetworkSecurity",
     "Outputs/video/Films",
