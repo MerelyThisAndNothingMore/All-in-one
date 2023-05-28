@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/WebView/Android Hybrid.md",
+                "file": "DataBase/Reality/Persons/Entertainers/Stanley Kubrick.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:排序",
+                "query": "kubri",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +113,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -144,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/WebView/Android Hybrid.md",
+                "file": "DataBase/Reality/Persons/Entertainers/Stanley Kubrick.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -179,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/WebView/Android Hybrid.md",
+                "file": "DataBase/Reality/Persons/Entertainers/Stanley Kubrick.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/WebView/Android Hybrid.md"
+                "file": "DataBase/Reality/Persons/Entertainers/Stanley Kubrick.md"
               }
             }
           },
@@ -222,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/WebView/Android Hybrid.md",
+                "file": "DataBase/Reality/Persons/Entertainers/Stanley Kubrick.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -281,6 +282,8 @@
   },
   "active": "aa24a62e17c29251",
   "lastOpenFiles": [
+    "DataBase/Literature/Films/2001-A Space Odyssey(film).md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/WebView/Android Hybrid.md",
     "DataBase/Reality/Websites/OSSU.md",
     "DataBase/Reality/Persons/Entertainers/关之琳.md",
     "DataBase/Reality/Persons/Authors/顾诚.md",
@@ -305,8 +308,6 @@
     "DataBase/Literature/Text/Sayings/Saying0008.md",
     "DataBase/Literature/Text/Sayings/Saying0007.md",
     "DataBase/Literature/Text/Articles/我的世界观.md",
-    "DataBase/Literature/Text/Articles/Articles.md",
-    "DataBase/Reality/Persons/Scientists/Katia Krafft.md",
     "DataBase/Literature/Text/Articles",
     "DataBase/Knowledge/Computer/ApplicationLayer/Unity",
     "WorkDesk.canvas",
