@@ -26,7 +26,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/Android Gradle.md",
+                "file": "DataBase/Literature/Text/Articles/Articles.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f32044feff6f11c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Literature/Text/Articles/我的世界观.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b49b85e9c089290",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Literature/Text/Sayings/Saying0010.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -63,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " file:andr",
+                "query": "einstein",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +114,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -119,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/Android Gradle.md",
+                "file": "DataBase/Literature/Text/Articles/我的世界观.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -154,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/Android Gradle.md",
+                "file": "DataBase/Literature/Text/Articles/我的世界观.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/Android Gradle.md"
+                "file": "DataBase/Literature/Text/Articles/我的世界观.md"
               }
             }
           },
@@ -197,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/Android Gradle.md",
+                "file": "DataBase/Literature/Text/Articles/我的世界观.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,10 +281,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0e3fe502717e6bf6",
+  "active": "5e5fea182599fa5c",
   "lastOpenFiles": [
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/apk.md",
+    "DataBase/Literature/Text/Sayings/Saying0010.md",
+    "DataBase/Literature/Text/Articles/我的世界观.md",
+    "DataBase/Literature/Text/Articles/Articles.md",
+    "DataBase/Literature/Text/Books/毛泽东选集/毛泽东选集.md",
+    "DataBase/Literature/Text/Articles",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/Android Gradle.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/apk.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/android compile.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/performance.md",
@@ -279,10 +311,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Android GUI.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Jetpack/lifecycle.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/Android 系统显示原理.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View 绘制流程.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/ViewRootImpl.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Window/Choreographer.md",
     "WorkDesk.canvas",
     "DataBase/Knowledge/Computer/BaseLayer/Network/NetworkSecurity",
     "Outputs/video/Films",
@@ -293,7 +321,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/字符串匹配",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/动态规划",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Untitled",
     "Resources/Images/Pasted image 20230508155739.png",
     "Resources/Images/Pasted image 20230414234101.png",
     "Outputs/NovelWriting/花下/花下大纲.canvas",
