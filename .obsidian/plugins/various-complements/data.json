@@ -314,8 +314,8 @@
     "celebrities": {
       "celebrities": {
         "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1685244857874
+          "count": 2,
+          "lastUpdated": 1685253991336
         }
       }
     },
@@ -324,6 +324,22 @@
         "frontMatter": {
           "count": 1,
           "lastUpdated": 1685244953042
+        }
+      }
+    },
+    "String": {
+      "String": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1685253849839
+        }
+      }
+    },
+    "Entertainers": {
+      "Entertainers": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1685253993857
         }
       }
     }

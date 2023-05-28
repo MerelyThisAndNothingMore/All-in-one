@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/apk.md",
-                "mode": "preview",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/WebView/Android Hybrid.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:排序",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,7 +144,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/apk.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/WebView/Android Hybrid.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/apk.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/WebView/Android Hybrid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/apk.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/WebView/Android Hybrid.md"
               }
             }
           },
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/apk.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/WebView/Android Hybrid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -281,6 +281,25 @@
   },
   "active": "aa24a62e17c29251",
   "lastOpenFiles": [
+    "DataBase/Reality/Websites/OSSU.md",
+    "DataBase/Reality/Persons/Entertainers/关之琳.md",
+    "DataBase/Reality/Persons/Authors/顾诚.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Launcher进程.md",
+    "DataBase/Literature/Text/Books/数学之美.md",
+    "DataBase/Literature/Text/Books/毛泽东选集/中国社会各阶级的分析.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Network/中间人攻击.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Dependency inversion principle.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/DecorView.md",
+    "DataBase/Reality/Persons/Entertainers/周杰伦.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithm Analysis/Computational complexity.md",
+    "DataBase/Life/diary/2023-W07.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Queue.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/String.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/希尔排序.md",
+    "DataBase/Reality/Persons/Entertainers/赵丽颖.md",
+    "DataBase/Investment/Stocks/中金黄金.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/AlgorithmConcepts/遍历.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/apk.md",
     "DataBase/Literature/Text/Sayings/Saying0010.md",
     "DataBase/Literature/Text/Sayings/Saying0009.md",
     "DataBase/Literature/Text/Sayings/Saying0008.md",
@@ -288,26 +307,7 @@
     "DataBase/Literature/Text/Articles/我的世界观.md",
     "DataBase/Literature/Text/Articles/Articles.md",
     "DataBase/Reality/Persons/Scientists/Katia Krafft.md",
-    "DataBase/Reality/Persons/Scientists/Albert Einstein.md",
-    "DataBase/Reality/Persons/Scientists/Isaac Newton.md",
-    "DataBase/Reality/Persons/Scientists/Maurice Krafft.md",
-    "DataBase/Reality/Persons/Scientists/Johannes Kepler.md",
-    "DataBase/Reality/Persons/Entertainers/长渕刚.md",
-    "DataBase/Literature/Music/Songs/蜻蜓.md",
-    "DataBase/Literature/Text/Sayings/夫人必自侮，然后人侮之；家必自毁，而后人毁之；国必自伐，而后人伐之。.md",
-    "DataBase/Literature/Text/Books/毛泽东选集/毛泽东选集.md",
     "DataBase/Literature/Text/Articles",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/Android Gradle.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/apk.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/android compile.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/View.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/performance.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/OpenSourceFramework/OpenSourceFramework.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Jetpack/Jetpack.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md",
-    "Home Page.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/targetSDKVersion.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/ContentProvider/ContentProvider.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Unity",
     "WorkDesk.canvas",
     "DataBase/Knowledge/Computer/BaseLayer/Network/NetworkSecurity",
