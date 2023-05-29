@@ -6,7 +6,12 @@ alias:
 http://liuwangshu.cn/framework/ams/1-ams.html
 
 # 定义
-ActivityManagerService 主要负责系统中四大组件的启动、切换、调度及应用进程的管理和调度等工作，其职责 与操作系统中的进程管理和调度模块类似。
+AMS是系统的引导服务，应用进程的启动、切换和调度、四大组件的启动和管理都需要AMS的支持。
+
+# 启动流程
+
+
+
 
 ActivityManagerService进行初始化的时机很明确，就是在SystemServer进程开启的时候，就会初始化 ActivityManagerService。([[Android系统启动流程]])
 
