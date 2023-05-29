@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "fff7051b77482a57",
+        "id": "47e762dafebc8be1",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -43,7 +43,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:会玩",
+                "query": "file:java",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -234,10 +235,22 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fff7051b77482a57",
+  "active": "47e762dafebc8be1",
   "lastOpenFiles": [
-    "Work/岗位/会玩.md",
+    "DataBase/Literature/Text/Books/茶馆.md",
     "Home Page.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/Fundamentals/Arrays In Java.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 堆.md",
+    "DataBase/Literature/Text/Articles/Articles.md",
+    "DataBase/Literature/Characters/Characters.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/可见性.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Threads.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Concurrency.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Processes.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/IPC.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
+    "Work/岗位/会玩.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/线程池.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/协程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Kotlin.md",
@@ -250,18 +263,6 @@
     "DataBase/Reality/Persons/Authors/顾诚.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Launcher进程.md",
     "DataBase/Literature/Text/Books/数学之美.md",
-    "DataBase/Literature/Text/Books/毛泽东选集/中国社会各阶级的分析.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Network/中间人攻击.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Dependency inversion principle.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/View/DecorView.md",
-    "DataBase/Reality/Persons/Entertainers/周杰伦.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithm Analysis/Computational complexity.md",
-    "DataBase/Life/diary/2023-W07.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Queue.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/String.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/希尔排序.md",
-    "DataBase/Reality/Persons/Entertainers/赵丽颖.md",
-    "DataBase/Investment/Stocks/中金黄金.md",
     "DataBase/Literature/Text/Articles",
     "DataBase/Knowledge/Computer/ApplicationLayer/Unity",
     "WorkDesk.canvas",
