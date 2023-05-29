@@ -4,56 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5222561d3493e9d9",
+        "id": "d3b36badecfb2cef",
         "type": "tabs",
         "children": [
           {
-            "id": "aa24a62e17c29251",
+            "id": "93759ba1962b45c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Reality/Persons/Entertainers/Stanley Kubrick.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f32044feff6f11c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Reality/Persons/Scientists/Katia Krafft.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5756faf114fe1dcc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Reality/Persons/Scientists/Albert Einstein.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b49b85e9c089290",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Literature/Text/Sayings/Saying0010.md",
-                "mode": "source",
+                "file": "Home Page.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -145,7 +106,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Reality/Persons/Entertainers/Stanley Kubrick.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -180,7 +140,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Reality/Persons/Entertainers/Stanley Kubrick.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DataBase/Reality/Persons/Entertainers/Stanley Kubrick.md"
-              }
+              "state": {}
             }
           },
           {
@@ -223,7 +180,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Reality/Persons/Entertainers/Stanley Kubrick.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -280,8 +236,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "aa24a62e17c29251",
+  "active": "5e5fea182599fa5c",
   "lastOpenFiles": [
+    "Home Page.md",
     "DataBase/Literature/Films/2001-A Space Odyssey(film).md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/WebView/Android Hybrid.md",
     "DataBase/Reality/Websites/OSSU.md",
@@ -307,7 +264,6 @@
     "DataBase/Literature/Text/Sayings/Saying0009.md",
     "DataBase/Literature/Text/Sayings/Saying0008.md",
     "DataBase/Literature/Text/Sayings/Saying0007.md",
-    "DataBase/Literature/Text/Articles/我的世界观.md",
     "DataBase/Literature/Text/Articles",
     "DataBase/Knowledge/Computer/ApplicationLayer/Unity",
     "WorkDesk.canvas",
