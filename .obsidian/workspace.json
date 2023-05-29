@@ -68,8 +68,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -237,8 +236,15 @@
   },
   "active": "47e762dafebc8be1",
   "lastOpenFiles": [
-    "DataBase/Literature/Text/Books/茶馆.md",
+    "DataBase/Literature/Text/Books/设计模式之禅.md",
+    "DataBase/Literature/Text/Books/雪崩.md",
+    "DataBase/Literature/Text/Books/四世同堂.md",
+    "DataBase/Literature/Text/Books/数学之美.md",
+    "DataBase/Literature/Text/Books/人间失格.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Dependency inversion principle.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Factory Method Pattern.md",
     "Home Page.md",
+    "DataBase/Literature/Text/Books/茶馆.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/Fundamentals/Arrays In Java.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 堆.md",
     "DataBase/Literature/Text/Articles/Articles.md",
@@ -256,13 +262,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Kotlin.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Kotlin 泛型.md",
     "DataBase/Tasks/data/书籍推荐.md",
-    "DataBase/Literature/Films/2001-A Space Odyssey(film).md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/WebView/Android Hybrid.md",
-    "DataBase/Reality/Websites/OSSU.md",
-    "DataBase/Reality/Persons/Entertainers/关之琳.md",
-    "DataBase/Reality/Persons/Authors/顾诚.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Launcher进程.md",
-    "DataBase/Literature/Text/Books/数学之美.md",
     "DataBase/Literature/Text/Articles",
     "DataBase/Knowledge/Computer/ApplicationLayer/Unity",
     "WorkDesk.canvas",
