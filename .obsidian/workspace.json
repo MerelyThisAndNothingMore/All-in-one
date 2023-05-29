@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
-                "mode": "preview",
+                "file": "DataBase/Tasks/data/面试准备.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:kotlin",
+                "query": "file:会玩",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -106,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Tasks/data/面试准备.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -141,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Tasks/data/面试准备.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "DataBase/Tasks/data/面试准备.md"
               }
             }
           },
@@ -184,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Tasks/data/面试准备.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,13 +240,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5e5fea182599fa5c",
+  "active": "9efb66c5acbe3c31",
   "lastOpenFiles": [
+    "Work/岗位/会玩.md",
+    "Home Page.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/线程池.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/协程.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Kotlin.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Kotlin 泛型.md",
-    "Home Page.md",
     "DataBase/Tasks/data/书籍推荐.md",
     "DataBase/Literature/Films/2001-A Space Odyssey(film).md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Application/WebView/Android Hybrid.md",
@@ -268,7 +268,6 @@
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/希尔排序.md",
     "DataBase/Reality/Persons/Entertainers/赵丽颖.md",
     "DataBase/Investment/Stocks/中金黄金.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/AlgorithmConcepts/遍历.md",
     "DataBase/Literature/Text/Articles",
     "DataBase/Knowledge/Computer/ApplicationLayer/Unity",
     "WorkDesk.canvas",
