@@ -4,17 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "47e762dafebc8be1",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Home Page.md",
-            "mode": "preview",
-            "backlinks": true,
-            "source": false
+        "id": "851dacfae16cab15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed68e72366ae8d5b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "56bf3ebb8ff467f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Literature/Text/Books/设计模式之禅.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +114,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Literature/Text/Books/设计模式之禅.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -134,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Literature/Text/Books/设计模式之禅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "DataBase/Literature/Text/Books/设计模式之禅.md"
               }
             }
           },
@@ -177,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Literature/Text/Books/设计模式之禅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,34 +249,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "47e762dafebc8be1",
+  "active": "56bf3ebb8ff467f7",
   "lastOpenFiles": [
+    "DataBase/Literature/Text/Books/Design Patterns Wiki Book.md",
+    "DataBase/Literature/Text/Books/Computer Systems-A Programmer's Perspective.md",
+    "DataBase/Literature/Text/Books/Capital in the twenty-First Century.md",
+    "DataBase/Literature/Text/Books/Utopia(book).md",
+    "DataBase/Literature/Text/Books/The Year of Magical Thinking.md",
     "DataBase/Literature/Text/Books/设计模式之禅.md",
+    "DataBase/Literature/Text/Books/Design Patterns Elements of Reusable Object-Oriented Software.md",
+    "DataBase/Literature/Text/Books/Operating Systems-Three Easy Pieces.md",
+    "DataBase/Literature/Text/Books/How to Read a Book.md",
+    "Home Page.md",
+    "DataBase/Literature/Text/Books/茶馆.md",
+    "DataBase/Literature/Characters/Characters.md",
+    "DataBase/Literature/Text/Books/《权力意志》.md",
+    "DataBase/Literature/Text/Books/《Social Psychology》.md",
+    "DataBase/Literature/Text/Books/骆驼祥子.md",
+    "DataBase/Literature/Text/Books/毛主席语录.md",
+    "DataBase/Literature/Text/Books/偶像的黄昏.md",
     "DataBase/Literature/Text/Books/雪崩.md",
     "DataBase/Literature/Text/Books/四世同堂.md",
     "DataBase/Literature/Text/Books/数学之美.md",
     "DataBase/Literature/Text/Books/人间失格.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Dependency inversion principle.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Factory Method Pattern.md",
-    "Home Page.md",
-    "DataBase/Literature/Text/Books/茶馆.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/Fundamentals/Arrays In Java.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 堆.md",
     "DataBase/Literature/Text/Articles/Articles.md",
-    "DataBase/Literature/Characters/Characters.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/可见性.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Threads.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Concurrency.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Processes.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/IPC.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/应用程序启动过程.md",
-    "Work/岗位/会玩.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/线程池.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/协程.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Kotlin.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin/Kotlin 泛型.md",
-    "DataBase/Tasks/data/书籍推荐.md",
     "DataBase/Literature/Text/Articles",
     "DataBase/Knowledge/Computer/ApplicationLayer/Unity",
     "WorkDesk.canvas",
