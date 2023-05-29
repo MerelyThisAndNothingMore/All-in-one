@@ -107,7 +107,7 @@ synchronized (mWritingToDiskLock) {
 
 ## 进程安全
 
-
+由于没有使用跨进程的锁，`SharedPreferences`是进程不安全的，在跨进程频繁读写会有数据丢失的可能
 
 ## apply 导致ANR
 
@@ -116,6 +116,16 @@ synchronized (mWritingToDiskLock) {
 在`apply()`方法中，首先会创建一个等待锁，根据源码版本的不同，最终更新文件的任务会交给`QueuedWork.singleThreadExecutor()`单个线程或者`HandlerThread`去执行，当文件更新完毕后会释放锁。
 
 但当`Activity.onStop()`以及`Service`处理`onStop`等相关方法时，则会执行 `QueuedWork.waitToFinish()`等待所有的等待锁释放，因此如果`SharedPreferences`一直没有完成更新任务，有可能会导致卡在主线程，最终超时导致`ANR`。
+
+## 文件损坏 & 备份机制
+
+由于不可预知的原因（比如内核崩溃或者系统突然断电），`xml`文件的 **写操作** 异常中止，`Android`系统本身的文件系统虽然有很多保护措施，但依然会有数据丢失或者文件损坏的情况。
+
+作为设计者，如何规避这样的问题呢？答案是对文件进行备份，`SharedPreferences`的写入操作正式执行之前，首先会对文件进行备份，将初始文件重命名为增加了一个`.bak`后缀的备份文件：
+
+这之后，尝试对文件进行写入操作，写入成功时，则将备份文件删除。
+
+通过文件备份机制，我们能够保证数据只会丢失最后的更新，而之前成功保存的数据依然能够有效。
 
 # 优化方向
 -   建议在Application中初始化，重写attachBaseContext()，参数context直接传入Application对象即可。
