@@ -4,11 +4,6 @@ alias:
 ---
 前进的道路永无止境！
 
-obsidian
-
-10点
-
-
 
 ```dataviewjs
 // Render Title 

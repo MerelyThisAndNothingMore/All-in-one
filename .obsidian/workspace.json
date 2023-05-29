@@ -21,15 +21,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Literature/Text/Books/设计模式之禅.md",
-                "mode": "preview",
+                "file": "Outputs/BooksTranslation/奇想之年/第二章.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5a3222008326597",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/持久化/SharedPreferences.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -58,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:java",
+                "query": "file:share",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +96,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -114,7 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Literature/Text/Books/设计模式之禅.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/持久化/SharedPreferences.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -149,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Literature/Text/Books/设计模式之禅.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/持久化/SharedPreferences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Literature/Text/Books/设计模式之禅.md"
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/持久化/SharedPreferences.md"
               }
             }
           },
@@ -192,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Literature/Text/Books/设计模式之禅.md",
+                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/持久化/SharedPreferences.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,18 +263,25 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "56bf3ebb8ff467f7",
+  "active": "b5a3222008326597",
   "lastOpenFiles": [
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Android.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/持久化/SharedPreferences.md",
+    "DataBase/Literature/Text/Books/设计模式之禅.md",
+    "DataBase/Reality/Persons/Entertainers.md",
+    "DataBase/Reality/Persons/Entertainers/赵今麦.md",
+    "Home Page.md",
+    "DataBase/Literature/Text/Books/数学之美.md",
+    "DataBase/Literature/Text/Books/四世同堂.md",
+    "Outputs/BooksTranslation/奇想之年/第二章.md",
     "DataBase/Literature/Text/Books/Design Patterns Wiki Book.md",
     "DataBase/Literature/Text/Books/Computer Systems-A Programmer's Perspective.md",
     "DataBase/Literature/Text/Books/Capital in the twenty-First Century.md",
     "DataBase/Literature/Text/Books/Utopia(book).md",
     "DataBase/Literature/Text/Books/The Year of Magical Thinking.md",
-    "DataBase/Literature/Text/Books/设计模式之禅.md",
     "DataBase/Literature/Text/Books/Design Patterns Elements of Reusable Object-Oriented Software.md",
     "DataBase/Literature/Text/Books/Operating Systems-Three Easy Pieces.md",
     "DataBase/Literature/Text/Books/How to Read a Book.md",
-    "Home Page.md",
     "DataBase/Literature/Text/Books/茶馆.md",
     "DataBase/Literature/Characters/Characters.md",
     "DataBase/Literature/Text/Books/《权力意志》.md",
@@ -269,14 +290,7 @@
     "DataBase/Literature/Text/Books/毛主席语录.md",
     "DataBase/Literature/Text/Books/偶像的黄昏.md",
     "DataBase/Literature/Text/Books/雪崩.md",
-    "DataBase/Literature/Text/Books/四世同堂.md",
-    "DataBase/Literature/Text/Books/数学之美.md",
     "DataBase/Literature/Text/Books/人间失格.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Dependency inversion principle.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Factory Method Pattern.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/Fundamentals/Arrays In Java.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 堆.md",
-    "DataBase/Literature/Text/Articles/Articles.md",
     "DataBase/Literature/Text/Articles",
     "DataBase/Knowledge/Computer/ApplicationLayer/Unity",
     "WorkDesk.canvas",
