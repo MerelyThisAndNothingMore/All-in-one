@@ -4,50 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "851dacfae16cab15",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ed68e72366ae8d5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/AMS.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d726fe785eeccfc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity Thread.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c90c9a2014105456",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Array.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
+        "id": "6fd37e6fdcb639c5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Home Page.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": false
           }
-        ],
-        "currentTab": 2
+        }
       }
     ],
     "direction": "vertical"
@@ -76,7 +43,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:array",
+                "query": "file:a",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,7 +100,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Array.md",
+                "file": "Home Page.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -168,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Array.md",
+                "file": "Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Array.md"
+                "file": "Home Page.md"
               }
             }
           },
@@ -211,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/Array.md",
+                "file": "Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,7 +235,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c90c9a2014105456",
+  "active": "6fd37e6fdcb639c5",
   "lastOpenFiles": [
     "Home Page.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity Thread.md",
