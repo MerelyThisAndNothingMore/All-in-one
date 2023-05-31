@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Unity/Unity Hub.md",
+                "file": "DataBase/Reality/Persons/Acquaintance/沈浩然.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3bedef8915321296",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Reality/Persons/Acquaintance/古天昊.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -63,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:unity",
+                "query": "file:沈浩然",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Unity/Unity Hub.md",
+                "file": "DataBase/Reality/Persons/Acquaintance/古天昊.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -155,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Unity/Unity Hub.md",
+                "file": "DataBase/Reality/Persons/Acquaintance/古天昊.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Unity/Unity Hub.md"
+                "file": "DataBase/Reality/Persons/Acquaintance/古天昊.md"
               }
             }
           },
@@ -198,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Unity/Unity Hub.md",
+                "file": "DataBase/Reality/Persons/Acquaintance/古天昊.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,15 +268,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "bd02bf6dc6ffd892",
+  "active": "3bedef8915321296",
   "lastOpenFiles": [
-    "DataBase/Knowledge/Computer/ApplicationLayer/Unity/Unity.md",
+    "DataBase/Reality/Persons/Acquaintance/沈浩然.md",
+    "DataBase/Reality/Persons/Acquaintance/古天昊.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Unity/Unity Hub.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Unity/Unity.md",
     "DataBase/Reality/Persons/Acquaintance/Acquaintance.md",
     "DataBase/Life/Passwords.md",
     "Work/岗位/会玩.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
-    "DataBase/Reality/Persons/Acquaintance/沈浩然.md",
     "DataBase/Reality/Persons/Authors/尼采.md",
     "DataBase/Reality/Persons/Acquaintance",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/apk.md",
@@ -284,7 +298,6 @@
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/回溯/回溯.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/递归/递归.md",
     "DataBase/History/Facts/农村婚姻市场.md",
-    "DataBase/Tasks/data/面试准备.md",
     "DataBase/Literature/Text/Articles",
     "DataBase/Knowledge/Computer/ApplicationLayer/Unity",
     "WorkDesk.canvas",
