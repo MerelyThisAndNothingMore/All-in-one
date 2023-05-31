@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Reality/Persons/Acquaintance/沈浩然.md",
+                "file": "DataBase/Life/Passwords.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:尼采",
+                "query": "file:pass",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -119,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Reality/Persons/Acquaintance/沈浩然.md",
+                "file": "DataBase/Life/Passwords.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -154,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Reality/Persons/Acquaintance/沈浩然.md",
+                "file": "DataBase/Life/Passwords.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Reality/Persons/Acquaintance/沈浩然.md"
+                "file": "DataBase/Life/Passwords.md"
               }
             }
           },
@@ -197,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Reality/Persons/Acquaintance/沈浩然.md",
+                "file": "DataBase/Life/Passwords.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,8 +257,12 @@
   },
   "active": "83b21466d0efb5ec",
   "lastOpenFiles": [
-    "DataBase/Reality/Persons/Acquaintance/Acquaintance.md",
+    "Work/岗位/会玩.md",
+    "DataBase/Life/Passwords.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Unity/Unity.md",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
     "DataBase/Reality/Persons/Acquaintance/沈浩然.md",
+    "DataBase/Reality/Persons/Acquaintance/Acquaintance.md",
     "DataBase/Reality/Persons/Authors/尼采.md",
     "DataBase/Reality/Persons/Acquaintance",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/apk.md",
@@ -280,10 +285,6 @@
     "DataBase/History/Facts/农村婚姻市场.md",
     "DataBase/Tasks/data/面试准备.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity Thread.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/AMS.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/Android Gradle.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/Gradle Wrapper.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/Groovy.md",
     "DataBase/Literature/Text/Articles",
     "DataBase/Knowledge/Computer/ApplicationLayer/Unity",
     "WorkDesk.canvas",
