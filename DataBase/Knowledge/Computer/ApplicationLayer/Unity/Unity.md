@@ -4,6 +4,7 @@ alias:
 ---
 https://developer.unity.cn/projects/6446724cedbc2a001d847ef0
 
+https://github.com/XINCGer/Unity3DTraining
 
 https://juejin.cn/post/6844903556441456653
 
