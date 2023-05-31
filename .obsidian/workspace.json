@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/apk.md",
+                "file": "DataBase/Reality/Persons/Acquaintance/Acquaintance.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83b21466d0efb5ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Reality/Persons/Acquaintance/沈浩然.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:面试",
+                "query": "file:尼采",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +119,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/apk.md",
+                "file": "DataBase/Reality/Persons/Acquaintance/沈浩然.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/apk.md",
+                "file": "DataBase/Reality/Persons/Acquaintance/沈浩然.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/apk.md"
+                "file": "DataBase/Reality/Persons/Acquaintance/沈浩然.md"
               }
             }
           },
@@ -183,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/apk.md",
+                "file": "DataBase/Reality/Persons/Acquaintance/沈浩然.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,8 +254,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "858e47ed83eae8bd",
+  "active": "83b21466d0efb5ec",
   "lastOpenFiles": [
+    "DataBase/Reality/Persons/Acquaintance/Acquaintance.md",
+    "DataBase/Reality/Persons/Acquaintance/沈浩然.md",
+    "DataBase/Reality/Persons/Authors/尼采.md",
+    "DataBase/Reality/Persons/Acquaintance",
+    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/apk.md",
     "Home Page.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/持久化/持久化.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/排序.md",
@@ -265,10 +284,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/Android Gradle.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/Gradle Wrapper.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/Groovy.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/targetSDKVersion.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/apk.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/android compile.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/performance/performance.md",
     "DataBase/Literature/Text/Articles",
     "DataBase/Knowledge/Computer/ApplicationLayer/Unity",
     "WorkDesk.canvas",
@@ -279,7 +294,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile",
     "DataBase/Knowledge/Computer/BaseLayer/Network/计算机网络体系",
     "DataBase/Knowledge/Computer/ApplicationLayer/Kotlin",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/字符串匹配",
     "Resources/Images/Pasted image 20230508155739.png",
     "Resources/Images/Pasted image 20230414234101.png",
     "Outputs/NovelWriting/花下/花下大纲.canvas",
