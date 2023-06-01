@@ -21,8 +21,61 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "266d0ece7160f23a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Society/Economic/Facts/失业潮.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c4eeec3b48a9cad2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Society/Economic/Facts/人民币贬值.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec2328979ba9229e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Society/Economic/Theory/通货膨胀.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af62753210210c70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Society/Economic/Facts/汇率.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -51,7 +104,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:沈浩然",
+                "query": "file:人民币",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,8 +129,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -108,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Knowledge/Society/Economic/Facts/汇率.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -143,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Knowledge/Society/Economic/Facts/汇率.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "DataBase/Knowledge/Society/Economic/Facts/汇率.md"
               }
             }
           },
@@ -186,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Knowledge/Society/Economic/Facts/汇率.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,8 +295,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "07cbaf08759da9ee",
+  "active": "9efb66c5acbe3c31",
   "lastOpenFiles": [
+    "Home Page.md",
+    "DataBase/Knowledge/Society/Economic/Facts/汇率.md",
+    "DataBase/Knowledge/Society/Economic/Theory/劳动生产率.md",
+    "DataBase/Knowledge/Society/Economic/Theory/通货膨胀.md",
+    "DataBase/Knowledge/Society/Economic/Facts/人民币贬值.md",
+    "DataBase/Knowledge/Society/Economic/Facts/战后日本经济.md",
+    "DataBase/Knowledge/Society/Economic/Facts/失业潮.md",
+    "DataBase/Knowledge/Society/Economic/Facts/经济泡沫.md",
     "DataBase/Reality/Persons/Acquaintance/沈浩然.md",
     "DataBase/Reality/Persons/Acquaintance/古天昊.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Unity/Unity Hub.md",
@@ -256,7 +316,6 @@
     "DataBase/Reality/Persons/Authors/尼采.md",
     "DataBase/Reality/Persons/Acquaintance",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/apk.md",
-    "Home Page.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/持久化/持久化.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/排序.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/快速排序.md",
@@ -266,13 +325,6 @@
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/二叉堆.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/DataStructure/链表.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/双指针",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/贪心/贪心.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/字符串匹配/字符串匹配.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/查找/查找.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/分治/分治.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/回溯/回溯.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/递归/递归.md",
-    "DataBase/History/Facts/农村婚姻市场.md",
     "DataBase/Literature/Text/Articles",
     "DataBase/Knowledge/Computer/ApplicationLayer/Unity",
     "WorkDesk.canvas",
