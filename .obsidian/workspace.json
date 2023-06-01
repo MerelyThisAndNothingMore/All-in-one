@@ -116,9 +116,48 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "87e9dddc1ff0c866",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Society/Economic/Concepts/货币.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "022717be6b3731b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Knowledge/Society/Economic/Concepts/商品.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8edb6051259cc279",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/video/热点/人民币跌破7.1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -338,16 +377,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ceb4154a880db59f",
+  "active": "8edb6051259cc279",
   "lastOpenFiles": [
     "DataBase/Knowledge/Society/Economic/Facts/人民币贬值.md",
+    "DataBase/Knowledge/Society/Economic/Facts/汇率.md",
+    "DataBase/Knowledge/Society/Economic/Concepts/货币.md",
+    "DataBase/Knowledge/Society/Economic/Concepts/供求关系.md",
+    "DataBase/Knowledge/Society/Economic/Concepts/商品.md",
     "Outputs/video/热点/人民币跌破7.1.md",
     "Outputs/video/热点/比老无所养更难的是无老可养.md",
     "Outputs/video/杂文/蒲柳人家.md",
-    "DataBase/Knowledge/Society/Economic/Concepts/货币.md",
     "DataBase/Knowledge/Society/Economic/Concepts/通货膨胀.md",
     "DataBase/Knowledge/Society/Economic/Concepts/劳动生产率.md",
-    "DataBase/Knowledge/Society/Economic/Facts/汇率.md",
     "Home Page.md",
     "DataBase/Knowledge/Society/Economic/Facts/战后日本经济.md",
     "DataBase/Knowledge/Society/Economic/Facts/失业潮.md",
@@ -365,8 +406,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/apk.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/持久化/持久化.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/排序.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/快速排序.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/双指针/双指针 数组.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/双指针",
     "DataBase/Literature/Text/Articles",
     "DataBase/Knowledge/Computer/ApplicationLayer/Unity",
