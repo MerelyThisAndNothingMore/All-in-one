@@ -41,7 +41,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Literature/Text/Books/哲学的故事.md",
+                "file": "DataBase/Reality/Persons/Authors/威尔·杜兰特.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f7e9eb2fd1e4188c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Reality/Persons/Authors/保罗·萨缪尔森.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -147,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Literature/Text/Books/哲学的故事.md",
+                "file": "DataBase/Reality/Persons/Authors/保罗·萨缪尔森.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -182,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Literature/Text/Books/哲学的故事.md",
+                "file": "DataBase/Reality/Persons/Authors/保罗·萨缪尔森.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Literature/Text/Books/哲学的故事.md"
+                "file": "DataBase/Reality/Persons/Authors/保罗·萨缪尔森.md"
               }
             }
           },
@@ -225,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Literature/Text/Books/哲学的故事.md",
+                "file": "DataBase/Reality/Persons/Authors/保罗·萨缪尔森.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,12 +295,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4290ff65672e773a",
+  "active": "f7e9eb2fd1e4188c",
   "lastOpenFiles": [
+    "DataBase/Reality/Persons/Authors/威尔·杜兰特.md",
+    "DataBase/Reality/Persons/Authors/保罗·萨缪尔森.md",
+    "DataBase/Literature/Text/Books/哲学的故事.md",
     "DataBase/Literature/Text/Books/战后日本经济史.md",
     "DataBase/Reality/Persons/Authors/野口悠纪雄.md",
-    "DataBase/Reality/Persons/Authors/威尔·杜兰特.md",
-    "DataBase/Literature/Text/Books/哲学的故事.md",
     "DataBase/Literature/Text/Books/雪崩.md",
     "DataBase/Literature/Text/Books/设计模式之禅.md",
     "DataBase/Literature/Text/Books.md",
@@ -309,7 +323,6 @@
     "DataBase/Reality/Persons/Acquaintance/沈浩然.md",
     "DataBase/Reality/Persons/Acquaintance/古天昊.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Unity/Unity Hub.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Unity/Unity.md",
     "DataBase/Reality/Persons/Acquaintance",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/双指针",
     "DataBase/Literature/Text/Articles",
