@@ -21,8 +21,48 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "ea41de00dc427127",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Literature/Text/Books/雪崩.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4290ff65672e773a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Literature/Text/Books/哲学的故事.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e4f81248385a9de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Reality/Persons/Authors/威尔·杜兰特.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -51,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:人民币",
+                "query": "file:book",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Literature/Text/Books/哲学的故事.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -142,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Literature/Text/Books/哲学的故事.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "DataBase/Literature/Text/Books/哲学的故事.md"
               }
             }
           },
@@ -185,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Literature/Text/Books/哲学的故事.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,8 +282,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "65327cdce72124d5",
+  "active": "4290ff65672e773a",
   "lastOpenFiles": [
+    "DataBase/Literature/Text/Books/战后日本经济史.md",
+    "DataBase/Reality/Persons/Authors/野口悠纪雄.md",
+    "DataBase/Reality/Persons/Authors/威尔·杜兰特.md",
+    "DataBase/Literature/Text/Books/哲学的故事.md",
+    "DataBase/Literature/Text/Books/雪崩.md",
+    "DataBase/Literature/Text/Books/设计模式之禅.md",
+    "DataBase/Literature/Text/Books.md",
+    "DataBase/Reality/Places/Administrative regions/芦苇溪改善区.md",
+    "Home Page.md",
     "DataBase/Knowledge/Society/Economic/Facts/人民币贬值.md",
     "DataBase/Knowledge/Society/Economic/Facts/汇率.md",
     "DataBase/Knowledge/Society/Economic/Concepts/货币.md",
@@ -254,7 +303,6 @@
     "Outputs/video/杂文/蒲柳人家.md",
     "DataBase/Knowledge/Society/Economic/Concepts/通货膨胀.md",
     "DataBase/Knowledge/Society/Economic/Concepts/劳动生产率.md",
-    "Home Page.md",
     "DataBase/Knowledge/Society/Economic/Facts/战后日本经济.md",
     "DataBase/Knowledge/Society/Economic/Facts/失业潮.md",
     "DataBase/Knowledge/Society/Economic/Facts/经济泡沫.md",
@@ -262,15 +310,7 @@
     "DataBase/Reality/Persons/Acquaintance/古天昊.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Unity/Unity Hub.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Unity/Unity.md",
-    "DataBase/Reality/Persons/Acquaintance/Acquaintance.md",
-    "DataBase/Life/Passwords.md",
-    "Work/岗位/会玩.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Binder.md",
-    "DataBase/Reality/Persons/Authors/尼采.md",
     "DataBase/Reality/Persons/Acquaintance",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/android compile/apk.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Android/持久化/持久化.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/排序.md",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/双指针",
     "DataBase/Literature/Text/Articles",
     "DataBase/Knowledge/Computer/ApplicationLayer/Unity",
