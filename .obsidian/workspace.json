@@ -28,7 +28,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Knowledge/Society/Economic/Facts/汇率.md",
+                "file": "Outputs/video/苏联笑话/五分钟从苏联跑到美国.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "450dfc6901065e13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/video/苏联笑话/这就是原因所在.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9dc7c7c29915c0a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/video/苏联笑话/我认出你来了.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -36,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -65,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:汇率",
+                "query": "file:苏联",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,8 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5,
-    "collapsed": true
+    "width": 301.5
   },
   "right": {
     "id": "5686aed80dfb294e",
@@ -122,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Society/Economic/Facts/汇率.md",
+                "file": "Outputs/video/苏联笑话/我认出你来了.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -157,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Society/Economic/Facts/汇率.md",
+                "file": "Outputs/video/苏联笑话/我认出你来了.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Society/Economic/Facts/汇率.md"
+                "file": "Outputs/video/苏联笑话/我认出你来了.md"
               }
             }
           },
@@ -200,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Society/Economic/Facts/汇率.md",
+                "file": "Outputs/video/苏联笑话/我认出你来了.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,8 +282,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "04ae8892913d5d85",
+  "active": "9dc7c7c29915c0a2",
   "lastOpenFiles": [
+    "Outputs/video/苏联笑话/这就是原因所在.md",
+    "Outputs/video/苏联笑话/我认出你来了.md",
+    "Outputs/video/苏联笑话/五分钟从苏联跑到美国.md",
+    "Outputs/video/苏联笑话/工人各尽所能.md",
+    "Outputs/video/苏联笑话/连子弹也没有.md",
+    "Outputs/video/苏联笑话/那他们就得跟你走.md",
+    "Outputs/video/苏联笑话/伊万他住我家隔壁.md",
+    "DataBase/Knowledge/Society/Economic/Facts/汇率.md",
     "Home Page.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Unity/Unity Api/User Event/User Event.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Unity/Unity Api/User Event/Mouse Click.md",
@@ -280,14 +313,6 @@
     "DataBase/Literature/Text/Books.md",
     "DataBase/Reality/Places/Administrative regions/芦苇溪改善区.md",
     "DataBase/Knowledge/Society/Economic/Facts/人民币贬值.md",
-    "DataBase/Knowledge/Society/Economic/Facts/汇率.md",
-    "DataBase/Knowledge/Society/Economic/Concepts/货币.md",
-    "DataBase/Knowledge/Society/Economic/Concepts/供求关系.md",
-    "DataBase/Knowledge/Society/Economic/Concepts/商品.md",
-    "Outputs/video/热点/人民币跌破7.1.md",
-    "Outputs/video/热点/比老无所养更难的是无老可养.md",
-    "Outputs/video/杂文/蒲柳人家.md",
-    "DataBase/Knowledge/Society/Economic/Concepts/通货膨胀.md",
     "DataBase/Reality/Persons/Acquaintance",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/双指针",
     "DataBase/Literature/Text/Articles",
