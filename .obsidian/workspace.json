@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8cd3549971613ea2",
+        "id": "945a5aae694e91ba",
         "type": "tabs",
         "children": [
           {
-            "id": "65327cdce72124d5",
+            "id": "3b7daaff88a85dfd",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,74 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "ea41de00dc427127",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Literature/Text/Books/雪崩.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4290ff65672e773a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/GameDevelop/案例/案例.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "282a794555387880",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Unity/Unity Api/User Event/User Event.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa7dbb8a2cc6cea6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Unity/Unity Api/User Event/Mouse Click.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9e4f81248385a9de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Reality/Persons/Authors/威尔·杜兰特.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,7 +107,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Unity/Unity Api/User Event/Mouse Click.md",
+                "file": "Home Page.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -208,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Unity/Unity Api/User Event/Mouse Click.md",
+                "file": "Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Unity/Unity Api/User Event/Mouse Click.md"
+                "file": "Home Page.md"
               }
             }
           },
@@ -251,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Knowledge/Computer/ApplicationLayer/Unity/Unity Api/User Event/Mouse Click.md",
+                "file": "Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -308,7 +242,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fa7dbb8a2cc6cea6",
+  "active": "3b7daaff88a85dfd",
   "lastOpenFiles": [
     "DataBase/Knowledge/Computer/ApplicationLayer/Unity/Unity Api/User Event/User Event.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Unity/Unity Api/User Event/Mouse Click.md",
