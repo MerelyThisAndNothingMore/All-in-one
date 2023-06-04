@@ -15,11 +15,24 @@
               "type": "markdown",
               "state": {
                 "file": "Home Page.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "pinned": true
+            }
+          },
+          {
+            "id": "8e691932c1e29a78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Reality/Persons/Officials/徐其耀.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -242,8 +255,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9efb66c5acbe3c31",
+  "active": "1bcd212aed3ce553",
   "lastOpenFiles": [
+    "DataBase/Reality/Persons/Officials/徐其耀.md",
+    "DataBase/Reality/Persons/Acquaintance/Acquaintance.md",
+    "Home Page.md",
     "Outputs/video/苏联笑话/伊万他住我家隔壁.md",
     "Outputs/video/苏联笑话/五分钟从苏联跑到美国.md",
     "Outputs/video/苏联笑话/我只好勒死她.md",
@@ -256,7 +272,6 @@
     "Outputs/video/苏联笑话/给猫下芥末.md",
     "Outputs/video/苏联笑话/这就是原因所在.md",
     "DataBase/Knowledge/Society/Economic/Facts/汇率.md",
-    "Home Page.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Unity/Unity Api/User Event/User Event.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Unity/Unity Api/User Event/Mouse Click.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Unity/Unity Api/Unity Api.md",
@@ -271,8 +286,6 @@
     "DataBase/Reality/Persons/Authors/保罗·萨缪尔森.md",
     "DataBase/Literature/Text/Books/哲学的故事.md",
     "DataBase/Literature/Text/Books/战后日本经济史.md",
-    "DataBase/Reality/Persons/Authors/野口悠纪雄.md",
-    "DataBase/Literature/Text/Books/雪崩.md",
     "DataBase/Reality/Persons/Acquaintance",
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/双指针",
     "DataBase/Literature/Text/Articles",
