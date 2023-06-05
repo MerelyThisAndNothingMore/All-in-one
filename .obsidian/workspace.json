@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6d3b188babf378c4",
+        "id": "5b3d35b6c8d5b54d",
         "type": "tabs",
         "children": [
           {
-            "id": "b94d91c289676d86",
+            "id": "ea4dc62d69d65c70",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,76 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "fce4a5589bbe3ab3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/杂文/系列电影.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68ea12bebc514483",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Reality/Persons/Authors/李白.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e67fe173a88c6f86",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/杂文/游西湖记.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "d6530476487dd6bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Tasks/data/230605杭州.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "406fd95408c9ea0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/杂文/游西湖记.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,7 +107,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Outputs/video/杂文/游西湖记.md",
+                "file": "Home Page.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -210,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Outputs/video/杂文/游西湖记.md",
+                "file": "Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Outputs/video/杂文/游西湖记.md"
+                "file": "Home Page.md"
               }
             }
           },
@@ -253,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Outputs/video/杂文/游西湖记.md",
+                "file": "Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -310,7 +242,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "406fd95408c9ea0b",
+  "active": "ea4dc62d69d65c70",
   "lastOpenFiles": [
     "DataBase/Tasks/data/230606绍兴.md",
     "DataBase/Tasks/data/230605杭州.md",
