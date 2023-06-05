@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4b54e38619f5f66f",
+        "id": "6d3b188babf378c4",
         "type": "tabs",
         "children": [
           {
-            "id": "169d7976c2ca4f6f",
+            "id": "b94d91c289676d86",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,8 +21,35 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "fce4a5589bbe3ab3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/video/杂文/系列电影.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "68ea12bebc514483",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/video/杂文/Untitled.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -51,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:2306",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,8 +103,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -108,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home Page.md",
+                "file": "Outputs/video/杂文/Untitled.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -143,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "Outputs/video/杂文/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "Outputs/video/杂文/Untitled.md"
               }
             }
           },
@@ -186,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "Outputs/video/杂文/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,11 +269,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5e5fea182599fa5c",
+  "active": "68ea12bebc514483",
   "lastOpenFiles": [
+    "Outputs/video/杂文/系列电影.md",
+    "Outputs/video/杂文/Untitled.md",
+    "Home Page.md",
     "DataBase/Tasks/data/付费直播-直播间内创建预售门票.md",
     "DataBase/Tasks/data/230605杭州.md",
-    "Home Page.md",
     "DataBase/Literature/Concepts/Concepts.md",
     "DataBase/Literature/Characters/Characters.md",
     "DataBase/Literature/Text/Articles/百家姓.md",
@@ -270,8 +298,6 @@
     "Outputs/video/苏联笑话/给猫下芥末.md",
     "Outputs/video/苏联笑话/这就是原因所在.md",
     "DataBase/Knowledge/Society/Economic/Facts/汇率.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Unity/Unity Api/User Event/User Event.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Unity/Unity Api/User Event/Mouse Click.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Unity/Unity Api/User Event",
     "DataBase/Knowledge/Computer/ApplicationLayer/Unity/Unity Api",
     "Outputs/GameDevelop/案例",
