@@ -82,7 +82,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Tasks/data/230606绍兴.md",
+                "file": "Outputs/video/杂文/游西湖记.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -175,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Tasks/data/230606绍兴.md",
+                "file": "Outputs/video/杂文/游西湖记.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -210,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Tasks/data/230606绍兴.md",
+                "file": "Outputs/video/杂文/游西湖记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Tasks/data/230606绍兴.md"
+                "file": "Outputs/video/杂文/游西湖记.md"
               }
             }
           },
@@ -253,7 +253,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Tasks/data/230606绍兴.md",
+                "file": "Outputs/video/杂文/游西湖记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -312,8 +312,8 @@
   },
   "active": "406fd95408c9ea0b",
   "lastOpenFiles": [
-    "DataBase/Tasks/data/230605杭州.md",
     "DataBase/Tasks/data/230606绍兴.md",
+    "DataBase/Tasks/data/230605杭州.md",
     "Outputs/video/杂文/游西湖记.md",
     "DataBase/Reality/Persons/Authors/王安石.md",
     "DataBase/Reality/Persons/Authors/李白.md",
