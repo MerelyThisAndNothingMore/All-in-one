@@ -41,7 +41,48 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Outputs/video/杂文/Untitled.md",
+                "file": "DataBase/Reality/Persons/Authors/李白.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e67fe173a88c6f86",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/video/杂文/游西湖记.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "d6530476487dd6bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Tasks/data/230605杭州.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "406fd95408c9ea0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Tasks/data/230606绍兴.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -78,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:2306",
+                "query": "李白",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Outputs/video/杂文/Untitled.md",
+                "file": "DataBase/Tasks/data/230606绍兴.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -169,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Outputs/video/杂文/Untitled.md",
+                "file": "DataBase/Tasks/data/230606绍兴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Outputs/video/杂文/Untitled.md"
+                "file": "DataBase/Tasks/data/230606绍兴.md"
               }
             }
           },
@@ -212,7 +253,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Outputs/video/杂文/Untitled.md",
+                "file": "DataBase/Tasks/data/230606绍兴.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,13 +310,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "68ea12bebc514483",
+  "active": "406fd95408c9ea0b",
   "lastOpenFiles": [
+    "DataBase/Tasks/data/230605杭州.md",
+    "DataBase/Tasks/data/230606绍兴.md",
+    "Outputs/video/杂文/游西湖记.md",
+    "DataBase/Reality/Persons/Authors/王安石.md",
+    "DataBase/Reality/Persons/Authors/李白.md",
+    "DataBase/Literature/Text/Poem/古典诗/侠客行.md",
     "Outputs/video/杂文/系列电影.md",
-    "Outputs/video/杂文/Untitled.md",
     "Home Page.md",
     "DataBase/Tasks/data/付费直播-直播间内创建预售门票.md",
-    "DataBase/Tasks/data/230605杭州.md",
     "DataBase/Literature/Concepts/Concepts.md",
     "DataBase/Literature/Characters/Characters.md",
     "DataBase/Literature/Text/Articles/百家姓.md",
@@ -294,10 +339,6 @@
     "Outputs/video/苏联笑话/那他们就得跟你走.md",
     "Outputs/video/苏联笑话/猫是大象的祖先.md",
     "Outputs/video/苏联笑话/连子弹也没有.md",
-    "Outputs/video/苏联笑话/工人各尽所能.md",
-    "Outputs/video/苏联笑话/给猫下芥末.md",
-    "Outputs/video/苏联笑话/这就是原因所在.md",
-    "DataBase/Knowledge/Society/Economic/Facts/汇率.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Unity/Unity Api/User Event",
     "DataBase/Knowledge/Computer/ApplicationLayer/Unity/Unity Api",
     "Outputs/GameDevelop/案例",
