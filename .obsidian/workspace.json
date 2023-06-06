@@ -21,8 +21,35 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "0d26018ff142a87c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/video/杂文/谈生命.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a4efaec9c754038",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/video/杂文/高考祝愿.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home Page.md",
+                "file": "Outputs/video/杂文/高考祝愿.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -142,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "Outputs/video/杂文/高考祝愿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "Outputs/video/杂文/高考祝愿.md"
               }
             }
           },
@@ -185,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "Outputs/video/杂文/高考祝愿.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,8 +269,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "059751d4840749d4",
+  "active": "7a4efaec9c754038",
   "lastOpenFiles": [
+    "Resources/Images/65058AB0.png",
+    "Outputs/video/杂文/谈生命.md",
+    "Outputs/video/杂文/高考祝愿.md",
+    "Home Page.md",
     "DataBase/Tasks/data/230606绍兴.md",
     "DataBase/Tasks/data/230605杭州.md",
     "Outputs/video/杂文/游西湖记.md",
@@ -251,7 +282,6 @@
     "DataBase/Reality/Persons/Authors/李白.md",
     "DataBase/Literature/Text/Poem/古典诗/侠客行.md",
     "Outputs/video/杂文/系列电影.md",
-    "Home Page.md",
     "DataBase/Tasks/data/付费直播-直播间内创建预售门票.md",
     "DataBase/Literature/Concepts/Concepts.md",
     "DataBase/Literature/Characters/Characters.md",
@@ -268,9 +298,6 @@
     "Outputs/video/苏联笑话/我只好勒死她.md",
     "Outputs/video/苏联笑话/请您赶快坐到主席台上来.md",
     "Outputs/video/苏联笑话/我认出你来了.md",
-    "Outputs/video/苏联笑话/那他们就得跟你走.md",
-    "Outputs/video/苏联笑话/猫是大象的祖先.md",
-    "Outputs/video/苏联笑话/连子弹也没有.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Unity/Unity Api/User Event",
     "DataBase/Knowledge/Computer/ApplicationLayer/Unity/Unity Api",
     "Outputs/GameDevelop/案例",
