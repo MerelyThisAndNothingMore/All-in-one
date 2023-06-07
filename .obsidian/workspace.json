@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b34bdfc5c39386ba",
+        "id": "55cbaa9ce2815d6a",
         "type": "tabs",
         "children": [
           {
-            "id": "059751d4840749d4",
+            "id": "3cde8c50e45d607a",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,33 +23,20 @@
             }
           },
           {
-            "id": "0d26018ff142a87c",
+            "id": "5284ad47598841de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Outputs/video/杂文/谈生命.md",
+                "file": "Outputs/video/苏联笑话/那他们就得跟你走.md",
                 "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a4efaec9c754038",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/杂文/高考祝愿.md",
-                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +121,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Outputs/video/杂文/高考祝愿.md",
+                "file": "Outputs/video/苏联笑话/那他们就得跟你走.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -169,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Outputs/video/杂文/高考祝愿.md",
+                "file": "Outputs/video/苏联笑话/那他们就得跟你走.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Outputs/video/杂文/高考祝愿.md"
+                "file": "Outputs/video/苏联笑话/那他们就得跟你走.md"
               }
             }
           },
@@ -212,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Outputs/video/杂文/高考祝愿.md",
+                "file": "Outputs/video/苏联笑话/那他们就得跟你走.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,12 +256,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7a4efaec9c754038",
+  "active": "5284ad47598841de",
   "lastOpenFiles": [
+    "Outputs/video/苏联笑话/猫是大象的祖先.md",
+    "Outputs/video/苏联笑话/那他们就得跟你走.md",
+    "Outputs/video/苏联笑话/请您赶快坐到主席台上来.md",
+    "Outputs/video/苏联笑话/我认出你来了.md",
+    "Outputs/video/苏联笑话/我只好勒死她.md",
+    "Outputs/video/苏联笑话/伊万他住我家隔壁.md",
+    "Home Page.md",
     "Resources/Images/65058AB0.png",
     "Outputs/video/杂文/谈生命.md",
     "Outputs/video/杂文/高考祝愿.md",
-    "Home Page.md",
     "DataBase/Tasks/data/230606绍兴.md",
     "DataBase/Tasks/data/230605杭州.md",
     "Outputs/video/杂文/游西湖记.md",
@@ -293,11 +286,6 @@
     "DataBase/Literature/Concepts",
     "DataBase/Reality/Persons/Officials/徐其耀.md",
     "DataBase/Reality/Persons/Acquaintance/Acquaintance.md",
-    "Outputs/video/苏联笑话/伊万他住我家隔壁.md",
-    "Outputs/video/苏联笑话/五分钟从苏联跑到美国.md",
-    "Outputs/video/苏联笑话/我只好勒死她.md",
-    "Outputs/video/苏联笑话/请您赶快坐到主席台上来.md",
-    "Outputs/video/苏联笑话/我认出你来了.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Unity/Unity Api/User Event",
     "DataBase/Knowledge/Computer/ApplicationLayer/Unity/Unity Api",
     "Outputs/GameDevelop/案例",
