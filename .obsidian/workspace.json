@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ae7d05a3af754c00",
+        "id": "626eea3fc0acea37",
         "type": "tabs",
         "children": [
           {
-            "id": "6f767fe0dbb698c2",
+            "id": "a556481a05889b01",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "passwor",
+                "query": "password",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -243,8 +243,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5e5fea182599fa5c",
+  "active": "a556481a05889b01",
   "lastOpenFiles": [
+    "Home Page.md",
     "DataBase/Literature/Text/Books/Refactoring-Improving the Design of Existing Code.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Object.md",
     "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Compile.md",
@@ -270,7 +271,6 @@
     "Outputs/video/苏联笑话/工人各尽所能.md",
     "Outputs/video/苏联笑话/这就是原因所在.md",
     "Outputs/video/苏联笑话/伊万他住我家隔壁.md",
-    "Outputs/video/苏联笑话/五分钟从苏联跑到美国.md",
     "Resources/Images/65058AB0.png",
     "DataBase/Literature/Concepts",
     "DataBase/Knowledge/Computer/ApplicationLayer/Unity/Unity Api/User Event",
