@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "626eea3fc0acea37",
+        "id": "b9a8ef94a6f34dc5",
         "type": "tabs",
         "children": [
           {
-            "id": "a556481a05889b01",
+            "id": "9c36c9feba74923d",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "password",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -243,8 +243,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a556481a05889b01",
+  "active": "9c36c9feba74923d",
   "lastOpenFiles": [
+    "DataBase/Life/Passwords.md",
+    "WorkDesk.canvas",
     "Home Page.md",
     "DataBase/Literature/Text/Books/Refactoring-Improving the Design of Existing Code.md",
     "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Object.md",
@@ -270,7 +272,6 @@
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/字符串匹配/KMP.md",
     "Outputs/video/苏联笑话/工人各尽所能.md",
     "Outputs/video/苏联笑话/这就是原因所在.md",
-    "Outputs/video/苏联笑话/伊万他住我家隔壁.md",
     "Resources/Images/65058AB0.png",
     "DataBase/Literature/Concepts",
     "DataBase/Knowledge/Computer/ApplicationLayer/Unity/Unity Api/User Event",
@@ -280,7 +281,6 @@
     "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/双指针",
     "DataBase/Literature/Text/Articles",
     "DataBase/Knowledge/Computer/ApplicationLayer/Unity",
-    "WorkDesk.canvas",
     "DataBase/Knowledge/Computer/BaseLayer/Network/NetworkSecurity",
     "Outputs/video/Films",
     "Resources/Images/Hardware Organization.png",
