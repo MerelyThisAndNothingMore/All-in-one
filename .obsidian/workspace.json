@@ -54,7 +54,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Reality/Persons/Acquaintance/彭章伟.md",
+                "file": "DataBase/Literature/Music/Classic/Classic.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80024c465a4e69e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Literature/Music/Classic/蓝色多瑙河.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -91,7 +104,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "沈浩然",
+                "query": "song",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Reality/Persons/Acquaintance/彭章伟.md",
+                "file": "DataBase/Literature/Music/Classic/蓝色多瑙河.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -182,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Reality/Persons/Acquaintance/彭章伟.md",
+                "file": "DataBase/Literature/Music/Classic/蓝色多瑙河.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Reality/Persons/Acquaintance/彭章伟.md"
+                "file": "DataBase/Literature/Music/Classic/蓝色多瑙河.md"
               }
             }
           },
@@ -225,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Reality/Persons/Acquaintance/彭章伟.md",
+                "file": "DataBase/Literature/Music/Classic/蓝色多瑙河.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,15 +295,24 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "620b4a5553af17b0",
+  "active": "80024c465a4e69e9",
   "lastOpenFiles": [
-    "DataBase/Reality/Persons/Acquaintance/晏秋豪.md",
+    "DataBase/Literature/Music/Classic/Classic.md",
+    "DataBase/Literature/Music/Classic/蓝色多瑙河.md",
+    "DataBase/Literature/Music/Songs/明天会更好.md",
+    "DataBase/Literature/Music/Classic",
+    "Outputs/video/苏联笑话/你是用什么办法让这么多人来欢迎我的？.md",
+    "Outputs/video/苏联笑话/登月.md",
+    "Outputs/video/热点/马斯克卸任TwitterCEO.md",
+    "Outputs/video/热点/骨灰漂流瓶.md",
+    "Outputs/video/热点/520过去了，结婚率符合预期.md",
+    "Outputs/video/热点/比老无所养更难的是无老可养.md",
+    "Outputs/video/热点/人民币跌破7.1.md",
     "DataBase/Reality/Persons/Acquaintance/彭章伟.md",
+    "DataBase/Reality/Persons/Acquaintance/晏秋豪.md",
     "DataBase/Reality/Persons/Acquaintance/沈浩然.md",
     "Outputs/video/苏联笑话/伊万他住我家隔壁.md",
     "Home Page.md",
-    "Outputs/video/苏联笑话/登月.md",
-    "Outputs/video/苏联笑话/罚款5卢布.md",
     "Outputs/video/苏联笑话/给猫下芥末.md",
     "Outputs/video/苏联笑话/工人各尽所能.md",
     "Outputs/video/苏联笑话/快乐建立在痛苦之上.md",
@@ -302,15 +324,7 @@
     "Outputs/video/苏联笑话/我认出你来了.md",
     "Outputs/video/苏联笑话/我只好勒死她.md",
     "Outputs/video/苏联笑话/五分钟从苏联跑到美国.md",
-    "Outputs/video/苏联笑话/这就是原因所在.md",
-    "Outputs/video/苏联笑话/又香又甜又脆的爆米花.md",
-    "DataBase/Life/Passwords.md",
     "WorkDesk.canvas",
-    "DataBase/Literature/Text/Books/Refactoring-Improving the Design of Existing Code.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Object.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Computer Architecture/Compile.md",
-    "DataBase/Knowledge/NaturalScience/ApplicationLayer/Geography/Facts/欧亚大陆板块.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Coding/C programing language.md",
     "Resources/Images/65058AB0.png",
     "DataBase/Literature/Concepts",
     "DataBase/Knowledge/Computer/ApplicationLayer/Unity/Unity Api/User Event",
@@ -321,7 +335,6 @@
     "DataBase/Literature/Text/Articles",
     "DataBase/Knowledge/Computer/ApplicationLayer/Unity",
     "DataBase/Knowledge/Computer/BaseLayer/Network/NetworkSecurity",
-    "Outputs/video/Films",
     "Resources/Images/Hardware Organization.png",
     "Resources/Images/Pasted image 20230508155739.png",
     "Resources/Images/Pasted image 20230414234101.png",
