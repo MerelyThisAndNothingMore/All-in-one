@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b9a8ef94a6f34dc5",
+        "id": "cff0fe1400761e0d",
         "type": "tabs",
         "children": [
           {
-            "id": "9c36c9feba74923d",
+            "id": "f8d475f6bfc4ec3c",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,87 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "b1e0322625324deb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/猫是大象的祖先.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f07ef019ab29f509",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/他什么时候也没上过学校.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da1b4c214d7d99a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/罚款5卢布.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99a90b865be1d9ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/爆米花.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac083bdc5681cf4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/登月.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0442724affe6d678",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/爆米花.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,7 +107,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Outputs/video/苏联笑话/爆米花.md",
+                "file": "Home Page.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -221,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Outputs/video/苏联笑话/爆米花.md",
+                "file": "Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Outputs/video/苏联笑话/爆米花.md"
+                "file": "Home Page.md"
               }
             }
           },
@@ -264,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Outputs/video/苏联笑话/爆米花.md",
+                "file": "Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -321,14 +242,24 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0442724affe6d678",
+  "active": "f8d475f6bfc4ec3c",
   "lastOpenFiles": [
-    "Outputs/video/苏联笑话/快乐建立在痛苦之上.md",
     "Outputs/video/苏联笑话/登月.md",
-    "Outputs/video/苏联笑话/爆米花.md",
     "Outputs/video/苏联笑话/罚款5卢布.md",
-    "Outputs/video/苏联笑话/他什么时候也没上过学校.md",
+    "Outputs/video/苏联笑话/给猫下芥末.md",
+    "Outputs/video/苏联笑话/工人各尽所能.md",
+    "Outputs/video/苏联笑话/快乐建立在痛苦之上.md",
+    "Outputs/video/苏联笑话/连子弹也没有.md",
     "Outputs/video/苏联笑话/猫是大象的祖先.md",
+    "Outputs/video/苏联笑话/那他们就得跟你走.md",
+    "Outputs/video/苏联笑话/请您赶快坐到主席台上来.md",
+    "Outputs/video/苏联笑话/他什么时候也没上过学校.md",
+    "Outputs/video/苏联笑话/我认出你来了.md",
+    "Outputs/video/苏联笑话/我只好勒死她.md",
+    "Outputs/video/苏联笑话/五分钟从苏联跑到美国.md",
+    "Outputs/video/苏联笑话/伊万他住我家隔壁.md",
+    "Outputs/video/苏联笑话/这就是原因所在.md",
+    "Outputs/video/苏联笑话/又香又甜又脆的爆米花.md",
     "Home Page.md",
     "DataBase/Life/Passwords.md",
     "WorkDesk.canvas",
@@ -340,16 +271,6 @@
     "Outputs/video/热点/比老无所养更难的是无老可养.md",
     "DataBase/Literature/Games/最终幻想VII.md",
     "DataBase/Knowledge/Computer/ApplicationLayer/Android/Framework/Activity/Activity 数据传递.md",
-    "DataBase/Reality/Persons/Scientists/Albert Einstein.md",
-    "DataBase/Life/diary/2023-02-20.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/MultiThread/Untitled.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/动态加载.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/排序/简单选择排序.md",
-    "DataBase/Life/diary/2023-02-14.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Chain of responsibility.md",
-    "DataBase/Knowledge/Computer/ApplicationLayer/java/JVM/Java 堆.md",
-    "DataBase/Literature/Text/Books/哲学的故事.md",
-    "DataBase/Knowledge/Computer/BaseLayer/Software Engineering/Design Patterns/Flyweight Pattern.md",
     "Resources/Images/65058AB0.png",
     "DataBase/Literature/Concepts",
     "DataBase/Knowledge/Computer/ApplicationLayer/Unity/Unity Api/User Event",
