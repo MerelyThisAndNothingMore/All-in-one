@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "631b8b651acd8a78",
+        "id": "39edf3d7732f5ae3",
         "type": "tabs",
         "children": [
           {
-            "id": "f5b790296e431db7",
+            "id": "27c72f044b281a72",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,267 +23,20 @@
             }
           },
           {
-            "id": "07cd8af681077e20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/这就是原因所在.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "714191f9c924052a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/我是刚下夜班回家的.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45918d5928071575",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/放开我，混蛋，我还有老婆孩子啊.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f9b1d60e0021d959",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/哪一个差劲我会不知道吗？.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29a5bdb530e4bf77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/他能不能把苏联也赶跑啊.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f4e6639e10b8e9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/为了社会主义大家庭.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "badc7a3a6ce600b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/暂时就是比永久少一天.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7b887c00c50df86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/尼基塔在胡说八道.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "85edf41506196a2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/尼基塔在胡说八道.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e15b9ada8678ac31",
+            "id": "2420e3a81e80ef27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Outputs/video/苏联笑话/等着揍赫鲁晓夫.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f5150271a51147d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/苏联-大象的祖国.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2def74f45541dbfc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/正在阅读普希金作品的斯大林同志.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf0d297381e49143",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/等着揍赫鲁晓夫.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e42220316608832f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/放开我，混蛋，我还有老婆孩子啊.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33b070ea1e8335a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/你会连一百卢布都不舍得么？.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c814d1c908b2782",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/回答.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "504e30a2e7f0e67b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/鹦鹉丢了.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d2060a7691179ed5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/威力竟然比坦克还大.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a470eb37e471245",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/别在这儿妨碍别人工作.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "87922cc636771e89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/别在这儿妨碍别人工作.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 20
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -312,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "恋上",
+                "query": "波兰",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -368,7 +121,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Outputs/video/苏联笑话/别在这儿妨碍别人工作.md",
+                "file": "Outputs/video/苏联笑话/等着揍赫鲁晓夫.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -403,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Outputs/video/苏联笑话/别在这儿妨碍别人工作.md",
+                "file": "Outputs/video/苏联笑话/等着揍赫鲁晓夫.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -420,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Outputs/video/苏联笑话/别在这儿妨碍别人工作.md"
+                "file": "Outputs/video/苏联笑话/等着揍赫鲁晓夫.md"
               }
             }
           },
@@ -446,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Outputs/video/苏联笑话/别在这儿妨碍别人工作.md",
+                "file": "Outputs/video/苏联笑话/等着揍赫鲁晓夫.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -503,34 +256,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9efb66c5acbe3c31",
+  "active": "2420e3a81e80ef27",
   "lastOpenFiles": [
-    "Outputs/video/苏联笑话/世界上哪个国家最长.md",
+    "Outputs/video/苏联笑话/登月.md",
+    "Outputs/video/苏联笑话/勃列日涅夫同志在波兰.md",
     "Outputs/video/苏联笑话/别在这儿妨碍别人工作.md",
+    "Home Page.md",
+    "Outputs/video/苏联笑话/等着揍赫鲁晓夫.md",
+    "Outputs/video/苏联笑话/放开我，混蛋，我还有老婆孩子啊.md",
+    "Outputs/video/苏联笑话/世界上哪个国家最长.md",
     "Outputs/video/苏联笑话/威力竟然比坦克还大.md",
     "Outputs/video/苏联笑话/鹦鹉丢了.md",
     "Outputs/video/苏联笑话/回答.md",
     "Outputs/video/苏联笑话/你会连一百卢布都不舍得么？.md",
-    "Outputs/video/苏联笑话/放开我，混蛋，我还有老婆孩子啊.md",
     "Outputs/video/苏联笑话/你不害怕红军回来吗？.md",
-    "Outputs/video/苏联笑话/等着揍赫鲁晓夫.md",
     "Outputs/video/苏联笑话/我现在在西德.md",
     "Outputs/video/苏联笑话/正在阅读普希金作品的斯大林同志.md",
     "Outputs/video/苏联笑话/苏联-大象的祖国.md",
     "Outputs/video/苏联笑话/尼基塔在胡说八道.md",
     "Outputs/video/苏联笑话/这就是原因所在.md",
     "DataBase/Reality/Websites/恋上数据结构和算法.md",
-    "Home Page.md",
     "Outputs/video/苏联笑话/暂时就是比永久少一天.md",
     "Outputs/video/苏联笑话/为了社会主义大家庭.md",
     "Outputs/video/苏联笑话/他能不能把苏联也赶跑啊.md",
     "Outputs/video/苏联笑话/哪一个差劲我会不知道吗？.md",
     "Outputs/video/苏联笑话/我是刚下夜班回家的.md",
-    "Outputs/video/苏联笑话/登月.md",
     "Outputs/video/苏联笑话/给猫下芥末.md",
     "Outputs/video/苏联笑话/工人各尽所能.md",
     "Outputs/video/苏联笑话/快乐建立在痛苦之上.md",
-    "Outputs/video/苏联笑话/连子弹也没有.md",
     "DataBase/Literature/Music/Classic",
     "WorkDesk.canvas",
     "Resources/Images/65058AB0.png",
