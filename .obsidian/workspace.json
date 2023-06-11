@@ -4,39 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "445f71dbf1d80a59",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "746d43a8b465a768",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home Page.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
+        "id": "3ec88ee3d6702d1c",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Home Page.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": false
           },
-          {
-            "id": "392a72792f9d3fc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/工人各尽所能.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
+          "pinned": true
+        }
+      },
+      {
+        "id": "7091ab34af6c5065",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Outputs/video/苏联笑话/鹦鹉丢了.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": false
           }
-        ],
-        "currentTab": 1
+        }
       }
     ],
     "direction": "vertical"
@@ -65,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "波兰",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +114,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Outputs/video/苏联笑话/工人各尽所能.md",
+                "file": "Outputs/video/苏联笑话/鹦鹉丢了.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -156,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Outputs/video/苏联笑话/工人各尽所能.md",
+                "file": "Outputs/video/苏联笑话/鹦鹉丢了.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Outputs/video/苏联笑话/工人各尽所能.md"
+                "file": "Outputs/video/苏联笑话/鹦鹉丢了.md"
               }
             }
           },
@@ -199,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Outputs/video/苏联笑话/工人各尽所能.md",
+                "file": "Outputs/video/苏联笑话/鹦鹉丢了.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,15 +249,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "392a72792f9d3fc2",
+  "active": "7091ab34af6c5065",
   "lastOpenFiles": [
+    "Home Page.md",
+    "Outputs/video/苏联笑话/哪一个差劲我会不知道吗？.md",
+    "Outputs/video/苏联笑话/猫是大象的祖先.md",
+    "Outputs/video/苏联笑话/连子弹也没有.md",
+    "Outputs/video/苏联笑话/快乐建立在痛苦之上.md",
+    "Outputs/video/苏联笑话/回答.md",
+    "Outputs/video/苏联笑话/我还有老婆孩子呐.md",
+    "Outputs/video/苏联笑话/工人各尽所能.md",
     "Outputs/video/苏联笑话/给猫下芥末.md",
     "Outputs/video/苏联笑话/等着揍赫鲁晓夫.md",
     "Outputs/video/苏联笑话/登月.md",
     "Outputs/video/苏联笑话/勃列日涅夫同志在波兰.md",
     "Outputs/video/苏联笑话/别在这儿妨碍别人工作.md",
-    "Outputs/video/苏联笑话/我还有老婆孩子呐.md",
-    "Home Page.md",
     "Outputs/video/苏联笑话/我认出你来了.md",
     "Outputs/video/苏联笑话/这就是原因所在.md",
     "Outputs/video/苏联笑话/又香又甜又脆的爆米花.md",
@@ -272,18 +271,12 @@
     "Outputs/video/苏联笑话/世界上哪个国家最长.md",
     "Outputs/video/苏联笑话/威力竟然比坦克还大.md",
     "Outputs/video/苏联笑话/鹦鹉丢了.md",
-    "Outputs/video/苏联笑话/回答.md",
     "Outputs/video/苏联笑话/你会连一百卢布都不舍得么？.md",
     "Outputs/video/苏联笑话/你不害怕红军回来吗？.md",
     "Outputs/video/苏联笑话/我现在在西德.md",
     "Outputs/video/苏联笑话/正在阅读普希金作品的斯大林同志.md",
     "Outputs/video/苏联笑话/苏联-大象的祖国.md",
     "Outputs/video/苏联笑话/尼基塔在胡说八道.md",
-    "DataBase/Reality/Websites/恋上数据结构和算法.md",
-    "Outputs/video/苏联笑话/暂时就是比永久少一天.md",
-    "Outputs/video/苏联笑话/为了社会主义大家庭.md",
-    "Outputs/video/苏联笑话/他能不能把苏联也赶跑啊.md",
-    "Outputs/video/苏联笑话/哪一个差劲我会不知道吗？.md",
     "DataBase/Literature/Music/Classic",
     "WorkDesk.canvas",
     "Resources/Images/65058AB0.png",
