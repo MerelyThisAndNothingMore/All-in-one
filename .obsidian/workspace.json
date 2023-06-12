@@ -21,8 +21,35 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "3ffa47003e2e3f6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/video/热点/520过去了，结婚率符合预期.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75d1ed4f77679838",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/video/热点/从偷拍事件看社会治理.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home Page.md",
+                "file": "Outputs/video/热点/从偷拍事件看社会治理.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -142,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "Outputs/video/热点/从偷拍事件看社会治理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "Outputs/video/热点/从偷拍事件看社会治理.md"
               }
             }
           },
@@ -185,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "Outputs/video/热点/从偷拍事件看社会治理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,23 +269,25 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6fc31728b0c14f91",
+  "active": "75d1ed4f77679838",
   "lastOpenFiles": [
+    "Outputs/video/热点/520过去了，结婚率符合预期.md",
+    "Outputs/video/热点/从偷拍事件看社会治理.md",
+    "Outputs/video/苏联笑话/快乐建立在痛苦之上.md",
+    "Outputs/video/苏联笑话/回答.md",
+    "Outputs/video/苏联笑话/给猫下芥末.md",
+    "Outputs/video/苏联笑话/等着揍赫鲁晓夫.md",
     "Outputs/video/苏联笑话/别在这儿妨碍别人工作.md",
+    "Home Page.md",
     "Outputs/video/苏联笑话/勃列日涅夫同志在波兰.md",
     "Outputs/video/苏联笑话/登月.md",
     "Outputs/video/苏联笑话/为了社会主义大家庭.md",
     "Outputs/video/苏联笑话/鹦鹉丢了.md",
-    "Home Page.md",
     "Outputs/video/苏联笑话/哪一个差劲我会不知道吗？.md",
     "Outputs/video/苏联笑话/猫是大象的祖先.md",
     "Outputs/video/苏联笑话/连子弹也没有.md",
-    "Outputs/video/苏联笑话/快乐建立在痛苦之上.md",
-    "Outputs/video/苏联笑话/回答.md",
     "Outputs/video/苏联笑话/我还有老婆孩子呐.md",
     "Outputs/video/苏联笑话/工人各尽所能.md",
-    "Outputs/video/苏联笑话/给猫下芥末.md",
-    "Outputs/video/苏联笑话/等着揍赫鲁晓夫.md",
     "Outputs/video/苏联笑话/我认出你来了.md",
     "Outputs/video/苏联笑话/这就是原因所在.md",
     "Outputs/video/苏联笑话/又香又甜又脆的爆米花.md",
@@ -268,8 +297,6 @@
     "Outputs/video/苏联笑话/你会连一百卢布都不舍得么？.md",
     "Outputs/video/苏联笑话/你不害怕红军回来吗？.md",
     "Outputs/video/苏联笑话/我现在在西德.md",
-    "Outputs/video/苏联笑话/正在阅读普希金作品的斯大林同志.md",
-    "Outputs/video/苏联笑话/苏联-大象的祖国.md",
     "DataBase/Literature/Music/Classic",
     "WorkDesk.canvas",
     "Resources/Images/65058AB0.png",
