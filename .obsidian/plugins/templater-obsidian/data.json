@@ -57,6 +57,10 @@
     {
       "folder": "DataBase/Investment/StockTradings",
       "template": "Configuration/Templates/StockTradingDecisionTemplate.md"
+    },
+    {
+      "folder": "Outputs/video/苏联笑话",
+      "template": "Configuration/Templates/SuLianXiaoHua.md"
     }
   ],
   "syntax_highlighting": true,
