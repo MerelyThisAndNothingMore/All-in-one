@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bcd41cfd5d014a05",
+        "id": "4f00388adfb713da",
         "type": "tabs",
         "children": [
           {
-            "id": "ff9d32408190784f",
+            "id": "bc09b8e7860a2f53",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "22aebd0594dadaee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/为了社会主义大家庭.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +107,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Outputs/video/苏联笑话/为了社会主义大家庭.md",
+                "file": "Home Page.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -156,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Outputs/video/苏联笑话/为了社会主义大家庭.md",
+                "file": "Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Outputs/video/苏联笑话/为了社会主义大家庭.md"
+                "file": "Home Page.md"
               }
             }
           },
@@ -199,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Outputs/video/苏联笑话/为了社会主义大家庭.md",
+                "file": "Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,14 +242,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "22aebd0594dadaee",
+  "active": "bc09b8e7860a2f53",
   "lastOpenFiles": [
-    "Outputs/video/苏联笑话/正在阅读普希金作品的斯大林同志.md",
-    "Outputs/video/苏联笑话/为了社会主义大家庭.md",
     "Outputs/video/苏联笑话/威力竟然比导弹还大.md",
     "Outputs/video/苏联笑话/他什么时候也没上过学.md",
-    "Outputs/video/苏联笑话/他能不能把苏联也赶跑啊.md",
     "Outputs/video/苏联笑话/苏联-大象的祖国.md",
+    "Outputs/video/苏联笑话/工人各尽所能.md",
+    "Outputs/video/苏联笑话/给猫下芥末.md",
+    "Outputs/video/苏联笑话/飞机超重.md",
+    "Outputs/video/苏联笑话/正在阅读普希金作品的斯大林同志.md",
+    "Outputs/video/苏联笑话/他能不能把苏联也赶跑啊.md",
     "Outputs/video/苏联笑话/那他们就得跟你走.md",
     "Outputs/video/苏联笑话/哪一个差劲我会不知道吗？.md",
     "Outputs/video/苏联笑话/勃列日涅夫同志在波兰.md",
@@ -279,8 +267,6 @@
     "Outputs/video/苏联笑话/连子弹也没有.md",
     "Outputs/video/苏联笑话/快乐建立在痛苦之上.md",
     "Outputs/video/苏联笑话/回答.md",
-    "Outputs/video/苏联笑话/工人各尽所能.md",
-    "Outputs/video/苏联笑话/给猫下芥末.md",
     "Outputs/video/苏联笑话/等着揍赫鲁晓夫.md",
     "Outputs/video/苏联笑话/登月.md",
     "Outputs/video/苏联笑话/我承认我是兔子.md",
