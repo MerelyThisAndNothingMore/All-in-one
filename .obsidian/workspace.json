@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "848c8e445c80404c",
+        "id": "52f597147d1938cf",
         "type": "tabs",
         "children": [
           {
-            "id": "b943e424f3fb30c9",
+            "id": "8635a86ca562adde",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,241 +23,20 @@
             }
           },
           {
-            "id": "5a1e73998257e899",
+            "id": "81fd76b301c5c6b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Outputs/video/苏联笑话/世界上哪个国家最长.md",
+                "file": "Outputs/video/苏联笑话/唉！你为什么不鼓掌？.md",
                 "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b86fc7df83ad3147",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/您是克格勃吗.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d700f07648a19f03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/不再使用老鼠做医学实验.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "acabc49d44a6d74a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/我可以有不满意.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "81ac029c30c1756c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/写上Coca cola.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "312c33af7ca39a89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/我要和遗孀讲话.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3f757556c1599b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/知识分子的规则.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "026ff1f8304136b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/只有他一个没有打瞌睡.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e89a6d68200b7189",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/您在克格勃具体干什么.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e117a6391e02add3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/勃列日涅夫发表演说.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6df0e2bbd4e5bc4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/你以后想成为什么样的人.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f51875fdfdd630b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/遇到了贝利亚同志.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5f139dceacc40c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/拉宾诺维奇出差.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c75994426c82b13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/戈尔巴乔夫召开国民大会.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "390b2f17176b51f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/小胡子魔鬼.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a60aa3be0e22b0a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/你们为什么这么残忍.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dfaef8dbe53ddd2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/他们第一下打偏了吗.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5a818df70559e7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/那这个长耳朵的肥屁股呢？.md",
-                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -286,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dataview",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -342,7 +121,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Outputs/video/苏联笑话/那这个长耳朵的肥屁股呢？.md",
+                "file": "Outputs/video/苏联笑话/唉！你为什么不鼓掌？.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -377,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Outputs/video/苏联笑话/那这个长耳朵的肥屁股呢？.md",
+                "file": "Outputs/video/苏联笑话/唉！你为什么不鼓掌？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -394,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Outputs/video/苏联笑话/那这个长耳朵的肥屁股呢？.md"
+                "file": "Outputs/video/苏联笑话/唉！你为什么不鼓掌？.md"
               }
             }
           },
@@ -420,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Outputs/video/苏联笑话/那这个长耳朵的肥屁股呢？.md",
+                "file": "Outputs/video/苏联笑话/唉！你为什么不鼓掌？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -477,10 +256,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f5a818df70559e7e",
+  "active": "81fd76b301c5c6b2",
   "lastOpenFiles": [
-    "Outputs/video/苏联笑话/他们第一下打偏了吗.md",
+    "Home Page.md",
+    "Outputs/video/苏联笑话/苏联笑话.md",
+    "Outputs/video/苏联笑话/我认出你来了.md",
+    "Outputs/video/苏联笑话/唉！你为什么不鼓掌？.md",
+    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/编程题预览.md",
+    "DataBase/Reality/Persons/Authors.md",
+    "Outputs/video/苏联笑话/看，我们有炸鱼吃了.md",
+    "Outputs/video/苏联笑话/鹦鹉丢了.md",
     "Outputs/video/苏联笑话/那这个长耳朵的肥屁股呢？.md",
+    "Outputs/video/苏联笑话/他们第一下打偏了吗.md",
     "Outputs/video/苏联笑话/你们为什么这么残忍.md",
     "Outputs/video/苏联笑话/小胡子魔鬼.md",
     "Outputs/video/苏联笑话/戈尔巴乔夫召开国民大会.md",
@@ -497,14 +284,6 @@
     "Outputs/video/苏联笑话/不再使用老鼠做医学实验.md",
     "Outputs/video/苏联笑话/您是克格勃吗.md",
     "Outputs/video/苏联笑话/世界上哪个国家最长.md",
-    "Home Page.md",
-    "Outputs/video/苏联笑话/这就是原因所在.md",
-    "Outputs/video/苏联笑话/普希金百年纪念.md",
-    "Outputs/video/苏联笑话/暂时就是比永久少一天.md",
-    "Outputs/video/苏联笑话/又香又甜又脆的爆米花.md",
-    "Outputs/video/苏联笑话/鹦鹉丢了.md",
-    "Outputs/video/苏联笑话/伊万他住我家隔壁.md",
-    "Outputs/video/苏联笑话/五分钟从苏联跑到美国.md",
     "DataBase/Literature/Music/Classic",
     "WorkDesk.canvas",
     "Resources/Images/65058AB0.png",
