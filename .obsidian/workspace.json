@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4f00388adfb713da",
+        "id": "848c8e445c80404c",
         "type": "tabs",
         "children": [
           {
-            "id": "bc09b8e7860a2f53",
+            "id": "b943e424f3fb30c9",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,12 +23,25 @@
             }
           },
           {
-            "id": "44ba8f988f6fe34a",
+            "id": "5a1e73998257e899",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Outputs/video/苏联笑话/我现在在西德.md",
+                "file": "Outputs/video/苏联笑话/世界上哪个国家最长.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b86fc7df83ad3147",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/video/苏联笑话/您是克格勃吗.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -36,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Outputs/video/苏联笑话/我现在在西德.md",
+                "file": "Outputs/video/苏联笑话/您是克格勃吗.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -156,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Outputs/video/苏联笑话/我现在在西德.md",
+                "file": "Outputs/video/苏联笑话/您是克格勃吗.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Outputs/video/苏联笑话/我现在在西德.md"
+                "file": "Outputs/video/苏联笑话/您是克格勃吗.md"
               }
             }
           },
@@ -199,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Outputs/video/苏联笑话/我现在在西德.md",
+                "file": "Outputs/video/苏联笑话/您是克格勃吗.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,8 +269,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "44ba8f988f6fe34a",
+  "active": "b86fc7df83ad3147",
   "lastOpenFiles": [
+    "Outputs/video/苏联笑话/世界上哪个国家最长.md",
+    "Outputs/video/苏联笑话/您是克格勃吗.md",
+    "Home Page.md",
+    "Outputs/video/苏联笑话/这就是原因所在.md",
+    "Outputs/video/苏联笑话/普希金百年纪念.md",
+    "Outputs/video/苏联笑话/暂时就是比永久少一天.md",
+    "Outputs/video/苏联笑话/又香又甜又脆的爆米花.md",
+    "Outputs/video/苏联笑话/鹦鹉丢了.md",
+    "Outputs/video/苏联笑话/伊万他住我家隔壁.md",
+    "Outputs/video/苏联笑话/五分钟从苏联跑到美国.md",
+    "Outputs/video/苏联笑话/我只好勒死她.md",
+    "Outputs/video/苏联笑话/我现在在西德.md",
     "Outputs/video/苏联笑话/我是刚下夜班回家的.md",
     "Outputs/video/苏联笑话/我认出你来了.md",
     "Outputs/video/苏联笑话/我还有老婆孩子呐.md",
@@ -265,25 +290,13 @@
     "Outputs/video/苏联笑话/威力竟然比导弹还大.md",
     "Outputs/video/苏联笑话/他能不能把苏联也赶跑啊.md",
     "Outputs/video/苏联笑话/苏联-大象的祖国.md",
-    "Home Page.md",
     "Outputs/video/苏联笑话/他什么时候也没上过学.md",
     "Outputs/video/苏联笑话/工人各尽所能.md",
     "Outputs/video/苏联笑话/给猫下芥末.md",
     "Outputs/video/苏联笑话/飞机超重.md",
-    "Outputs/video/苏联笑话/正在阅读普希金作品的斯大林同志.md",
     "Outputs/video/苏联笑话/那他们就得跟你走.md",
     "Outputs/video/苏联笑话/哪一个差劲我会不知道吗？.md",
     "Outputs/video/苏联笑话/勃列日涅夫同志在波兰.md",
-    "Outputs/video/苏联笑话/别在这儿妨碍别人工作.md",
-    "Outputs/video/苏联笑话/世界上哪个国家最长.md",
-    "Outputs/video/苏联笑话/请您赶快坐到主席台上来.md",
-    "Outputs/video/苏联笑话/你是用什么办法让这么多人来欢迎我的？.md",
-    "Outputs/video/苏联笑话/你会连一百卢布都不舍得么？.md",
-    "Outputs/video/苏联笑话/你不怕红军回来吗？.md",
-    "Outputs/video/苏联笑话/尼基塔在胡说八道.md",
-    "Outputs/video/苏联笑话/猫是大象的祖先.md",
-    "Outputs/video/苏联笑话/连子弹也没有.md",
-    "Outputs/video/苏联笑话/快乐建立在痛苦之上.md",
     "DataBase/Literature/Music/Classic",
     "WorkDesk.canvas",
     "Resources/Images/65058AB0.png",
