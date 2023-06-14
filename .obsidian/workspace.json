@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "f155350a808b5eb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Tasks/data/微派入职.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +121,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Tasks/data/微派入职.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -142,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Tasks/data/微派入职.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "DataBase/Tasks/data/微派入职.md"
               }
             }
           },
@@ -185,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Tasks/data/微派入职.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,12 +256,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ff1fac29d2e4237b",
+  "active": "f155350a808b5eb5",
   "lastOpenFiles": [
     "DataBase/Tasks/data/面试准备.md",
-    "DataBase/Tasks/data/微派入职.md",
     "WorkDesk.canvas",
     "Home Page.md",
+    "DataBase/Tasks/data/微派入职.md",
     "Outputs/video/苏联笑话/多好的孩子啊，长的真像他爷爷！.md",
     "Outputs/video/苏联笑话/苏联笑话.md",
     "Outputs/video/苏联笑话/我可以有不满意.md",
@@ -270,7 +284,6 @@
     "Outputs/video/苏联笑话/唉！你为什么不鼓掌？.md",
     "Outputs/video/苏联笑话/比赛言论自由.md",
     "Outputs/video/苏联笑话/那这个长耳朵的肥屁股呢？.md",
-    "Outputs/video/苏联笑话/他们第一下打偏了吗.md",
     "DataBase/Literature/Music/Classic",
     "Resources/Images/65058AB0.png",
     "DataBase/Literature/Concepts",
