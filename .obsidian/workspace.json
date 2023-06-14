@@ -4,286 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "47394f6ae5f26684",
+        "id": "deaa449b511616d3",
         "type": "tabs",
         "children": [
           {
-            "id": "1622ab5ec722ec14",
+            "id": "ff1fac29d2e4237b",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Home Page.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               },
               "pinned": true
             }
-          },
-          {
-            "id": "66840865db171446",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/苏联笑话.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "59833cd93fea46d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/那就是我感谢他的原因.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92fb1d44dff24a2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/回答.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd14e375ae6314f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/回答2.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c90b70c6892c0646",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/首先，没有上帝.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "39d42b373a7a1168",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/苏联笑话.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c512d51703362985",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/是说有一天它爆炸了.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e313837db82b1e0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/苏联式衰老.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "19f4f7b51c73c437",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/但我对癌症一窍不通啊.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d5a2a74cab709134",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/回答2.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c8bd1f014e24b495",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/斯大林发言.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d45c94ef60c36cf5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/没犯罪他们只给判五年.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b0be9a6c798c4bfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/什么是最勇敢的人.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b6fcace0a2f672cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/我想看的讣告会上头版的。.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b42473352c84ce6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/管理这么大的国家有难度.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c0d571d7e810539f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/可是只有一个西瓜啊。.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f3fa2c8a0fe59d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/原来您长这样，列宁爷爷.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bc391f287fa0dfd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/多好的孩子啊，长的真像他爷爷！.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa89df5d77024f07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Tasks/data/面试准备.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b4ab53e735f4333",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Tasks/data/微派入职.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 20
+        ]
       }
     ],
     "direction": "vertical"
@@ -368,7 +107,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Tasks/data/微派入职.md",
+                "file": "Home Page.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -403,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Tasks/data/微派入职.md",
+                "file": "Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -420,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Tasks/data/微派入职.md"
+                "file": "Home Page.md"
               }
             }
           },
@@ -446,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Tasks/data/微派入职.md",
+                "file": "Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -503,7 +242,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5b4ab53e735f4333",
+  "active": "ff1fac29d2e4237b",
   "lastOpenFiles": [
     "DataBase/Tasks/data/面试准备.md",
     "DataBase/Tasks/data/微派入职.md",
