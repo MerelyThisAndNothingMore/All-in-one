@@ -28,7 +28,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Outputs/video/苏联笑话/左起第三位是戈尔巴乔夫.md",
+                "file": "Outputs/video/苏联笑话/苏联笑话.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "59833cd93fea46d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/video/苏联笑话/为了我的童年时代，感谢你.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -36,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Outputs/video/苏联笑话/左起第三位是戈尔巴乔夫.md",
+                "file": "Outputs/video/苏联笑话/为了我的童年时代，感谢你.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -156,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Outputs/video/苏联笑话/左起第三位是戈尔巴乔夫.md",
+                "file": "Outputs/video/苏联笑话/为了我的童年时代，感谢你.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Outputs/video/苏联笑话/左起第三位是戈尔巴乔夫.md"
+                "file": "Outputs/video/苏联笑话/为了我的童年时代，感谢你.md"
               }
             }
           },
@@ -199,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Outputs/video/苏联笑话/左起第三位是戈尔巴乔夫.md",
+                "file": "Outputs/video/苏联笑话/为了我的童年时代，感谢你.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,9 +269,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "66840865db171446",
+  "active": "59833cd93fea46d8",
   "lastOpenFiles": [
     "Outputs/video/苏联笑话/苏联笑话.md",
+    "Outputs/video/苏联笑话/为了我的童年时代，感谢你.md",
+    "Outputs/video/苏联笑话/左起第三位是戈尔巴乔夫.md",
     "Home Page.md",
     "Outputs/video/苏联笑话/回答.md",
     "Outputs/video/苏联笑话/你们是怎么理解自由的.md",
@@ -267,7 +282,6 @@
     "Outputs/video/苏联笑话/直接研究第二个问题.md",
     "Outputs/video/苏联笑话/比赛言论自由.md",
     "Outputs/video/苏联笑话/不知道往哪面吐唾沫.md",
-    "Outputs/video/苏联笑话/左起第三位是戈尔巴乔夫.md",
     "Outputs/video/苏联笑话/地平线.md",
     "Outputs/video/苏联笑话/多好的孩子啊.md",
     "Outputs/video/苏联笑话/谁愿意这么活着.md",
@@ -283,7 +297,6 @@
     "Outputs/video/苏联笑话/勃列日涅夫同志在波兰.md",
     "DataBase/Literature/Text/Sayings/于是苏联解体了.md",
     "DataBase/Literature/Text/Sayings/火车停了.md",
-    "Outputs/video/苏联笑话/你是干什么吃的.md",
     "DataBase/Literature/Music/Classic",
     "WorkDesk.canvas",
     "Resources/Images/65058AB0.png",
