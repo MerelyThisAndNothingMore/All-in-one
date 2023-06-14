@@ -93,7 +93,163 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Outputs/video/苏联笑话/唉！你为什么不鼓掌？.md",
+                "file": "Outputs/video/苏联笑话/苏联笑话.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c512d51703362985",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/video/苏联笑话/是说有一天它爆炸了.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e313837db82b1e0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/video/苏联笑话/苏联式衰老.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19f4f7b51c73c437",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/video/苏联笑话/但我对癌症一窍不通啊.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d5a2a74cab709134",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/video/苏联笑话/回答2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c8bd1f014e24b495",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/video/苏联笑话/斯大林发言.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d45c94ef60c36cf5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/video/苏联笑话/没犯罪他们只给判五年.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0be9a6c798c4bfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/video/苏联笑话/什么是最勇敢的人.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b6fcace0a2f672cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/video/苏联笑话/我想看的讣告会上头版的。.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b42473352c84ce6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/video/苏联笑话/管理这么大的国家有难度.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c0d571d7e810539f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/video/苏联笑话/我们选您的时候就是这样.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f3fa2c8a0fe59d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/video/苏联笑话/原来您长这样，列宁爷爷.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc391f287fa0dfd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/video/苏联笑话/马克思和列宁说得对.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +257,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -130,7 +286,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "这不是",
+                "query": "file:回答",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,7 +311,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -186,7 +343,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Outputs/video/苏联笑话/唉！你为什么不鼓掌？.md",
+                "file": "Outputs/video/苏联笑话/马克思和列宁说得对.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -221,7 +378,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Outputs/video/苏联笑话/唉！你为什么不鼓掌？.md",
+                "file": "Outputs/video/苏联笑话/马克思和列宁说得对.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +395,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Outputs/video/苏联笑话/唉！你为什么不鼓掌？.md"
+                "file": "Outputs/video/苏联笑话/马克思和列宁说得对.md"
               }
             }
           },
@@ -264,7 +421,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Outputs/video/苏联笑话/唉！你为什么不鼓掌？.md",
+                "file": "Outputs/video/苏联笑话/马克思和列宁说得对.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -321,34 +478,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "39d42b373a7a1168",
+  "active": "bc391f287fa0dfd3",
   "lastOpenFiles": [
-    "Outputs/video/苏联笑话/比赛言论自由.md",
-    "Outputs/video/苏联笑话/唉！你为什么不鼓掌？.md",
     "Outputs/video/苏联笑话/苏联笑话.md",
+    "Outputs/video/苏联笑话/枪毙前先把胡子剃了.md",
+    "Outputs/video/苏联笑话/原来您长这样，列宁爷爷.md",
+    "Outputs/video/苏联笑话/我们选您的时候就是这样.md",
+    "Outputs/video/苏联笑话/管理这么大的国家有难度.md",
+    "Outputs/video/苏联笑话/我想看的讣告会上头版的。.md",
+    "Outputs/video/苏联笑话/什么是最勇敢的人.md",
+    "Outputs/video/苏联笑话/没犯罪他们只给判五年.md",
+    "Outputs/video/苏联笑话/斯大林发言.md",
+    "Outputs/video/苏联笑话/回答2.md",
+    "Outputs/video/苏联笑话/反弹打死了司机.md",
+    "Outputs/video/苏联笑话/但我对癌症一窍不通啊.md",
+    "Outputs/video/苏联笑话/苏联式衰老.md",
+    "Outputs/video/苏联笑话/是说有一天它爆炸了.md",
+    "Outputs/video/苏联笑话/少东游西逛的.md",
+    "Outputs/video/苏联笑话/我认出你来了.md",
+    "Outputs/video/苏联笑话/唉！你为什么不鼓掌？.md",
+    "Outputs/video/苏联笑话/比赛言论自由.md",
     "Outputs/video/苏联笑话/那这个长耳朵的肥屁股呢？.md",
     "Outputs/video/苏联笑话/他们第一下打偏了吗.md",
     "Outputs/video/苏联笑话/勃列日涅夫发表演说.md",
     "Outputs/video/苏联笑话/您在克格勃具体干什么.md",
     "Outputs/video/苏联笑话/谁把靴子扔到控制台上去了.md",
     "Outputs/video/苏联笑话/首先，没有上帝.md",
-    "Outputs/video/苏联笑话/回答2.md",
     "Outputs/video/苏联笑话/回答.md",
     "Outputs/video/苏联笑话/这就是我说的主要原因了.md",
-    "Outputs/video/苏联笑话/那就是我感谢他的原因.md",
-    "Outputs/video/苏联笑话/左起第三位是戈尔巴乔夫.md",
-    "Home Page.md",
-    "Outputs/video/苏联笑话/你们是怎么理解自由的.md",
-    "Outputs/video/苏联笑话/和总路线一起动摇.md",
-    "Outputs/video/苏联笑话/我不同意我的意见.md",
-    "Outputs/video/苏联笑话/直接研究第二个问题.md",
-    "Outputs/video/苏联笑话/不知道往哪面吐唾沫.md",
-    "Outputs/video/苏联笑话/地平线.md",
-    "Outputs/video/苏联笑话/多好的孩子啊.md",
-    "Outputs/video/苏联笑话/谁愿意这么活着.md",
-    "Outputs/video/苏联笑话/斯大林在办公室发现了老鼠.md",
-    "Outputs/video/苏联笑话/泄漏国家机密.md",
-    "Configuration/Templates/SuLianXiaoHua.md",
     "DataBase/Literature/Music/Classic",
     "WorkDesk.canvas",
     "Resources/Images/65058AB0.png",
