@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "66840865db171446",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/video/苏联笑话/左起第三位是戈尔巴乔夫.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -108,7 +121,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home Page.md",
+                "file": "Outputs/video/苏联笑话/左起第三位是戈尔巴乔夫.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -143,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "Outputs/video/苏联笑话/左起第三位是戈尔巴乔夫.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "Outputs/video/苏联笑话/左起第三位是戈尔巴乔夫.md"
               }
             }
           },
@@ -186,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "Outputs/video/苏联笑话/左起第三位是戈尔巴乔夫.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,8 +256,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1622ab5ec722ec14",
+  "active": "66840865db171446",
   "lastOpenFiles": [
+    "Outputs/video/苏联笑话/苏联笑话.md",
+    "Home Page.md",
     "Outputs/video/苏联笑话/回答.md",
     "Outputs/video/苏联笑话/你们是怎么理解自由的.md",
     "Outputs/video/苏联笑话/和总路线一起动摇.md",
@@ -261,7 +276,6 @@
     "Configuration/Templates/SuLianXiaoHua.md",
     "Outputs/video/苏联笑话/我可以有不满意.md",
     "Outputs/video/苏联笑话/我可以有不满意.md",
-    "Outputs/video/苏联笑话/苏联笑话.md",
     "Outputs/video/苏联笑话/知识分子的规则.md",
     "Outputs/video/苏联笑话/遇到了贝利亚同志.md",
     "Outputs/video/苏联笑话/猫咪眼睛还眯着.md",
@@ -270,7 +284,6 @@
     "DataBase/Literature/Text/Sayings/于是苏联解体了.md",
     "DataBase/Literature/Text/Sayings/火车停了.md",
     "Outputs/video/苏联笑话/你是干什么吃的.md",
-    "Outputs/video/苏联笑话/是他写的.md",
     "DataBase/Literature/Music/Classic",
     "WorkDesk.canvas",
     "Resources/Images/65058AB0.png",
