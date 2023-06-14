@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "Home Page.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               },
@@ -255,9 +255,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fa89df5d77024f07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Tasks/data/面试准备.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b4ab53e735f4333",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Tasks/data/微派入职.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 18
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -311,8 +337,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -343,7 +368,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Outputs/video/苏联笑话/多好的孩子啊，长的真像他爷爷！.md",
+                "file": "DataBase/Tasks/data/微派入职.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -378,7 +403,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Outputs/video/苏联笑话/多好的孩子啊，长的真像他爷爷！.md",
+                "file": "DataBase/Tasks/data/微派入职.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -395,7 +420,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Outputs/video/苏联笑话/多好的孩子啊，长的真像他爷爷！.md"
+                "file": "DataBase/Tasks/data/微派入职.md"
               }
             }
           },
@@ -421,7 +446,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Outputs/video/苏联笑话/多好的孩子啊，长的真像他爷爷！.md",
+                "file": "DataBase/Tasks/data/微派入职.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -478,8 +503,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "bc391f287fa0dfd3",
+  "active": "5b4ab53e735f4333",
   "lastOpenFiles": [
+    "DataBase/Tasks/data/面试准备.md",
+    "DataBase/Tasks/data/微派入职.md",
+    "WorkDesk.canvas",
+    "Home Page.md",
+    "Outputs/video/苏联笑话/多好的孩子啊，长的真像他爷爷！.md",
     "Outputs/video/苏联笑话/苏联笑话.md",
     "Outputs/video/苏联笑话/我可以有不满意.md",
     "Outputs/video/苏联笑话/说1+1不等于3的人罪不容赦…….md",
@@ -502,12 +532,7 @@
     "Outputs/video/苏联笑话/比赛言论自由.md",
     "Outputs/video/苏联笑话/那这个长耳朵的肥屁股呢？.md",
     "Outputs/video/苏联笑话/他们第一下打偏了吗.md",
-    "Outputs/video/苏联笑话/勃列日涅夫发表演说.md",
-    "Outputs/video/苏联笑话/您在克格勃具体干什么.md",
-    "Outputs/video/苏联笑话/谁把靴子扔到控制台上去了.md",
-    "Outputs/video/苏联笑话/首先，没有上帝.md",
     "DataBase/Literature/Music/Classic",
-    "WorkDesk.canvas",
     "Resources/Images/65058AB0.png",
     "DataBase/Literature/Concepts",
     "DataBase/Knowledge/Computer/ApplicationLayer/Unity/Unity Api/User Event",
