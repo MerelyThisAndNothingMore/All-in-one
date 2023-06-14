@@ -28,8 +28,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Outputs/video/苏联笑话/比赛言论自由.md",
-                "mode": "preview",
+                "file": "Outputs/video/苏联笑话/那这个长耳朵的肥屁股呢？.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Outputs/video/苏联笑话/比赛言论自由.md",
+                "file": "Outputs/video/苏联笑话/那这个长耳朵的肥屁股呢？.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Outputs/video/苏联笑话/比赛言论自由.md",
+                "file": "Outputs/video/苏联笑话/那这个长耳朵的肥屁股呢？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Outputs/video/苏联笑话/比赛言论自由.md"
+                "file": "Outputs/video/苏联笑话/那这个长耳朵的肥屁股呢？.md"
               }
             }
           },
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Outputs/video/苏联笑话/比赛言论自由.md",
+                "file": "Outputs/video/苏联笑话/那这个长耳朵的肥屁股呢？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,6 +259,8 @@
   "active": "5112233f1efe485a",
   "lastOpenFiles": [
     "Outputs/video/苏联笑话/苏联笑话.md",
+    "Outputs/video/苏联笑话/你们是怎么理解自由的.md",
+    "Outputs/video/苏联笑话/您在克格勃具体干什么.md",
     "Outputs/video/苏联笑话/比赛言论自由.md",
     "Home Page.md",
     "DataBase/Tasks/data/微派入职.md",
@@ -283,7 +285,6 @@
     "Outputs/video/苏联笑话/少东游西逛的.md",
     "Outputs/video/苏联笑话/我认出你来了.md",
     "Outputs/video/苏联笑话/唉！你为什么不鼓掌？.md",
-    "Outputs/video/苏联笑话/那这个长耳朵的肥屁股呢？.md",
     "DataBase/Literature/Music/Classic",
     "Resources/Images/65058AB0.png",
     "DataBase/Literature/Concepts",
