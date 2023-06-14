@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "deaa449b511616d3",
+        "id": "6c1ec2301a504fb8",
         "type": "tabs",
         "children": [
           {
-            "id": "ff1fac29d2e4237b",
+            "id": "d9c7fa924d2689ef",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,13 +23,13 @@
             }
           },
           {
-            "id": "f155350a808b5eb5",
+            "id": "5112233f1efe485a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Tasks/data/微派入职.md",
-                "mode": "source",
+                "file": "Outputs/video/苏联笑话/比赛言论自由.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Tasks/data/微派入职.md",
+                "file": "Outputs/video/苏联笑话/比赛言论自由.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Tasks/data/微派入职.md",
+                "file": "Outputs/video/苏联笑话/比赛言论自由.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Tasks/data/微派入职.md"
+                "file": "Outputs/video/苏联笑话/比赛言论自由.md"
               }
             }
           },
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Tasks/data/微派入职.md",
+                "file": "Outputs/video/苏联笑话/比赛言论自由.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,14 +256,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f155350a808b5eb5",
+  "active": "5112233f1efe485a",
   "lastOpenFiles": [
-    "DataBase/Tasks/data/面试准备.md",
-    "WorkDesk.canvas",
+    "Outputs/video/苏联笑话/苏联笑话.md",
+    "Outputs/video/苏联笑话/比赛言论自由.md",
     "Home Page.md",
     "DataBase/Tasks/data/微派入职.md",
+    "DataBase/Tasks/data/面试准备.md",
+    "WorkDesk.canvas",
     "Outputs/video/苏联笑话/多好的孩子啊，长的真像他爷爷！.md",
-    "Outputs/video/苏联笑话/苏联笑话.md",
     "Outputs/video/苏联笑话/我可以有不满意.md",
     "Outputs/video/苏联笑话/说1+1不等于3的人罪不容赦…….md",
     "Outputs/video/苏联笑话/可是只有一个西瓜啊。.md",
@@ -282,7 +283,6 @@
     "Outputs/video/苏联笑话/少东游西逛的.md",
     "Outputs/video/苏联笑话/我认出你来了.md",
     "Outputs/video/苏联笑话/唉！你为什么不鼓掌？.md",
-    "Outputs/video/苏联笑话/比赛言论自由.md",
     "Outputs/video/苏联笑话/那这个长耳朵的肥屁股呢？.md",
     "DataBase/Literature/Music/Classic",
     "Resources/Images/65058AB0.png",

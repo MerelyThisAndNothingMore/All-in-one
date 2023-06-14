@@ -4,7 +4,7 @@
 		{"type":"text","text":"目的","id":"8326fec1cf2bd1f4","x":-540,"y":-360,"width":250,"height":60},
 		{"type":"text","text":"投机","id":"fd804cfd3d3f606a","x":-20,"y":-420,"width":250,"height":60},
 		{"type":"text","text":"[[StockWorkdesk]]","id":"1056b0fde2fc4fea","x":460,"y":-420,"width":250,"height":60},
-		{"type":"text","text":"业务整理","id":"135add753d728543","x":460,"y":-590,"width":250,"height":70},
+		{"type":"text","text":"[[微派入职]]","id":"135add753d728543","x":460,"y":-590,"width":250,"height":70},
 		{"type":"text","text":"面试准备","id":"b5e752faf6c412e6","x":460,"y":-840,"width":250,"height":60},
 		{"type":"text","text":"[[经济学学习]]","id":"29f438b4801369c7","x":460,"y":-300,"width":250,"height":60},
 		{"type":"text","text":"创作","id":"3457bf9f1d0e795d","x":-20,"y":-170,"width":250,"height":60},
@@ -21,7 +21,7 @@
 		{"type":"text","text":"[[Android Docs]]","id":"2f4cd26a111979ef","x":1280,"y":-1030,"width":250,"height":60},
 		{"type":"text","text":"[[设计模式之禅|设计模式之禅]] ","id":"7e781df6a76e2ced","x":1280,"y":-940,"width":250,"height":60},
 		{"type":"text","text":"[[简历准备]]","id":"d25ee57a2dea623b","x":885,"y":-910,"width":250,"height":60,"color":"1"},
-		{"id":"5cc1d6f68a02948a","x":885,"y":-780,"width":250,"height":60,"type":"text","text":"[[面试准备]]"}
+		{"type":"text","text":"[[面试准备]]","id":"5cc1d6f68a02948a","x":885,"y":-780,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"debee5227fdbd1e3","fromNode":"8326fec1cf2bd1f4","fromSide":"right","toNode":"5dd923f540c2525d","toSide":"left"},
