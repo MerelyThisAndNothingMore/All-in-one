@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6c1ec2301a504fb8",
+        "id": "649ab80bae0ebba0",
         "type": "tabs",
         "children": [
           {
-            "id": "d9c7fa924d2689ef",
+            "id": "543a3bde7b4815df",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,13 +23,13 @@
             }
           },
           {
-            "id": "5112233f1efe485a",
+            "id": "6f1d07d3ccae7bbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Outputs/video/苏联笑话/我准备买一双靴子.md",
-                "mode": "source",
+                "file": "Outputs/video/苏联笑话/你们是怎么理解自由的.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Outputs/video/苏联笑话/我准备买一双靴子.md",
+                "file": "Outputs/video/苏联笑话/你们是怎么理解自由的.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Outputs/video/苏联笑话/我准备买一双靴子.md",
+                "file": "Outputs/video/苏联笑话/你们是怎么理解自由的.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Outputs/video/苏联笑话/我准备买一双靴子.md"
+                "file": "Outputs/video/苏联笑话/你们是怎么理解自由的.md"
               }
             }
           },
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Outputs/video/苏联笑话/我准备买一双靴子.md",
+                "file": "Outputs/video/苏联笑话/你们是怎么理解自由的.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,8 +256,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5112233f1efe485a",
+  "active": "6f1d07d3ccae7bbf",
   "lastOpenFiles": [
+    "Home Page.md",
     "Outputs/video/苏联笑话/苏联笑话.md",
     "Outputs/video/苏联笑话/斯大林在办公室发现了老鼠.md",
     "Outputs/video/苏联笑话/首先，没有上帝.md",
@@ -269,7 +270,6 @@
     "Outputs/video/苏联笑话/你们是怎么理解自由的.md",
     "Outputs/video/苏联笑话/您在克格勃具体干什么.md",
     "Outputs/video/苏联笑话/比赛言论自由.md",
-    "Home Page.md",
     "DataBase/Tasks/data/微派入职.md",
     "DataBase/Tasks/data/面试准备.md",
     "WorkDesk.canvas",
