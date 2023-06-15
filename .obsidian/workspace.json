@@ -4,51 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "98f62ff4173f4470",
+        "id": "bb9d60346fd58ee4",
         "type": "tabs",
         "children": [
           {
-            "id": "e639a72dc09303a4",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home Page.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "5435cc4953e7123f",
+            "id": "4cfa9d2c5667c170",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Resources/pdf/B0904_B0905_离职证明电子签-全职.pdf"
-              }
-            }
-          },
-          {
-            "id": "14ca3a0c8caecb2e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Tasks/data/微派入职.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +101,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Tasks/data/微派入职.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -169,7 +135,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Tasks/data/微派入职.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,9 +150,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DataBase/Tasks/data/微派入职.md"
-              }
+              "state": {}
             }
           },
           {
@@ -212,7 +175,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Tasks/data/微派入职.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,10 +231,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "14ca3a0c8caecb2e",
+  "active": "4cfa9d2c5667c170",
   "lastOpenFiles": [
-    "DataBase/Life/Passwords.md",
     "Resources/pdf/B0904_B0905_离职证明电子签-全职.pdf",
+    "DataBase/Life/Passwords.md",
     "DataBase/Tasks/data/微派入职.md",
     "Resources/pdf/张劲录用通知函.pdf",
     "Home Page.md",
