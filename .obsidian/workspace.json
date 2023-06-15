@@ -28,20 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Outputs/video/苏联笑话/谁把靴子扔到控制台上去了.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fdd52d2c474488a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/我想看的讣告会上头版的。.md",
+                "file": "Outputs/video/苏联笑话/斯大林发言.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,7 +122,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Outputs/video/苏联笑话/我想看的讣告会上头版的。.md",
+                "file": "Outputs/video/苏联笑话/斯大林发言.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -170,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Outputs/video/苏联笑话/我想看的讣告会上头版的。.md",
+                "file": "Outputs/video/苏联笑话/斯大林发言.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Outputs/video/苏联笑话/我想看的讣告会上头版的。.md"
+                "file": "Outputs/video/苏联笑话/斯大林发言.md"
               }
             }
           },
@@ -213,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Outputs/video/苏联笑话/我想看的讣告会上头版的。.md",
+                "file": "Outputs/video/苏联笑话/斯大林发言.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,9 +257,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fdd52d2c474488a8",
+  "active": "1c5215553e3e7e80",
   "lastOpenFiles": [
     "Outputs/video/苏联笑话/苏联笑话.md",
+    "Outputs/video/苏联笑话/谁把靴子扔到控制台上去了.md",
+    "Outputs/video/苏联笑话/斯大林发言.md",
+    "Outputs/video/苏联笑话/我在等一份讣告。.md",
     "Outputs/video/苏联笑话/是说有一天它爆炸了.md",
     "Outputs/video/苏联笑话/他们第一下打偏了吗.md",
     "Outputs/video/苏联笑话/什么是最勇敢的人.md",
@@ -288,7 +278,6 @@
     "Outputs/video/苏联笑话/但我对癌症一窍不通啊.md",
     "Outputs/video/苏联笑话/回答2.md",
     "Outputs/video/苏联笑话/那人是印度驻苏大使.md",
-    "Outputs/video/苏联笑话/谁把靴子扔到控制台上去了.md",
     "Outputs/video/苏联笑话/原来您长这样，列宁爷爷.md",
     "Outputs/video/苏联笑话/我准备买一双靴子.md",
     "Outputs/video/苏联笑话/泄漏国家机密.md",
@@ -301,9 +290,7 @@
     "Resources/pdf",
     "Work/工作经历/抖音/主播端/主播端.md",
     "Work/工作经历/抖音/录播/录播.md",
-    "Work/工作经历/抖音/付费直播/付费直播.md",
     "Work/工作经历/抖音",
-    "DataBase/Tasks/data/离职交接.md",
     "DataBase/Literature/Music/Classic",
     "Resources/Images/65058AB0.png",
     "DataBase/Literature/Concepts",
