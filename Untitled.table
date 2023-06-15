@@ -1,0 +1,257 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "8be875a9-f79d-440c-b225-cff327b204d3",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": false,
+        "tags": []
+      },
+      {
+        "id": "9df35763-5fa2-456c-abea-7ba003ad927d",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "currency",
+        "currencyType": "CNY",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": false,
+        "tags": []
+      },
+      {
+        "id": "0bd65e93-722c-4b47-97f2-0d4056253126",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "number",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": false,
+        "tags": []
+      },
+      {
+        "id": "2c808a05-10bb-475b-b510-df0b9b204523",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": false,
+        "tags": []
+      },
+      {
+        "id": "05253d94-9511-4485-a472-9ea72737bbb0",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": false,
+        "tags": []
+      },
+      {
+        "id": "7fd53843-607a-4646-a517-4f4ddb246d33",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": false,
+        "tags": []
+      }
+    ],
+    "headerRows": [
+      {
+        "id": "100bd5df-ac8b-4e03-a1df-a03508036da9"
+      }
+    ],
+    "bodyRows": [
+      {
+        "id": "5fe24129-4351-48b5-ac1e-e330789f3ba8",
+        "index": 0,
+        "creationTime": 1686800124475,
+        "lastEditedTime": 1686800272121
+      }
+    ],
+    "footerRows": [
+      {
+        "id": "a0c5e8a7-7d1b-48e1-bb66-17998414b660"
+      },
+      {
+        "id": "97794af0-f187-49a7-a432-4661f7708648"
+      }
+    ],
+    "headerCells": [
+      {
+        "id": "a4c269b8-b242-4d81-928d-be13a0a4f722",
+        "columnId": "8be875a9-f79d-440c-b225-cff327b204d3",
+        "rowId": "100bd5df-ac8b-4e03-a1df-a03508036da9",
+        "markdown": "房源名称"
+      },
+      {
+        "id": "1fc7cec4-91bd-4450-a668-67cb51a0f9cb",
+        "columnId": "9df35763-5fa2-456c-abea-7ba003ad927d",
+        "rowId": "100bd5df-ac8b-4e03-a1df-a03508036da9",
+        "markdown": "价格"
+      },
+      {
+        "id": "1a03da28-4a7e-4c02-9f19-88b1f707c44b",
+        "columnId": "0bd65e93-722c-4b47-97f2-0d4056253126",
+        "rowId": "100bd5df-ac8b-4e03-a1df-a03508036da9",
+        "markdown": "面积"
+      },
+      {
+        "id": "7565a74d-f513-438e-9f70-a0fe42d76ba8",
+        "columnId": "2c808a05-10bb-475b-b510-df0b9b204523",
+        "rowId": "100bd5df-ac8b-4e03-a1df-a03508036da9",
+        "markdown": "厨房"
+      },
+      {
+        "id": "bd2c44ba-d7e0-4a12-bf3f-c2d14da6544e",
+        "columnId": "05253d94-9511-4485-a472-9ea72737bbb0",
+        "rowId": "100bd5df-ac8b-4e03-a1df-a03508036da9",
+        "markdown": "冰箱"
+      },
+      {
+        "id": "98d1f6f0-aa11-41d2-ba05-f06f159ce19d",
+        "columnId": "7fd53843-607a-4646-a517-4f4ddb246d33",
+        "rowId": "100bd5df-ac8b-4e03-a1df-a03508036da9",
+        "markdown": "New Column"
+      }
+    ],
+    "bodyCells": [
+      {
+        "id": "02f1cd59-a2c6-4a2a-ac93-d26f12041306",
+        "columnId": "8be875a9-f79d-440c-b225-cff327b204d3",
+        "rowId": "5fe24129-4351-48b5-ac1e-e330789f3ba8",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "966793cd-b4bb-4676-be6e-b773babb6c86",
+        "columnId": "9df35763-5fa2-456c-abea-7ba003ad927d",
+        "rowId": "5fe24129-4351-48b5-ac1e-e330789f3ba8",
+        "dateTime": null,
+        "markdown": "1800",
+        "tagIds": []
+      },
+      {
+        "id": "78f0c18b-0324-4190-8537-86350d5091fe",
+        "columnId": "0bd65e93-722c-4b47-97f2-0d4056253126",
+        "rowId": "5fe24129-4351-48b5-ac1e-e330789f3ba8",
+        "dateTime": null,
+        "markdown": "52",
+        "tagIds": []
+      },
+      {
+        "id": "d8060e98-c0f5-466d-9a4b-6700d74713e5",
+        "columnId": "2c808a05-10bb-475b-b510-df0b9b204523",
+        "rowId": "5fe24129-4351-48b5-ac1e-e330789f3ba8",
+        "dateTime": null,
+        "markdown": "有",
+        "tagIds": []
+      },
+      {
+        "id": "22fc3d4b-cb5d-4d09-bf9f-7a5970154b93",
+        "columnId": "05253d94-9511-4485-a472-9ea72737bbb0",
+        "rowId": "5fe24129-4351-48b5-ac1e-e330789f3ba8",
+        "dateTime": null,
+        "markdown": "无",
+        "tagIds": []
+      },
+      {
+        "id": "4834ea62-3498-41b6-bbe6-ed4db681692a",
+        "columnId": "7fd53843-607a-4646-a517-4f4ddb246d33",
+        "rowId": "5fe24129-4351-48b5-ac1e-e330789f3ba8",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      }
+    ],
+    "footerCells": [
+      {
+        "id": "a1607119-0e8c-4254-92b9-d30b60a7cff5",
+        "columnId": "8be875a9-f79d-440c-b225-cff327b204d3",
+        "rowId": "a0c5e8a7-7d1b-48e1-bb66-17998414b660",
+        "functionType": "none"
+      },
+      {
+        "id": "5fbcf6d9-baed-42a1-aaff-223c544f576c",
+        "columnId": "8be875a9-f79d-440c-b225-cff327b204d3",
+        "rowId": "97794af0-f187-49a7-a432-4661f7708648",
+        "functionType": "none"
+      },
+      {
+        "id": "42c2cfd4-f932-43a1-ad39-1176056a9769",
+        "columnId": "9df35763-5fa2-456c-abea-7ba003ad927d",
+        "rowId": "a0c5e8a7-7d1b-48e1-bb66-17998414b660",
+        "functionType": "none"
+      },
+      {
+        "id": "46e92e98-5254-41bf-a341-84c11cd288be",
+        "columnId": "9df35763-5fa2-456c-abea-7ba003ad927d",
+        "rowId": "97794af0-f187-49a7-a432-4661f7708648",
+        "functionType": "none"
+      },
+      {
+        "id": "45eaf826-3d21-484d-8a1b-33cff1cc0c5e",
+        "columnId": "0bd65e93-722c-4b47-97f2-0d4056253126",
+        "rowId": "a0c5e8a7-7d1b-48e1-bb66-17998414b660",
+        "functionType": "none"
+      },
+      {
+        "id": "2b67b08f-e045-432f-b2b8-52f196ede5fb",
+        "columnId": "0bd65e93-722c-4b47-97f2-0d4056253126",
+        "rowId": "97794af0-f187-49a7-a432-4661f7708648",
+        "functionType": "none"
+      },
+      {
+        "id": "01cd5eed-4552-4b63-8cc9-0dafe3c27cd4",
+        "columnId": "2c808a05-10bb-475b-b510-df0b9b204523",
+        "rowId": "a0c5e8a7-7d1b-48e1-bb66-17998414b660",
+        "functionType": "none"
+      },
+      {
+        "id": "e5aaaf97-c074-459b-ab9d-499fc0285dab",
+        "columnId": "2c808a05-10bb-475b-b510-df0b9b204523",
+        "rowId": "97794af0-f187-49a7-a432-4661f7708648",
+        "functionType": "none"
+      },
+      {
+        "id": "ec996362-61a2-4135-80bf-ac547fec1871",
+        "columnId": "05253d94-9511-4485-a472-9ea72737bbb0",
+        "rowId": "a0c5e8a7-7d1b-48e1-bb66-17998414b660",
+        "functionType": "none"
+      },
+      {
+        "id": "aee5bbd4-cfd3-4830-a528-2b741e510be3",
+        "columnId": "05253d94-9511-4485-a472-9ea72737bbb0",
+        "rowId": "97794af0-f187-49a7-a432-4661f7708648",
+        "functionType": "none"
+      },
+      {
+        "id": "4b274006-a6c1-455d-96ef-54da4f44e14a",
+        "columnId": "7fd53843-607a-4646-a517-4f4ddb246d33",
+        "rowId": "a0c5e8a7-7d1b-48e1-bb66-17998414b660",
+        "functionType": "none"
+      },
+      {
+        "id": "9929b81b-ef1b-4204-9367-20f7d148fde8",
+        "columnId": "7fd53843-607a-4646-a517-4f4ddb246d33",
+        "rowId": "97794af0-f187-49a7-a432-4661f7708648",
+        "functionType": "none"
+      }
+    ],
+    "filterRules": []
+  },
+  "pluginVersion": "6.10.2"
+}
