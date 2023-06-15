@@ -39,25 +39,35 @@
         "sortDir": "default",
         "isVisible": true,
         "width": "140px",
-        "type": "text",
+        "type": "multi-tag",
         "currencyType": "USD",
         "dateFormat": "mm/dd/yyyy",
         "shouldWrapOverflow": false,
-        "tags": []
+        "tags": [
+          {
+            "id": "a576a6b7-9a78-44a1-b5f0-aa881d6aec19",
+            "markdown": "电梯",
+            "color": "yellow"
+          },
+          {
+            "id": "589ab59c-3eee-4ae0-9b02-c53447029559",
+            "markdown": "厨房",
+            "color": "orange"
+          },
+          {
+            "id": "0c6836c3-f040-47aa-b97b-4629c188f77c",
+            "markdown": "冰箱",
+            "color": "orange"
+          },
+          {
+            "id": "af58f85a-926b-4fd1-8c90-09be910806f9",
+            "markdown": "民水民电",
+            "color": "brown"
+          }
+        ]
       },
       {
-        "id": "05253d94-9511-4485-a472-9ea72737bbb0",
-        "sortDir": "default",
-        "isVisible": true,
-        "width": "140px",
-        "type": "text",
-        "currencyType": "USD",
-        "dateFormat": "mm/dd/yyyy",
-        "shouldWrapOverflow": false,
-        "tags": []
-      },
-      {
-        "id": "7fd53843-607a-4646-a517-4f4ddb246d33",
+        "id": "f77f0b1e-85f2-44dc-b2fc-7813bb89b92e",
         "sortDir": "default",
         "isVisible": true,
         "width": "140px",
@@ -78,7 +88,13 @@
         "id": "5fe24129-4351-48b5-ac1e-e330789f3ba8",
         "index": 0,
         "creationTime": 1686800124475,
-        "lastEditedTime": 1686800272121
+        "lastEditedTime": 1686801115092
+      },
+      {
+        "id": "6087203e-2591-4135-8474-96590ab95d9f",
+        "index": 1,
+        "creationTime": 1686800784195,
+        "lastEditedTime": 1686801099663
       }
     ],
     "footerRows": [
@@ -112,19 +128,13 @@
         "id": "7565a74d-f513-438e-9f70-a0fe42d76ba8",
         "columnId": "2c808a05-10bb-475b-b510-df0b9b204523",
         "rowId": "100bd5df-ac8b-4e03-a1df-a03508036da9",
-        "markdown": "厨房"
+        "markdown": "额外配置"
       },
       {
-        "id": "bd2c44ba-d7e0-4a12-bf3f-c2d14da6544e",
-        "columnId": "05253d94-9511-4485-a472-9ea72737bbb0",
+        "id": "573fe817-3dcf-4c3f-8236-81c5e85c252a",
+        "columnId": "f77f0b1e-85f2-44dc-b2fc-7813bb89b92e",
         "rowId": "100bd5df-ac8b-4e03-a1df-a03508036da9",
-        "markdown": "冰箱"
-      },
-      {
-        "id": "98d1f6f0-aa11-41d2-ba05-f06f159ce19d",
-        "columnId": "7fd53843-607a-4646-a517-4f4ddb246d33",
-        "rowId": "100bd5df-ac8b-4e03-a1df-a03508036da9",
-        "markdown": "New Column"
+        "markdown": "距离"
       }
     ],
     "bodyCells": [
@@ -133,7 +143,7 @@
         "columnId": "8be875a9-f79d-440c-b225-cff327b204d3",
         "rowId": "5fe24129-4351-48b5-ac1e-e330789f3ba8",
         "dateTime": null,
-        "markdown": "",
+        "markdown": "光谷创业街",
         "tagIds": []
       },
       {
@@ -158,22 +168,62 @@
         "rowId": "5fe24129-4351-48b5-ac1e-e330789f3ba8",
         "dateTime": null,
         "markdown": "有",
+        "tagIds": [
+          "a576a6b7-9a78-44a1-b5f0-aa881d6aec19",
+          "af58f85a-926b-4fd1-8c90-09be910806f9"
+        ]
+      },
+      {
+        "id": "3964465a-e9d1-4044-bd56-2f3a52306b19",
+        "columnId": "f77f0b1e-85f2-44dc-b2fc-7813bb89b92e",
+        "rowId": "5fe24129-4351-48b5-ac1e-e330789f3ba8",
+        "dateTime": null,
+        "markdown": "1.4km",
         "tagIds": []
       },
       {
-        "id": "22fc3d4b-cb5d-4d09-bf9f-7a5970154b93",
-        "columnId": "05253d94-9511-4485-a472-9ea72737bbb0",
-        "rowId": "5fe24129-4351-48b5-ac1e-e330789f3ba8",
+        "id": "1c794372-94ed-460e-9854-208930b44f97",
+        "columnId": "8be875a9-f79d-440c-b225-cff327b204d3",
+        "rowId": "6087203e-2591-4135-8474-96590ab95d9f",
         "dateTime": null,
-        "markdown": "无",
+        "markdown": "茉莉公馆",
         "tagIds": []
       },
       {
-        "id": "4834ea62-3498-41b6-bbe6-ed4db681692a",
-        "columnId": "7fd53843-607a-4646-a517-4f4ddb246d33",
-        "rowId": "5fe24129-4351-48b5-ac1e-e330789f3ba8",
+        "id": "94b720eb-d35c-4df6-bd69-9fa14bad2d84",
+        "columnId": "9df35763-5fa2-456c-abea-7ba003ad927d",
+        "rowId": "6087203e-2591-4135-8474-96590ab95d9f",
         "dateTime": null,
-        "markdown": "",
+        "markdown": "2200",
+        "tagIds": []
+      },
+      {
+        "id": "5202a442-2944-49be-a607-a97c5aafa18d",
+        "columnId": "0bd65e93-722c-4b47-97f2-0d4056253126",
+        "rowId": "6087203e-2591-4135-8474-96590ab95d9f",
+        "dateTime": null,
+        "markdown": "41",
+        "tagIds": []
+      },
+      {
+        "id": "3a6704c8-09f8-4202-b6ac-5603343b435c",
+        "columnId": "2c808a05-10bb-475b-b510-df0b9b204523",
+        "rowId": "6087203e-2591-4135-8474-96590ab95d9f",
+        "dateTime": null,
+        "markdown": "有",
+        "tagIds": [
+          "a576a6b7-9a78-44a1-b5f0-aa881d6aec19",
+          "589ab59c-3eee-4ae0-9b02-c53447029559",
+          "0c6836c3-f040-47aa-b97b-4629c188f77c",
+          "af58f85a-926b-4fd1-8c90-09be910806f9"
+        ]
+      },
+      {
+        "id": "e6104b51-fcf2-4cc2-9e9c-022f1f958acf",
+        "columnId": "f77f0b1e-85f2-44dc-b2fc-7813bb89b92e",
+        "rowId": "6087203e-2591-4135-8474-96590ab95d9f",
+        "dateTime": null,
+        "markdown": "1.4km",
         "tagIds": []
       }
     ],
@@ -227,26 +277,14 @@
         "functionType": "none"
       },
       {
-        "id": "ec996362-61a2-4135-80bf-ac547fec1871",
-        "columnId": "05253d94-9511-4485-a472-9ea72737bbb0",
+        "id": "ac5c3062-23f1-4995-af7c-28cc56503177",
+        "columnId": "f77f0b1e-85f2-44dc-b2fc-7813bb89b92e",
         "rowId": "a0c5e8a7-7d1b-48e1-bb66-17998414b660",
         "functionType": "none"
       },
       {
-        "id": "aee5bbd4-cfd3-4830-a528-2b741e510be3",
-        "columnId": "05253d94-9511-4485-a472-9ea72737bbb0",
-        "rowId": "97794af0-f187-49a7-a432-4661f7708648",
-        "functionType": "none"
-      },
-      {
-        "id": "4b274006-a6c1-455d-96ef-54da4f44e14a",
-        "columnId": "7fd53843-607a-4646-a517-4f4ddb246d33",
-        "rowId": "a0c5e8a7-7d1b-48e1-bb66-17998414b660",
-        "functionType": "none"
-      },
-      {
-        "id": "9929b81b-ef1b-4204-9367-20f7d148fde8",
-        "columnId": "7fd53843-607a-4646-a517-4f4ddb246d33",
+        "id": "9b82da83-19bd-4316-9ff0-850b89b70b3e",
+        "columnId": "f77f0b1e-85f2-44dc-b2fc-7813bb89b92e",
         "rowId": "97794af0-f187-49a7-a432-4661f7708648",
         "functionType": "none"
       }
