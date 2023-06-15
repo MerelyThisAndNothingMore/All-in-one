@@ -8,30 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4cfa9d2c5667c170",
+            "id": "ae89677e30ef2c74",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Tasks/data/微派入职.md",
-                "mode": "source",
+                "file": "Home Page.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "ae89677e30ef2c74",
-            "type": "leaf",
-            "state": {
-              "type": "notion-like-tables",
-              "state": {
-                "file": "Untitled.table"
-              }
+              },
+              "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +107,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled.table",
+                "file": "Home Page.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -151,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.table",
+                "file": "Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.table"
+                "file": "Home Page.md"
               }
             }
           },
@@ -194,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.table",
+                "file": "Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,7 +242,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9efb66c5acbe3c31",
+  "active": "ae89677e30ef2c74",
   "lastOpenFiles": [
     "DataBase/Tasks/data/微派入职.md",
     "Untitled.table",
