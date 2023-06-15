@@ -21,8 +21,35 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "1c5215553e3e7e80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/video/苏联笑话/谁把靴子扔到控制台上去了.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fdd52d2c474488a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/video/苏联笑话/回答2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -51,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "离职证明",
+                "query": "苏联笑话",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +103,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -107,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home Page.md",
+                "file": "Outputs/video/苏联笑话/回答2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -142,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "Outputs/video/苏联笑话/回答2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "Outputs/video/苏联笑话/回答2.md"
               }
             }
           },
@@ -185,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "Outputs/video/苏联笑话/回答2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,15 +270,22 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ae89677e30ef2c74",
+  "active": "fdd52d2c474488a8",
   "lastOpenFiles": [
+    "Outputs/video/苏联笑话/苏联笑话.md",
+    "Outputs/video/苏联笑话/那人是印度驻苏大使.md",
+    "Outputs/video/苏联笑话/谁把靴子扔到控制台上去了.md",
+    "Outputs/video/苏联笑话/原来您长这样，列宁爷爷.md",
+    "Outputs/video/苏联笑话/我准备买一双靴子.md",
+    "Outputs/video/苏联笑话/泄漏国家机密.md",
+    "Outputs/video/苏联笑话/唉！你为什么不鼓掌？.md",
+    "Home Page.md",
     "DataBase/Tasks/data/微派入职.md",
     "Untitled.table",
     "Work/工作经历/抖音/抖音.md",
     "Resources/pdf/B0904_B0905_离职证明电子签-全职.pdf",
     "DataBase/Life/Passwords.md",
     "Resources/pdf/张劲录用通知函.pdf",
-    "Home Page.md",
     "WorkDesk.canvas",
     "Resources/pdf/pdf.md",
     "Resources/pdf",
@@ -261,7 +296,6 @@
     "DataBase/Tasks/data/离职交接.md",
     "Outputs/video/苏联笑话/你们为什么这么残忍.md",
     "Outputs/video/苏联笑话/你们是怎么理解自由的.md",
-    "Outputs/video/苏联笑话/苏联笑话.md",
     "Outputs/video/苏联笑话/斯大林在办公室发现了老鼠.md",
     "Outputs/video/苏联笑话/首先，没有上帝.md",
     "Outputs/video/苏联笑话/这就是我说的主要原因了.md",
@@ -270,11 +304,6 @@
     "Outputs/video/苏联笑话/枪毙前先把胡子剃了.md",
     "Outputs/video/苏联笑话/那这个长耳朵的肥屁股呢？.md",
     "Outputs/video/苏联笑话/您在克格勃具体干什么.md",
-    "Outputs/video/苏联笑话/比赛言论自由.md",
-    "DataBase/Tasks/data/面试准备.md",
-    "Outputs/video/苏联笑话/多好的孩子啊，长的真像他爷爷！.md",
-    "Outputs/video/苏联笑话/我可以有不满意.md",
-    "Outputs/video/苏联笑话/说1+1不等于3的人罪不容赦…….md",
     "DataBase/Literature/Music/Classic",
     "Resources/Images/65058AB0.png",
     "DataBase/Literature/Concepts",
