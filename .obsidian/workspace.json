@@ -39,9 +39,12 @@
             "id": "fdd52d2c474488a8",
             "type": "leaf",
             "state": {
-              "type": "notion-like-tables",
+              "type": "markdown",
               "state": {
-                "file": "DataBase/Tasks/data/光谷租房23-06-16.table"
+                "file": "DataBase/Tasks/data/微派入职.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -131,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DataBase/Tasks/data/光谷租房23-06-16.table",
+                "file": "DataBase/Tasks/data/微派入职.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -166,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Tasks/data/光谷租房23-06-16.table",
+                "file": "DataBase/Tasks/data/微派入职.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Tasks/data/光谷租房23-06-16.table"
+                "file": "DataBase/Tasks/data/微派入职.md"
               }
             }
           },
@@ -209,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Tasks/data/光谷租房23-06-16.table",
+                "file": "DataBase/Tasks/data/微派入职.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,8 +271,8 @@
   },
   "active": "fdd52d2c474488a8",
   "lastOpenFiles": [
-    "DataBase/Tasks/data/微派入职.md",
     "DataBase/Tasks/data/光谷租房23-06-16.table",
+    "DataBase/Tasks/data/微派入职.md",
     "DataBase/Tasks/data/简历投递.md",
     "Outputs/video/苏联笑话/他们第一下打偏了吗.md",
     "Outputs/video/苏联笑话/苏联笑话.md",
