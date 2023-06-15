@@ -39,12 +39,9 @@
             "id": "fdd52d2c474488a8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "notion-like-tables",
               "state": {
-                "file": "Outputs/video/苏联笑话/他们第一下打偏了吗.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "DataBase/Tasks/data/光谷租房23-06-16.table"
               }
             }
           }
@@ -103,8 +100,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -135,7 +131,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Outputs/video/苏联笑话/他们第一下打偏了吗.md",
+                "file": "DataBase/Tasks/data/光谷租房23-06-16.table",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -170,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Outputs/video/苏联笑话/他们第一下打偏了吗.md",
+                "file": "DataBase/Tasks/data/光谷租房23-06-16.table",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Outputs/video/苏联笑话/他们第一下打偏了吗.md"
+                "file": "DataBase/Tasks/data/光谷租房23-06-16.table"
               }
             }
           },
@@ -213,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Outputs/video/苏联笑话/他们第一下打偏了吗.md",
+                "file": "DataBase/Tasks/data/光谷租房23-06-16.table",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -272,6 +268,10 @@
   },
   "active": "fdd52d2c474488a8",
   "lastOpenFiles": [
+    "DataBase/Tasks/data/微派入职.md",
+    "DataBase/Tasks/data/光谷租房23-06-16.table",
+    "DataBase/Tasks/data/简历投递.md",
+    "Outputs/video/苏联笑话/他们第一下打偏了吗.md",
     "Outputs/video/苏联笑话/苏联笑话.md",
     "Outputs/video/苏联笑话/多好的孩子啊，长的真像他爷爷！.md",
     "Outputs/video/苏联笑话/我不同意我的意见.md",
@@ -284,8 +284,6 @@
     "Outputs/video/苏联笑话/泄漏国家机密.md",
     "Outputs/video/苏联笑话/唉！你为什么不鼓掌？.md",
     "Home Page.md",
-    "DataBase/Tasks/data/微派入职.md",
-    "Untitled.table",
     "Work/工作经历/抖音/抖音.md",
     "Resources/pdf/B0904_B0905_离职证明电子签-全职.pdf",
     "DataBase/Life/Passwords.md",
@@ -301,9 +299,6 @@
     "Outputs/video/苏联笑话/你们为什么这么残忍.md",
     "Outputs/video/苏联笑话/你们是怎么理解自由的.md",
     "Outputs/video/苏联笑话/斯大林在办公室发现了老鼠.md",
-    "Outputs/video/苏联笑话/首先，没有上帝.md",
-    "Outputs/video/苏联笑话/这就是我说的主要原因了.md",
-    "Outputs/video/苏联笑话/管理这么大的国家有难度.md",
     "DataBase/Literature/Music/Classic",
     "Resources/Images/65058AB0.png",
     "DataBase/Literature/Concepts",
