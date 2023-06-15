@@ -26,17 +26,29 @@
             "id": "5435cc4953e7123f",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Resources/pdf/B0904_B0905_离职证明电子签-全职.pdf"
+              }
+            }
+          },
+          {
+            "id": "14ca3a0c8caecb2e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "DataBase/Tasks/data/微派入职.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -65,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "离职",
+                "query": "passw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +102,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -256,12 +269,22 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9efb66c5acbe3c31",
+  "active": "14ca3a0c8caecb2e",
   "lastOpenFiles": [
-    "DataBase/Tasks/data/离职交接.md",
+    "DataBase/Life/Passwords.md",
+    "Resources/pdf/B0904_B0905_离职证明电子签-全职.pdf",
     "DataBase/Tasks/data/微派入职.md",
-    "WorkDesk.canvas",
+    "Resources/pdf/张劲录用通知函.pdf",
     "Home Page.md",
+    "WorkDesk.canvas",
+    "Resources/pdf/pdf.md",
+    "Work/工作经历/抖音/抖音.md",
+    "Resources/pdf",
+    "Work/工作经历/抖音/主播端/主播端.md",
+    "Work/工作经历/抖音/录播/录播.md",
+    "Work/工作经历/抖音/付费直播/付费直播.md",
+    "Work/工作经历/抖音",
+    "DataBase/Tasks/data/离职交接.md",
     "Outputs/video/苏联笑话/你们为什么这么残忍.md",
     "Outputs/video/苏联笑话/你们是怎么理解自由的.md",
     "Outputs/video/苏联笑话/苏联笑话.md",
@@ -278,13 +301,6 @@
     "Outputs/video/苏联笑话/多好的孩子啊，长的真像他爷爷！.md",
     "Outputs/video/苏联笑话/我可以有不满意.md",
     "Outputs/video/苏联笑话/说1+1不等于3的人罪不容赦…….md",
-    "Outputs/video/苏联笑话/可是只有一个西瓜啊。.md",
-    "Outputs/video/苏联笑话/原来您长这样，列宁爷爷.md",
-    "Outputs/video/苏联笑话/我想看的讣告会上头版的。.md",
-    "Outputs/video/苏联笑话/什么是最勇敢的人.md",
-    "Outputs/video/苏联笑话/没犯罪他们只给判五年.md",
-    "Outputs/video/苏联笑话/斯大林发言.md",
-    "Outputs/video/苏联笑话/回答2.md",
     "DataBase/Literature/Music/Classic",
     "Resources/Images/65058AB0.png",
     "DataBase/Literature/Concepts",
@@ -292,10 +308,6 @@
     "DataBase/Knowledge/Computer/ApplicationLayer/Unity/Unity Api",
     "Outputs/GameDevelop/案例",
     "DataBase/Reality/Persons/Acquaintance",
-    "DataBase/Knowledge/Computer/BaseLayer/Algorithm-Basic/Algorithms/双指针",
-    "DataBase/Literature/Text/Articles",
-    "DataBase/Knowledge/Computer/ApplicationLayer/Unity",
-    "DataBase/Knowledge/Computer/BaseLayer/Network/NetworkSecurity",
     "Resources/Images/Hardware Organization.png",
     "Resources/Images/Pasted image 20230508155739.png",
     "Resources/Images/Pasted image 20230414234101.png",
