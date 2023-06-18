@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Outputs/video/苏联笑话/伊万那小子招了.md",
+                "file": "DataBase/Life/Passwords.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "苏联笑话",
+                "query": "password",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +111,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -142,7 +143,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Outputs/video/苏联笑话/伊万那小子招了.md",
+                "file": "DataBase/Life/Passwords.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -177,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Outputs/video/苏联笑话/伊万那小子招了.md",
+                "file": "DataBase/Life/Passwords.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Outputs/video/苏联笑话/伊万那小子招了.md"
+                "file": "DataBase/Life/Passwords.md"
               }
             }
           },
@@ -220,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Outputs/video/苏联笑话/伊万那小子招了.md",
+                "file": "DataBase/Life/Passwords.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -279,6 +280,7 @@
   },
   "active": "fa508dc7a4e53846",
   "lastOpenFiles": [
+    "Outputs/video/苏联笑话/伊万那小子招了.md",
     "Outputs/video/苏联笑话/苏联笑话.md",
     "Outputs/video/苏联笑话/是说有一天它爆炸了.md",
     "Outputs/video/苏联笑话/只是得了病.md",
@@ -305,7 +307,6 @@
     "Home Page.md",
     "Untitled.table",
     "Outputs/video/苏联笑话/苏联笑话：这是谁写的，请站出来！.md",
-    "Outputs/video/苏联笑话/锁很结实.md",
     "DataBase/Tasks/data/光谷租房23-06-16.table",
     "Resources/pdf/B0904_B0905_离职证明电子签-全职.pdf",
     "Resources/pdf/张劲录用通知函.pdf",
