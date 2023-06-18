@@ -4,22 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "a693b70e2bad4f42",
+        "id": "1bb051d2723919f3",
         "type": "tabs",
         "children": [
           {
-            "id": "e257ae50f73eccba",
+            "id": "55a6c6ab5534b88c",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
-                "mode": "preview",
+                "file": "Outputs/video/苏联笑话/我没说过这个笑话.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -51,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "苏联笑话",
+                "query": "回答v3",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -107,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home Page.md",
+                "file": "Outputs/video/苏联笑话/我没说过这个笑话.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -142,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "Outputs/video/苏联笑话/我没说过这个笑话.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "Outputs/video/苏联笑话/我没说过这个笑话.md"
               }
             }
           },
@@ -185,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "Outputs/video/苏联笑话/我没说过这个笑话.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,11 +241,28 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e257ae50f73eccba",
+  "active": "55a6c6ab5534b88c",
   "lastOpenFiles": [
     "Outputs/video/苏联笑话/苏联笑话.md",
-    "Outputs/video/苏联笑话/唉！你为什么不鼓掌？.md",
+    "Outputs/video/苏联笑话/回答v3.md",
     "Home Page.md",
+    "Outputs/video/苏联笑话/我没说过这个笑话.md",
+    "Outputs/video/苏联笑话/苏联笑话：这是谁写的，请站出来！.md",
+    "Outputs/video/苏联笑话/锁很结实.md",
+    "Outputs/video/苏联笑话/小心身体，同志，别感冒.md",
+    "Outputs/video/苏联笑话/管子工.md",
+    "Outputs/video/苏联笑话/厨艺学校.md",
+    "Outputs/video/苏联笑话/格陵兰.md",
+    "Outputs/video/苏联笑话/只是得了病.md",
+    "Outputs/video/苏联笑话/二人世界.md",
+    "Outputs/video/苏联笑话/黄油短缺.md",
+    "Outputs/video/苏联笑话/谜题.md",
+    "Outputs/video/苏联笑话/没有肉.md",
+    "Outputs/video/苏联笑话/唉！你为什么不鼓掌？.md",
+    "DataBase/Tasks/data/光谷租房23-06-16.table",
+    "DataBase/Tasks/data/付费直播-直播间内创建预售门票.md",
+    "DataBase/Tasks/data/房子转租2023.md",
+    "DataBase/Tasks/data/离职交接.md",
     "Outputs/video/苏联笑话/谁把靴子扔到控制台上去了.md",
     "Outputs/video/苏联笑话/斯大林发言.md",
     "Outputs/video/苏联笑话/我在等一份讣告。.md",
@@ -254,27 +270,10 @@
     "Outputs/video/苏联笑话/他们第一下打偏了吗.md",
     "Outputs/video/苏联笑话/什么是最勇敢的人.md",
     "Outputs/video/苏联笑话/和总路线一起动摇.md",
-    "Outputs/video/苏联笑话/没犯罪他们只给判五年.md",
-    "DataBase/Life/Passwords.md",
-    "DataBase/Tasks/data/微派入职.md",
-    "DataBase/Tasks/data/光谷租房23-06-16.table",
-    "DataBase/Tasks/data/简历投递.md",
-    "Outputs/video/苏联笑话/多好的孩子啊，长的真像他爷爷！.md",
-    "Outputs/video/苏联笑话/我不同意我的意见.md",
-    "Outputs/video/苏联笑话/但我对癌症一窍不通啊.md",
-    "Outputs/video/苏联笑话/回答2.md",
-    "Outputs/video/苏联笑话/那人是印度驻苏大使.md",
-    "Outputs/video/苏联笑话/原来您长这样，列宁爷爷.md",
-    "Outputs/video/苏联笑话/我准备买一双靴子.md",
-    "Outputs/video/苏联笑话/泄漏国家机密.md",
-    "Work/工作经历/抖音/抖音.md",
     "Resources/pdf/B0904_B0905_离职证明电子签-全职.pdf",
     "Resources/pdf/张劲录用通知函.pdf",
     "WorkDesk.canvas",
-    "Resources/pdf/pdf.md",
     "Resources/pdf",
-    "Work/工作经历/抖音/主播端/主播端.md",
-    "Work/工作经历/抖音/录播/录播.md",
     "Work/工作经历/抖音",
     "DataBase/Literature/Music/Classic",
     "Resources/Images/65058AB0.png",
