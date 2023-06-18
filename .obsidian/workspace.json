@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9869a69c0336a4f6",
+        "id": "a693b70e2bad4f42",
         "type": "tabs",
         "children": [
           {
-            "id": "a5b09cb72f3c028c",
+            "id": "e257ae50f73eccba",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Home Page.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               },
@@ -242,7 +242,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a5b09cb72f3c028c",
+  "active": "e257ae50f73eccba",
   "lastOpenFiles": [
     "Outputs/video/苏联笑话/苏联笑话.md",
     "Outputs/video/苏联笑话/唉！你为什么不鼓掌？.md",
