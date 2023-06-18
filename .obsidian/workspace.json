@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "Home Page.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               },
@@ -76,8 +76,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
