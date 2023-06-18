@@ -2,7 +2,7 @@
 tags: 
 - 苏联笑话 
 alias:
-used: 0
+used: 1
 ---
 [[苏联笑话]]
 
