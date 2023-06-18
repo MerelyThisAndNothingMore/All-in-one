@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "fa508dc7a4e53846",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/Tasks/data/微派入职.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -107,7 +122,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Tasks/data/微派入职.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -142,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Tasks/data/微派入职.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "DataBase/Tasks/data/微派入职.md"
               }
             }
           },
@@ -185,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "DataBase/Tasks/data/微派入职.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,9 +257,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "405e63d9a84d7733",
+  "active": "fa508dc7a4e53846",
   "lastOpenFiles": [
     "DataBase/Tasks/data/装机.md",
+    "Home Page.md",
     "Untitled.table",
     "DataBase/Tasks/data/微派入职.md",
     "Outputs/video/苏联笑话/黄油短缺.md",
@@ -252,7 +268,6 @@
     "Outputs/video/苏联笑话/小心身体，同志，别感冒.md",
     "Outputs/video/苏联笑话/我没说过这个笑话.md",
     "Outputs/video/苏联笑话/回答v3.md",
-    "Home Page.md",
     "Outputs/video/苏联笑话/苏联笑话：这是谁写的，请站出来！.md",
     "Outputs/video/苏联笑话/锁很结实.md",
     "Outputs/video/苏联笑话/管子工.md",
