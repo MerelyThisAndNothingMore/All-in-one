@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cae3a620704e4eaf",
+        "id": "f44bb0c4f4f9fbb0",
         "type": "tabs",
         "children": [
           {
-            "id": "bad0ed6aaabe0fff",
+            "id": "32aebc2dfbcf72ec",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,124 +23,20 @@
             }
           },
           {
-            "id": "be6e6e3e99142c0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/苏联笑话.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "13d860b0a878f0eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/一只兔子在街上狂奔.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d519bd5520d75efa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/危险场所都会竖起红旗.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bbf3bb1ebd49b0fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/回答v3.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c529f67b00b9a625",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/酒吧里谈话.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1818d1aab7c83118",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/给了普通人多少实惠.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "88a29a62cd31a92a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/密封性.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ae9c1573a0e7ea2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outputs/video/苏联笑话/苏联笑话.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "117c1b50a6250442",
+            "id": "109d7ad5e4ed32df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Outputs/video/苏联笑话/来瓶伏特加.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -350,25 +246,26 @@
       "random-note:Open random note": false,
       "canvas:Create new canvas": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-memos:Memos": false,
-      "periodic-notes:Open today": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "homepage:Open homepage": false,
       "dbfolder:Create a new database table": false,
-      "notion-like-tables:Create Notion-Like table": false
+      "notion-like-tables:Create Notion-Like table": false,
+      "obsidian-memos:Memos": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "117c1b50a6250442",
+  "active": "109d7ad5e4ed32df",
   "lastOpenFiles": [
     "Outputs/video/苏联笑话/苏联笑话.md",
+    "Outputs/video/苏联笑话/密封性.md",
+    "Outputs/video/苏联笑话/回答v3.md",
+    "Home Page.md",
     "Outputs/video/苏联笑话/来瓶伏特加.md",
     "Outputs/video/苏联笑话/我们是第一批难民.md",
-    "Outputs/video/苏联笑话/回答v3.md",
     "Outputs/video/苏联笑话/谁来讲笑话呢？.md",
-    "Outputs/video/苏联笑话/密封性.md",
     "Outputs/video/苏联笑话/给了普通人多少实惠.md",
     "Outputs/video/苏联笑话/酒吧里谈话.md",
     "Outputs/video/苏联笑话/我们的苏维埃兄弟’.md",
@@ -388,7 +285,6 @@
     "Outputs/video/苏联笑话/斯大林在办公室发现了老鼠.md",
     "Outputs/video/苏联笑话/谁把靴子扔到控制台上去了.md",
     "Outputs/video/苏联笑话/唉！你为什么不鼓掌？.md",
-    "Home Page.md",
     "Untitled.table",
     "DataBase/Tasks/data/光谷租房23-06-16.table",
     "Resources/pdf/B0904_B0905_离职证明电子签-全职.pdf",
