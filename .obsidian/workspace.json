@@ -28,8 +28,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Outputs/video/苏联笑话/回答v3.md",
-                "mode": "preview",
+                "file": "Outputs/video/苏联笑话/地球喵喵教信徒.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Outputs/video/苏联笑话/回答v3.md",
+                "file": "Outputs/video/苏联笑话/地球喵喵教信徒.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Outputs/video/苏联笑话/回答v3.md",
+                "file": "Outputs/video/苏联笑话/地球喵喵教信徒.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Outputs/video/苏联笑话/回答v3.md"
+                "file": "Outputs/video/苏联笑话/地球喵喵教信徒.md"
               }
             }
           },
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Outputs/video/苏联笑话/回答v3.md",
+                "file": "Outputs/video/苏联笑话/地球喵喵教信徒.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,15 +259,15 @@
   },
   "active": "f370c03d5d2e8a79",
   "lastOpenFiles": [
-    "Home Page.md",
     "Outputs/video/苏联笑话/苏联笑话.md",
-    "Outputs/video/苏联笑话/坚持工作.md",
+    "Outputs/video/苏联笑话/以防万一.md",
     "Outputs/video/苏联笑话/回答v3.md",
+    "Home Page.md",
+    "Outputs/video/苏联笑话/坚持工作.md",
     "Outputs/video/苏联笑话/您不过就缺条腿.md",
     "Outputs/video/苏联笑话/开除出党.md",
     "Outputs/video/苏联笑话/地球喵喵教信徒.md",
     "Outputs/video/苏联笑话/农庄视察.md",
-    "Outputs/video/苏联笑话/以防万一.md",
     "Outputs/video/苏联笑话/莫斯科发生了地震.md",
     "Outputs/video/苏联笑话/卷心菜.md",
     "Outputs/video/苏联笑话/那里有人复活过啊.md",
