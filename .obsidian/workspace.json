@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "4c10bb63a797cfc1",
+        "id": "cae3a620704e4eaf",
         "type": "tabs",
         "children": [
           {
-            "id": "682a590e387bc270",
+            "id": "bad0ed6aaabe0fff",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Home Page.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               },
@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "f370c03d5d2e8a79",
+            "id": "be6e6e3e99142c0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Outputs/video/苏联笑话/二人世界.md",
+                "file": "Outputs/video/苏联笑话/苏联笑话.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -36,20 +36,240 @@
             }
           },
           {
-            "id": "760d90478292d08f",
+            "id": "13d860b0a878f0eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Outputs/video/苏联笑话/因为我是医生.md",
+                "file": "Outputs/video/苏联笑话/一只兔子在街上狂奔.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d519bd5520d75efa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/video/苏联笑话/危险场所都会竖起红旗.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bbf3bb1ebd49b0fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/video/苏联笑话/回答v3.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c529f67b00b9a625",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/video/苏联笑话/酒吧里谈话.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1818d1aab7c83118",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/video/苏联笑话/给了普通人多少实惠.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88a29a62cd31a92a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/video/苏联笑话/密封性.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ae9c1573a0e7ea2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/video/苏联笑话/苏联笑话.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "117c1b50a6250442",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/video/苏联笑话/苏联笑话.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4fafd0a15fa8a05e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/video/苏联笑话/苏联式选举.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d4c5e7953080112",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/video/苏联笑话/回忆录.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba5311519e582499",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/video/苏联笑话/那里有人复活过啊.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56e15b12207460e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/video/苏联笑话/卷心菜.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "51f0627750b345e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/video/苏联笑话/莫斯科发生了地震.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7ca1965b60c30b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/video/苏联笑话/以防万一.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ead8b05c7c878401",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/video/苏联笑话/农庄视察.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c52fdfe5cf7a51c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/video/苏联笑话/回答v3.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9b001a446d1408c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/video/苏联笑话/回答v3.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c7a92bcc900c0ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/video/苏联笑话/苏联笑话.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,8 +323,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -135,7 +354,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Outputs/video/苏联笑话/二人世界.md",
+                "file": "Home Page.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -170,7 +389,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Outputs/video/苏联笑话/二人世界.md",
+                "file": "Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +406,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Outputs/video/苏联笑话/二人世界.md"
+                "file": "Home Page.md"
               }
             }
           },
@@ -213,7 +432,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Outputs/video/苏联笑话/二人世界.md",
+                "file": "Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,35 +478,30 @@
       "random-note:Open random note": false,
       "canvas:Create new canvas": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-memos:Memos": false,
+      "periodic-notes:Open today": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "homepage:Open homepage": false,
       "dbfolder:Create a new database table": false,
-      "notion-like-tables:Create Notion-Like table": false,
-      "obsidian-memos:Memos": false,
-      "periodic-notes:Open today": false
+      "notion-like-tables:Create Notion-Like table": false
     }
   },
-  "active": "f370c03d5d2e8a79",
+  "active": "9efb66c5acbe3c31",
   "lastOpenFiles": [
-    "Outputs/video/苏联笑话/苏联笑话.md",
-    "Outputs/video/苏联笑话/厨艺学校.md",
-    "Outputs/video/苏联笑话/我们的苏维埃兄弟’.md",
     "Outputs/video/苏联笑话/我穿了安德罗波夫同志的西装。.md",
-    "Outputs/video/苏联笑话/只是得了病.md",
-    "Outputs/video/苏联笑话/枪毙前先把胡子剃了.md",
-    "Outputs/video/苏联笑话/谁来讲笑话呢？.md",
-    "Outputs/video/苏联笑话/因为我是医生.md",
     "Outputs/video/苏联笑话/地球喵喵教同志们！.md",
-    "Outputs/video/苏联笑话/以防万一.md",
-    "Outputs/video/苏联笑话/回答v3.md",
-    "Home Page.md",
+    "Outputs/video/苏联笑话/因为我是医生.md",
+    "Outputs/video/苏联笑话/苏联笑话.md",
     "Outputs/video/苏联笑话/坚持工作.md",
+    "Outputs/video/苏联笑话/回答v3.md",
     "Outputs/video/苏联笑话/您不过就缺条腿.md",
     "Outputs/video/苏联笑话/开除出党.md",
+    "Outputs/video/苏联笑话/地球喵喵教信徒.md",
     "Outputs/video/苏联笑话/农庄视察.md",
+    "Outputs/video/苏联笑话/以防万一.md",
     "Outputs/video/苏联笑话/莫斯科发生了地震.md",
     "Outputs/video/苏联笑话/卷心菜.md",
     "Outputs/video/苏联笑话/那里有人复活过啊.md",
@@ -295,9 +509,14 @@
     "Outputs/video/苏联笑话/苏联式选举.md",
     "Outputs/video/苏联笑话/来瓶伏特加.md",
     "Outputs/video/苏联笑话/我们是第一批难民.md",
+    "Outputs/video/苏联笑话/谁来讲笑话呢？.md",
     "Outputs/video/苏联笑话/密封性.md",
     "Outputs/video/苏联笑话/给了普通人多少实惠.md",
     "Outputs/video/苏联笑话/酒吧里谈话.md",
+    "Outputs/video/苏联笑话/我们的苏维埃兄弟’.md",
+    "Outputs/video/苏联笑话/危险场所都会竖起红旗.md",
+    "Outputs/video/苏联笑话/一只兔子在街上狂奔.md",
+    "Outputs/video/苏联笑话/没犯罪他们只给判五年.md",
     "Untitled.table",
     "DataBase/Tasks/data/光谷租房23-06-16.table",
     "Resources/pdf/B0904_B0905_离职证明电子签-全职.pdf",
