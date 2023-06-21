@@ -1,10 +1,8 @@
 {
 	"nodes":[
-		{"type":"text","text":"工作","id":"5dd923f540c2525d","x":-20,"y":-650,"width":250,"height":60},
 		{"type":"text","text":"目的","id":"8326fec1cf2bd1f4","x":-540,"y":-360,"width":250,"height":60},
 		{"type":"text","text":"投机","id":"fd804cfd3d3f606a","x":-20,"y":-420,"width":250,"height":60},
 		{"type":"text","text":"[[StockWorkdesk]]","id":"1056b0fde2fc4fea","x":460,"y":-420,"width":250,"height":60},
-		{"type":"text","text":"[[微派入职]]","id":"135add753d728543","x":460,"y":-590,"width":250,"height":70},
 		{"type":"text","text":"面试准备","id":"b5e752faf6c412e6","x":460,"y":-840,"width":250,"height":60},
 		{"type":"text","text":"[[经济学学习]]","id":"29f438b4801369c7","x":460,"y":-300,"width":250,"height":60},
 		{"type":"text","text":"创作","id":"3457bf9f1d0e795d","x":-20,"y":-170,"width":250,"height":60},
@@ -15,13 +13,13 @@
 		{"type":"text","text":"金融危机","id":"4c14f1e2d4485001","x":855,"y":-200,"width":250,"height":60},
 		{"type":"text","text":"资本论","id":"0699c744b5255e35","x":855,"y":-110,"width":250,"height":60},
 		{"type":"text","text":"21世纪资本论","id":"828349bf93a751fc","x":840,"y":-390,"width":250,"height":60},
-		{"type":"text","text":"待办","id":"0215197d75138a61","x":-20,"y":-1260,"width":250,"height":60},
 		{"type":"text","text":"[[计算机知识]]","id":"8c3a0e0ac13b7c92","x":885,"y":-1030,"width":250,"height":60},
 		{"type":"text","text":"[[Design Patterns Elements of Reusable Object-Oriented Software|Design Patterns Elements of Reusable Object-Oriented Software]] ","id":"896c34ee66abb696","x":1280,"y":-1120,"width":250,"height":60},
 		{"type":"text","text":"[[Android Docs]]","id":"2f4cd26a111979ef","x":1280,"y":-1030,"width":250,"height":60},
 		{"type":"text","text":"[[设计模式之禅|设计模式之禅]] ","id":"7e781df6a76e2ced","x":1280,"y":-940,"width":250,"height":60},
 		{"type":"text","text":"[[简历准备]]","id":"d25ee57a2dea623b","x":885,"y":-910,"width":250,"height":60,"color":"1"},
-		{"type":"text","text":"[[面试准备]]","id":"5cc1d6f68a02948a","x":885,"y":-780,"width":250,"height":60}
+		{"type":"text","text":"[[面试准备]]","id":"5cc1d6f68a02948a","x":885,"y":-780,"width":250,"height":60},
+		{"type":"text","text":"工作","id":"5dd923f540c2525d","x":-20,"y":-1030,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"debee5227fdbd1e3","fromNode":"8326fec1cf2bd1f4","fromSide":"right","toNode":"5dd923f540c2525d","toSide":"left"},
@@ -30,7 +28,6 @@
 		{"id":"8f79cf3def7a2a78","fromNode":"b5e752faf6c412e6","fromSide":"right","toNode":"d25ee57a2dea623b","toSide":"left"},
 		{"id":"529d3292ffefecfa","fromNode":"b5e752faf6c412e6","fromSide":"right","toNode":"8c3a0e0ac13b7c92","toSide":"left"},
 		{"id":"8b6bbc56fe654467","fromNode":"3457bf9f1d0e795d","fromSide":"right","toNode":"9a7e8446af95657a","toSide":"left"},
-		{"id":"d3de976215d3c938","fromNode":"5dd923f540c2525d","fromSide":"right","toNode":"135add753d728543","toSide":"left"},
 		{"id":"a985c57ce07458e2","fromNode":"8326fec1cf2bd1f4","fromSide":"right","toNode":"fd804cfd3d3f606a","toSide":"left"},
 		{"id":"94dfa9b32e9daf74","fromNode":"fd804cfd3d3f606a","fromSide":"right","toNode":"1056b0fde2fc4fea","toSide":"left"},
 		{"id":"86e2205ebdbd00ea","fromNode":"fd804cfd3d3f606a","fromSide":"right","toNode":"29f438b4801369c7","toSide":"left"},
@@ -44,7 +41,6 @@
 		{"id":"6e2b8aaae2f2eeb3","fromNode":"29f438b4801369c7","fromSide":"right","toNode":"4c14f1e2d4485001","toSide":"left"},
 		{"id":"152f6d0f406bcfc2","fromNode":"29f438b4801369c7","fromSide":"right","toNode":"828349bf93a751fc","toSide":"left"},
 		{"id":"a0d34657f9492329","fromNode":"29f438b4801369c7","fromSide":"right","toNode":"0699c744b5255e35","toSide":"left"},
-		{"id":"9053aa3aabd067f6","fromNode":"8326fec1cf2bd1f4","fromSide":"right","toNode":"0215197d75138a61","toSide":"left"},
 		{"id":"3af70e9238bc7f78","fromNode":"b5e752faf6c412e6","fromSide":"right","toNode":"5cc1d6f68a02948a","toSide":"left"}
 	]
 }
