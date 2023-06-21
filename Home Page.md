@@ -7,7 +7,7 @@ alias:
 
 
 
-
+/map
 
 [[WorkDesk.canvas]]
 ```dataviewjs
