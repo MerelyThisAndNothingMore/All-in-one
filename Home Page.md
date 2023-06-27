@@ -3,11 +3,13 @@ tags:
 alias:
 ---
 前进的道路永无止境！
+QQ群： 1-9群已满 10群新群710354589 密码2MNyTTucENimHP9Q 链接位于群公告，教程和其他说明文件都在群文件夹内
 
-
-
+FB8D6-A9358-9D43A-30258-666AC-BF1EB
 
 /map
+
+https://zhuanlan.zhihu.com/p/212741291
 
 [[WorkDesk.canvas]]
 ```dataviewjs
