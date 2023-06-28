@@ -47,25 +47,6 @@
   box-shadow: none !important;
 }
 
-/* src/react/table-app/function-cell/styles.css */
-.NLT__function-cell {
-  display: flex;
-  justify-content: flex-end;
-  cursor: pointer;
-  overflow: hidden;
-  padding: var(--nlt-cell-spacing-x) var(--nlt-cell-spacing-y);
-}
-
-/* src/react/shared/tag/styles.css */
-.NLT__tag {
-  display: flex;
-  align-items: center;
-  border-radius: 8px;
-  padding: var(--nlt-spacing--xs) var(--nlt-spacing--md);
-  width: max-content;
-  color: var(--text-normal);
-}
-
 /* src/react/table-app/tag-cell/styles.css */
 .NLT__tag-cell {
   width: 100%;
@@ -210,6 +191,11 @@
 }
 .workspace-leaf-content[data-type=notion-like-tables] .view-content {
   padding: 0;
+}
+.NLT__app button,
+.NLT__menu button {
+  background-color: unset;
+  box-shadow: unset;
 }
 .NLT__default-cursor {
   cursor: default !important;
