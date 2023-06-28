@@ -1,6 +1,7 @@
 ---
 tags: 
 alias:
+- Java Native Interface
 ---
 ## 简介
 定义：Java Native Interface，即 Java本地接口
