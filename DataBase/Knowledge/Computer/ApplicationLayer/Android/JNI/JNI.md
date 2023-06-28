@@ -25,3 +25,4 @@ JNI 是属于 Java 的，与 Android 无直接关系
    如 Java 需要与 C++ 交互，那么就用C++实现 Java的Native方法
 5. 编译.so库文件
 6. 通过Java命令执行 Java程序，最终实现Java调用本地代码
+# JNI开发
