@@ -7,6 +7,8 @@ QQ群： 1-9群已满 10群新群710354589 密码2MNyTTucENimHP9Q 链接位于�
 
 FB8D6-A9358-9D43A-30258-666AC-BF1EB
 
+电脑设置server，收集读取的方法。
+
 Android 音视频
 
 /map
