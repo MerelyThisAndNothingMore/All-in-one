@@ -1,11 +1,11 @@
 ---
 tags: 
 alias:
+- Java Native Interface
 ---
+https://juejin.cn/post/6844904192780271630#heading-1
 ## 简介
-定义：Java Native Interface，即 Java本地接口
-作用： 使得Java 与 本地其他类型语言（如C、C++）交互
-即在 Java代码 里调用 C、C++等语言的代码 或 C、C++代码调用 Java 代码
+JNI 允许java虚拟机（[[JVM]]）内运行的[[Java]]代码与[[C]]、[[C++]]和汇编等其他编程语言编写的应用程序和库进行互操作。
 
 特别注意：
 JNI是 Java 调用 Native 语言的一种特性
@@ -25,3 +25,4 @@ JNI 是属于 Java 的，与 Android 无直接关系
    如 Java 需要与 C++ 交互，那么就用C++实现 Java的Native方法
 5. 编译.so库文件
 6. 通过Java命令执行 Java程序，最终实现Java调用本地代码
+# JNI开发

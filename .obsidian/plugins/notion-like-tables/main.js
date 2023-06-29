@@ -2354,9 +2354,9 @@ var require_react_dom_development = __commonJS({
         if (typeof __REACT_DEVTOOLS_GLOBAL_HOOK__ !== "undefined" && typeof __REACT_DEVTOOLS_GLOBAL_HOOK__.registerInternalModuleStart === "function") {
           __REACT_DEVTOOLS_GLOBAL_HOOK__.registerInternalModuleStart(new Error());
         }
-        var React49 = require_react();
+        var React50 = require_react();
         var Scheduler = require_scheduler();
-        var ReactSharedInternals = React49.__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED;
+        var ReactSharedInternals = React50.__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED;
         var suppressWarning = false;
         function setSuppressWarning(newSuppressWarning) {
           {
@@ -3877,7 +3877,7 @@ var require_react_dom_development = __commonJS({
           {
             if (props.value == null) {
               if (typeof props.children === "object" && props.children !== null) {
-                React49.Children.forEach(props.children, function(child) {
+                React50.Children.forEach(props.children, function(child) {
                   if (child == null) {
                     return;
                   }
@@ -12038,7 +12038,7 @@ var require_react_dom_development = __commonJS({
           }
         }
         var fakeInternalInstance = {};
-        var emptyRefsObject = new React49.Component().refs;
+        var emptyRefsObject = new React50.Component().refs;
         var didWarnAboutStateAssignmentForComponent;
         var didWarnAboutUninitializedState;
         var didWarnAboutGetSnapshotBeforeUpdateWithoutDidUpdate;
@@ -22961,7 +22961,7 @@ var require_react_jsx_runtime_development = __commonJS({
     if (true) {
       (function() {
         "use strict";
-        var React49 = require_react();
+        var React50 = require_react();
         var REACT_ELEMENT_TYPE = Symbol.for("react.element");
         var REACT_PORTAL_TYPE = Symbol.for("react.portal");
         var REACT_FRAGMENT_TYPE = Symbol.for("react.fragment");
@@ -22987,7 +22987,7 @@ var require_react_jsx_runtime_development = __commonJS({
           }
           return null;
         }
-        var ReactSharedInternals = React49.__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED;
+        var ReactSharedInternals = React50.__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED;
         function error(format) {
           {
             {
@@ -25896,7 +25896,7 @@ var require_emotion_use_insertion_effect_with_fallbacks_cjs_dev = __commonJS({
   "node_modules/@emotion/react/node_modules/@emotion/use-insertion-effect-with-fallbacks/dist/emotion-use-insertion-effect-with-fallbacks.cjs.dev.js"(exports) {
     "use strict";
     Object.defineProperty(exports, "__esModule", { value: true });
-    var React49 = require_react();
+    var React50 = require_react();
     function _interopNamespace(e) {
       if (e && e.__esModule)
         return e;
@@ -25917,7 +25917,7 @@ var require_emotion_use_insertion_effect_with_fallbacks_cjs_dev = __commonJS({
       n2["default"] = e;
       return Object.freeze(n2);
     }
-    var React__namespace = /* @__PURE__ */ _interopNamespace(React49);
+    var React__namespace = /* @__PURE__ */ _interopNamespace(React50);
     var isBrowser = typeof document !== "undefined";
     var syncFallback = function syncFallback2(create) {
       return create();
@@ -25946,7 +25946,7 @@ var require_emotion_use_insertion_effect_with_fallbacks_cjs = __commonJS({
 var require_emotion_element_48d2c2e4_cjs_dev = __commonJS({
   "node_modules/@emotion/react/dist/emotion-element-48d2c2e4.cjs.dev.js"(exports) {
     "use strict";
-    var React49 = require_react();
+    var React50 = require_react();
     var createCache = require_emotion_cache_cjs();
     var _extends2 = require_extends();
     var weakMemoize = require_emotion_weak_memoize_cjs();
@@ -25977,7 +25977,7 @@ var require_emotion_element_48d2c2e4_cjs_dev = __commonJS({
       n2["default"] = e;
       return Object.freeze(n2);
     }
-    var React__namespace = /* @__PURE__ */ _interopNamespace(React49);
+    var React__namespace = /* @__PURE__ */ _interopNamespace(React50);
     var createCache__default = /* @__PURE__ */ _interopDefault(createCache);
     var weakMemoize__default = /* @__PURE__ */ _interopDefault(weakMemoize);
     var isBrowser = typeof document !== "undefined";
@@ -25992,18 +25992,18 @@ var require_emotion_element_48d2c2e4_cjs_dev = __commonJS({
     }
     var CacheProvider2 = EmotionCacheContext.Provider;
     var __unsafe_useEmotionCache2 = function useEmotionCache() {
-      return React49.useContext(EmotionCacheContext);
+      return React50.useContext(EmotionCacheContext);
     };
     exports.withEmotionCache = function withEmotionCache2(func) {
-      return /* @__PURE__ */ React49.forwardRef(function(props, ref) {
-        var cache = React49.useContext(EmotionCacheContext);
+      return /* @__PURE__ */ React50.forwardRef(function(props, ref) {
+        var cache = React50.useContext(EmotionCacheContext);
         return func(props, cache, ref);
       });
     };
     if (!isBrowser) {
       exports.withEmotionCache = function withEmotionCache2(func) {
         return function(props) {
-          var cache = React49.useContext(EmotionCacheContext);
+          var cache = React50.useContext(EmotionCacheContext);
           if (cache === null) {
             cache = createCache__default["default"]({
               key: "css"
@@ -26266,8 +26266,8 @@ var require_use_sync_external_store_shim_development = __commonJS({
         if (typeof __REACT_DEVTOOLS_GLOBAL_HOOK__ !== "undefined" && typeof __REACT_DEVTOOLS_GLOBAL_HOOK__.registerInternalModuleStart === "function") {
           __REACT_DEVTOOLS_GLOBAL_HOOK__.registerInternalModuleStart(new Error());
         }
-        var React49 = require_react();
-        var ReactSharedInternals = React49.__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED;
+        var React50 = require_react();
+        var ReactSharedInternals = React50.__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED;
         function error(format) {
           {
             {
@@ -26297,13 +26297,13 @@ var require_use_sync_external_store_shim_development = __commonJS({
           return x2 === y2 && (x2 !== 0 || 1 / x2 === 1 / y2) || x2 !== x2 && y2 !== y2;
         }
         var objectIs = typeof Object.is === "function" ? Object.is : is;
-        var useState2 = React49.useState, useEffect2 = React49.useEffect, useLayoutEffect2 = React49.useLayoutEffect, useDebugValue2 = React49.useDebugValue;
+        var useState2 = React50.useState, useEffect2 = React50.useEffect, useLayoutEffect2 = React50.useLayoutEffect, useDebugValue2 = React50.useDebugValue;
         var didWarnOld18Alpha = false;
         var didWarnUncachedGetSnapshot = false;
         function useSyncExternalStore3(subscribe2, getSnapshot, getServerSnapshot) {
           {
             if (!didWarnOld18Alpha) {
-              if (React49.startTransition !== void 0) {
+              if (React50.startTransition !== void 0) {
                 didWarnOld18Alpha = true;
                 error("You are using an outdated, pre-release alpha of React 18 that does not support useSyncExternalStore. The use-sync-external-store shim will not work correctly. Upgrade to a newer pre-release.");
               }
@@ -26368,7 +26368,7 @@ var require_use_sync_external_store_shim_development = __commonJS({
         var canUseDOM2 = !!(typeof window !== "undefined" && typeof window.document !== "undefined" && typeof window.document.createElement !== "undefined");
         var isServerEnvironment = !canUseDOM2;
         var shim = isServerEnvironment ? useSyncExternalStore$1 : useSyncExternalStore3;
-        var useSyncExternalStore$2 = React49.useSyncExternalStore !== void 0 ? React49.useSyncExternalStore : shim;
+        var useSyncExternalStore$2 = React50.useSyncExternalStore !== void 0 ? React50.useSyncExternalStore : shim;
         exports.useSyncExternalStore = useSyncExternalStore$2;
         if (typeof __REACT_DEVTOOLS_GLOBAL_HOOK__ !== "undefined" && typeof __REACT_DEVTOOLS_GLOBAL_HOOK__.registerInternalModuleStop === "function") {
           __REACT_DEVTOOLS_GLOBAL_HOOK__.registerInternalModuleStop(new Error());
@@ -26400,14 +26400,14 @@ var require_with_selector_development = __commonJS({
         if (typeof __REACT_DEVTOOLS_GLOBAL_HOOK__ !== "undefined" && typeof __REACT_DEVTOOLS_GLOBAL_HOOK__.registerInternalModuleStart === "function") {
           __REACT_DEVTOOLS_GLOBAL_HOOK__.registerInternalModuleStart(new Error());
         }
-        var React49 = require_react();
+        var React50 = require_react();
         var shim = require_shim();
         function is(x2, y2) {
           return x2 === y2 && (x2 !== 0 || 1 / x2 === 1 / y2) || x2 !== x2 && y2 !== y2;
         }
         var objectIs = typeof Object.is === "function" ? Object.is : is;
         var useSyncExternalStore3 = shim.useSyncExternalStore;
-        var useRef3 = React49.useRef, useEffect2 = React49.useEffect, useMemo3 = React49.useMemo, useDebugValue2 = React49.useDebugValue;
+        var useRef3 = React50.useRef, useEffect2 = React50.useEffect, useMemo3 = React50.useMemo, useDebugValue2 = React50.useDebugValue;
         function useSyncExternalStoreWithSelector3(subscribe2, getSnapshot, getServerSnapshot, selector, isEqual) {
           var instRef = useRef3(null);
           var inst;
@@ -26688,7 +26688,7 @@ var require_emotion_react_cjs_dev = __commonJS({
     "use strict";
     Object.defineProperty(exports, "__esModule", { value: true });
     var emotionElement = require_emotion_element_48d2c2e4_cjs_dev();
-    var React49 = require_react();
+    var React50 = require_react();
     var utils = require_emotion_utils_cjs();
     var useInsertionEffectWithFallbacks = require_emotion_use_insertion_effect_with_fallbacks_cjs();
     var serialize2 = require_emotion_serialize_cjs();
@@ -26717,7 +26717,7 @@ var require_emotion_react_cjs_dev = __commonJS({
       n2["default"] = e;
       return Object.freeze(n2);
     }
-    var React__namespace = /* @__PURE__ */ _interopNamespace(React49);
+    var React__namespace = /* @__PURE__ */ _interopNamespace(React50);
     var pkg = {
       name: "@emotion/react",
       version: "11.11.0",
@@ -27373,33 +27373,33 @@ var require_useStateManager_7748b351_cjs_dev = __commonJS({
     var _objectSpread = require_objectSpread2();
     var _slicedToArray = require_slicedToArray();
     var _objectWithoutProperties = require_objectWithoutProperties();
-    var React49 = require_react();
+    var React50 = require_react();
     var _excluded = ["defaultInputValue", "defaultMenuIsOpen", "defaultValue", "inputValue", "menuIsOpen", "onChange", "onInputChange", "onMenuClose", "onMenuOpen", "value"];
     function useStateManager(_ref) {
       var _ref$defaultInputValu = _ref.defaultInputValue, defaultInputValue = _ref$defaultInputValu === void 0 ? "" : _ref$defaultInputValu, _ref$defaultMenuIsOpe = _ref.defaultMenuIsOpen, defaultMenuIsOpen = _ref$defaultMenuIsOpe === void 0 ? false : _ref$defaultMenuIsOpe, _ref$defaultValue = _ref.defaultValue, defaultValue = _ref$defaultValue === void 0 ? null : _ref$defaultValue, propsInputValue = _ref.inputValue, propsMenuIsOpen = _ref.menuIsOpen, propsOnChange = _ref.onChange, propsOnInputChange = _ref.onInputChange, propsOnMenuClose = _ref.onMenuClose, propsOnMenuOpen = _ref.onMenuOpen, propsValue = _ref.value, restSelectProps = _objectWithoutProperties(_ref, _excluded);
-      var _useState = React49.useState(propsInputValue !== void 0 ? propsInputValue : defaultInputValue), _useState2 = _slicedToArray(_useState, 2), stateInputValue = _useState2[0], setStateInputValue = _useState2[1];
-      var _useState3 = React49.useState(propsMenuIsOpen !== void 0 ? propsMenuIsOpen : defaultMenuIsOpen), _useState4 = _slicedToArray(_useState3, 2), stateMenuIsOpen = _useState4[0], setStateMenuIsOpen = _useState4[1];
-      var _useState5 = React49.useState(propsValue !== void 0 ? propsValue : defaultValue), _useState6 = _slicedToArray(_useState5, 2), stateValue = _useState6[0], setStateValue = _useState6[1];
-      var onChange = React49.useCallback(function(value2, actionMeta) {
+      var _useState = React50.useState(propsInputValue !== void 0 ? propsInputValue : defaultInputValue), _useState2 = _slicedToArray(_useState, 2), stateInputValue = _useState2[0], setStateInputValue = _useState2[1];
+      var _useState3 = React50.useState(propsMenuIsOpen !== void 0 ? propsMenuIsOpen : defaultMenuIsOpen), _useState4 = _slicedToArray(_useState3, 2), stateMenuIsOpen = _useState4[0], setStateMenuIsOpen = _useState4[1];
+      var _useState5 = React50.useState(propsValue !== void 0 ? propsValue : defaultValue), _useState6 = _slicedToArray(_useState5, 2), stateValue = _useState6[0], setStateValue = _useState6[1];
+      var onChange = React50.useCallback(function(value2, actionMeta) {
         if (typeof propsOnChange === "function") {
           propsOnChange(value2, actionMeta);
         }
         setStateValue(value2);
       }, [propsOnChange]);
-      var onInputChange = React49.useCallback(function(value2, actionMeta) {
+      var onInputChange = React50.useCallback(function(value2, actionMeta) {
         var newValue;
         if (typeof propsOnInputChange === "function") {
           newValue = propsOnInputChange(value2, actionMeta);
         }
         setStateInputValue(newValue !== void 0 ? newValue : value2);
       }, [propsOnInputChange]);
-      var onMenuOpen = React49.useCallback(function() {
+      var onMenuOpen = React50.useCallback(function() {
         if (typeof propsOnMenuOpen === "function") {
           propsOnMenuOpen();
         }
         setStateMenuIsOpen(true);
       }, [propsOnMenuOpen]);
-      var onMenuClose = React49.useCallback(function() {
+      var onMenuClose = React50.useCallback(function() {
         if (typeof propsOnMenuClose === "function") {
           propsOnMenuClose();
         }
@@ -29373,7 +29373,7 @@ var require_index_2fe3dc33_cjs_dev = __commonJS({
     var _typeof = require_typeof();
     var _taggedTemplateLiteral = require_taggedTemplateLiteral();
     var _defineProperty2 = require_defineProperty();
-    var React49 = require_react();
+    var React50 = require_react();
     var reactDom = require_react_dom();
     var dom = require_floating_ui_dom_umd();
     var useLayoutEffect2 = require_use_isomorphic_layout_effect_browser_cjs();
@@ -29722,13 +29722,13 @@ var require_index_2fe3dc33_cjs_dev = __commonJS({
         marginTop: spacing.menuGutter
       });
     };
-    var PortalPlacementContext = /* @__PURE__ */ React49.createContext(null);
+    var PortalPlacementContext = /* @__PURE__ */ React50.createContext(null);
     var MenuPlacer = function MenuPlacer2(props) {
       var children = props.children, minMenuHeight = props.minMenuHeight, maxMenuHeight = props.maxMenuHeight, menuPlacement = props.menuPlacement, menuPosition = props.menuPosition, menuShouldScrollIntoView = props.menuShouldScrollIntoView, theme = props.theme;
-      var _ref3 = React49.useContext(PortalPlacementContext) || {}, setPortalPlacement = _ref3.setPortalPlacement;
-      var ref = React49.useRef(null);
-      var _useState = React49.useState(maxMenuHeight), _useState2 = _slicedToArray(_useState, 2), maxHeight = _useState2[0], setMaxHeight = _useState2[1];
-      var _useState3 = React49.useState(null), _useState4 = _slicedToArray(_useState3, 2), placement = _useState4[0], setPlacement = _useState4[1];
+      var _ref3 = React50.useContext(PortalPlacementContext) || {}, setPortalPlacement = _ref3.setPortalPlacement;
+      var ref = React50.useRef(null);
+      var _useState = React50.useState(maxMenuHeight), _useState2 = _slicedToArray(_useState, 2), maxHeight = _useState2[0], setMaxHeight = _useState2[1];
+      var _useState3 = React50.useState(null), _useState4 = _slicedToArray(_useState3, 2), placement = _useState4[0], setPlacement = _useState4[1];
       var controlHeight = theme.spacing.controlHeight;
       useLayoutEffect__default["default"](function() {
         var menuEl = ref.current;
@@ -29830,16 +29830,16 @@ var require_index_2fe3dc33_cjs_dev = __commonJS({
     };
     var MenuPortal = function MenuPortal2(props) {
       var appendTo = props.appendTo, children = props.children, controlElement = props.controlElement, innerProps = props.innerProps, menuPlacement = props.menuPlacement, menuPosition = props.menuPosition;
-      var menuPortalRef = React49.useRef(null);
-      var cleanupRef = React49.useRef(null);
-      var _useState5 = React49.useState(coercePlacement(menuPlacement)), _useState6 = _slicedToArray(_useState5, 2), placement = _useState6[0], setPortalPlacement = _useState6[1];
-      var portalPlacementContext = React49.useMemo(function() {
+      var menuPortalRef = React50.useRef(null);
+      var cleanupRef = React50.useRef(null);
+      var _useState5 = React50.useState(coercePlacement(menuPlacement)), _useState6 = _slicedToArray(_useState5, 2), placement = _useState6[0], setPortalPlacement = _useState6[1];
+      var portalPlacementContext = React50.useMemo(function() {
         return {
           setPortalPlacement
         };
       }, []);
-      var _useState7 = React49.useState(null), _useState8 = _slicedToArray(_useState7, 2), computedPosition = _useState8[0], setComputedPosition = _useState8[1];
-      var updateComputedPosition = React49.useCallback(function() {
+      var _useState7 = React50.useState(null), _useState8 = _slicedToArray(_useState7, 2), computedPosition = _useState8[0], setComputedPosition = _useState8[1];
+      var updateComputedPosition = React50.useCallback(function() {
         if (!controlElement)
           return;
         var rect = getBoundingClientObj(controlElement);
@@ -29855,7 +29855,7 @@ var require_index_2fe3dc33_cjs_dev = __commonJS({
       useLayoutEffect__default["default"](function() {
         updateComputedPosition();
       }, [updateComputedPosition]);
-      var runAutoUpdate = React49.useCallback(function() {
+      var runAutoUpdate = React50.useCallback(function() {
         if (typeof cleanupRef.current === "function") {
           cleanupRef.current();
           cleanupRef.current = null;
@@ -29869,7 +29869,7 @@ var require_index_2fe3dc33_cjs_dev = __commonJS({
       useLayoutEffect__default["default"](function() {
         runAutoUpdate();
       }, [runAutoUpdate]);
-      var setMenuPortalElement = React49.useCallback(function(menuPortalElement) {
+      var setMenuPortalElement = React50.useCallback(function(menuPortalElement) {
         menuPortalRef.current = menuPortalElement;
         runAutoUpdate();
       }, [runAutoUpdate]);
@@ -30203,7 +30203,7 @@ var require_index_2fe3dc33_cjs_dev = __commonJS({
         width: "100%"
       }, spacingStyle);
     };
-    var Input = function Input2(props) {
+    var Input2 = function Input3(props) {
       var cx = props.cx, value = props.value;
       var _cleanCommonProps = cleanCommonProps(props), innerRef = _cleanCommonProps.innerRef, isDisabled = _cleanCommonProps.isDisabled, isHidden = _cleanCommonProps.isHidden, inputClassName = _cleanCommonProps.inputClassName, innerProps = _objectWithoutProperties(_cleanCommonProps, _excluded);
       return react.jsx("div", _extends2({}, getStyleProps(props, "input", {
@@ -30219,7 +30219,7 @@ var require_index_2fe3dc33_cjs_dev = __commonJS({
         disabled: isDisabled
       }, innerProps)));
     };
-    var Input$1 = Input;
+    var Input$1 = Input2;
     var multiValueCSS = function multiValueCSS2(_ref, unstyled) {
       var _ref$theme = _ref.theme, spacing = _ref$theme.spacing, borderRadius = _ref$theme.borderRadius, colors = _ref$theme.colors;
       return _objectSpread({
@@ -30516,7 +30516,7 @@ var require_Select_5041a4f3_cjs_dev = __commonJS({
     var _inherits = require_inherits();
     var _createSuper = require_createSuper();
     var _toConsumableArray = require_toConsumableArray();
-    var React49 = require_react();
+    var React50 = require_react();
     var index = require_index_2fe3dc33_cjs_dev();
     var react = require_emotion_react_cjs();
     var memoizeOne = require_memoize_one_cjs();
@@ -30544,7 +30544,7 @@ var require_Select_5041a4f3_cjs_dev = __commonJS({
       n2["default"] = e;
       return Object.freeze(n2);
     }
-    var React__namespace = /* @__PURE__ */ _interopNamespace(React49);
+    var React__namespace = /* @__PURE__ */ _interopNamespace(React50);
     var memoizeOne__default = /* @__PURE__ */ _interopDefault(memoizeOne);
     function _EMOTION_STRINGIFIED_CSS_ERROR__$2() {
       return "You have tried to stringify object returned from `css` function. It isn't supposed to be used directly (e.g. as value of the `className` prop), but rather handed to emotion so it can handle it (e.g. as value of `css` prop).";
@@ -30620,10 +30620,10 @@ var require_Select_5041a4f3_cjs_dev = __commonJS({
       var ariaLiveMessages = selectProps.ariaLiveMessages, getOptionLabel2 = selectProps.getOptionLabel, inputValue = selectProps.inputValue, isMulti = selectProps.isMulti, isOptionDisabled2 = selectProps.isOptionDisabled, isSearchable = selectProps.isSearchable, menuIsOpen = selectProps.menuIsOpen, options = selectProps.options, screenReaderStatus = selectProps.screenReaderStatus, tabSelectsValue = selectProps.tabSelectsValue;
       var ariaLabel = selectProps["aria-label"];
       var ariaLive = selectProps["aria-live"];
-      var messages = React49.useMemo(function() {
+      var messages = React50.useMemo(function() {
         return _objectSpread(_objectSpread({}, defaultAriaLiveMessages), ariaLiveMessages || {});
       }, [ariaLiveMessages]);
-      var ariaSelected = React49.useMemo(function() {
+      var ariaSelected = React50.useMemo(function() {
         var message = "";
         if (ariaSelection && messages.onChange) {
           var option = ariaSelection.option, selectedOptions = ariaSelection.options, removedValue = ariaSelection.removedValue, removedValues = ariaSelection.removedValues, value = ariaSelection.value;
@@ -30643,7 +30643,7 @@ var require_Select_5041a4f3_cjs_dev = __commonJS({
         }
         return message;
       }, [ariaSelection, messages, isOptionDisabled2, selectValue, getOptionLabel2]);
-      var ariaFocused = React49.useMemo(function() {
+      var ariaFocused = React50.useMemo(function() {
         var focusMsg = "";
         var focused = focusedOption || focusedValue;
         var isSelected = !!(focusedOption && selectValue && selectValue.includes(focusedOption));
@@ -30661,7 +30661,7 @@ var require_Select_5041a4f3_cjs_dev = __commonJS({
         }
         return focusMsg;
       }, [focusedOption, focusedValue, getOptionLabel2, isOptionDisabled2, messages, focusableOptions, selectValue]);
-      var ariaResults = React49.useMemo(function() {
+      var ariaResults = React50.useMemo(function() {
         var resultsMsg = "";
         if (menuIsOpen && options.length && messages.onFilter) {
           var resultsMessage = screenReaderStatus({
@@ -30674,7 +30674,7 @@ var require_Select_5041a4f3_cjs_dev = __commonJS({
         }
         return resultsMsg;
       }, [focusableOptions, inputValue, menuIsOpen, messages, options, screenReaderStatus]);
-      var ariaGuidance = React49.useMemo(function() {
+      var ariaGuidance = React50.useMemo(function() {
         var guidanceMsg = "";
         if (messages.guidance) {
           var context = focusedValue ? "value" : menuIsOpen ? "menu" : "input";
@@ -30690,13 +30690,13 @@ var require_Select_5041a4f3_cjs_dev = __commonJS({
         return guidanceMsg;
       }, [ariaLabel, focusedOption, focusedValue, isMulti, isOptionDisabled2, isSearchable, menuIsOpen, messages, selectValue, tabSelectsValue]);
       var ariaContext = "".concat(ariaFocused, " ").concat(ariaResults, " ").concat(ariaGuidance);
-      var ScreenReaderText = react.jsx(React49.Fragment, null, react.jsx("span", {
+      var ScreenReaderText = react.jsx(React50.Fragment, null, react.jsx("span", {
         id: "aria-selection"
       }, ariaSelected), react.jsx("span", {
         id: "aria-context"
       }, ariaContext));
       var isInitialFocus = (ariaSelection === null || ariaSelection === void 0 ? void 0 : ariaSelection.action) === "initial-input-focus";
-      return react.jsx(React49.Fragment, null, react.jsx(A11yText$1, {
+      return react.jsx(React50.Fragment, null, react.jsx(A11yText$1, {
         id: id2
       }, isInitialFocus && ScreenReaderText), react.jsx(A11yText$1, {
         "aria-live": ariaLive,
@@ -31038,11 +31038,11 @@ var require_Select_5041a4f3_cjs_dev = __commonJS({
     };
     function useScrollCapture(_ref3) {
       var isEnabled = _ref3.isEnabled, onBottomArrive = _ref3.onBottomArrive, onBottomLeave = _ref3.onBottomLeave, onTopArrive = _ref3.onTopArrive, onTopLeave = _ref3.onTopLeave;
-      var isBottom = React49.useRef(false);
-      var isTop = React49.useRef(false);
-      var touchStart = React49.useRef(0);
-      var scrollTarget = React49.useRef(null);
-      var handleEventDelta = React49.useCallback(function(event, delta) {
+      var isBottom = React50.useRef(false);
+      var isTop = React50.useRef(false);
+      var touchStart = React50.useRef(0);
+      var scrollTarget = React50.useRef(null);
+      var handleEventDelta = React50.useCallback(function(event, delta) {
         if (scrollTarget.current === null)
           return;
         var _scrollTarget$current = scrollTarget.current, scrollTop = _scrollTarget$current.scrollTop, scrollHeight = _scrollTarget$current.scrollHeight, clientHeight = _scrollTarget$current.clientHeight;
@@ -31079,17 +31079,17 @@ var require_Select_5041a4f3_cjs_dev = __commonJS({
           cancelScroll(event);
         }
       }, [onBottomArrive, onBottomLeave, onTopArrive, onTopLeave]);
-      var onWheel = React49.useCallback(function(event) {
+      var onWheel = React50.useCallback(function(event) {
         handleEventDelta(event, event.deltaY);
       }, [handleEventDelta]);
-      var onTouchStart = React49.useCallback(function(event) {
+      var onTouchStart = React50.useCallback(function(event) {
         touchStart.current = event.changedTouches[0].clientY;
       }, []);
-      var onTouchMove = React49.useCallback(function(event) {
+      var onTouchMove = React50.useCallback(function(event) {
         var deltaY = touchStart.current - event.changedTouches[0].clientY;
         handleEventDelta(event, deltaY);
       }, [handleEventDelta]);
-      var startListening = React49.useCallback(function(el) {
+      var startListening = React50.useCallback(function(el) {
         if (!el)
           return;
         var notPassive = index.supportsPassiveEvents ? {
@@ -31099,14 +31099,14 @@ var require_Select_5041a4f3_cjs_dev = __commonJS({
         el.addEventListener("touchstart", onTouchStart, notPassive);
         el.addEventListener("touchmove", onTouchMove, notPassive);
       }, [onTouchMove, onTouchStart, onWheel]);
-      var stopListening = React49.useCallback(function(el) {
+      var stopListening = React50.useCallback(function(el) {
         if (!el)
           return;
         el.removeEventListener("wheel", onWheel, false);
         el.removeEventListener("touchstart", onTouchStart, false);
         el.removeEventListener("touchmove", onTouchMove, false);
       }, [onTouchMove, onTouchStart, onWheel]);
-      React49.useEffect(function() {
+      React50.useEffect(function() {
         if (!isEnabled)
           return;
         var element = scrollTarget.current;
@@ -31153,9 +31153,9 @@ var require_Select_5041a4f3_cjs_dev = __commonJS({
     };
     function useScrollLock(_ref3) {
       var isEnabled = _ref3.isEnabled, _ref$accountForScroll = _ref3.accountForScrollbars, accountForScrollbars = _ref$accountForScroll === void 0 ? true : _ref$accountForScroll;
-      var originalStyles = React49.useRef({});
-      var scrollTarget = React49.useRef(null);
-      var addScrollLock = React49.useCallback(function(touchScrollTarget) {
+      var originalStyles = React50.useRef({});
+      var scrollTarget = React50.useRef(null);
+      var addScrollLock = React50.useCallback(function(touchScrollTarget) {
         if (!canUseDOM2)
           return;
         var target = document.body;
@@ -31189,7 +31189,7 @@ var require_Select_5041a4f3_cjs_dev = __commonJS({
         }
         activeScrollLocks += 1;
       }, [accountForScrollbars]);
-      var removeScrollLock = React49.useCallback(function(touchScrollTarget) {
+      var removeScrollLock = React50.useCallback(function(touchScrollTarget) {
         if (!canUseDOM2)
           return;
         var target = document.body;
@@ -31211,7 +31211,7 @@ var require_Select_5041a4f3_cjs_dev = __commonJS({
           }
         }
       }, [accountForScrollbars]);
-      React49.useEffect(function() {
+      React50.useEffect(function() {
         if (!isEnabled)
           return;
         var element = scrollTarget.current;
@@ -31255,7 +31255,7 @@ var require_Select_5041a4f3_cjs_dev = __commonJS({
         setScrollCaptureTarget(element);
         setScrollLockTarget(element);
       };
-      return react.jsx(React49.Fragment, null, lockEnabled && react.jsx("div", {
+      return react.jsx(React50.Fragment, null, lockEnabled && react.jsx("div", {
         onClick: blurSelectInput,
         css: _ref2$1
       }), children(targetRef));
@@ -32329,7 +32329,7 @@ var require_Select_5041a4f3_cjs_dev = __commonJS({
         key: "renderInput",
         value: function renderInput() {
           var _this$props8 = this.props, isDisabled = _this$props8.isDisabled, isSearchable = _this$props8.isSearchable, inputId = _this$props8.inputId, inputValue = _this$props8.inputValue, tabIndex = _this$props8.tabIndex, form = _this$props8.form, menuIsOpen = _this$props8.menuIsOpen, required = _this$props8.required;
-          var _this$getComponents = this.getComponents(), Input = _this$getComponents.Input;
+          var _this$getComponents = this.getComponents(), Input2 = _this$getComponents.Input;
           var _this$state4 = this.state, inputIsHidden = _this$state4.inputIsHidden, ariaSelection = _this$state4.ariaSelection;
           var commonProps = this.commonProps;
           var id2 = inputId || this.getElementId("input");
@@ -32367,7 +32367,7 @@ var require_Select_5041a4f3_cjs_dev = __commonJS({
               value: ""
             }, ariaAttributes));
           }
-          return /* @__PURE__ */ React__namespace.createElement(Input, _extends2({}, commonProps, {
+          return /* @__PURE__ */ React__namespace.createElement(Input2, _extends2({}, commonProps, {
             autoCapitalize: "none",
             autoComplete: "off",
             autoCorrect: "off",
@@ -32771,7 +32771,7 @@ var require_Select_5041a4f3_cjs_dev = __commonJS({
         }
       }]);
       return Select2;
-    }(React49.Component);
+    }(React50.Component);
     Select.defaultProps = defaultProps;
     exports.Select = Select;
     exports.createFilter = createFilter;
@@ -32790,7 +32790,7 @@ var require_react_select_cjs_dev = __commonJS({
     Object.defineProperty(exports, "__esModule", { value: true });
     var useStateManager = require_useStateManager_7748b351_cjs_dev();
     var _extends2 = require_extends2();
-    var React49 = require_react();
+    var React50 = require_react();
     var Select = require_Select_5041a4f3_cjs_dev();
     var react = require_emotion_react_cjs();
     var createCache = require_emotion_cache_cjs();
@@ -32833,9 +32833,9 @@ var require_react_select_cjs_dev = __commonJS({
       n2["default"] = e;
       return Object.freeze(n2);
     }
-    var React__namespace = /* @__PURE__ */ _interopNamespace(React49);
+    var React__namespace = /* @__PURE__ */ _interopNamespace(React50);
     var createCache__default = /* @__PURE__ */ _interopDefault(createCache);
-    var StateManagedSelect = /* @__PURE__ */ React49.forwardRef(function(props, ref) {
+    var StateManagedSelect = /* @__PURE__ */ React50.forwardRef(function(props, ref) {
       var baseSelectProps = useStateManager.useStateManager(props);
       return /* @__PURE__ */ React__namespace.createElement(Select.Select, _extends2({
         ref
@@ -32844,7 +32844,7 @@ var require_react_select_cjs_dev = __commonJS({
     var StateManagedSelect$1 = StateManagedSelect;
     var NonceProvider = function(_ref) {
       var nonce = _ref.nonce, children = _ref.children, cacheKey = _ref.cacheKey;
-      var emotionCache = React49.useMemo(function() {
+      var emotionCache = React50.useMemo(function() {
         return createCache__default["default"]({
           key: cacheKey,
           nonce
@@ -39472,7 +39472,7 @@ __export(main_exports, {
   default: () => NLTPlugin
 });
 module.exports = __toCommonJS(main_exports);
-var import_obsidian14 = require("obsidian");
+var import_obsidian13 = require("obsidian");
 
 // src/obsidian/nlt-settings-tab.ts
 var import_obsidian = require("obsidian");
@@ -39483,18 +39483,11 @@ var NLTSettingsTab = class extends import_obsidian.PluginSettingTab {
     __publicField(this, "plugin");
     this.plugin = plugin;
   }
-  display() {
-    const { containerEl } = this;
-    containerEl.empty();
-    containerEl.createEl("h2", { text: "Notion-Like Tables" });
-    containerEl.createSpan(
-      {},
-      (span) => span.innerHTML = `<strong style="color: var(--text-accent); font-size: 12px;">Please restart Obsidian for these settings to take effect</strong>`
-    );
+  renderFileSettings(containerEl) {
     new import_obsidian2.Setting(containerEl).setName("File").setHeading();
     const attachmentsFolderDesc = new DocumentFragment();
     attachmentsFolderDesc.createSpan({}, (span) => {
-      span.innerHTML = `Create tables in the attachments folder defined in the Obsidian settings.<br><br>This can be changed in <span style="color: var(--text-accent);">Files & Links -> Default location for new attachments</span><br><br>Otherwise, the custom location below will be used.`;
+      span.innerHTML = `Create tables in the attachments folder defined in the Obsidian settings.<br><br>This can be changed in <span style="color: var(--text-accent);">Files & Links -> Default location for new attachments</span><br><br>Otherwise, the folder location below will be used.`;
     });
     new import_obsidian2.Setting(containerEl).setName("Create new tables in the attachments folder").setDesc(attachmentsFolderDesc).addToggle((cb) => {
       cb.setValue(
@@ -39505,12 +39498,12 @@ var NLTSettingsTab = class extends import_obsidian.PluginSettingTab {
         this.display();
       }));
     });
-    const customLocationDesc = new DocumentFragment();
-    customLocationDesc.createSpan({}, (span) => {
-      span.innerHTML = `Folder that new tables will be created in. Please don't include a slash at the start or end.<br>e.g. <strong>myfolder/subdirectory</strong><br><br>Default location is the vault root folder, if not specified.`;
+    const defaultLocationDesc = new DocumentFragment();
+    defaultLocationDesc.createSpan({}, (span) => {
+      span.innerHTML = `Where newly created tables are placed. Please don't include a slash at the beginning or end of the value.<br>e.g. <strong>myfolder/subdirectory</strong><br><br>Default location is the vault root folder, if not specified.`;
     });
     if (this.plugin.settings.createAtObsidianAttachmentFolder === false) {
-      new import_obsidian2.Setting(containerEl).setName("Custom location for new tables").setDesc(customLocationDesc).addText((cb) => {
+      new import_obsidian2.Setting(containerEl).setName("Default location for new tables").setDesc(defaultLocationDesc).addText((cb) => {
         cb.setValue(
           this.plugin.settings.customFolderForNewTables
         ).onChange((value) => __async(this, null, function* () {
@@ -39519,26 +39512,14 @@ var NLTSettingsTab = class extends import_obsidian.PluginSettingTab {
         }));
       });
     }
-    const activeFileNameTimestampDesc = new DocumentFragment();
-    activeFileNameTimestampDesc.createSpan({}, (span) => {
-      span.innerHTML = `If a markdown file is open, the active file name and current timestamp will be used as the table name.<br>e.g. if <strong>Test.md</strong> is open, the table will be named <strong>Test-2023-04-14T13.12.59-06.00.table</strong><br><br>Otherwise, the default table file name will be used.<br>e.g <strong>Untitled.table</strong>`;
-    });
-    new import_obsidian2.Setting(containerEl).setName(
-      "Create table name based on active file name and timestamp"
-    ).setDesc(activeFileNameTimestampDesc).addToggle((cb) => {
-      cb.setValue(
-        this.plugin.settings.nameWithActiveFileNameAndTimestamp
-      ).onChange((value) => __async(this, null, function* () {
-        this.plugin.settings.nameWithActiveFileNameAndTimestamp = value;
-        yield this.plugin.saveSettings();
-      }));
-    });
+  }
+  renderExportSettings(containerEl) {
     const exportRenderMarkdownDesc = new DocumentFragment();
     exportRenderMarkdownDesc.createSpan({}, (span) => {
-      span.innerHTML = "This will cause all exported values to be rendered in markdown format. Disable this option if you primarily export in CSV and don't want markdown, like links wrapped in brackets.";
+      span.innerHTML = "If enabled, content will be exported as markdown. For example, if enabled, a checkbox cell's content will be exported as <strong>[ ]</strong> or <strong>[x]<strong>. If disabled, the content will be exported as <strong>true<strong> or <strong>false<strong>.";
     });
     new import_obsidian2.Setting(containerEl).setName("Export").setHeading();
-    new import_obsidian2.Setting(containerEl).setName("Render markdown values").setDesc(exportRenderMarkdownDesc).addToggle((cb) => {
+    new import_obsidian2.Setting(containerEl).setName("Export content as markdown").setDesc(exportRenderMarkdownDesc).addToggle((cb) => {
       cb.setValue(this.plugin.settings.exportRenderMarkdown).onChange(
         (value) => __async(this, null, function* () {
           this.plugin.settings.exportRenderMarkdown = value;
@@ -39546,6 +39527,39 @@ var NLTSettingsTab = class extends import_obsidian.PluginSettingTab {
         })
       );
     });
+  }
+  renderEmbeddedTableSettings(containerEl) {
+    new import_obsidian2.Setting(containerEl).setName("Embedded Tables").setHeading();
+    const defaultEmbedWidthDesc = new DocumentFragment();
+    defaultEmbedWidthDesc.createSpan({}, (span) => {
+      span.innerHTML = "The default embedded table width. Accepts valid HTML width values. Like <strong>100px<strong>, <strong>50%</strong>, etc.";
+    });
+    new import_obsidian2.Setting(containerEl).setName("Default embedded table width").setDesc(defaultEmbedWidthDesc).addText((cb) => {
+      cb.setValue(this.plugin.settings.defaultEmbedWidth).onChange(
+        (value) => __async(this, null, function* () {
+          this.plugin.settings.defaultEmbedWidth = value;
+          yield this.plugin.saveSettings();
+        })
+      );
+    });
+    const defaultEmbedHeightDesc = new DocumentFragment();
+    defaultEmbedHeightDesc.createSpan({}, (span) => {
+      span.innerHTML = "The default embedded table height. Accepts valid HTML width values. Like <strong>100px</strong>, <strong>50%</strong>, etc.";
+    });
+    new import_obsidian2.Setting(containerEl).setName("Default embedded table height").setDesc(defaultEmbedHeightDesc).addText((cb) => {
+      cb.setValue(this.plugin.settings.defaultEmbedHeight).onChange(
+        (value) => __async(this, null, function* () {
+          this.plugin.settings.defaultEmbedHeight = value;
+          yield this.plugin.saveSettings();
+        })
+      );
+    });
+    containerEl.createSpan(
+      {},
+      (span) => span.innerHTML = `<strong style="color: var(--text-accent); font-size: 12px;">Please close and reopen your embedded table tabs for these settings to take effect</strong>`
+    );
+  }
+  renderDebugSettings(containerEl) {
     new import_obsidian2.Setting(containerEl).setName("Debug").setHeading();
     new import_obsidian2.Setting(containerEl).setName("Debug mode").setDesc(
       "Turns on console.log for plugin events. This is useful for troubleshooting."
@@ -39557,6 +39571,14 @@ var NLTSettingsTab = class extends import_obsidian.PluginSettingTab {
         })
       );
     });
+  }
+  display() {
+    const { containerEl } = this;
+    containerEl.empty();
+    this.renderFileSettings(containerEl);
+    this.renderExportSettings(containerEl);
+    this.renderEmbeddedTableSettings(containerEl);
+    this.renderDebugSettings(containerEl);
   }
 };
 
@@ -41127,9 +41149,8 @@ N();
 
 // src/redux/global/global-slice.ts
 var initialState = {
-  isDarkMode: false,
-  shouldDebug: false,
-  exportRenderMarkdown: true
+  settings: DEFAULT_SETTINGS,
+  isDarkMode: false
 };
 var globalSlice = createSlice({
   name: "global",
@@ -41138,15 +41159,12 @@ var globalSlice = createSlice({
     setDarkMode(state, action) {
       state.isDarkMode = action.payload;
     },
-    setDebugMode(state, action) {
-      state.shouldDebug = action.payload;
-    },
-    setExportRenderMarkdown(state, action) {
-      state.exportRenderMarkdown = action.payload;
+    setSettings(state, action) {
+      state.settings = action.payload;
     }
   }
 });
-var { setDarkMode, setDebugMode, setExportRenderMarkdown } = globalSlice.actions;
+var { setDarkMode, setSettings } = globalSlice.actions;
 var global_slice_default = globalSlice.reducer;
 
 // src/redux/global/store.ts
@@ -45453,7 +45471,7 @@ var log = (shouldDebug) => (message, args = {}) => {
   }
 };
 var useLogger = () => {
-  const { shouldDebug } = useAppSelector((state) => state.global);
+  const { shouldDebug } = useAppSelector((state) => state.global.settings);
   const logger = import_react10.default.useCallback(
     (message, args) => log(shouldDebug)(message, args),
     [shouldDebug]
@@ -45550,6 +45568,7 @@ var Color = /* @__PURE__ */ ((Color2) => {
   return Color2;
 })(Color || {});
 var PaddingSize = /* @__PURE__ */ ((PaddingSize5) => {
+  PaddingSize5["UNSET"] = "unset";
   PaddingSize5["SM"] = "sm";
   PaddingSize5["MD"] = "md";
   PaddingSize5["LG"] = "lg";
@@ -45557,7 +45576,6 @@ var PaddingSize = /* @__PURE__ */ ((PaddingSize5) => {
   PaddingSize5["XXL"] = "2xl";
   PaddingSize5["XXXL"] = "3xl";
   PaddingSize5["XXXXL"] = "4xl";
-  PaddingSize5["UNSET"] = "unset";
   return PaddingSize5;
 })(PaddingSize || {});
 var CellType = /* @__PURE__ */ ((CellType5) => {
@@ -45603,66 +45621,76 @@ var CurrencyType = /* @__PURE__ */ ((CurrencyType9) => {
   CurrencyType9["ARGENTINA"] = "ARS";
   return CurrencyType9;
 })(CurrencyType || {});
-var GeneralFunction = /* @__PURE__ */ ((GeneralFunction3) => {
-  GeneralFunction3["NONE"] = "none";
-  GeneralFunction3["COUNT_ALL"] = "count-all";
-  GeneralFunction3["COUNT_VALUES"] = "count-values";
-  GeneralFunction3["COUNT_UNIQUE"] = "count-unique";
-  GeneralFunction3["COUNT_EMPTY"] = "count-empty";
-  GeneralFunction3["COUNT_NOT_EMPTY"] = "count-not-empty";
-  GeneralFunction3["PERCENT_EMPTY"] = "percent-empty";
-  GeneralFunction3["PERCENT_NOT_EMPTY"] = "percent-not-empty";
-  return GeneralFunction3;
-})(GeneralFunction || {});
-var NumberFunction = /* @__PURE__ */ ((NumberFunction2) => {
-  NumberFunction2["SUM"] = "sum";
-  NumberFunction2["AVG"] = "avg";
-  NumberFunction2["MIN"] = "min";
-  NumberFunction2["MAX"] = "max";
-  NumberFunction2["MEDIAN"] = "median";
-  NumberFunction2["RANGE"] = "range";
-  return NumberFunction2;
-})(NumberFunction || {});
+var Calculation = /* @__PURE__ */ ((Calculation3) => {
+  Calculation3["NONE"] = "none";
+  Calculation3["COUNT_ALL"] = "count-all";
+  Calculation3["COUNT_VALUES"] = "count-values";
+  Calculation3["COUNT_UNIQUE"] = "count-unique";
+  Calculation3["COUNT_EMPTY"] = "count-empty";
+  Calculation3["COUNT_NOT_EMPTY"] = "count-not-empty";
+  Calculation3["PERCENT_EMPTY"] = "percent-empty";
+  Calculation3["PERCENT_NOT_EMPTY"] = "percent-not-empty";
+  return Calculation3;
+})(Calculation || {});
+var NumberCalculation = /* @__PURE__ */ ((NumberCalculation2) => {
+  NumberCalculation2["SUM"] = "sum";
+  NumberCalculation2["AVG"] = "avg";
+  NumberCalculation2["MIN"] = "min";
+  NumberCalculation2["MAX"] = "max";
+  NumberCalculation2["MEDIAN"] = "median";
+  NumberCalculation2["RANGE"] = "range";
+  return NumberCalculation2;
+})(NumberCalculation || {});
 var AspectRatio = /* @__PURE__ */ ((AspectRatio5) => {
-  AspectRatio5["ONE_BY_ONE"] = "1/1";
+  AspectRatio5["UNSET"] = "unset";
   AspectRatio5["NINE_BY_SIXTEEN"] = "9/16";
   AspectRatio5["FOUR_BY_THREE"] = "4/3";
   AspectRatio5["SIXTEEN_BY_NINE"] = "16/9";
   return AspectRatio5;
 })(AspectRatio || {});
 
-// src/shared/regex.ts
+// src/shared/match/regex.ts
 var NUMBER_REGEX = new RegExp(/^-?\d+\.?\d*$/);
 var NUMBER_INPUT_REGEX = new RegExp(/(^$)|(^-$)|(^-?\d+\.?\d*$)/);
-var CSS_MEASUREMENT_PIXEL_REGEX = new RegExp(/^([1-9])([0-9]*)px$/);
 var DATE_REGEX = new RegExp(/^\d{4}\/\d{2}\/\d{2}$/);
 var CHECKBOX_REGEX = new RegExp(/^\[[x ]{0,1}\]$/);
 var CHECKBOX_CHECKED_REGEX = new RegExp(/^\[[x]\]$/);
-var URL_REGEX = new RegExp(
-  /^https?:\/\/(www\.)?[\w.-]+\.[\w.-]+(\/[\w.-]+)*(\/?(\?[\w.-]+=[\w.-]+(&[\w.-]+=[\w.-]+)*)?)?$/i
+var IMAGE_EXTENSION_REGEX = new RegExp(
+  /\.(jpe?g|png|gif|bmp|tiff?|ico|webp)$/i
+);
+var YOUTUBE_LINK_REGEX = new RegExp(
+  /^https?:\/\/(?:www\.)?(?:youtube\.com\/\S+|youtu\.be\/\S+)$/
+);
+var TWITTER_LINK_REGEX = new RegExp(
+  /^https?:\/\/(?:www\.)?twitter\.com\/\S+|\bt\.co\/\S+$/
 );
 
-// src/shared/validators.ts
-var isNumber = (input) => {
-  return input.match(NUMBER_REGEX) !== null;
+// src/shared/match/index.ts
+var isNumber = (value) => {
+  return value.match(NUMBER_REGEX) !== null;
 };
-var isValidNumberInput = (input) => {
-  return input.match(NUMBER_INPUT_REGEX) !== null;
+var isNumberInput = (value) => {
+  return value.match(NUMBER_INPUT_REGEX) !== null;
 };
-var isCheckbox = (input) => {
-  return input.match(CHECKBOX_REGEX) !== null;
+var isCheckbox = (value) => {
+  return value.match(CHECKBOX_REGEX) !== null;
 };
-var isCheckboxChecked = (input) => {
-  return input.match(CHECKBOX_CHECKED_REGEX) !== null;
+var isCheckboxChecked = (value) => {
+  return value.match(CHECKBOX_CHECKED_REGEX) !== null;
 };
-var isURL = (input) => {
-  return input.match(URL_REGEX) !== null;
+var isImage = (value) => {
+  return value.match(IMAGE_EXTENSION_REGEX) !== null;
 };
-var isGeneralFunction = (value) => {
-  return Object.values(GeneralFunction).includes(value);
+var isYouTubeLink = (value) => {
+  return value.match(YOUTUBE_LINK_REGEX) !== null;
 };
-var isNumberFunction = (value) => {
-  return Object.values(NumberFunction).includes(value);
+var isTwitterLink = (value) => {
+  return value.match(TWITTER_LINK_REGEX) !== null;
+};
+var isNumberCalcuation = (value) => {
+  return Object.values(NumberCalculation).includes(
+    value
+  );
 };
 
 // src/shared/commands/row-sort-command.ts
@@ -46983,6 +47011,7 @@ function MenuProvider({ children }) {
   );
   const requestCloseTopMenu = import_react18.default.useCallback(
     (type) => {
+      logger("MenuProvider requestCloseTopMenu");
       const menu = getTopMenu();
       if (!menu)
         return;
@@ -46996,7 +47025,7 @@ function MenuProvider({ children }) {
       }
       closeTopMenu();
     },
-    [closeTopMenu, getTopMenu]
+    [closeTopMenu, getTopMenu, logger]
   );
   return /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(MenuContext.Provider, {
     value: {
@@ -47250,9 +47279,9 @@ var MENU_SHIFT_PADDING = 5;
 
 // src/obsidian-shim/build/render-utils.ts
 var import_react22 = __toESM(require_react());
+var import_obsidian5 = require("obsidian");
 
 // src/shared/render/embed.ts
-var import_obsidian4 = require("obsidian");
 var handleLinkClick = (event) => {
   const targetEl = event.target;
   const closestAnchor = targetEl.tagName === "A" ? targetEl : targetEl.closest("a");
@@ -47267,26 +47296,33 @@ var handleLinkClick = (event) => {
       app.workspace.openLinkText(href, "", newLeaf);
   }
 };
-var renderEmbedMarkdown = (leaf, markdown) => __async(void 0, null, function* () {
+
+// src/obsidian-shim/build/render-embed.ts
+var import_obsidian4 = require("obsidian");
+var renderText = (leaf, value) => __async(void 0, null, function* () {
+  const div = document.createElement("div");
+  div.style.width = "100%";
+  div.style.height = "100%";
   try {
     const view = leaf.view;
     if (view instanceof import_obsidian4.MarkdownView || view instanceof NLTView) {
-      const div = document.body.createDiv();
-      div.style.height = "100%";
-      div.style.width = "100%";
       yield import_obsidian4.MarkdownRenderer.renderMarkdown(
-        markdown,
+        value,
         div,
         view.file.path,
         view
       );
-      return div;
     }
   } catch (e) {
     console.error(e);
   }
-  return null;
+  return div;
 });
+var renderEmbed = (leaf, value) => __async(void 0, null, function* () {
+  return renderText(leaf, value);
+});
+
+// src/obsidian-shim/build/render-utils.ts
 var renderMarkdown = (leaf, markdown) => __async(void 0, null, function* () {
   const div = document.createElement("div");
   div.style.height = "100%";
@@ -47297,8 +47333,8 @@ var renderMarkdown = (leaf, markdown) => __async(void 0, null, function* () {
   try {
     const updated = replaceNewLinesWithBr(markdown);
     const view2 = leaf == null ? void 0 : leaf.view;
-    if (view2 instanceof import_obsidian4.MarkdownView || view2 instanceof NLTView) {
-      yield import_obsidian4.MarkdownRenderer.renderMarkdown(
+    if (view2 instanceof import_obsidian5.MarkdownView || view2 instanceof NLTView) {
+      yield import_obsidian5.MarkdownRenderer.renderMarkdown(
         updated,
         div,
         view2.file.path,
@@ -47335,17 +47371,8 @@ var renderMarkdown = (leaf, markdown) => __async(void 0, null, function* () {
   }
   return div;
 });
-
-// src/obsidian-shim/build/render-utils.ts
-var import_obsidian5 = require("obsidian");
-var useLeafContainer = () => {
-  const { leaf } = useMountState();
-  return leaf.view.containerEl;
-};
-var isOnMobile = () => {
-  return import_obsidian5.Platform.isMobile;
-};
-var useRenderMarkdown = (markdown, isEmbed) => {
+var useRenderMarkdown = (markdown, options) => {
+  const { isEmbed = false, isExternalLink = false } = options != null ? options : {};
   const containerRef = import_react22.default.useRef(null);
   const renderRef = import_react22.default.useRef(null);
   const { leaf } = useMountState();
@@ -47354,7 +47381,7 @@ var useRenderMarkdown = (markdown, isEmbed) => {
       return __async(this, null, function* () {
         let el = null;
         if (isEmbed) {
-          el = yield renderEmbedMarkdown(leaf, markdown);
+          el = yield renderEmbed(leaf, markdown);
         } else {
           el = yield renderMarkdown(leaf, markdown);
         }
@@ -47366,11 +47393,21 @@ var useRenderMarkdown = (markdown, isEmbed) => {
       });
     }
     updateContainerRef();
-  }, [markdown, leaf, isEmbed]);
+  }, [markdown, leaf, isExternalLink, isEmbed]);
   return {
     containerRef,
     renderRef
   };
+};
+var useLeafContainer = () => {
+  const { leaf } = useMountState();
+  return leaf.view.containerEl;
+};
+var isOnMobile = () => {
+  return import_obsidian5.Platform.isMobile;
+};
+var getResourcePath = (filePath) => {
+  return app.vault.adapter.getResourcePath(filePath);
 };
 
 // src/shared/menu/utils.ts
@@ -47579,7 +47616,7 @@ var Menu = import_react25.default.forwardRef(function Menu2({
 								max-height: ${maxHeight !== 0 ? numToPx(maxHeight) : "unset"};
 								overflow-y: ${maxHeight !== 0 ? "scroll" : "unset"};
 								background-color: var(--background-primary);
-								box-shadow: ${hideBorder ? "unset" : "0px 0px 0px 2px var(--background-modifier-border);"}
+								box-shadow: ${hideBorder ? "unset" : "0px 0px 0px 2px var(--background-modifier-border)"};
 								font-weight: 400;
 							`,
           onClick: handleClick,
@@ -47749,26 +47786,12 @@ function Padding({
     renderPb = getSpacing(p2);
     renderPl = getSpacing(p2);
     renderPr = getSpacing(p2);
-  } else if (px || py) {
-    if (px) {
-      const spacing = getSpacing(px);
-      renderPl = spacing;
-      renderPr = spacing;
-    }
-    if (py) {
-      const spacing = getSpacing(py);
-      renderPt = spacing;
-      renderPb = spacing;
-    }
-  } else if (pb || pt || pl || pr) {
-    if (pb) {
-      const spacing = getSpacing(pb);
-      renderPb = spacing;
-    }
-    if (pt) {
-      const spacing = getSpacing(pt);
-      renderPt = spacing;
-    }
+  }
+  if (px) {
+    const spacing = getSpacing(px);
+    renderPl = spacing;
+    renderPr = spacing;
+  } else if (pl || pr) {
     if (pl) {
       const spacing = getSpacing(pl);
       renderPl = spacing;
@@ -47776,6 +47799,20 @@ function Padding({
     if (pr) {
       const spacing = getSpacing(pr);
       renderPr = spacing;
+    }
+  }
+  if (py) {
+    const spacing = getSpacing(py);
+    renderPt = spacing;
+    renderPb = spacing;
+  } else if (pt || pb) {
+    if (pt) {
+      const spacing = getSpacing(pt);
+      renderPt = spacing;
+    }
+    if (pb) {
+      const spacing = getSpacing(pb);
+      renderPb = spacing;
     }
   }
   return /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)("div", {
@@ -47818,9 +47855,7 @@ function MenuItem({
   function handleKeyDown(e) {
     if (e.key === "Enter") {
       e.stopPropagation();
-      if (!onClick)
-        return;
-      onClick();
+      onClick == null ? void 0 : onClick();
     }
   }
   let className = "NLT__menu-item NLT__selectable";
@@ -48107,7 +48142,7 @@ function SortBubble({
 }
 
 // src/react/shared/switch/index.tsx
-function Switch({ isChecked, ariaLabel, onToggle }) {
+function Switch({ id: id2, isChecked, ariaLabel, onToggle }) {
   const { isDarkMode } = useAppSelector((state) => state.global);
   function handleKeyDown(e) {
     if (e.key === "Enter") {
@@ -48119,6 +48154,7 @@ function Switch({ isChecked, ariaLabel, onToggle }) {
   if (isChecked)
     className += " is-enabled";
   return /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)("div", {
+    id: id2,
     tabIndex: 0,
     className,
     css: import_emotion_react_cjs.css`
@@ -48287,7 +48323,7 @@ var transparentInputStyle = import_emotion_react_cjs.css`
 	${baseInputStyle}
 	background-color: transparent !important;
 	border: 0px !important;
-	padding: 5px 0px;
+	padding: 5px;
 `;
 var borderInputStyle = import_emotion_react_cjs.css`
 	${baseInputStyle}
@@ -49111,11 +49147,11 @@ function OptionBar({
   });
 }
 
-// src/react/table-app/function-cell/function-menu.tsx
+// src/react/table-app/calculation-cell/calculation-menu.tsx
 var import_react53 = __toESM(require_react());
 
 // src/shared/table-state/display-name.ts
-var getShortDisplayNameForGeneralFunction = (value) => {
+var getShortDisplayNameForCalculation = (value) => {
   switch (value) {
     case "count-all" /* COUNT_ALL */:
       return "Count";
@@ -49137,12 +49173,12 @@ var getShortDisplayNameForGeneralFunction = (value) => {
       return "";
   }
 };
-var getShortDisplayNameForFunctionType = (value) => {
-  if (isGeneralFunction(value))
-    return getShortDisplayNameForGeneralFunction(value);
-  return getDisplayNameForNumberFunction(value);
+var getShortDisplayNameForCalculationType = (value) => {
+  if (isNumberCalcuation(value))
+    return getDisplayNameForNumberCalculation(value);
+  return getShortDisplayNameForCalculation(value);
 };
-var getAriaLabelForGeneralFunction = (value) => {
+var getAriaLabelForCalculation = (value) => {
   switch (value) {
     case "count-all" /* COUNT_ALL */:
       return "Counts the total number of rows";
@@ -49162,7 +49198,7 @@ var getAriaLabelForGeneralFunction = (value) => {
       return "";
   }
 };
-var getAriaLabelForNumberFunction = (value) => {
+var getAriaLabelForNumberCalculation = (value) => {
   switch (value) {
     case "sum" /* SUM */:
       return "Computes the sum of the cells in the column";
@@ -49180,7 +49216,7 @@ var getAriaLabelForNumberFunction = (value) => {
       return "";
   }
 };
-var getDisplayNameForGeneralFunction = (value) => {
+var getDisplayNameForCalculation = (value) => {
   switch (value) {
     case "count-all" /* COUNT_ALL */:
       return "Count all";
@@ -49202,7 +49238,7 @@ var getDisplayNameForGeneralFunction = (value) => {
       return "";
   }
 };
-var getDisplayNameForNumberFunction = (value) => {
+var getDisplayNameForNumberCalculation = (value) => {
   switch (value) {
     case "sum" /* SUM */:
       return "Sum";
@@ -49307,9 +49343,9 @@ var getDisplayNameForCellType = (type) => {
   }
 };
 
-// src/react/table-app/function-cell/function-menu.tsx
-var FunctionMenu = import_react53.default.forwardRef(
-  function FunctionMenu2({ id: id2, value, cellType, isOpen, top, left, onClick }, ref) {
+// src/react/table-app/calculation-cell/calculation-menu.tsx
+var CalculationMenu = import_react53.default.forwardRef(
+  function CalculationMenu2({ id: id2, value, cellType, isOpen, top, left, onClick }, ref) {
     return /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(menu_default, {
       ref,
       id: id2,
@@ -49319,15 +49355,17 @@ var FunctionMenu = import_react53.default.forwardRef(
       children: /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsxs)("div", {
         className: "NLT__function-menu",
         children: [
-          Object.values(GeneralFunction).map((type) => /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(MenuItem, {
-            name: getDisplayNameForGeneralFunction(type),
-            ariaLabel: getAriaLabelForGeneralFunction(type),
+          Object.values(Calculation).map((type) => /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(MenuItem, {
+            name: getDisplayNameForCalculation(type),
+            ariaLabel: getAriaLabelForCalculation(type),
             onClick: () => onClick(type),
             isSelected: type === value
           }, type)),
-          (cellType === "number" /* NUMBER */ || cellType === "currency" /* CURRENCY */) && Object.values(NumberFunction).map((type) => /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(MenuItem, {
-            ariaLabel: getAriaLabelForNumberFunction(type),
-            name: getDisplayNameForNumberFunction(type),
+          (cellType === "number" /* NUMBER */ || cellType === "currency" /* CURRENCY */) && Object.values(NumberCalculation).map((type) => /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(MenuItem, {
+            ariaLabel: getAriaLabelForNumberCalculation(
+              type
+            ),
+            name: getDisplayNameForNumberCalculation(type),
             onClick: () => onClick(type),
             isSelected: type === value
           }, type))
@@ -49336,35 +49374,9 @@ var FunctionMenu = import_react53.default.forwardRef(
     });
   }
 );
-var function_menu_default = FunctionMenu;
+var calculation_menu_default = CalculationMenu;
 
-// src/react/table-app/function-cell/arithmetic.ts
-var getAverage = (values) => {
-  return getSum(values) / values.length;
-};
-var getSum = (values) => {
-  return values.reduce((sum, a2) => sum + a2, 0);
-};
-var getMaximum = (values) => {
-  return Math.max(...values);
-};
-var getMinimum = (values) => {
-  return Math.min(...values);
-};
-var getMedian = (values) => {
-  const sortedValues = values.sort((a2, b2) => a2 - b2);
-  const middle = Math.floor(values.length / 2);
-  if (values.length % 2 === 0) {
-    return (sortedValues[middle - 1] + sortedValues[middle]) / 2;
-  } else {
-    return sortedValues[middle];
-  }
-};
-var getRange = (values) => {
-  return getMaximum(values) - getMinimum(values);
-};
-
-// src/react/table-app/function-cell/utils.ts
+// src/react/table-app/calculation-cell/utils.ts
 var NAMESPACE = "fa23ee5e-43ae-45e0-83ed-97c577913416";
 var hashString = (value) => {
   return v5_default(value, NAMESPACE);
@@ -49373,38 +49385,6 @@ var round2Digits = (value) => {
   if (value.toString().includes("."))
     return parseFloat(value.toFixed(2));
   return value;
-};
-
-// src/shared/cell-content/currency-cell-content.ts
-var getCurrencyCellContent = (value, currencyType) => {
-  if (isNumber(value))
-    return stringToCurrencyString(value, currencyType);
-  return "";
-};
-
-// src/react/table-app/function-cell/number-function.ts
-var getNumberFunctionContent = (values, cellType, currencyType, functionType) => {
-  const value = getNumberFunctionValue(values, functionType).toString();
-  if (cellType === "currency" /* CURRENCY */)
-    return getCurrencyCellContent(value, currencyType);
-  return value;
-};
-var getNumberFunctionValue = (values, type) => {
-  if (type === "avg" /* AVG */) {
-    return round2Digits(getAverage(values));
-  } else if (type === "max" /* MAX */) {
-    return getMaximum(values);
-  } else if (type === "min" /* MIN */) {
-    return getMinimum(values);
-  } else if (type === "range" /* RANGE */) {
-    return round2Digits(getRange(values));
-  } else if (type === "sum" /* SUM */) {
-    return round2Digits(getSum(values));
-  } else if (type === "median" /* MEDIAN */) {
-    return round2Digits(getMedian(values));
-  } else {
-    throw new Error("Unhandled number function");
-  }
 };
 
 // src/shared/date/constants.ts
@@ -49555,25 +49535,25 @@ var isValidDateFormat = (value, dateFormat) => {
   }
 };
 
-// src/react/table-app/function-cell/general-function.ts
-var getGeneralFunctionContent = (bodyRows, columnCells, columnTags, cellType, functionType, dateFormat) => {
-  return getGeneralFunctionValue(
+// src/react/table-app/calculation-cell/calculation.ts
+var getCalculationContent = (bodyRows, columnCells, columnTags, cellType, calculationType, dateFormat) => {
+  return getCalculation(
     bodyRows,
     columnCells,
     columnTags,
     cellType,
-    functionType,
+    calculationType,
     dateFormat
   ).toString();
 };
-var getGeneralFunctionValue = (bodyRows, columnCells, columnTags, cellType, functionType, dateFormat) => {
-  if (functionType === "count-all" /* COUNT_ALL */) {
+var getCalculation = (bodyRows, columnCells, columnTags, cellType, calculationType, dateFormat) => {
+  if (calculationType === "count-all" /* COUNT_ALL */) {
     return countAll(bodyRows);
-  } else if (functionType === "count-empty" /* COUNT_EMPTY */) {
+  } else if (calculationType === "count-empty" /* COUNT_EMPTY */) {
     return countEmpty(columnCells, cellType);
-  } else if (functionType === "count-not-empty" /* COUNT_NOT_EMPTY */) {
+  } else if (calculationType === "count-not-empty" /* COUNT_NOT_EMPTY */) {
     return countNotEmpty(columnCells, cellType);
-  } else if (functionType === "count-unique" /* COUNT_UNIQUE */) {
+  } else if (calculationType === "count-unique" /* COUNT_UNIQUE */) {
     return countUnique(
       bodyRows,
       columnCells,
@@ -49581,16 +49561,16 @@ var getGeneralFunctionValue = (bodyRows, columnCells, columnTags, cellType, func
       cellType,
       dateFormat
     );
-  } else if (functionType === "count-values" /* COUNT_VALUES */) {
+  } else if (calculationType === "count-values" /* COUNT_VALUES */) {
     return countValues(columnCells, cellType);
-  } else if (functionType === "percent-empty" /* PERCENT_EMPTY */) {
+  } else if (calculationType === "percent-empty" /* PERCENT_EMPTY */) {
     return percentEmpty(columnCells, cellType);
-  } else if (functionType === "percent-not-empty" /* PERCENT_NOT_EMPTY */) {
+  } else if (calculationType === "percent-not-empty" /* PERCENT_NOT_EMPTY */) {
     return percentNotEmpty(columnCells, cellType);
-  } else if (functionType === "none" /* NONE */) {
+  } else if (calculationType === "none" /* NONE */) {
     return "";
   } else {
-    throw new Error("Unhandled general function");
+    throw new Error("Unhandled calculation type");
   }
 };
 var countAll = (bodyRows) => {
@@ -49631,14 +49611,16 @@ var countValues = (columnCells, cellType) => {
   return columnCells.map((cell) => countCellValues(cell, cellType)).reduce((accum, value) => accum + value, 0);
 };
 var percentEmpty = (columnCells, cellType) => {
+  if (columnCells.length === 0)
+    return "0%";
   const percent = countEmpty(columnCells, cellType) / columnCells.length * 100;
-  const normalized = round2Digits(percent);
-  return normalized + "%";
+  return round2Digits(percent) + "%";
 };
 var percentNotEmpty = (columnCells, cellType) => {
+  if (columnCells.length === 0)
+    return "0%";
   const percent = countNotEmpty(columnCells, cellType) / columnCells.length * 100;
-  const normalized = round2Digits(percent);
-  return normalized + "%";
+  return round2Digits(percent) + "%";
 };
 var getCellValues = (bodyRow, cell, columnTags, cellType, dateFormat) => {
   if (cellType === "text" /* TEXT */ || cellType === "embed" /* EMBED */ || cellType === "number" /* NUMBER */ || cellType === "currency" /* CURRENCY */ || cellType === "checkbox" /* CHECKBOX */ || cellType === "file" /* FILE */) {
@@ -49693,45 +49675,103 @@ var isCellContentEmpty = (cell, cellType) => {
   }
 };
 
-// src/react/table-app/function-cell/index.tsx
-function FunctionCell({
+// src/react/table-app/calculation-cell/arithmetic.ts
+var getAverage = (values) => {
+  return getSum(values) / values.length;
+};
+var getSum = (values) => {
+  return values.reduce((sum, a2) => sum + a2, 0);
+};
+var getMaximum = (values) => {
+  return Math.max(...values);
+};
+var getMinimum = (values) => {
+  return Math.min(...values);
+};
+var getMedian = (values) => {
+  const sortedValues = values.sort((a2, b2) => a2 - b2);
+  const middle = Math.floor(values.length / 2);
+  if (values.length % 2 === 0) {
+    return (sortedValues[middle - 1] + sortedValues[middle]) / 2;
+  } else {
+    return sortedValues[middle];
+  }
+};
+var getRange = (values) => {
+  return getMaximum(values) - getMinimum(values);
+};
+
+// src/shared/cell-content/currency-cell-content.ts
+var getCurrencyCellContent = (value, currencyType) => {
+  if (isNumber(value))
+    return stringToCurrencyString(value, currencyType);
+  return "";
+};
+
+// src/react/table-app/calculation-cell/number-calculation.ts
+var getNumberCalculationContent = (values, cellType, currencyType, calculationType) => {
+  const value = getNumberCalculation(values, calculationType).toString();
+  if (cellType === "currency" /* CURRENCY */)
+    return getCurrencyCellContent(value, currencyType);
+  return value;
+};
+var getNumberCalculation = (values, type) => {
+  if (type === "avg" /* AVG */) {
+    return round2Digits(getAverage(values));
+  } else if (type === "max" /* MAX */) {
+    return getMaximum(values);
+  } else if (type === "min" /* MIN */) {
+    return getMinimum(values);
+  } else if (type === "range" /* RANGE */) {
+    return round2Digits(getRange(values));
+  } else if (type === "sum" /* SUM */) {
+    return round2Digits(getSum(values));
+  } else if (type === "median" /* MEDIAN */) {
+    return round2Digits(getMedian(values));
+  } else {
+    throw new Error("Unhandled number calculation type");
+  }
+};
+
+// src/react/table-app/calculation-cell/index.tsx
+function CalculationCell({
   columnId,
   columnTags,
   bodyCells,
   dateFormat,
   bodyRows,
-  functionType,
+  calculationType,
   currencyType,
   cellType,
-  onFunctionTypeChange
+  onTypeChange
 }) {
   const { menu, isMenuOpen, menuRef, closeTopMenu } = useMenu(0 /* ONE */);
   const { triggerPosition, triggerRef } = useMenuTriggerPosition();
   useShiftMenu(triggerRef, menuRef, isMenuOpen);
-  function handleFunctionTypeClick(value) {
-    onFunctionTypeChange(columnId, value);
+  function handleTypeClick(value) {
+    onTypeChange(columnId, value);
     closeTopMenu();
   }
   const columnCells = bodyCells.filter((cell) => cell.columnId === columnId);
   let content = "";
-  if (isGeneralFunction(functionType)) {
-    content = getGeneralFunctionContent(
+  if (isNumberCalcuation(calculationType)) {
+    const cellValues = columnCells.filter((cell) => isNumber(cell.markdown)).map((cell) => parseFloat(cell.markdown));
+    if (cellValues.length !== 0)
+      content = getNumberCalculationContent(
+        cellValues,
+        cellType,
+        currencyType,
+        calculationType
+      );
+  } else {
+    content = getCalculationContent(
       bodyRows,
       columnCells,
       columnTags,
       cellType,
-      functionType,
+      calculationType,
       dateFormat
     );
-  } else {
-    const cellValues = columnCells.filter((cell) => isNumber(cell.markdown)).map((cell) => parseFloat(cell.markdown));
-    if (cellValues.length !== 0)
-      content = getNumberFunctionContent(
-        cellValues,
-        cellType,
-        currencyType,
-        functionType
-      );
   }
   return /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsxs)(import_emotion_react_jsx_runtime_cjs.Fragment, {
     children: [
@@ -49741,17 +49781,25 @@ function FunctionCell({
         children: /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsxs)("div", {
           className: "NLT__function-cell NLT__selectable",
           ref: triggerRef,
+          css: import_emotion_react_cjs.css`
+						display: flex;
+						justify-content: flex-end;
+						cursor: pointer;
+						overflow: hidden;
+						padding: var(--nlt-cell-spacing-x)
+							var(--nlt-cell-spacing-y);
+					`,
           children: [
-            functionType === "none" /* NONE */ && /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(Text, {
+            calculationType === "none" /* NONE */ && /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(Text, {
               value: "Calculate",
               variant: "faint"
             }),
-            functionType !== "none" /* NONE */ && /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsxs)(Stack, {
+            calculationType !== "none" /* NONE */ && /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsxs)(Stack, {
               spacing: "sm",
               children: [
                 /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(Text, {
-                  value: getShortDisplayNameForFunctionType(
-                    functionType
+                  value: getShortDisplayNameForCalculationType(
+                    calculationType
                   ),
                   variant: "muted"
                 }),
@@ -49764,41 +49812,47 @@ function FunctionCell({
           ]
         })
       }),
-      /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(function_menu_default, {
+      /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(calculation_menu_default, {
         id: menu.id,
         top: triggerPosition.top,
         ref: menuRef,
         cellType,
         left: triggerPosition.left,
         isOpen: isMenuOpen,
-        value: functionType,
-        onClick: handleFunctionTypeClick
+        value: calculationType,
+        onClick: handleTypeClick
       })
     ]
   });
 }
 
 // src/react/table-app/body-cell/index.tsx
-var import_react81 = __toESM(require_react());
+var import_react86 = __toESM(require_react());
 
 // src/react/table-app/text-cell/index.tsx
 function TextCell({ markdown, shouldWrapOverflow }) {
-  const { containerRef, renderRef } = useRenderMarkdown(markdown, false);
+  const { containerRef, renderRef } = useRenderMarkdown(markdown);
   const overflowStyle = useOverflow(shouldWrapOverflow);
   return /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)("div", {
     className: "NLT__text-cell",
-    css: overflowStyle,
+    css: import_emotion_react_cjs.css`
+				width: 100%;
+				height: 100%;
+				${overflowStyle}
+			`,
     children: /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)("div", {
       css: import_emotion_react_cjs.css`
+					text-align: left;
+
 					p {
 						margin: 0;
-						text-align: left;
 					}
 
-					ul {
+					//.contains-task-list is from dataview
+					//it is what is rendered for a task list
+					ul:not(.contains-task-list) {
 						padding-left: var(--nlt-spacing--xl);
 						padding-right: 0;
-						margin: 0;
 					}
 				`,
       ref: (node) => {
@@ -49847,7 +49901,7 @@ function Tag6({
   color,
   maxWidth,
   markdown,
-  showRemove,
+  showRemoveButton,
   onRemoveClick
 }) {
   const { isDarkMode } = useAppSelector((state) => state.global);
@@ -49864,6 +49918,14 @@ function Tag6({
   }
   return /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)("div", {
     className: tagClass,
+    css: import_emotion_react_cjs.css`
+				display: flex;
+				align-items: center;
+				border-radius: 8px;
+				padding: var(--nlt-spacing--xs) var(--nlt-spacing--md);
+				width: max-content;
+				color: var(--text-normal);
+			`,
     children: /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsxs)(Stack, {
       spacing: "sm",
       justify: "center",
@@ -49873,7 +49935,7 @@ function Tag6({
         }, maxWidth !== void 0 && { style: { maxWidth } }), {
           children: markdown
         })),
-        showRemove && /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(Padding, {
+        showRemoveButton && /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(Padding, {
           width: "max-content",
           children: /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(Button, {
             isSmall: true,
@@ -49881,7 +49943,8 @@ function Tag6({
               lucideId: "x"
             }),
             onClick: () => {
-              onRemoveClick !== void 0 && onRemoveClick(id2);
+              if (id2 && onRemoveClick)
+                onRemoveClick(id2);
             }
           })
         })
@@ -49967,7 +50030,7 @@ function NumberCell({ value, shouldWrapOverflow }) {
 }
 
 // src/react/table-app/number-cell-edit/index.tsx
-var import_react57 = __toESM(require_react());
+var import_react59 = __toESM(require_react());
 function NumberCellEdit({
   menuCloseRequest,
   value,
@@ -49975,13 +50038,13 @@ function NumberCellEdit({
   onMenuClose
 }) {
   const initialValue = isNumber(value) ? value : "";
-  const [localValue, setLocalValue] = import_react57.default.useState(initialValue);
-  const inputRef = import_react57.default.useRef(null);
+  const [localValue, setLocalValue] = import_react59.default.useState(initialValue);
+  const inputRef = import_react59.default.useRef(null);
   useInputSelection(inputRef, localValue);
   const hasCloseRequestTimeChanged = useCompare(
     menuCloseRequest == null ? void 0 : menuCloseRequest.requestTime
   );
-  import_react57.default.useEffect(() => {
+  import_react59.default.useEffect(() => {
     if (hasCloseRequestTimeChanged && menuCloseRequest !== null) {
       if (localValue !== value)
         onChange(localValue);
@@ -49996,7 +50059,7 @@ function NumberCellEdit({
     onChange
   ]);
   function handleChange(inputValue) {
-    if (!isValidNumberInput(inputValue))
+    if (!isNumberInput(inputValue))
       return;
     setLocalValue(inputValue);
   }
@@ -50018,17 +50081,17 @@ function NumberCellEdit({
 }
 
 // src/react/table-app/text-cell-edit/index.tsx
+var import_react66 = __toESM(require_react());
+
+// src/react/table-app/text-cell-edit/suggest-menu.tsx
+var import_react65 = __toESM(require_react());
+
+// src/react/shared/suggest-list/index.tsx
 var import_react63 = __toESM(require_react());
-
-// src/react/shared/suggest-menu/suggest-menu.tsx
-var import_react62 = __toESM(require_react());
-
-// src/react/shared/suggest-menu/suggest-menu-content.tsx
-var import_react60 = __toESM(require_react());
 var import_fuzzysort = __toESM(require_fuzzysort());
 
-// src/react/shared/suggest-menu/suggest-item.tsx
-var import_react58 = __toESM(require_react());
+// src/react/shared/suggest-list/suggest-item.tsx
+var import_react60 = __toESM(require_react());
 
 // src/shared/event-system/event-system.ts
 var EventSystem = class {
@@ -50058,25 +50121,25 @@ var EventSystem = class {
 };
 var nltEventSystem = new EventSystem();
 
-// src/react/shared/suggest-menu/suggest-item.tsx
-var SuggestItem = import_react58.default.forwardRef(
-  function SuggestItem2({ file, isHighlighted, isFileNameUnique, onItemClick }, ref) {
-    const handleClick = import_react58.default.useCallback(
+// src/react/shared/suggest-list/suggest-item.tsx
+var SuggestItem = import_react60.default.forwardRef(
+  function SuggestItem2({ index, file, isHighlighted, onItemClick }, ref) {
+    const handleClick = import_react60.default.useCallback(
       (e) => {
         e.stopPropagation();
-        onItemClick(file, isFileNameUnique);
+        onItemClick(file);
       },
-      [file, isFileNameUnique, onItemClick]
+      [file, onItemClick]
     );
-    import_react58.default.useEffect(() => {
+    import_react60.default.useEffect(() => {
       function handleKeyDown(e) {
         if (e.key === "Enter")
-          onItemClick(file, isFileNameUnique);
+          onItemClick(file);
       }
       if (isHighlighted)
         nltEventSystem.addEventListener("keydown", handleKeyDown, 1);
       return () => nltEventSystem.removeEventListener("keydown", handleKeyDown);
-    }, [isHighlighted, onItemClick, file, isFileNameUnique]);
+    }, [isHighlighted, onItemClick, file]);
     let name = "No match found";
     if (file) {
       if (file.extension === "md") {
@@ -50093,10 +50156,11 @@ var SuggestItem = import_react58.default.forwardRef(
     }
     return /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsxs)("div", {
       tabIndex: 0,
+      "data-index": index,
       className: "NLT__suggest-item NLT__focusable",
       ref,
       css: import_emotion_react_cjs.css`
-					padding: 4px 6px;
+					padding: var(--nlt-spacing--sm) var(--nlt-spacing--lg);
 					margin: 2px 0;
 					background-color: ${isHighlighted ? "var(--background-modifier-hover)" : "var(--background-primary)"};
 					&:hover {
@@ -50121,10 +50185,193 @@ var SuggestItem = import_react58.default.forwardRef(
 );
 var suggest_item_default = SuggestItem;
 
-// src/react/shared/suggest-menu/constants.ts
+// src/react/shared/suggest-list/input.tsx
+function Input({ value, onChange }) {
+  return /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)("div", {
+    css: import_emotion_react_cjs.css`
+				background-color: var(--background-secondary);
+				border-bottom: 1px solid var(--table-border-color);
+				padding: var(--nlt-spacing--sm) var(--nlt-spacing--lg);
+			`,
+    children: /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)("input", {
+      className: "NLT__focusable",
+      type: "text",
+      css: transparentInputStyle,
+      autoFocus: true,
+      value,
+      onChange: (e) => onChange(e.target.value)
+    })
+  });
+}
+
+// src/obsidian-shim/build/vault-file.ts
+var getVaultFiles = () => {
+  return app.vault.getFiles();
+};
+
+// src/react/shared/suggest-list/clear-button.tsx
+function ClearButton({ onClick }) {
+  return /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsxs)(import_emotion_react_jsx_runtime_cjs.Fragment, {
+    children: [
+      /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(Divider, {}),
+      /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(MenuItem, {
+        name: "Clear",
+        onClick
+      })
+    ]
+  });
+}
+
+// src/react/shared/suggest-list/create-button.tsx
+function CreateButton({ value, onClick }) {
+  return /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsxs)(import_emotion_react_jsx_runtime_cjs.Fragment, {
+    children: [
+      /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(MenuItem, {
+        name: `Create ${value}`,
+        onClick: () => onClick == null ? void 0 : onClick(value)
+      }),
+      /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(Divider, {})
+    ]
+  });
+}
+
+// src/react/shared/suggest-list/index.tsx
+function SuggestList({
+  hiddenExtensions = [],
+  showInput,
+  showCreate,
+  showClear,
+  filterValue,
+  onItemClick,
+  onClearClick,
+  onCreateClick
+}) {
+  const [localFilterValue, setLocalFilterValue] = import_react63.default.useState(
+    filterValue != null ? filterValue : ""
+  );
+  const highlightItemRef = import_react63.default.useRef(null);
+  const [highlightIndex, setHighlightIndex] = import_react63.default.useState(-1);
+  const logger = useLogger();
+  import_react63.default.useEffect(() => {
+    setLocalFilterValue(filterValue != null ? filterValue : "");
+  }, [filterValue]);
+  import_react63.default.useEffect(() => {
+    if (highlightItemRef.current) {
+      highlightItemRef.current.scrollIntoView({
+        behavior: "auto",
+        block: "nearest"
+      });
+    }
+  }, [highlightIndex]);
+  const files = getVaultFiles().filter(
+    (file) => !hiddenExtensions.includes(file.extension)
+  );
+  let filteredFiles = [];
+  if (localFilterValue !== "") {
+    const results = import_fuzzysort.default.go(localFilterValue, files, {
+      key: "path",
+      limit: 20
+    });
+    filteredFiles = results.map((result) => result.obj);
+  } else {
+    filteredFiles = files;
+    filteredFiles.sort((a2, b2) => b2.modifiedTime - a2.modifiedTime);
+    filteredFiles = filteredFiles.slice(0, 20);
+  }
+  import_react63.default.useEffect(() => {
+    function handleKeyDown() {
+      logger("SuggestMenuContent handleKeyDown");
+      const focusedEl = document.activeElement;
+      if (!focusedEl)
+        return;
+      if (focusedEl.classList.contains("NLT__suggest-item")) {
+        const index = focusedEl.getAttribute("data-index");
+        if (!index)
+          return;
+        setHighlightIndex(parseInt(index));
+        return;
+      }
+      setHighlightIndex(-1);
+    }
+    nltEventSystem.addEventListener("keydown", handleKeyDown);
+    return () => nltEventSystem.removeEventListener("keydown", handleKeyDown);
+  }, [filteredFiles.length, logger, highlightIndex]);
+  const doesFilterFileExist = filteredFiles.map((file) => file.path).includes(localFilterValue);
+  return /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsxs)("div", {
+    className: "NLT__suggest-menu",
+    css: import_emotion_react_cjs.css`
+				width: 100%;
+			`,
+    children: [
+      showInput && files.length > 0 && /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(Input, {
+        value: localFilterValue,
+        onChange: setLocalFilterValue
+      }),
+      showCreate && !doesFilterFileExist && localFilterValue !== "" && /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(CreateButton, {
+        value: localFilterValue,
+        onClick: onCreateClick
+      }),
+      files.length > 0 && /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsxs)("div", {
+        css: import_emotion_react_cjs.css`
+						max-height: 175px;
+						overflow-y: auto;
+					`,
+        children: [
+          filteredFiles.length === 0 && !showCreate && /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(suggest_item_default, {
+            index: 0,
+            file: null,
+            ref: null,
+            isHighlighted: true,
+            onItemClick
+          }),
+          filteredFiles.length > 0 && /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(import_emotion_react_jsx_runtime_cjs.Fragment, {
+            children: filteredFiles.map((file, index) => /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(suggest_item_default, {
+              index,
+              ref: highlightIndex === index ? highlightItemRef : null,
+              file,
+              isHighlighted: index === highlightIndex,
+              onItemClick
+            }, file.path))
+          })
+        ]
+      }),
+      files.length === 0 && /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(Padding, {
+        px: "md",
+        pb: "md",
+        children: /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(Text, {
+          value: "No image files found"
+        })
+      }),
+      showClear && /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(ClearButton, {
+        onClick: onClearClick
+      })
+    ]
+  });
+}
+
+// src/react/table-app/text-cell-edit/suggest-menu.tsx
+var SuggestMenu = import_react65.default.forwardRef(
+  function SuggestMenu2({ id: id2, isOpen, top, left, filterValue, onItemClick }, ref) {
+    return /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(menu_default, {
+      id: id2,
+      isOpen,
+      top,
+      left,
+      ref,
+      width: 275,
+      children: /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(SuggestList, {
+        filterValue,
+        onItemClick
+      })
+    });
+  }
+);
+var suggest_menu_default = SuggestMenu;
+
+// src/react/table-app/text-cell-edit/constants.ts
 var DOUBLE_BRACKET_REGEX = new RegExp(/\[\[(.*?)]]/g);
 
-// src/react/shared/suggest-menu/utils.ts
+// src/react/table-app/text-cell-edit/utils.ts
 var isSurroundedByDoubleBrackets = (inputValue, selectionStart) => {
   let match;
   const regex = structuredClone(DOUBLE_BRACKET_REGEX);
@@ -50189,163 +50436,14 @@ var removeClosingBracket = (previousValue, value, selectionStart) => {
   }
   return value;
 };
-var filterUniqueStrings = (arr) => {
-  const frequencyMap = /* @__PURE__ */ new Map();
-  arr.forEach((string) => {
-    frequencyMap.set(string, (frequencyMap.get(string) || 0) + 1);
-  });
-  const uniqueStrings = [];
-  for (const string of frequencyMap.keys()) {
-    if (frequencyMap.get(string) === 1) {
-      uniqueStrings.push(string);
-    }
-  }
-  return uniqueStrings;
-};
-
-// src/obsidian-shim/build/vault-file.ts
-var getVaultFiles = () => {
-  return app.vault.getFiles();
-};
-
-// src/react/shared/suggest-menu/suggest-menu-content.tsx
-function SuggestMenuContent({
-  showInput,
-  filterValue,
-  onItemClick
-}) {
-  const logger = useLogger();
-  const [localFilterValue, setLocalFilterValue] = import_react60.default.useState(
-    filterValue != null ? filterValue : ""
-  );
-  const highlightItemRef = import_react60.default.useRef(null);
-  const [highlightIndex, setHighlightIndex] = import_react60.default.useState(-1);
-  const files = getVaultFiles();
-  let filteredFiles = [];
-  if (localFilterValue !== "") {
-    const results = import_fuzzysort.default.go(localFilterValue, files, {
-      key: "path",
-      limit: 20
-    });
-    filteredFiles = results.map((result) => result.obj);
-  } else {
-    filteredFiles = files;
-    filteredFiles.sort((a2, b2) => b2.modifiedTime - a2.modifiedTime);
-    filteredFiles = filteredFiles.slice(0, 20);
-  }
-  import_react60.default.useEffect(() => {
-    setLocalFilterValue(filterValue != null ? filterValue : "");
-  }, [filterValue]);
-  import_react60.default.useEffect(() => {
-    if (highlightItemRef.current) {
-      highlightItemRef.current.scrollIntoView({
-        behavior: "auto",
-        block: "nearest"
-      });
-    }
-  }, [highlightIndex]);
-  import_react60.default.useEffect(() => {
-    function handleKeyDown(e) {
-      logger("SuggestMenuContent handleKeyDown");
-      if (e.key === "ArrowUp") {
-        e.preventDefault();
-        setHighlightIndex((prevIndex) => {
-          let index = prevIndex - 1;
-          if (index < 0)
-            index = filteredFiles.length - 1;
-          return index;
-        });
-      } else if (e.key === "ArrowDown") {
-        e.preventDefault();
-        setHighlightIndex((prevIndex) => {
-          let index = prevIndex + 1;
-          if (index > filteredFiles.length - 1)
-            index = 0;
-          return index;
-        });
-      } else if (e.key === "Tab") {
-        setHighlightIndex((prevIndex) => {
-          let index = prevIndex + 1;
-          if (index > filteredFiles.length - 1)
-            index = 0;
-          return index;
-        });
-      }
-    }
-    nltEventSystem.addEventListener("keydown", handleKeyDown);
-    return () => nltEventSystem.removeEventListener("keydown", handleKeyDown);
-  }, [filteredFiles.length, logger, highlightIndex]);
-  const fileNames = filteredFiles.map((file) => file.name);
-  const uniqueFileNames = filterUniqueStrings(fileNames);
-  return /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsxs)("div", {
-    className: "NLT__suggest-menu",
-    children: [
-      showInput && /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)("div", {
-        css: import_emotion_react_cjs.css`
-						background-color: var(--background-secondary);
-						border-bottom: 1px solid var(--table-border-color);
-						padding: 4px 10px;
-					`,
-        children: /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)("input", {
-          css: transparentInputStyle,
-          autoFocus: true,
-          value: localFilterValue,
-          onChange: (e) => setLocalFilterValue(e.target.value)
-        })
-      }),
-      /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsxs)("div", {
-        css: import_emotion_react_cjs.css`
-					max-height: 175px;
-					overflow-y: auto;
-				`,
-        children: [
-          filteredFiles.length === 0 && /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(suggest_item_default, {
-            file: null,
-            ref: null,
-            isHighlighted: true,
-            isFileNameUnique: false,
-            onItemClick
-          }),
-          filteredFiles.length > 0 && /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(import_emotion_react_jsx_runtime_cjs.Fragment, {
-            children: filteredFiles.map((file, index) => /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(suggest_item_default, {
-              ref: highlightIndex === index ? highlightItemRef : null,
-              file,
-              isHighlighted: index === highlightIndex,
-              isFileNameUnique: uniqueFileNames.includes(
-                file.name
-              ),
-              onItemClick
-            }, file.path))
-          })
-        ]
-      })
-    ]
-  });
-}
-
-// src/react/shared/suggest-menu/suggest-menu.tsx
-var SuggestMenu = import_react62.default.forwardRef(
-  function SuggestMenu2({ id: id2, isOpen, top, left, filterValue, onItemClick }, ref) {
-    return /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(menu_default, {
-      id: id2,
-      isOpen,
-      top,
-      left,
-      ref,
-      width: 275,
-      children: /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(SuggestMenuContent, {
-        filterValue,
-        onItemClick
-      })
-    });
-  }
-);
-var suggest_menu_default = SuggestMenu;
 
 // src/shared/link/link-utils.ts
 var getBasename = (filePath) => {
   const fileName = stripDirectory(filePath);
   return stripFileExtension(fileName);
+};
+var getExtension = (filePath) => {
+  return filePath.substring(filePath.lastIndexOf(".") + 1);
 };
 var stripFileExtension = (filePath) => {
   return filePath.substring(0, filePath.lastIndexOf("."));
@@ -50356,16 +50454,17 @@ var stripDirectory = (filePath) => {
 var isMarkdownFile = (extension) => {
   return extension === "md";
 };
-var getWikiLinkText = (fileInfo, isFileNameUnique) => {
-  const { basename, name, path, extension } = fileInfo;
+var getWikiLinkText = (path) => {
+  const basename = getBasename(path);
+  const extension = getExtension(path);
   let text = basename;
   if (!isMarkdownFile(extension)) {
-    text = name;
-    if (!isFileNameUnique)
+    text = stripDirectory(path);
+    if (path.includes("/"))
       text = `${path}|${basename}`;
   } else {
     const pathWithoutExtension = stripFileExtension(path);
-    if (!isFileNameUnique)
+    if (path.includes("/"))
       text = `${pathWithoutExtension}|${basename}`;
   }
   return text;
@@ -50385,9 +50484,9 @@ function TextCellEdit({
   useShiftMenu(triggerRef, menuRef, isMenuOpen, {
     topOffset: 35
   });
-  const [localValue, setLocalValue] = import_react63.default.useState(value);
-  const inputRef = import_react63.default.useRef(null);
-  import_react63.default.useEffect(() => {
+  const [localValue, setLocalValue] = import_react66.default.useState(value);
+  const inputRef = import_react66.default.useRef(null);
+  import_react66.default.useEffect(() => {
     if (inputRef.current) {
       const selectionIndex = inputRef.current.selectionStart;
       if (localValue[selectionIndex - 1] === "]" && localValue[selectionIndex - 2] === "[") {
@@ -50404,7 +50503,7 @@ function TextCellEdit({
   const hasCloseRequestTimeChanged = useCompare(
     menuCloseRequest == null ? void 0 : menuCloseRequest.requestTime
   );
-  import_react63.default.useEffect(() => {
+  import_react66.default.useEffect(() => {
     if (hasCloseRequestTimeChanged && menuCloseRequest !== null) {
       if (localValue !== value)
         onChange(localValue);
@@ -50461,10 +50560,10 @@ function TextCellEdit({
     }
     setLocalValue(newValue);
   }
-  function handleSuggestItemClick(file, isFileNameUnique) {
+  function handleSuggestItemClick(file) {
     var _a2, _b2;
     if (file) {
-      const fileName = getWikiLinkText(file, isFileNameUnique);
+      const fileName = getWikiLinkText(file.path);
       const newValue = doubleBracketsInnerReplace(
         localValue,
         (_b2 = (_a2 = inputRef.current) == null ? void 0 : _a2.selectionStart) != null ? _b2 : 0,
@@ -50514,17 +50613,17 @@ function TextCellEdit({
 }
 
 // src/react/table-app/tag-cell-edit/index.tsx
-var import_react72 = __toESM(require_react());
+var import_react75 = __toESM(require_react());
 
 // src/react/table-app/tag-cell-edit/menu-header.tsx
-var import_react66 = __toESM(require_react());
+var import_react69 = __toESM(require_react());
 function MenuHeader({
   cellTags,
   inputValue,
   onInputValueChange,
   onRemoveTag
 }) {
-  const inputRef = import_react66.default.useRef(null);
+  const inputRef = import_react69.default.useRef(null);
   function handleInputChange(value) {
     if (value.match(/^\s/))
       return;
@@ -50544,7 +50643,7 @@ function MenuHeader({
           color: tag.color,
           markdown: tag.markdown,
           maxWidth: "150px",
-          showRemove: true,
+          showRemoveButton: true,
           onRemoveClick: onRemoveTag
         }, tag.id)),
         /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)("input", {
@@ -50563,9 +50662,9 @@ function MenuHeader({
 
 // src/react/table-app/tag-cell-edit/create-tag.tsx
 function CreateTag({ markdown, color, onTagAdd }) {
-  return /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)("div", {
-    tabIndex: 0,
+  return /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)("button", {
     css: import_emotion_react_cjs.css`
+				all: unset; //reset button style
 				display: flex;
 				align-items: center;
 				padding: 4px 6px;
@@ -50573,9 +50672,7 @@ function CreateTag({ markdown, color, onTagAdd }) {
 				overflow: hidden;
 			`,
     className: "NLT__focusable NLT__selectable",
-    onClick: () => {
-      onTagAdd(markdown, color);
-    },
+    onClick: () => onTagAdd(markdown, color),
     children: /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsxs)(Stack, {
       spacing: "sm",
       children: [
@@ -50593,7 +50690,7 @@ function CreateTag({ markdown, color, onTagAdd }) {
 }
 
 // src/react/table-app/tag-color-menu/index.tsx
-var import_react69 = __toESM(require_react());
+var import_react72 = __toESM(require_react());
 
 // src/shared/stringUtils.ts
 var uppercaseFirst = (input) => {
@@ -50601,15 +50698,15 @@ var uppercaseFirst = (input) => {
 };
 
 // src/react/table-app/tag-color-menu/components/color-item/index.tsx
-var import_react68 = __toESM(require_react());
+var import_react71 = __toESM(require_react());
 function ColorItem({
   isDarkMode,
   color,
   isSelected,
   onColorClick
 }) {
-  const ref = import_react68.default.useRef(null);
-  import_react68.default.useEffect(() => {
+  const ref = import_react71.default.useRef(null);
+  import_react71.default.useEffect(() => {
     if (!ref.current)
       return;
     if (isSelected) {
@@ -50648,7 +50745,7 @@ function ColorItem({
 }
 
 // src/react/table-app/tag-color-menu/index.tsx
-var TagColorMenu = import_react69.default.forwardRef(
+var TagColorMenu = import_react72.default.forwardRef(
   function TagColorMenu2({
     menuId,
     isOpen,
@@ -50724,6 +50821,19 @@ function SelectableTag({
     onDeleteClick(id2);
     closeTopMenu();
   }
+  function handleKeyDown(e) {
+    if (e.key === "Enter") {
+      e.stopPropagation();
+      onClick(id2);
+    }
+  }
+  function handleClick(e) {
+    const target = e.target;
+    if (target.classList.contains("NLT__menu-trigger"))
+      return;
+    e.stopPropagation();
+    onClick(id2);
+  }
   return /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsxs)(import_emotion_react_jsx_runtime_cjs.Fragment, {
     children: [
       /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsxs)("div", {
@@ -50737,13 +50847,8 @@ function SelectableTag({
 					overflow: hidden;
 				`,
         className: "NLT__focusable NLT__selectable",
-        onClick: (e) => {
-          const target = e.target;
-          if (target.classList.contains("NLT__menu-trigger"))
-            return;
-          e.stopPropagation();
-          onClick(id2);
-        },
+        onClick: handleClick,
+        onKeyDown: handleKeyDown,
         children: [
           /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(Tag6, {
             markdown,
@@ -50782,9 +50887,7 @@ function MenuBody({
   onTagColorChange,
   onTagDelete
 }) {
-  const tagWithSameCase = columnTags.find(
-    (tag) => tag.markdown === inputValue
-  );
+  const hasTagWithSameCase = columnTags.find((tag) => tag.markdown === inputValue) !== void 0;
   const filteredTags = columnTags.filter(
     (tag) => tag.markdown.toLowerCase().includes(inputValue.toLowerCase())
   );
@@ -50806,7 +50909,7 @@ function MenuBody({
 					width: 100%;
 				`,
         children: [
-          tagWithSameCase === void 0 && inputValue !== "" && /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(CreateTag, {
+          !hasTagWithSameCase && inputValue !== "" && /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(CreateTag, {
             markdown: inputValue,
             color: newTagColor,
             onTagAdd
@@ -50837,9 +50940,9 @@ function TagCellEdit({
   onRemoveTag,
   onMenuClose
 }) {
-  const [inputValue, setInputValue] = import_react72.default.useState("");
-  const [newTagColor, setNewTagColor] = import_react72.default.useState(randomColor());
-  const handleTagAdd = import_react72.default.useCallback(
+  const [inputValue, setInputValue] = import_react75.default.useState("");
+  const [newTagColor, setNewTagColor] = import_react75.default.useState(randomColor());
+  const handleTagAdd = import_react75.default.useCallback(
     (markdown, color) => {
       onTagAdd(markdown, color);
       setInputValue("");
@@ -50851,12 +50954,16 @@ function TagCellEdit({
   const hasCloseRequestTimeChanged = useCompare(
     menuCloseRequest == null ? void 0 : menuCloseRequest.requestTime
   );
-  import_react72.default.useEffect(() => {
+  import_react75.default.useEffect(() => {
     if (hasCloseRequestTimeChanged && menuCloseRequest !== null) {
       if (menuCloseRequest.type === "enter") {
-        const shouldAddTag = columnTags.find((tag) => tag.markdown === inputValue) === void 0;
-        if (shouldAddTag)
+        const doesTagExist = columnTags.find(
+          (tag) => tag.markdown === inputValue
+        );
+        if (!doesTagExist) {
           handleTagAdd(inputValue, newTagColor);
+          return;
+        }
       }
       onMenuClose();
     }
@@ -50896,11 +51003,11 @@ function TagCellEdit({
 }
 
 // src/react/table-app/date-cell-edit/index.tsx
-var import_react74 = __toESM(require_react());
+var import_react77 = __toESM(require_react());
 
 // src/react/table-app/date-cell-edit/date-format-menu.tsx
-var import_react73 = __toESM(require_react());
-var DateFormatMenu = import_react73.default.forwardRef(
+var import_react76 = __toESM(require_react());
+var DateFormatMenu = import_react76.default.forwardRef(
   function DateFormatMenu2({ id: id2, top, left, isOpen, value, onChange }, ref) {
     return /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(menu_default, {
       ref,
@@ -50944,13 +51051,13 @@ function DateCellEdit({
     topOffset: 35,
     leftOffset: -50
   });
-  const [localValue, setLocalValue] = import_react74.default.useState(
+  const [localValue, setLocalValue] = import_react77.default.useState(
     value === null ? "" : unixTimeToDateString(value, dateFormat)
   );
-  const [isInputInvalid, setInputInvalid] = import_react74.default.useState(false);
-  const [closeTime, setCloseTime] = import_react74.default.useState(0);
-  const inputRef = import_react74.default.useRef(null);
-  import_react74.default.useEffect(() => {
+  const [isInputInvalid, setInputInvalid] = import_react77.default.useState(false);
+  const [closeTime, setCloseTime] = import_react77.default.useState(0);
+  const inputRef = import_react77.default.useRef(null);
+  import_react77.default.useEffect(() => {
     setLocalValue(
       value === null ? "" : unixTimeToDateString(value, dateFormat)
     );
@@ -50958,7 +51065,7 @@ function DateCellEdit({
   const hasCloseRequestTimeChanged = useCompare(
     menuCloseRequest == null ? void 0 : menuCloseRequest.requestTime
   );
-  import_react74.default.useEffect(() => {
+  import_react77.default.useEffect(() => {
     function validateInput() {
       let newValue = null;
       if (localValue !== "") {
@@ -50989,7 +51096,7 @@ function DateCellEdit({
     onDateTimeChange,
     onMenuClose
   ]);
-  import_react74.default.useEffect(() => {
+  import_react77.default.useEffect(() => {
     if (closeTime !== 0) {
       onMenuClose();
     }
@@ -51008,14 +51115,12 @@ function DateCellEdit({
         ref: triggerRef,
         className: "NLT__date-cell-edit",
         children: /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsxs)(Stack, {
-          spacing: "md",
           isVertical: true,
           children: [
             /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(Padding, {
-              px: "md",
-              py: "md",
               children: /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)("input", {
                 tabIndex: 0,
+                type: "text",
                 className: "NLT__focusable",
                 css: import_emotion_react_cjs.css`
 								${borderInputStyle}
@@ -51114,7 +51219,7 @@ function CurrencyCell({
 }
 
 // src/react/table-app/currency-cell-edit/index.tsx
-var import_react76 = __toESM(require_react());
+var import_react79 = __toESM(require_react());
 function CurrencyCellEdit({
   value,
   menuCloseRequest,
@@ -51122,13 +51227,13 @@ function CurrencyCellEdit({
   onMenuClose
 }) {
   const initialValue = isNumber(value) ? value : "";
-  const [localValue, setLocalValue] = import_react76.default.useState(initialValue);
-  const inputRef = import_react76.default.useRef(null);
+  const [localValue, setLocalValue] = import_react79.default.useState(initialValue);
+  const inputRef = import_react79.default.useRef(null);
   useInputSelection(inputRef, localValue);
   const hasCloseRequestTimeChanged = useCompare(
     menuCloseRequest == null ? void 0 : menuCloseRequest.requestTime
   );
-  import_react76.default.useEffect(() => {
+  import_react79.default.useEffect(() => {
     if (hasCloseRequestTimeChanged && menuCloseRequest !== null) {
       if (localValue !== value)
         onChange(localValue);
@@ -51143,7 +51248,7 @@ function CurrencyCellEdit({
     onChange
   ]);
   function handleChange(inputValue) {
-    if (!isValidNumberInput(inputValue))
+    if (!isNumberInput(inputValue))
       return;
     setLocalValue(inputValue);
   }
@@ -51188,7 +51293,7 @@ var getFileCellContent = (markdown) => {
 // src/react/table-app/file-cell/index.tsx
 function FileCell({ markdown, shouldWrapOverflow }) {
   const content = getFileCellContent(markdown);
-  const { containerRef, renderRef } = useRenderMarkdown(content, false);
+  const { containerRef, renderRef } = useRenderMarkdown(content);
   const overflowStyle = useOverflow(shouldWrapOverflow);
   return /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)("div", {
     className: "NLT__file-cell",
@@ -51210,44 +51315,78 @@ function FileCell({ markdown, shouldWrapOverflow }) {
 
 // src/react/table-app/file-cell-edit/index.tsx
 function FileCellEdit({ onChange, onMenuClose }) {
-  function handleSuggestItemClick(file, isFileNameUnique) {
+  function handleSuggestItemClick(file) {
     if (file) {
       let fileName = file.basename;
-      if (file.extension !== "md")
-        fileName = file.name;
-      if (!isFileNameUnique)
-        fileName = `${file.path}|${fileName}`;
+      if (file.path.includes("/"))
+        fileName = `${file.path}|${file.basename}`;
       onChange(`[[${fileName}]]`);
     }
     onMenuClose();
   }
+  function handleClearClick() {
+    onChange("");
+    onMenuClose();
+  }
+  function handleCreateClick(value) {
+    let link = `[[${value}]]`;
+    if (value.includes("/")) {
+      const fileName = getBasename(value);
+      link = `${value}|${fileName}`;
+    }
+    onChange(link);
+    onMenuClose();
+  }
   return /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)("div", {
     className: "NLT__file-cell-edit",
-    children: /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(SuggestMenuContent, {
+    children: /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(SuggestList, {
       showInput: true,
-      onItemClick: handleSuggestItemClick
+      showClear: true,
+      showCreate: true,
+      onItemClick: handleSuggestItemClick,
+      onClearClick: handleClearClick,
+      onCreateClick: handleCreateClick
     })
   });
 }
 
 // src/shared/cell-content/embed-cell-content.ts
-var getEmbedCellContent = (markdown, renderMarkdown2) => {
-  if (isURL(markdown)) {
-    if (renderMarkdown2)
-      return `![](${markdown})`;
-    return markdown;
+var getEmbedCellContent = (value, options) => {
+  const {
+    shouldRenderMarkdown = true,
+    isExternalLink = false,
+    isExport = false
+  } = options != null ? options : {};
+  if (shouldRenderMarkdown) {
+    if (isExternalLink) {
+      if (isImage(value) || isYouTubeLink(value) || isTwitterLink(value)) {
+        return `![](${value})`;
+      }
+      if (value !== "")
+        return "Unsupported link";
+    } else {
+      if (value !== "") {
+        if (isExport)
+          return `![[${value}]]`;
+        return `![](${getResourcePath(value)})`;
+      }
+    }
   }
-  return "";
+  return value;
 };
 
-// src/react/table-app/embed-cell/index.tsx
-var EmbeddedLink = ({
-  markdown,
+// src/react/table-app/embed-cell/embed.tsx
+function Embed({
+  isExternalLink,
+  content,
   aspectRatio,
   horizontalPadding,
   verticalPadding
-}) => {
-  const { containerRef, renderRef } = useRenderMarkdown(markdown, true);
+}) {
+  const { containerRef, renderRef } = useRenderMarkdown(content, {
+    isEmbed: true,
+    isExternalLink
+  });
   const paddingX = getSpacing(horizontalPadding);
   const paddingY = getSpacing(verticalPadding);
   return /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)("div", {
@@ -51275,89 +51414,155 @@ var EmbeddedLink = ({
       appendOrReplaceFirstChild(node, renderRef.current);
     }
   });
-};
+}
+
+// src/react/table-app/embed-cell/index.tsx
 function EmbedCell({
+  isExternalLink,
   markdown,
   aspectRatio,
   horizontalPadding,
   verticalPadding
 }) {
-  let isValidURL = true;
-  const content = getEmbedCellContent(markdown, true);
-  if (content === "")
-    isValidURL = false;
-  return /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsxs)("div", {
+  const content = getEmbedCellContent(markdown, {
+    shouldRenderMarkdown: true,
+    isExternalLink
+  });
+  return /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)("div", {
     className: "NLT__embed-cell",
     css: import_emotion_react_cjs.css`
 				width: 100%;
 				height: 100%;
+				overflow: hidden;
 			`,
-    children: [
-      isValidURL && /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(EmbeddedLink, {
-        markdown: content,
-        aspectRatio,
-        horizontalPadding,
-        verticalPadding
-      }),
-      !isValidURL && markdown !== "" && /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(Text, {
-        value: "Invalid URL"
-      })
-    ]
+    children: /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(Embed, {
+      isExternalLink,
+      content,
+      aspectRatio,
+      horizontalPadding,
+      verticalPadding
+    })
   });
 }
 
 // src/react/table-app/embed-cell-edit/index.tsx
-var import_react79 = __toESM(require_react());
+var import_react85 = __toESM(require_react());
+
+// src/react/table-app/embed-cell-edit/external-embed-input.tsx
+var import_react83 = __toESM(require_react());
+function ExternalEmbedInput({ value, onChange }) {
+  const inputRef = import_react83.default.useRef(null);
+  useInputSelection(inputRef, value);
+  return /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)("input", {
+    autoFocus: true,
+    type: "text",
+    className: "NLT__focusable",
+    css: import_emotion_react_cjs.css`
+				${borderInputStyle}
+			`,
+    ref: inputRef,
+    value,
+    onChange: (e) => onChange(e.target.value)
+  });
+}
+
+// src/data/constants.ts
+var CURRENT_PLUGIN_VERSION = "6.19.1";
+var DEFAULT_TABLE_NAME = "Untitled";
+var TABLE_EXTENSION = "table";
+var EXTENSION_REGEX = new RegExp(/\.[a-z]*$/);
+var WIKI_LINK_REGEX = new RegExp(/\[\[([^|\]]+)(?:\|([\w-]+))?\]\]/g);
+
+// src/react/table-app/embed-cell-edit/internal-embed-suggest.tsx
+function InternalEmbedSuggest({ onChange }) {
+  return /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(SuggestList, {
+    showInput: true,
+    hiddenExtensions: ["md", TABLE_EXTENSION],
+    onItemClick: (item) => {
+      var _a;
+      return onChange((_a = item == null ? void 0 : item.path) != null ? _a : "");
+    }
+  });
+}
+
+// src/react/table-app/embed-cell-edit/index.tsx
 function EmbedCellEdit({
-  shouldWrapOverflow,
   menuCloseRequest,
+  isExternalLink,
   value,
   onChange,
-  onMenuClose
+  onMenuClose,
+  onExternalLinkToggle
 }) {
-  const [localValue, setLocalValue] = import_react79.default.useState(value);
-  const inputRef = import_react79.default.useRef(null);
-  useInputSelection(inputRef, localValue);
+  const [externalLink, setExternalLink] = import_react85.default.useState(
+    isExternalLink ? value : ""
+  );
   const hasCloseRequestTimeChanged = useCompare(
     menuCloseRequest == null ? void 0 : menuCloseRequest.requestTime
   );
-  import_react79.default.useEffect(() => {
+  import_react85.default.useEffect(() => {
     if (hasCloseRequestTimeChanged && menuCloseRequest !== null) {
-      if (localValue !== value)
-        onChange(localValue);
+      if (isExternalLink) {
+        if (externalLink !== value)
+          onChange(externalLink);
+      }
       onMenuClose();
     }
   }, [
+    isExternalLink,
     value,
-    localValue,
+    externalLink,
     hasCloseRequestTimeChanged,
     menuCloseRequest,
     onMenuClose,
     onChange
   ]);
-  function handleTextareaChange(e) {
-    const inputValue = e.target.value;
-    setLocalValue(inputValue);
+  function handleSuggestChange(value2) {
+    onChange(value2);
+    onMenuClose();
   }
-  const overflowStyle = useOverflow(shouldWrapOverflow);
   return /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)("div", {
     className: "NLT__embed-cell-edit",
-    css: import_emotion_react_cjs.css`
-				width: 100%;
-				height: 100%;
-			`,
-    children: /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)("textarea", {
-      autoFocus: true,
-      css: import_emotion_react_cjs.css`
-					${textAreaStyle}
-					${overflowStyle}
-				`,
-      ref: inputRef,
-      value: localValue,
-      onChange: handleTextareaChange,
-      onBlur: (e) => {
-        e.target.classList.add("NLT__blur--cell");
-      }
+    children: /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsxs)(Stack, {
+      isVertical: true,
+      width: "100%",
+      spacing: "lg",
+      children: [
+        /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(Padding, {
+          width: "100%",
+          px: "md",
+          pt: "md",
+          children: /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsxs)(Stack, {
+            isVertical: true,
+            spacing: "sm",
+            width: "100%",
+            children: [
+              /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)("label", {
+                htmlFor: "external-switch",
+                children: "External Link"
+              }),
+              /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(Switch, {
+                id: "external-switch",
+                isChecked: isExternalLink,
+                onToggle: onExternalLinkToggle
+              })
+            ]
+          })
+        }),
+        /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(Divider, {}),
+        isExternalLink && /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(Padding, {
+          width: "100%",
+          px: "md",
+          pb: "md",
+          children: /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(ExternalEmbedInput, {
+            value: externalLink,
+            onChange: setExternalLink
+          })
+        }),
+        !isExternalLink && /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(InternalEmbedSuggest, {
+          onChange: handleSuggestChange
+        })
+      ]
     })
   });
 }
@@ -51375,6 +51580,7 @@ function BodyCell5({
   cellId,
   columnId,
   rowId,
+  isExternalLink,
   markdown,
   aspectRatio,
   verticalPadding,
@@ -51397,7 +51603,8 @@ function BodyCell5({
   onContentChange,
   onDateFormatChange,
   onDateTimeChange,
-  onTagAdd
+  onTagAdd,
+  onExternalLinkToggle
 }) {
   const shouldRequestOnClose = columnType === "text" /* TEXT */ || columnType === "embed" /* EMBED */ || columnType === "number" /* NUMBER */ || columnType === "currency" /* CURRENCY */ || columnType === "tag" /* TAG */ || columnType === "multi-tag" /* MULTI_TAG */ || columnType === "date" /* DATE */;
   const { menu, isMenuOpen, menuCloseRequest, menuRef, closeTopMenu } = useMenu(0 /* ONE */, {
@@ -51443,6 +51650,9 @@ function BodyCell5({
       toggleCheckbox();
     }
   }
+  function handleExternalLinkToggle(value) {
+    onExternalLinkToggle(cellId, rowId, value);
+  }
   function handleTagAdd(markdown2, color) {
     if (markdown2 === "")
       return;
@@ -51467,7 +51677,7 @@ function BodyCell5({
   function handleTagClick(tagId) {
     onTagClick(cellId, rowId, tagId, columnType === "multi-tag" /* MULTI_TAG */);
   }
-  const handleInputChange = import_react81.default.useCallback(
+  const handleInputChange = import_react86.default.useCallback(
     (value) => {
       onContentChange(cellId, rowId, value);
     },
@@ -51479,22 +51689,22 @@ function BodyCell5({
   function handleDateFormatChange(value) {
     onDateFormatChange(columnId, value);
   }
-  const handleDateTimeChange = import_react81.default.useCallback(
+  const handleDateTimeChange = import_react86.default.useCallback(
     (value) => {
       onDateTimeChange(cellId, rowId, value);
     },
     [cellId, rowId, onDateTimeChange]
   );
-  const handleMenuClose = import_react81.default.useCallback(() => {
+  const handleMenuClose = import_react86.default.useCallback(() => {
     closeTopMenu();
   }, [closeTopMenu]);
   const { width: measuredWidth, height: measuredHeight } = triggerPosition;
   let menuHeight = measuredHeight;
-  if (columnType === "tag" /* TAG */ || columnType === "multi-tag" /* MULTI_TAG */ || columnType === "date" /* DATE */ || columnType === "number" /* NUMBER */ || columnType === "currency" /* CURRENCY */ || columnType === "file" /* FILE */) {
+  if (columnType === "tag" /* TAG */ || columnType === "multi-tag" /* MULTI_TAG */ || columnType === "date" /* DATE */ || columnType === "number" /* NUMBER */ || columnType === "currency" /* CURRENCY */ || columnType === "file" /* FILE */ || columnType === "embed" /* EMBED */) {
     menuHeight = 0;
   }
   let menuWidth = measuredWidth;
-  if (columnType === "tag" /* TAG */ || columnType === "multi-tag" /* MULTI_TAG */) {
+  if (columnType === "tag" /* TAG */ || columnType === "multi-tag" /* MULTI_TAG */ || columnType === "embed" /* EMBED */) {
     menuWidth = 250;
   } else if (columnType === "file" /* FILE */) {
     menuWidth = 275;
@@ -51537,6 +51747,7 @@ function BodyCell5({
               shouldWrapOverflow
             }),
             columnType === "embed" /* EMBED */ && /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(EmbedCell, {
+              isExternalLink,
               markdown,
               verticalPadding,
               horizontalPadding,
@@ -51587,7 +51798,7 @@ function BodyCell5({
       /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsxs)(menu_default, {
         ref: menuRef,
         id: menu.id,
-        hideBorder: columnType === "text" /* TEXT */ || columnType === "embed" /* EMBED */ || columnType === "currency" /* CURRENCY */ || columnType === "number" /* NUMBER */,
+        hideBorder: columnType === "text" /* TEXT */ || columnType === "currency" /* CURRENCY */ || columnType === "number" /* NUMBER */,
         isOpen: isMenuOpen,
         top: triggerPosition.top,
         left: triggerPosition.left,
@@ -51602,11 +51813,12 @@ function BodyCell5({
             onMenuClose: handleMenuClose
           }),
           columnType === "embed" /* EMBED */ && /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(EmbedCellEdit, {
+            isExternalLink,
             menuCloseRequest,
-            shouldWrapOverflow,
             value: markdown,
             onChange: handleInputChange,
-            onMenuClose: handleMenuClose
+            onMenuClose: handleMenuClose,
+            onExternalLinkToggle: handleExternalLinkToggle
           }),
           columnType === "file" /* FILE */ && /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(FileCellEdit, {
             onChange: handleInputChange,
@@ -51678,7 +51890,7 @@ function NewColumnButton({ onClick }) {
 }
 
 // src/react/table-app/header-cell/index.tsx
-var import_react89 = __toESM(require_react());
+var import_react94 = __toESM(require_react());
 
 // src/react/shared/icon/utils.tsx
 var getIconIdForCellType = (type) => {
@@ -51710,10 +51922,10 @@ var getIconIdForCellType = (type) => {
 };
 
 // src/react/table-app/header-cell/use-column-resize.ts
-var import_react84 = __toESM(require_react());
+var import_react89 = __toESM(require_react());
 var useColumnResize = (columnId, onMove) => {
   const { setResizingColumnId } = useTableState();
-  const mouseDownX = (0, import_react84.useRef)(0);
+  const mouseDownX = (0, import_react89.useRef)(0);
   function handleMouseMove(e) {
     const dist = e.pageX - mouseDownX.current;
     onMove(dist);
@@ -51815,7 +52027,7 @@ function ResizeContainer({
 }
 
 // src/react/table-app/header-cell-edit/index.tsx
-var import_react87 = __toESM(require_react());
+var import_react92 = __toESM(require_react());
 
 // src/react/table-app/header-cell-edit/submenu.tsx
 function Submenu({ title, children, onBackClick }) {
@@ -51924,7 +52136,7 @@ function TypeSubmenu({
 }
 
 // src/react/table-app/header-cell-edit/base-menu.tsx
-var import_react86 = __toESM(require_react());
+var import_react91 = __toESM(require_react());
 function BaseMenu({
   shouldWrapOverflow,
   columnName,
@@ -51936,10 +52148,11 @@ function BaseMenu({
   onSubmenuChange,
   onWrapOverflowToggle,
   onDeleteClick,
-  onColumnNameChange
+  onColumnNameChange,
+  onHideClick
 }) {
-  const lastKeyPressed = import_react86.default.useRef(null);
-  const inputRef = import_react86.default.useRef(null);
+  const lastKeyPressed = import_react91.default.useRef(null);
+  const inputRef = import_react91.default.useRef(null);
   useInputSelection(inputRef, columnName);
   function handleInputChange(inputValue) {
     onColumnNameChange(inputValue);
@@ -51962,6 +52175,7 @@ function BaseMenu({
             py: "sm",
             width: "100%",
             children: /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)("input", {
+              type: "text",
               className: "NLT__focusable",
               autoFocus: true,
               css: borderInputStyle,
@@ -52001,33 +52215,38 @@ function BaseMenu({
         onClick: () => onSortClick("desc" /* DESC */),
         isSelected: columnSortDir === "desc" /* DESC */
       }),
-      canDeleteColumn && /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsxs)(import_emotion_react_jsx_runtime_cjs.Fragment, {
+      /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(Divider, {}),
+      /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(MenuItem, {
+        lucideId: "eye-off",
+        name: "Hide",
+        onClick: () => onHideClick()
+      }),
+      canDeleteColumn && /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(MenuItem, {
+        lucideId: "trash",
+        name: "Delete",
+        onClick: () => onDeleteClick()
+      }),
+      columnType !== "embed" /* EMBED */ && /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsxs)(import_emotion_react_jsx_runtime_cjs.Fragment, {
         children: [
           /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(Divider, {}),
-          /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(MenuItem, {
-            lucideId: "trash",
-            name: "Delete",
-            onClick: () => onDeleteClick()
+          /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(Padding, {
+            px: "lg",
+            py: "md",
+            children: /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsxs)(Flex, {
+              justify: "space-between",
+              align: "center",
+              children: [
+                /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(Text, {
+                  value: "Wrap content"
+                }),
+                /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(Switch, {
+                  isChecked: shouldWrapOverflow,
+                  onToggle: (value) => onWrapOverflowToggle(columnId, value)
+                })
+              ]
+            })
           })
         ]
-      }),
-      /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(Divider, {}),
-      /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(Padding, {
-        px: "lg",
-        py: "md",
-        children: /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsxs)(Flex, {
-          justify: "space-between",
-          align: "center",
-          children: [
-            /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(Text, {
-              value: "Wrap overflow"
-            }),
-            /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(Switch, {
-              isChecked: shouldWrapOverflow,
-              onToggle: (value) => onWrapOverflowToggle(columnId, value)
-            })
-          ]
-        })
       })
     ]
   });
@@ -52106,7 +52325,7 @@ function PaddingSubmenu({
 }
 
 // src/react/table-app/header-cell-edit/index.tsx
-var HeaderMenu = import_react87.default.forwardRef(function HeaderMenu2({
+var HeaderMenu = import_react92.default.forwardRef(function HeaderMenu2({
   isOpen,
   id: id2,
   top,
@@ -52134,14 +52353,15 @@ var HeaderMenu = import_react87.default.forwardRef(function HeaderMenu2({
   onWrapOverflowToggle,
   onNameChange,
   onCurrencyChange,
-  onDateFormatChange
+  onDateFormatChange,
+  onHideClick
 }, ref) {
-  const [submenu, setSubmenu] = (0, import_react87.useState)(null);
-  const [localValue, setLocalValue] = (0, import_react87.useState)(markdown);
+  const [submenu, setSubmenu] = (0, import_react92.useState)(null);
+  const [localValue, setLocalValue] = (0, import_react92.useState)(markdown);
   const hasCloseRequestTimeChanged = useCompare(
     menuCloseRequest == null ? void 0 : menuCloseRequest.requestTime
   );
-  import_react87.default.useEffect(() => {
+  import_react92.default.useEffect(() => {
     if (hasCloseRequestTimeChanged && menuCloseRequest !== null) {
       if (submenu === null) {
         if (localValue !== markdown)
@@ -52180,6 +52400,11 @@ var HeaderMenu = import_react87.default.forwardRef(function HeaderMenu2({
   }
   function handleTypeClick(type) {
     onTypeSelect(columnId, type);
+    onMenuClose();
+    setSubmenu(null);
+  }
+  function handleHideClick() {
+    onHideClick(columnId);
     onMenuClose();
     setSubmenu(null);
   }
@@ -52222,7 +52447,8 @@ var HeaderMenu = import_react87.default.forwardRef(function HeaderMenu2({
           onSortClick: handleSortClick,
           onSubmenuChange: setSubmenu,
           onWrapOverflowToggle,
-          onDeleteClick: handleDeleteClick
+          onDeleteClick: handleDeleteClick,
+          onHideClick: handleHideClick
         }),
         submenu === 1 /* OPTIONS */ && /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(OptionSubmenu, {
           title: "Options",
@@ -52304,18 +52530,19 @@ function HeaderCell2({
   onWrapOverflowToggle,
   onNameChange,
   onCurrencyChange,
-  onDateFormatChange
+  onDateFormatChange,
+  onHideClick
 }) {
   const { menu, isMenuOpen, closeTopMenu, menuRef, menuCloseRequest } = useMenu(0 /* ONE */, { shouldRequestOnClose: true });
   const { triggerPosition, triggerRef } = useMenuTriggerPosition();
   useShiftMenu(triggerRef, menuRef, isMenuOpen);
   const [forceUpdateTime, forceUpdate] = useForceUpdate();
-  import_react89.default.useEffect(() => {
+  import_react94.default.useEffect(() => {
     if (width === "unset")
       forceUpdate();
   }, [width, forceUpdate]);
   const shouldUpdateWidth = useCompare(forceUpdateTime, false);
-  import_react89.default.useEffect(() => {
+  import_react94.default.useEffect(() => {
     if (shouldUpdateWidth) {
       const newWidth = numToPx(triggerPosition.width);
       onWidthChange(columnId, newWidth);
@@ -52411,18 +52638,12 @@ function HeaderCell2({
         onDateFormatChange,
         onVerticalPaddingClick,
         onHorizontalPaddingClick,
-        onAspectRatioClick
+        onAspectRatioClick,
+        onHideClick
       })
     ]
   });
 }
-
-// src/data/constants.ts
-var CURRENT_PLUGIN_VERSION = "6.18.6";
-var DEFAULT_TABLE_NAME = "Untitled";
-var TABLE_EXTENSION = "table";
-var EXTENSION_REGEX = new RegExp(/\.[a-z]*$/);
-var WIKI_LINK_REGEX = new RegExp(/\[\[([^|\]]+)(?:\|([\w-]+))?\]\]/g);
 
 // src/data/table-state-factory.ts
 var createColumn = (options) => {
@@ -52435,10 +52656,10 @@ var createColumn = (options) => {
     type: cellType,
     currencyType: "USD" /* UNITED_STATES */,
     dateFormat: "mm/dd/yyyy" /* MM_DD_YYYY */,
-    shouldWrapOverflow: false,
+    shouldWrapOverflow: true,
     tags: [],
-    functionType: "none" /* NONE */,
-    aspectRatio: "16/9" /* SIXTEEN_BY_NINE */,
+    calculationType: "none" /* NONE */,
+    aspectRatio: "unset" /* UNSET */,
     horizontalPadding: "unset" /* UNSET */,
     verticalPadding: "unset" /* UNSET */
   };
@@ -52474,6 +52695,7 @@ var createBodyCell = (columnId, rowId, options = {}) => {
   const { cellType, tagIds = [] } = options || {};
   return {
     id: v4_default(),
+    isExternalLink: false,
     columnId,
     rowId,
     dateTime: null,
@@ -52745,7 +52967,7 @@ var matchLastEditedTimeCell = (lastEditedTime, dateFormat, searchText) => {
 };
 
 // src/shared/table-state/use-column.ts
-var import_react91 = __toESM(require_react());
+var import_react96 = __toESM(require_react());
 
 // src/shared/commands/column-add-command.ts
 var ColumnAddCommand = class extends TableStateCommand {
@@ -52991,8 +53213,8 @@ var ColumnTypeUpdateCommand = class extends TableStateCommand {
     __publicField(this, "type");
     __publicField(this, "previousType");
     __publicField(this, "deletedFilterRules", []);
-    __publicField(this, "previousFunctionType");
-    __publicField(this, "newFunctionType");
+    __publicField(this, "previousCalculationType");
+    __publicField(this, "newCalculationType");
     __publicField(this, "updatedBodyCellTagIds", {
       current: [],
       previous: []
@@ -53008,11 +53230,11 @@ var ColumnTypeUpdateCommand = class extends TableStateCommand {
   fromNumberOrCurrency(columns) {
     return columns.map((column) => {
       if (column.id === this.columnId) {
-        if (isNumberFunction(column.functionType)) {
-          this.previousFunctionType = column.functionType;
-          this.newFunctionType = "none" /* NONE */;
+        if (isNumberCalcuation(column.calculationType)) {
+          this.previousCalculationType = column.calculationType;
+          this.newCalculationType = "none" /* NONE */;
           return __spreadProps(__spreadValues({}, column), {
-            functionType: "none" /* NONE */
+            calculationType: "none" /* NONE */
           });
         }
       }
@@ -53287,7 +53509,7 @@ var ColumnTypeUpdateCommand = class extends TableStateCommand {
       if (column.id === this.columnId) {
         return __spreadProps(__spreadValues({}, column), {
           type: this.type,
-          functionType: this.newFunctionType ? this.newFunctionType : column.functionType,
+          calculationType: this.newCalculationType ? this.newCalculationType : column.calculationType,
           tags: [...column.tags, ...this.addedTags]
         });
       }
@@ -53334,7 +53556,7 @@ var ColumnTypeUpdateCommand = class extends TableStateCommand {
     const newColumns = columns.map((column) => {
       if (column.id === this.columnId) {
         return __spreadProps(__spreadValues({}, column), {
-          functionType: this.previousFunctionType ? this.previousFunctionType : column.functionType,
+          calculationType: this.previousCalculationType ? this.previousCalculationType : column.calculationType,
           type: this.previousType,
           tags: column.tags.filter(
             (t2) => this.addedTags.find(
@@ -53415,7 +53637,7 @@ var useColumn = () => {
       })
     );
   }
-  const handleColumnToggle = import_react91.default.useCallback(
+  const handleColumnToggle = import_react96.default.useCallback(
     (columnId) => {
       logger("handleColumnToggle", {
         columnId
@@ -53424,20 +53646,28 @@ var useColumn = () => {
     },
     [doCommand, logger]
   );
+  function handleColumnHideClick(columnId) {
+    logger("handleColumnHideClick", {
+      columnId
+    });
+    doCommand(
+      new ColumnUpdateCommand(columnId, "isVisible", { value: false })
+    );
+  }
   function handleColumnDeleteClick(columnId) {
     logger("handleColumnDeleteClick", {
       columnId
     });
     doCommand(new ColumnDeleteCommand({ id: columnId }));
   }
-  function handleFunctionTypeChange(columnId, functionType) {
-    logger("handleFunctionTypeChange", {
+  function handleCalculationTypeChange(columnId, calculationType) {
+    logger("handleCalculationTypeChange", {
       columnId,
-      functionType
+      calculationType
     });
     doCommand(
-      new ColumnUpdateCommand(columnId, "functionType", {
-        value: functionType
+      new ColumnUpdateCommand(columnId, "calculationType", {
+        value: calculationType
       })
     );
   }
@@ -53511,10 +53741,11 @@ var useColumn = () => {
     handleSortRemoveClick,
     handleColumnWidthChange,
     handleWrapContentToggle,
-    handleFunctionTypeChange,
+    handleCalculationTypeChange,
     handleHorizontalPaddingClick,
     handleVerticalPaddingClick,
-    handleAspectRatioClick
+    handleAspectRatioClick,
+    handleColumnHideClick
   };
 };
 
@@ -53661,11 +53892,11 @@ var RowDeleteCommand = class extends TableStateCommand {
 };
 
 // src/shared/table-state/use-row.ts
-var import_react92 = __toESM(require_react());
+var import_react97 = __toESM(require_react());
 var useRow = () => {
   const logger = useLogger();
   const { doCommand } = useTableState();
-  const handleRowDeleteClick = import_react92.default.useCallback(
+  const handleRowDeleteClick = import_react97.default.useCallback(
     (rowId) => {
       logger("handleRowDeleteClick", {
         rowId
@@ -53825,10 +54056,19 @@ var CellHeaderUpdateCommand = class extends TableStateCommand {
 };
 
 // src/shared/table-state/use-cell.ts
-var import_react93 = __toESM(require_react());
+var import_react98 = __toESM(require_react());
 var useCell = () => {
   const logger = useLogger();
   const { doCommand } = useTableState();
+  function handleExternalLinkToggle(cellId, rowId, value) {
+    logger("handleExternalLinkToggle", {
+      cellId,
+      value
+    });
+    doCommand(
+      new CellBodyUpdateCommand(cellId, rowId, "isExternalLink", value)
+    );
+  }
   function handleHeaderCellContentChange(cellId, value) {
     logger("handleCellContentChange", {
       cellId,
@@ -53836,7 +54076,7 @@ var useCell = () => {
     });
     doCommand(new CellHeaderUpdateCommand(cellId, "markdown", value));
   }
-  const handleBodyCellContentChange = import_react93.default.useCallback(
+  const handleBodyCellContentChange = import_react98.default.useCallback(
     (cellId, rowId, value) => {
       logger("handleCellContentChange", {
         cellId,
@@ -53849,7 +54089,7 @@ var useCell = () => {
     },
     [logger, doCommand]
   );
-  const handleCellDateTimeChange = import_react93.default.useCallback(
+  const handleCellDateTimeChange = import_react98.default.useCallback(
     (cellId, rowId, value) => {
       logger("handleCellContentChange", {
         cellId,
@@ -53865,14 +54105,15 @@ var useCell = () => {
   return {
     handleHeaderCellContentChange,
     handleBodyCellContentChange,
-    handleCellDateTimeChange
+    handleCellDateTimeChange,
+    handleExternalLinkToggle
   };
 };
 
 // src/shared/commands/tag-delete-command.ts
 var TagDeleteCommand = class extends TableStateCommand {
   constructor(columnId, tagId) {
-    super();
+    super(true);
     __publicField(this, "columnId");
     __publicField(this, "tagId");
     __publicField(this, "deletedTag");
@@ -53961,7 +54202,7 @@ var TagDeleteCommand = class extends TableStateCommand {
 // src/shared/commands/tag-update-command.ts
 var TagUpdateCommand = class extends TableStateCommand {
   constructor(columnId, tagId, key, value) {
-    super();
+    super(true);
     __publicField(this, "columnId");
     __publicField(this, "tagId");
     __publicField(this, "key");
@@ -54033,7 +54274,7 @@ var TagUpdateCommand = class extends TableStateCommand {
 // src/shared/commands/tag-add-command.ts
 var TagAddCommand = class extends TableStateCommand {
   constructor(cellId, columnId, rowId, markdown, color, isMultiTag) {
-    super();
+    super(true);
     __publicField(this, "cellId");
     __publicField(this, "columnId");
     __publicField(this, "rowId");
@@ -54165,7 +54406,7 @@ var TagAddCommand = class extends TableStateCommand {
 // src/shared/commands/tag-cell-remove-command.ts
 var TagCellRemoveCommand = class extends TableStateCommand {
   constructor(cellId, rowId, tagId) {
-    super();
+    super(true);
     __publicField(this, "cellId");
     __publicField(this, "rowId");
     __publicField(this, "tagId");
@@ -54229,7 +54470,7 @@ var TagCellRemoveCommand = class extends TableStateCommand {
 // src/shared/commands/tag-cell-add-command.ts
 var TagCellAddCommand = class extends TableStateCommand {
   constructor(cellId, rowId, tagId, isMultiTag) {
-    super();
+    super(true);
     __publicField(this, "cellId");
     __publicField(this, "rowId");
     __publicField(this, "tagId");
@@ -54299,7 +54540,7 @@ var TagCellAddCommand = class extends TableStateCommand {
 // src/shared/commands/tag-cell-multiple-remove-command.ts
 var TagCellMultipleRemoveCommand = class extends TableStateCommand {
   constructor(cellId, rowId, tagIds) {
-    super();
+    super(true);
     __publicField(this, "cellId");
     __publicField(this, "rowId");
     __publicField(this, "tagIds");
@@ -54505,7 +54746,7 @@ var moveFocusDown = (focusableEls, numColumns, numBodyRows, numSortedColumns, cu
 };
 
 // src/obsidian-shim/build/export-events.ts
-var import_react94 = __toESM(require_react());
+var import_react99 = __toESM(require_react());
 
 // src/shared/event-system/utils.ts
 var isEventForThisApp = (appId, allowOutsideEvents = false) => {
@@ -54613,7 +54854,11 @@ var getCellContent = (column, row, cell, renderMarkdown2) => {
     case "number" /* NUMBER */:
       return getNumberCellContent(cell.markdown);
     case "embed" /* EMBED */:
-      return getEmbedCellContent(cell.markdown, renderMarkdown2);
+      return getEmbedCellContent(cell.markdown, {
+        isExport: true,
+        isExternalLink: cell.isExternalLink,
+        shouldRenderMarkdown: renderMarkdown2
+      });
     case "checkbox" /* CHECKBOX */:
       return getCheckboxCellContent(cell.markdown, renderMarkdown2);
     case "currency" /* CURRENCY */:
@@ -54815,8 +55060,10 @@ var exportToMarkdown = (tableState, renderMarkdown2) => {
 var useExportEvents = (state) => {
   const { filePath } = useMountState();
   const { appId } = useMountState();
-  const { exportRenderMarkdown } = useAppSelector((state2) => state2.global);
-  import_react94.default.useEffect(() => {
+  const { exportRenderMarkdown } = useAppSelector(
+    (state2) => state2.global.settings
+  );
+  import_react99.default.useEffect(() => {
     function handleDownloadCSV() {
       if (isEventForThisApp(appId)) {
         setTimeout(() => {
@@ -54851,11 +55098,11 @@ var useExportEvents = (state) => {
 };
 
 // src/obsidian-shim/build/row-events.ts
-var import_react95 = __toESM(require_react());
+var import_react100 = __toESM(require_react());
 var useRowEvents = () => {
   const { appId } = useMountState();
   const { doCommand } = useTableState();
-  import_react95.default.useEffect(() => {
+  import_react100.default.useEffect(() => {
     function handleRowAddEvent() {
       if (isEventForThisApp(appId))
         doCommand(new RowAddCommand());
@@ -54874,12 +55121,12 @@ var useRowEvents = () => {
 };
 
 // src/obsidian-shim/build/column-events.ts
-var import_react96 = __toESM(require_react());
+var import_react101 = __toESM(require_react());
 var useColumnEvents = () => {
   const { appId } = useMountState();
   const { doCommand } = useTableState();
   const logger = useLogger();
-  import_react96.default.useEffect(() => {
+  import_react101.default.useEffect(() => {
     function handleColumnAddEvent() {
       if (isEventForThisApp(appId)) {
         logger("handleColumnAddEvent");
@@ -54933,11 +55180,12 @@ var TableApp = () => {
     handleCurrencyChange,
     handleDateFormatChange,
     handleColumnDeleteClick,
+    handleColumnHideClick,
     handleColumnSortClick,
     handleColumnTypeClick,
     handleColumnWidthChange,
     handleSortRemoveClick,
-    handleFunctionTypeChange,
+    handleCalculationTypeChange,
     handleWrapContentToggle,
     handleAspectRatioClick,
     handleHorizontalPaddingClick,
@@ -54947,7 +55195,8 @@ var TableApp = () => {
   const {
     handleBodyCellContentChange,
     handleCellDateTimeChange,
-    handleHeaderCellContentChange
+    handleHeaderCellContentChange,
+    handleExternalLinkToggle
   } = useCell();
   const {
     handleTagCellAdd,
@@ -55157,7 +55406,8 @@ var TableApp = () => {
                     onCurrencyChange: handleCurrencyChange,
                     onVerticalPaddingClick: handleVerticalPaddingClick,
                     onHorizontalPaddingClick: handleHorizontalPaddingClick,
-                    onAspectRatioClick: handleAspectRatioClick
+                    onAspectRatioClick: handleAspectRatioClick,
+                    onHideClick: handleColumnHideClick
                   }, columnId)
                 };
               }),
@@ -55208,12 +55458,14 @@ var TableApp = () => {
                   id: cellId,
                   markdown,
                   dateTime,
-                  tagIds
+                  tagIds,
+                  isExternalLink
                 } = cell;
                 return {
                   id: cellId,
                   content: /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(BodyCell5, {
                     cellId,
+                    isExternalLink,
                     verticalPadding,
                     horizontalPadding,
                     aspectRatio,
@@ -55238,7 +55490,8 @@ var TableApp = () => {
                     onTagDelete: handleTagDeleteClick,
                     onDateTimeChange: handleCellDateTimeChange,
                     onDateFormatChange: handleDateFormatChange,
-                    onTagAdd: handleTagAdd
+                    onTagAdd: handleTagAdd,
+                    onExternalLinkToggle: handleExternalLinkToggle
                   }, cellId)
                 };
               }),
@@ -55266,7 +55519,7 @@ var TableApp = () => {
                     dateFormat,
                     width,
                     tags,
-                    functionType
+                    calculationType
                   } = column;
                   const cell = footerCells.find(
                     (cell2) => cell2.rowId === row.id && cell2.columnId === column.id
@@ -55289,7 +55542,7 @@ var TableApp = () => {
                       css: import_emotion_react_cjs.css`
 													width: ${width};
 												`,
-                      children: /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(FunctionCell, {
+                      children: /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)(CalculationCell, {
                         columnId,
                         columnTags: tags,
                         cellId,
@@ -55297,9 +55550,9 @@ var TableApp = () => {
                         dateFormat,
                         bodyCells: columnBodyCells,
                         bodyRows: filteredBodyRows,
-                        functionType,
+                        calculationType,
                         cellType: type,
-                        onFunctionTypeChange: handleFunctionTypeChange
+                        onTypeChange: handleCalculationTypeChange
                       })
                     })
                   };
@@ -55393,18 +55646,18 @@ function NotionLikeTable({
 }
 
 // src/shared/types/types-6.7.0.ts
-var GeneralFunction2 = /* @__PURE__ */ ((GeneralFunction3) => {
-  GeneralFunction3["NONE"] = "none";
-  GeneralFunction3["COUNT_ALL"] = "count_all";
-  GeneralFunction3["COUNT_VALUES"] = "count_values";
-  GeneralFunction3["COUNT_UNIQUE"] = "count_unique";
-  GeneralFunction3["COUNT_EMPTY"] = "count_empty";
-  GeneralFunction3["COUNT_NOT_EMPTY"] = "count_not_empty";
-  GeneralFunction3["PERCENT_EMPTY"] = "percent_empty";
-  GeneralFunction3["PERCENT_NOT_EMPTY"] = "percent_not_empty";
-  return GeneralFunction3;
-})(GeneralFunction2 || {});
-var GeneralFunction670 = GeneralFunction2;
+var GeneralFunction = /* @__PURE__ */ ((GeneralFunction2) => {
+  GeneralFunction2["NONE"] = "none";
+  GeneralFunction2["COUNT_ALL"] = "count_all";
+  GeneralFunction2["COUNT_VALUES"] = "count_values";
+  GeneralFunction2["COUNT_UNIQUE"] = "count_unique";
+  GeneralFunction2["COUNT_EMPTY"] = "count_empty";
+  GeneralFunction2["COUNT_NOT_EMPTY"] = "count_not_empty";
+  GeneralFunction2["PERCENT_EMPTY"] = "percent_empty";
+  GeneralFunction2["PERCENT_NOT_EMPTY"] = "percent_not_empty";
+  return GeneralFunction2;
+})(GeneralFunction || {});
+var GeneralFunction670 = GeneralFunction;
 
 // src/shared/types/types-6.1.0.ts
 var CurrencyType8 = /* @__PURE__ */ ((CurrencyType9) => {
@@ -55683,7 +55936,7 @@ var deserializeTableState = (data) => {
     columns.forEach((column) => {
       const typedColumn = column;
       typedColumn.isLocked = false;
-      typedColumn.aspectRatio = "16/9" /* SIXTEEN_BY_NINE */;
+      typedColumn.aspectRatio = "unset";
       typedColumn.horizontalPadding = "unset";
       typedColumn.verticalPadding = "unset";
     });
@@ -55701,6 +55954,20 @@ var deserializeTableState = (data) => {
       typedRow.index = i2;
     });
   }
+  if (isVersionLessThan(pluginVersion, "6.19.0")) {
+    const tableState2 = currentState;
+    const { columns, bodyCells } = tableState2.model;
+    columns.forEach((column) => {
+      const typedColumn = column;
+      typedColumn.calculationType = typedColumn.functionType;
+      if (typedColumn["functionType"])
+        delete typedColumn.functionType;
+    });
+    bodyCells.forEach((cell) => {
+      const typedCell = cell;
+      typedCell.isExternalLink = true;
+    });
+  }
   const tableState = currentState;
   tableState.pluginVersion = CURRENT_PLUGIN_VERSION;
   return tableState;
@@ -55711,7 +55978,7 @@ var import_obsidian9 = require("obsidian");
 var import_client = __toESM(require_client());
 
 // src/react/export-app/index.tsx
-var import_react100 = __toESM(require_react());
+var import_react105 = __toESM(require_react());
 
 // src/react/export-app/export-type-select.tsx
 function ExportTypeSelect({ value, onChange }) {
@@ -55757,11 +56024,13 @@ function ContentTextArea({ value }) {
 // src/react/export-app/index.tsx
 var import_obsidian8 = require("obsidian");
 function ExportApp({ tableState, filePath }) {
-  const [exportType, setExportType] = import_react100.default.useState(
+  const [exportType, setExportType] = import_react105.default.useState(
     "Select an option" /* UNSELECTED */
   );
-  const { exportRenderMarkdown } = useAppSelector((state) => state.global);
-  const [renderMarkdown2, setRenderMarkdown] = import_react100.default.useState(exportRenderMarkdown);
+  const { exportRenderMarkdown } = useAppSelector(
+    (state) => state.global.settings
+  );
+  const [renderMarkdown2, setRenderMarkdown] = import_react105.default.useState(exportRenderMarkdown);
   function handleCopyClick(value) {
     return __async(this, null, function* () {
       yield navigator.clipboard.writeText(value);
@@ -55789,7 +56058,7 @@ function ExportApp({ tableState, filePath }) {
 						margin-top: 0px;
 						margin-bottom: 0px;
 					`,
-          children: "Notion-Like Tables Export"
+          children: "Dashboards Export"
         }),
         /* @__PURE__ */ (0, import_emotion_react_jsx_runtime_cjs.jsx)("hr", {
           css: import_emotion_react_cjs.css`
@@ -55994,7 +56263,6 @@ var NLTView = class extends import_obsidian10.TextFileView {
 
 // src/data/table-file.ts
 var import_obsidian11 = require("obsidian");
-var import_obsidian12 = require("obsidian");
 
 // src/data/utils.ts
 var splitFileExtension = (filePath) => {
@@ -56007,7 +56275,7 @@ var splitFileExtension = (filePath) => {
   }
   return null;
 };
-var updateLinkReferences = (markdown, updatedFileInfo, oldPath, isFileNameUnique) => {
+var updateLinkReferences = (markdown, newPath, oldPath) => {
   return markdown.replace(WIKI_LINK_REGEX, (match, path) => {
     let comparePath = oldPath;
     if (!path.includes("/"))
@@ -56015,7 +56283,7 @@ var updateLinkReferences = (markdown, updatedFileInfo, oldPath, isFileNameUnique
     if (!path.match(EXTENSION_REGEX))
       comparePath = stripFileExtension(comparePath);
     if (comparePath === path) {
-      const linkText = getWikiLinkText(updatedFileInfo, isFileNameUnique);
+      const linkText = getWikiLinkText(newPath);
       return `[[${linkText}]]`;
     }
     return match;
@@ -56046,22 +56314,8 @@ var createFile = (filePath, data, numExisting = 0) => __async(void 0, null, func
 });
 
 // src/data/table-file.ts
-var getActiveFileNameAndTimestamp = () => {
-  const activeView = app.workspace.getActiveViewOfType(import_obsidian11.MarkdownView);
-  if (!activeView)
-    return null;
-  const file = activeView.file;
-  if (!file)
-    return null;
-  return `${file.basename}-${(0, import_obsidian12.moment)().format().replaceAll(":", ".")}`;
-};
-var getFileName = (useActiveFileNameAndTimestamp) => {
-  let fileName = DEFAULT_TABLE_NAME;
-  if (useActiveFileNameAndTimestamp) {
-    const name = getActiveFileNameAndTimestamp();
-    if (name)
-      fileName = name;
-  }
+var getFileName = () => {
+  const fileName = DEFAULT_TABLE_NAME;
   return `${fileName}.${TABLE_EXTENSION}`;
 };
 var getFilePath = (folderPath, fileName) => {
@@ -56075,7 +56329,7 @@ var createTableFile = (options) => __async(void 0, null, function* () {
       if (app.vault.getAbstractFileByPath(options.folderPath) == null)
         yield createFolder(options.folderPath);
     }
-    const fileName = getFileName(options.useActiveFileNameAndTimestamp);
+    const fileName = getFileName();
     const tableState = createTableState(1, 1);
     const serialized = serializeTableState(tableState);
     const filePath = getFilePath(options.folderPath, fileName);
@@ -56088,7 +56342,7 @@ var createTableFile = (options) => __async(void 0, null, function* () {
 
 // src/obsidian/nlt-embedded-plugin.tsx
 var import_view = require("@codemirror/view");
-var import_obsidian13 = require("obsidian");
+var import_obsidian12 = require("obsidian");
 var import_client3 = __toESM(require_client());
 var import_lodash = __toESM(require_lodash());
 
@@ -56122,16 +56376,16 @@ var findEmbeddedTableFile = (embeddedLinkEl) => {
     return (_a = app.vault.getFiles().find((file) => file.name === src)) != null ? _a : null;
   return tableFile != null ? tableFile : null;
 };
-var getEmbeddedTableWidth = (embeddedLinkEl) => {
+var getEmbeddedTableWidth = (embeddedLinkEl, defaultWidth) => {
   const width = embeddedLinkEl.getAttribute("width");
   if (width === null || width === "1")
-    return "100%";
+    return defaultWidth;
   return numToPx(width);
 };
-var getEmbeddedTableHeight = (embeddedLinkEl) => {
+var getEmbeddedTableHeight = (embeddedLinkEl, defaultHeight) => {
   const height = embeddedLinkEl.getAttribute("height");
   if (height === null || height === "1")
-    return "340px";
+    return defaultHeight;
   return numToPx(height);
 };
 
@@ -56159,7 +56413,7 @@ var NLTEmbeddedPlugin = class {
     this.setupEventListeners();
   }
   update() {
-    const activeView = app.workspace.getActiveViewOfType(import_obsidian13.MarkdownView);
+    const activeView = app.workspace.getActiveViewOfType(import_obsidian12.MarkdownView);
     if (!activeView)
       return;
     const embeddedTableLinkEls = getEmbeddedTableLinkEls(
@@ -56171,8 +56425,9 @@ var NLTEmbeddedPlugin = class {
       const file = findEmbeddedTableFile(linkEl);
       if (!file)
         return;
-      const width = getEmbeddedTableWidth(linkEl);
-      const height = getEmbeddedTableHeight(linkEl);
+      const { defaultEmbedWidth, defaultEmbedHeight } = store.getState().global.settings;
+      const width = getEmbeddedTableWidth(linkEl, defaultEmbedWidth);
+      const height = getEmbeddedTableHeight(linkEl, defaultEmbedHeight);
       linkEl.style.width = width;
       linkEl.style.height = height;
       if (this.tableApps.find((app2) => app2.file.path === file.path))
@@ -56254,10 +56509,11 @@ var DEFAULT_SETTINGS = {
   shouldDebug: false,
   createAtObsidianAttachmentFolder: false,
   customFolderForNewTables: "",
-  nameWithActiveFileNameAndTimestamp: false,
-  exportRenderMarkdown: true
+  exportRenderMarkdown: true,
+  defaultEmbedWidth: "100%",
+  defaultEmbedHeight: "340px"
 };
-var NLTPlugin = class extends import_obsidian14.Plugin {
+var NLTPlugin = class extends import_obsidian13.Plugin {
   constructor() {
     super(...arguments);
     __publicField(this, "settings");
@@ -56293,8 +56549,7 @@ var NLTPlugin = class extends import_obsidian14.Plugin {
         folderPath = this.settings.customFolderForNewTables;
       }
       const filePath = yield createTableFile({
-        folderPath,
-        useActiveFileNameAndTimestamp: this.settings.nameWithActiveFileNameAndTimestamp
+        folderPath
       });
       if (embedded)
         return filePath;
@@ -56327,7 +56582,7 @@ var NLTPlugin = class extends import_obsidian14.Plugin {
     );
     this.registerEvent(
       this.app.workspace.on("file-menu", (menu, file) => {
-        if (file instanceof import_obsidian14.TFolder) {
+        if (file instanceof import_obsidian13.TFolder) {
           menu.addItem((item) => {
             item.setTitle("New Notion-Like table").setIcon("document").onClick(() => __async(this, null, function* () {
               yield this.newTableFile(file.path);
@@ -56339,39 +56594,64 @@ var NLTPlugin = class extends import_obsidian14.Plugin {
     this.app.vault.on(
       "rename",
       (file, oldPath) => __async(this, null, function* () {
-        if (file instanceof import_obsidian14.TFile) {
-          const files = this.app.vault.getFiles();
-          const uniqueFileNames = filterUniqueStrings(
-            files.map((file2) => file2.name)
-          );
-          const isUniqueFileName = uniqueFileNames.includes(
-            file.name
-          );
-          const tableFiles = files.filter(
-            (file2) => file2.extension === TABLE_EXTENSION
-          );
-          for (let i2 = 0; i2 < tableFiles.length; i2++) {
-            const tableFile = tableFiles[i2];
-            const content = yield tableFile.vault.read(
-              tableFiles[i2]
+        if (file instanceof import_obsidian13.TFile) {
+          const vaultTableFiles = this.app.vault.getFiles().filter((file2) => file2.extension === TABLE_EXTENSION);
+          const tablesToUpdate = [];
+          let numLinks = 0;
+          for (const tableFile of vaultTableFiles) {
+            const data = yield file.vault.read(tableFile);
+            const state = deserializeTableState(data);
+            state.model.bodyCells.forEach((cell) => {
+              const regex = structuredClone(WIKI_LINK_REGEX);
+              let matches;
+              while ((matches = regex.exec(cell.markdown)) !== null) {
+                const path = matches[1];
+                if (oldPath.includes(path)) {
+                  const found = tablesToUpdate.find(
+                    (table) => table.file.path === tableFile.path
+                  );
+                  if (!found) {
+                    tablesToUpdate.push({
+                      file: tableFile,
+                      state
+                    });
+                  }
+                  numLinks++;
+                }
+              }
+            });
+          }
+          if (numLinks > 0) {
+            new import_obsidian13.Notice(
+              `Updating ${numLinks} link${numLinks > 1 ? "s" : ""} in ${tablesToUpdate.length} Notion-Like Table file${tablesToUpdate.length > 1 ? "s" : ""}.`
             );
-            const deserializedState = deserializeTableState(content);
-            const newState = structuredClone(deserializedState);
-            newState.model.bodyCells.forEach((cell) => {
+          }
+          for (let i2 = 0; i2 < tablesToUpdate.length; i2++) {
+            const { file: tableFile, state } = tablesToUpdate[i2];
+            if (this.settings.shouldDebug)
+              console.log("Updating links in file", {
+                path: tableFile.path
+              });
+            const newState = structuredClone(state);
+            newState.model.bodyCells.map((cell) => {
               const updatedMarkdown = updateLinkReferences(
                 cell.markdown,
-                file,
-                oldPath,
-                isUniqueFileName
+                file.path,
+                oldPath
               );
+              if (cell.markdown !== updatedMarkdown) {
+                if (this.settings.shouldDebug) {
+                  console.log("Updated link", {
+                    oldLink: cell.markdown,
+                    newLink: updatedMarkdown
+                  });
+                }
+              }
               cell.markdown = updatedMarkdown;
             });
-            if (JSON.stringify(deserializedState) !== JSON.stringify(newState)) {
+            if (JSON.stringify(state) !== JSON.stringify(newState)) {
               const serializedState = serializeTableState(newState);
-              yield tableFile.vault.modify(
-                tableFile,
-                serializedState
-              );
+              yield file.vault.modify(tableFile, serializedState);
               app.workspace.trigger(
                 EVENT_REFRESH_TABLES,
                 tableFile.path,
@@ -56386,7 +56666,6 @@ var NLTPlugin = class extends import_obsidian14.Plugin {
     this.app.workspace.onLayoutReady(() => {
       const isDark = hasDarkTheme();
       store.dispatch(setDarkMode(isDark));
-      store.dispatch(setDebugMode(this.settings.shouldDebug));
     });
   }
   registerCommands() {
@@ -56423,7 +56702,7 @@ var NLTPlugin = class extends import_obsidian14.Plugin {
       hotkeys: [{ modifiers: ["Mod", "Shift"], key: "\\" }],
       checkCallback: (checking) => {
         const nltView = this.app.workspace.getActiveViewOfType(NLTView);
-        const markdownView = this.app.workspace.getActiveViewOfType(import_obsidian14.MarkdownView);
+        const markdownView = this.app.workspace.getActiveViewOfType(import_obsidian13.MarkdownView);
         if (nltView || markdownView) {
           if (!checking) {
             this.app.workspace.trigger(EVENT_COLUMN_ADD);
@@ -56439,7 +56718,7 @@ var NLTPlugin = class extends import_obsidian14.Plugin {
       hotkeys: [{ modifiers: ["Mod", "Shift"], key: "Backspace" }],
       checkCallback: (checking) => {
         const nltView = this.app.workspace.getActiveViewOfType(NLTView);
-        const markdownView = this.app.workspace.getActiveViewOfType(import_obsidian14.MarkdownView);
+        const markdownView = this.app.workspace.getActiveViewOfType(import_obsidian13.MarkdownView);
         if (nltView || markdownView) {
           if (!checking) {
             this.app.workspace.trigger(EVENT_COLUMN_DELETE);
@@ -56455,7 +56734,7 @@ var NLTPlugin = class extends import_obsidian14.Plugin {
       hotkeys: [{ modifiers: ["Mod", "Shift"], key: "Enter" }],
       checkCallback: (checking) => {
         const nltView = this.app.workspace.getActiveViewOfType(NLTView);
-        const markdownView = this.app.workspace.getActiveViewOfType(import_obsidian14.MarkdownView);
+        const markdownView = this.app.workspace.getActiveViewOfType(import_obsidian13.MarkdownView);
         if (nltView || markdownView) {
           if (!checking)
             this.app.workspace.trigger(EVENT_ROW_ADD);
@@ -56470,7 +56749,7 @@ var NLTPlugin = class extends import_obsidian14.Plugin {
       hotkeys: [{ modifiers: ["Alt", "Shift"], key: "Backspace" }],
       checkCallback: (checking) => {
         const nltView = this.app.workspace.getActiveViewOfType(NLTView);
-        const markdownView = this.app.workspace.getActiveViewOfType(import_obsidian14.MarkdownView);
+        const markdownView = this.app.workspace.getActiveViewOfType(import_obsidian13.MarkdownView);
         if (nltView || markdownView) {
           if (!checking) {
             this.app.workspace.trigger(EVENT_ROW_DELETE);
@@ -56485,7 +56764,7 @@ var NLTPlugin = class extends import_obsidian14.Plugin {
       name: "Export as markdown",
       checkCallback: (checking) => {
         const nltView = this.app.workspace.getActiveViewOfType(NLTView);
-        const markdownView = this.app.workspace.getActiveViewOfType(import_obsidian14.MarkdownView);
+        const markdownView = this.app.workspace.getActiveViewOfType(import_obsidian13.MarkdownView);
         if (nltView || markdownView) {
           if (!checking) {
             this.app.workspace.trigger(EVENT_DOWNLOAD_MARKDOWN);
@@ -56500,7 +56779,7 @@ var NLTPlugin = class extends import_obsidian14.Plugin {
       name: "Export as CSV",
       checkCallback: (checking) => {
         const nltView = this.app.workspace.getActiveViewOfType(NLTView);
-        const markdownView = this.app.workspace.getActiveViewOfType(import_obsidian14.MarkdownView);
+        const markdownView = this.app.workspace.getActiveViewOfType(import_obsidian13.MarkdownView);
         if (nltView || markdownView) {
           if (!checking) {
             this.app.workspace.trigger(EVENT_DOWNLOAD_CSV);
@@ -56518,14 +56797,13 @@ var NLTPlugin = class extends import_obsidian14.Plugin {
         DEFAULT_SETTINGS,
         yield this.loadData()
       );
-      store.dispatch(
-        setExportRenderMarkdown(this.settings.exportRenderMarkdown)
-      );
+      store.dispatch(setSettings(__spreadValues({}, this.settings)));
     });
   }
   saveSettings() {
     return __async(this, null, function* () {
       yield this.saveData(this.settings);
+      store.dispatch(setSettings(__spreadValues({}, this.settings)));
     });
   }
   onunload() {
