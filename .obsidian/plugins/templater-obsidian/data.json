@@ -61,6 +61,10 @@
     {
       "folder": "Outputs/video/苏联笑话",
       "template": "Configuration/Templates/SuLianXiaoHua.md"
+    },
+    {
+      "folder": "Outputs/video/政治笑话",
+      "template": "Configuration/Templates/vgvixchw.md"
     }
   ],
   "syntax_highlighting": true,
