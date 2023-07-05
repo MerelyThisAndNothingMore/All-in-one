@@ -5,6 +5,8 @@ alias:
 https://blog.csdn.net/weixin_41607932/article/details/124180252
 
 https://segmentfault.com/a/1190000022873569
+
+https://juejin.cn/post/7020348275123306504
 大多数自定义View要么是在onDraw方法中画点东西，和在onTouchEvent中处理触摸事件。 
 自定义View步骤 : 
 
