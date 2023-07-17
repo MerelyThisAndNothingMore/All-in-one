@@ -4,6 +4,7 @@ tags:
 - books
 alias:
 - CS-APP
+- 深入理解计算机系统
 ---
 # Content 
 1. A Tour of [[Computer System]] 

@@ -19,7 +19,18 @@
 		{"type":"text","text":"[[设计模式之禅|设计模式之禅]] ","id":"7e781df6a76e2ced","x":1280,"y":-940,"width":250,"height":60},
 		{"type":"text","text":"[[简历准备]]","id":"d25ee57a2dea623b","x":885,"y":-910,"width":250,"height":60,"color":"1"},
 		{"type":"text","text":"[[面试准备]]","id":"5cc1d6f68a02948a","x":885,"y":-780,"width":250,"height":60},
-		{"type":"text","text":"工作","id":"5dd923f540c2525d","x":-20,"y":-1030,"width":250,"height":60}
+		{"type":"text","text":"工作","id":"5dd923f540c2525d","x":-20,"y":-1030,"width":250,"height":60},
+		{"type":"text","text":"工作","id":"693d0e149a4508b3","x":-200,"y":640,"width":250,"height":60},
+		{"type":"text","text":"全知全能","id":"efe6c7aab76e7bbd","x":-760,"y":980,"width":250,"height":60},
+		{"type":"text","text":"知识","id":"163b0e211b21da04","x":-200,"y":1160,"width":250,"height":60},
+		{"type":"text","text":"输出","id":"4b425d052ba688dd","x":-200,"y":1280,"width":250,"height":60},
+		{"type":"text","text":"个人","id":"9b3daaf061695bd5","x":-200,"y":1410,"width":250,"height":60},
+		{"type":"text","text":"理财","id":"8f7c260a78e88d70","x":-200,"y":1560,"width":250,"height":60},
+		{"type":"text","text":"互联网","id":"59ba5fa2026ee25b","x":230,"y":760,"width":250,"height":60},
+		{"type":"text","text":"互联网","id":"f87f3ef4cef5190e","x":232,"y":757,"width":250,"height":60},
+		{"type":"text","text":"代码","id":"0769caaf4c6b3aff","x":230,"y":520,"width":250,"height":60},
+		{"type":"text","text":"[[计算机知识|计算机知识]] ","id":"241b333ef25bb385","x":605,"y":400,"width":250,"height":60},
+		{"id":"7261e878c7731e8d","x":605,"y":520,"width":250,"height":60,"type":"text","text":"[[Android|Android]] "}
 	],
 	"edges":[
 		{"id":"debee5227fdbd1e3","fromNode":"8326fec1cf2bd1f4","fromSide":"right","toNode":"5dd923f540c2525d","toSide":"left"},
@@ -41,6 +52,15 @@
 		{"id":"6e2b8aaae2f2eeb3","fromNode":"29f438b4801369c7","fromSide":"right","toNode":"4c14f1e2d4485001","toSide":"left"},
 		{"id":"152f6d0f406bcfc2","fromNode":"29f438b4801369c7","fromSide":"right","toNode":"828349bf93a751fc","toSide":"left"},
 		{"id":"a0d34657f9492329","fromNode":"29f438b4801369c7","fromSide":"right","toNode":"0699c744b5255e35","toSide":"left"},
-		{"id":"3af70e9238bc7f78","fromNode":"b5e752faf6c412e6","fromSide":"right","toNode":"5cc1d6f68a02948a","toSide":"left"}
+		{"id":"3af70e9238bc7f78","fromNode":"b5e752faf6c412e6","fromSide":"right","toNode":"5cc1d6f68a02948a","toSide":"left"},
+		{"id":"5de69d2742ca0773","fromNode":"efe6c7aab76e7bbd","fromSide":"right","toNode":"693d0e149a4508b3","toSide":"left"},
+		{"id":"24567491b21757fc","fromNode":"efe6c7aab76e7bbd","fromSide":"right","toNode":"163b0e211b21da04","toSide":"left"},
+		{"id":"73a6de7c49a22d80","fromNode":"efe6c7aab76e7bbd","fromSide":"right","toNode":"4b425d052ba688dd","toSide":"left"},
+		{"id":"55df59385a029076","fromNode":"efe6c7aab76e7bbd","fromSide":"right","toNode":"9b3daaf061695bd5","toSide":"left"},
+		{"id":"012ff90fdfb05d73","fromNode":"efe6c7aab76e7bbd","fromSide":"right","toNode":"8f7c260a78e88d70","toSide":"left"},
+		{"id":"17c8580fa923e6fe","fromNode":"693d0e149a4508b3","fromSide":"right","toNode":"0769caaf4c6b3aff","toSide":"left"},
+		{"id":"6f929a42a5b320d1","fromNode":"693d0e149a4508b3","fromSide":"right","toNode":"59ba5fa2026ee25b","toSide":"left"},
+		{"id":"58df9800a51c0c50","fromNode":"0769caaf4c6b3aff","fromSide":"right","toNode":"241b333ef25bb385","toSide":"left"},
+		{"id":"dc5aed5b2426e2c3","fromNode":"0769caaf4c6b3aff","fromSide":"right","toNode":"7261e878c7731e8d","toSide":"left"}
 	]
 }

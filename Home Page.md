@@ -4,8 +4,20 @@ alias:
 ---
 
 
+```dataviewjs
+```
+
+```dataviewjs
+await dv.view('/Resources/CustomView/Heatmap', {type: 'cday'})
+
+```
+
 
 故事性！AI辅助写故事。
+
+下班了灵感，LetFreedomRing。
+
+思考，确定研究方向。
 
 前进的道路永无止境！
 
