@@ -1,0 +1,7 @@
+---
+alias:
+
+tags:
+- computerArchitecture 
+---
+
