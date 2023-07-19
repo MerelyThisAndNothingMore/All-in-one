@@ -30,7 +30,8 @@
 		{"type":"text","text":"互联网","id":"f87f3ef4cef5190e","x":232,"y":757,"width":250,"height":60},
 		{"type":"text","text":"代码","id":"0769caaf4c6b3aff","x":230,"y":520,"width":250,"height":60},
 		{"type":"text","text":"[[计算机知识|计算机知识]] ","id":"241b333ef25bb385","x":605,"y":400,"width":250,"height":60},
-		{"id":"7261e878c7731e8d","x":605,"y":520,"width":250,"height":60,"type":"text","text":"[[Android|Android]] "}
+		{"type":"text","text":"[[Android|Android]] ","id":"7261e878c7731e8d","x":605,"y":520,"width":250,"height":60},
+		{"id":"86a8c8a725da8bce","x":1040,"y":280,"width":250,"height":60,"type":"text","text":"[[Computer Systems-A Programmer's Perspective|CS-APP]]"}
 	],
 	"edges":[
 		{"id":"debee5227fdbd1e3","fromNode":"8326fec1cf2bd1f4","fromSide":"right","toNode":"5dd923f540c2525d","toSide":"left"},
@@ -61,6 +62,7 @@
 		{"id":"17c8580fa923e6fe","fromNode":"693d0e149a4508b3","fromSide":"right","toNode":"0769caaf4c6b3aff","toSide":"left"},
 		{"id":"6f929a42a5b320d1","fromNode":"693d0e149a4508b3","fromSide":"right","toNode":"59ba5fa2026ee25b","toSide":"left"},
 		{"id":"58df9800a51c0c50","fromNode":"0769caaf4c6b3aff","fromSide":"right","toNode":"241b333ef25bb385","toSide":"left"},
-		{"id":"dc5aed5b2426e2c3","fromNode":"0769caaf4c6b3aff","fromSide":"right","toNode":"7261e878c7731e8d","toSide":"left"}
+		{"id":"dc5aed5b2426e2c3","fromNode":"0769caaf4c6b3aff","fromSide":"right","toNode":"7261e878c7731e8d","toSide":"left"},
+		{"id":"ef01e86260ad618a","fromNode":"241b333ef25bb385","fromSide":"right","toNode":"86a8c8a725da8bce","toSide":"left"}
 	]
 }

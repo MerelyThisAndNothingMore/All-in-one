@@ -2,11 +2,7 @@
 tags: 
 alias:
 ---
-日本共产党被天皇处处打压，日共首领野坂参三十分头疼。突然有一天，共产国际要求日共把所有忠诚党员的名单交上去，野坂参三灵机一动，把天皇的名字交了上去。  
-果不其然，天皇立刻被共产国际批判为托派分子和社民叛徒，全家都被契卡杀的干干净净，整个日本由此解放了。
 
-```dataviewjs
-```
 
 ```dataviewjs
 await dv.view('/Resources/CustomView/Heatmap', {type: 'cday'})
@@ -22,30 +18,17 @@ await dv.view('/Resources/CustomView/Heatmap', {type: 'cday'})
 
 前进的道路永无止境！
 
+
+
 [[VAM]]
 [[视频剪辑]]
 [[羽毛球]]
 [[Swim]]
 [[Articulation]]
+[[工作]]
+[[Unity]]
+[[2023搬家事宜]]
 
-
-电脑设置server，收集读取的方法。
-
-Android 音视频
-
-1. Midjurl
-2. 歌姬视频
-3. YouTuBe上公开课
-4. 魔兽争霸小偷科技
-5. 古诗词搭配midjorny
-
-Unity游戏
-- 老鼠，做成横版
-- 
-
-/map
-
-<https://zhuanlan.zhihu.com/p/212741291>
 
 [[WorkDesk.canvas]]
 

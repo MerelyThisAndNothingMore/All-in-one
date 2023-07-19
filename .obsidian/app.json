@@ -3,7 +3,7 @@
   "showFrontmatter": true,
   "foldHeading": true,
   "foldIndent": true,
-  "defaultViewMode": "preview",
+  "defaultViewMode": "source",
   "showLineNumber": true,
   "alwaysUpdateLinks": true,
   "promptDelete": false,
