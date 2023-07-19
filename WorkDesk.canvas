@@ -31,7 +31,7 @@
 		{"type":"text","text":"代码","id":"0769caaf4c6b3aff","x":230,"y":520,"width":250,"height":60},
 		{"type":"text","text":"[[计算机知识|计算机知识]] ","id":"241b333ef25bb385","x":605,"y":400,"width":250,"height":60},
 		{"type":"text","text":"[[Android|Android]] ","id":"7261e878c7731e8d","x":605,"y":520,"width":250,"height":60},
-		{"id":"86a8c8a725da8bce","x":1040,"y":280,"width":250,"height":60,"type":"text","text":"[[Computer Systems-A Programmer's Perspective|CS-APP]]"}
+		{"type":"text","text":"[[Computer Systems-A Programmer's Perspective|CS-APP]]","id":"86a8c8a725da8bce","x":1040,"y":280,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"debee5227fdbd1e3","fromNode":"8326fec1cf2bd1f4","fromSide":"right","toNode":"5dd923f540c2525d","toSide":"left"},
