@@ -6,7 +6,7 @@ tags:
 - computerArchitecture 
 ---
 # 概念
-在[[DataBase/Knowledge/Computer/BaseLayer/Operating Systems/Operating System|操作系统]]中，每个[[Processes|进程]]都有一块独立的内存空间。为了保证程序安全，一般会有一套严格的安全机制来禁止进程间的非法访问。
+在[[DataBase/Computer/BaseLayer/Operating Systems/Operating System|操作系统]]中，每个[[Processes|进程]]都有一块独立的内存空间。为了保证程序安全，一般会有一套严格的安全机制来禁止进程间的非法访问。
 但是进程间也存在相互通信的需要，这时候就需要引入[[IPC]]的概念。
 # 原理
 内核程序在内核空间分配内存并开辟一块内核缓存区，发送进程通过copy_from_user函数将数据拷贝到到内核空间的缓冲区中。同样的，接收进程在接收数据时在自己的用户空间开辟一块内存缓存区，然后内核程序调用 copy_to_user() 函数将数据从内核缓存区拷贝到接收进程。这样数据发送进程和数据接收进程完成了一次数据传输，也就是一次进程间通信。

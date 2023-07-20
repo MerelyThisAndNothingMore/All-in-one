@@ -13,4 +13,4 @@ Choreographer 的引入，主要是配合系统 Vsync 垂直同步机制（Andro
     
 2. 启下：负责请求和接收 Vsync 信号。接收 Vsync 事件回调 (通过 FrameDisplayEventReceiver.onVsync)，请求 Vsync (FrameDisplayEventReceiver.scheduleVsync) 。
 
-[[ViewRootImpl]] 调用 [[Choreographer]] 的 postCallback 接口放入待执行的绘制消息后，Choreographer 会先向系统申请 APP 类型的 [[vsync]] 信号，然后等待系统 vsync 信号到来后，去回调到 ViewRootImpl 的 doTraversal 函数中执行真正的绘制动作（measure、layout、draw）。
+[[ViewRootImpl]] 调用 [[Choreographer]] 的 postCallback 接口放入待执行的绘制消息后，Choreographer 会先向系统申请 APP 类型的 [[VSync]] 信号，然后等待系统 vsync 信号到来后，去回调到 ViewRootImpl 的 doTraversal 函数中执行真正的绘制动作（measure、layout、draw）。

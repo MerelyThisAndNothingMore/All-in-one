@@ -3,7 +3,7 @@ tags:
 - studyResources 
 alias:
 ---
-Study resources for [[DataBase/Knowledge/Computer/ApplicationLayer/Android/Android]].
+Study resources for [[Android]].
 # Content
 ## Android 框架层
 - AOSP基础
