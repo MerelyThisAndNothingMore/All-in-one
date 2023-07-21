@@ -14,3 +14,5 @@ alias:
 通过WebView的addJavascriptInterface（）进行对象映射
 通过 WebViewClient 的shouldOverrideUrlLoading ()方法回调拦截 url
 通过 WebChromeClient 的onJsAlert()、onJsConfirm()、onJsPrompt（）方法回调拦截JS对话框alert()、confirm()、prompt（） 消息
+
+https://wepie.yuque.com/we_play/hy63pl/cm8ry9bechr5gofr
