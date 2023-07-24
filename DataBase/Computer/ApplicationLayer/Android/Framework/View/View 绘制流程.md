@@ -8,6 +8,8 @@ https://blog.csdn.net/zzz777qqq/article/details/110392973?utm_medium=distribute.
 
 https://blog.csdn.net/weixin_41607932/article/details/124180252
 https://blog.csdn.net/qq_20798591/article/details/122120434
+
+https://blog.csdn.net/aaajj/article/details/126453103
 # 主流程介绍
 performTraversals()会依次调用performMeasure、performLayout、performDraw方法,而这三个方法是View的绘制流程的核心所在.
 
