@@ -51,3 +51,6 @@ FB8D6-A9358-9D43A-30258-666AC-BF1EB
 5XjJScdtbpt3KMH9
 ### 飞瓜数据
 zpsjld4hv2BYP1Vy
+### 谷歌邮箱
+seizethedayzj@gmail.com
+2wsx5tgb
