@@ -15,3 +15,5 @@ OpenGL自身是一个巨大的状态机([[State Machine]])：一系列的变量�
 [LearnOpenGLCN](https://learnopengl-cn.github.io/)
 
 OpenGL SuperBible
+
+https://github.com/JoeyDeVries/LearnOpenGL
