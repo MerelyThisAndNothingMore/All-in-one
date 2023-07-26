@@ -5,6 +5,8 @@ alias:
 ---
 ## 简介
 ### 定义
+> 在Android开发中，Google提供了两种开发包，[[Android SDK]]和NDK，其中SDK是用来[[Java]]开发的，而NDK是用来c/c++开发的，即[[JNI]]编程方式，第三方应用可以通过JNI调用自己的c动态库，这就是NDK。
+
 NDK是 [[Android]]的一个工具开发包
 NDK是属于 Android 的，与[[Java]]并无直接关系
 
