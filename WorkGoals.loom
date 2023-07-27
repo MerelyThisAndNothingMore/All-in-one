@@ -72,7 +72,25 @@
         "id": "59abba67-9736-4d0b-8759-c0f71d14fbd6",
         "index": 0,
         "creationTime": 1690450974813,
-        "lastEditedTime": 1690451007746
+        "lastEditedTime": 1690451637066
+      },
+      {
+        "id": "5c158ce9-6237-48f9-ab59-36923871bac9",
+        "index": 1,
+        "creationTime": 1690451573266,
+        "lastEditedTime": 1690451658203
+      },
+      {
+        "id": "36fb9c8c-de69-4a21-a602-49fc9af774e5",
+        "index": 2,
+        "creationTime": 1690451659666,
+        "lastEditedTime": 1690451686872
+      },
+      {
+        "id": "954c9170-07e5-45b6-961d-73ae034c6846",
+        "index": 3,
+        "creationTime": 1690451691015,
+        "lastEditedTime": 1690451709233
       }
     ],
     "footerRows": [
@@ -116,7 +134,7 @@
         "columnId": "5ae38f3f-acf5-4f4a-8781-d5b6e2607e51",
         "rowId": "59abba67-9736-4d0b-8759-c0f71d14fbd6",
         "dateTime": null,
-        "markdown": "",
+        "markdown": "迭代支持",
         "tagIds": []
       },
       {
@@ -125,7 +143,7 @@
         "columnId": "7c5f9ffb-3cb0-49cb-ad7a-6c2b8f11f62b",
         "rowId": "59abba67-9736-4d0b-8759-c0f71d14fbd6",
         "dateTime": null,
-        "markdown": "",
+        "markdown": "参与版本迭代，按期交付并注意代码质量。\n独立负责至少一个完整的较复杂的需求。",
         "tagIds": []
       },
       {
@@ -134,7 +152,7 @@
         "columnId": "78fa838c-800d-4f81-8bf7-cab323562441",
         "rowId": "59abba67-9736-4d0b-8759-c0f71d14fbd6",
         "dateTime": null,
-        "markdown": "",
+        "markdown": "可以独立承接版本迭代需求",
         "tagIds": []
       },
       {
@@ -142,6 +160,114 @@
         "isExternalLink": false,
         "columnId": "0277dbbe-797f-45fc-8be9-061076d28476",
         "rowId": "59abba67-9736-4d0b-8759-c0f71d14fbd6",
+        "dateTime": null,
+        "markdown": "可以独立承接版本迭代需求",
+        "tagIds": []
+      },
+      {
+        "id": "d7c549a1-a9ec-47b3-98e5-dc05357f6b18",
+        "isExternalLink": false,
+        "columnId": "5ae38f3f-acf5-4f4a-8781-d5b6e2607e51",
+        "rowId": "5c158ce9-6237-48f9-ab59-36923871bac9",
+        "dateTime": null,
+        "markdown": "业务理解",
+        "tagIds": []
+      },
+      {
+        "id": "222edb55-28a9-46b8-af15-71e8b0bce58f",
+        "isExternalLink": false,
+        "columnId": "7c5f9ffb-3cb0-49cb-ad7a-6c2b8f11f62b",
+        "rowId": "5c158ce9-6237-48f9-ab59-36923871bac9",
+        "dateTime": null,
+        "markdown": "完整理解WePlay中核心场景的业务流程：\n支付逻辑\n送礼逻辑\n语音房逻辑\n网络请求逻辑\n游戏(Unity、Cocos和原生游戏接入逻辑)",
+        "tagIds": []
+      },
+      {
+        "id": "b6699142-5654-43f1-ab8e-9eafb7b27c27",
+        "isExternalLink": false,
+        "columnId": "78fa838c-800d-4f81-8bf7-cab323562441",
+        "rowId": "5c158ce9-6237-48f9-ab59-36923871bac9",
+        "dateTime": null,
+        "markdown": "核心场景之外，熟悉主要的业务模块，如消息、动态、话题、好友、家族、师徒、婚礼等\n熟悉WePlay项目的组件结构",
+        "tagIds": []
+      },
+      {
+        "id": "5756f39d-2027-473d-bbbd-84c8a95aac54",
+        "isExternalLink": false,
+        "columnId": "0277dbbe-797f-45fc-8be9-061076d28476",
+        "rowId": "5c158ce9-6237-48f9-ab59-36923871bac9",
+        "dateTime": null,
+        "markdown": "对整个业务流程有全面的理解。能够快速定位代码模块和业务细节。",
+        "tagIds": []
+      },
+      {
+        "id": "8f3a48ce-d52c-4b17-9c2b-a2ab0a915995",
+        "isExternalLink": false,
+        "columnId": "5ae38f3f-acf5-4f4a-8781-d5b6e2607e51",
+        "rowId": "36fb9c8c-de69-4a21-a602-49fc9af774e5",
+        "dateTime": null,
+        "markdown": "技术能力提升",
+        "tagIds": []
+      },
+      {
+        "id": "03d0e8a9-7889-4fd1-a79b-28fa5cb34fe0",
+        "isExternalLink": false,
+        "columnId": "7c5f9ffb-3cb0-49cb-ad7a-6c2b8f11f62b",
+        "rowId": "36fb9c8c-de69-4a21-a602-49fc9af774e5",
+        "dateTime": null,
+        "markdown": "音视频方面：学习OpenGL和OpenGL ES的接入和开发。应用安全方面：了解应用安全相关基础知识，如应用加固、代码混淆、c/cpp 包签名验证等",
+        "tagIds": []
+      },
+      {
+        "id": "cc0f02b7-8108-4af3-ac13-e1db01f19d15",
+        "isExternalLink": false,
+        "columnId": "78fa838c-800d-4f81-8bf7-cab323562441",
+        "rowId": "36fb9c8c-de69-4a21-a602-49fc9af774e5",
+        "dateTime": null,
+        "markdown": "Android JNI；掌握JNI开发的相关知识和技能\nAndroid Gradle：熟悉Android的编译打包，掌握Android打包脚本配置。",
+        "tagIds": []
+      },
+      {
+        "id": "1e555f93-a386-434e-9cc5-311b2003859b",
+        "isExternalLink": false,
+        "columnId": "0277dbbe-797f-45fc-8be9-061076d28476",
+        "rowId": "36fb9c8c-de69-4a21-a602-49fc9af774e5",
+        "dateTime": null,
+        "markdown": "Android Framework知识学习，了解应用运行过程中的底层原理。",
+        "tagIds": []
+      },
+      {
+        "id": "bf54dead-e187-4756-be8b-3afe5b69d6b7",
+        "isExternalLink": false,
+        "columnId": "5ae38f3f-acf5-4f4a-8781-d5b6e2607e51",
+        "rowId": "954c9170-07e5-45b6-961d-73ae034c6846",
+        "dateTime": null,
+        "markdown": "技术产出",
+        "tagIds": []
+      },
+      {
+        "id": "267e5a4b-db7c-4076-9128-d1e8590905c5",
+        "isExternalLink": false,
+        "columnId": "7c5f9ffb-3cb0-49cb-ad7a-6c2b8f11f62b",
+        "rowId": "954c9170-07e5-45b6-961d-73ae034c6846",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "11e7b6cb-b3c7-4142-9e51-2cfb7d55b4bf",
+        "isExternalLink": false,
+        "columnId": "78fa838c-800d-4f81-8bf7-cab323562441",
+        "rowId": "954c9170-07e5-45b6-961d-73ae034c6846",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "6fc01c41-523c-4c88-aa33-fc7288177fa4",
+        "isExternalLink": false,
+        "columnId": "0277dbbe-797f-45fc-8be9-061076d28476",
+        "rowId": "954c9170-07e5-45b6-961d-73ae034c6846",
         "dateTime": null,
         "markdown": "",
         "tagIds": []
