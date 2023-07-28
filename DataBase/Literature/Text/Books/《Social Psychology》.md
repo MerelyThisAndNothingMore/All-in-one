@@ -2,9 +2,9 @@
 authors:
 
 tags:
-- books 
+- books
+- psychology 
 alias:
-- psychology
 ---
 # Introduction 
 # Contents
