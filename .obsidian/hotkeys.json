@@ -75,5 +75,15 @@
       ],
       "key": "X"
     }
-  ]
+  ],
+  "daily-notes": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "workspace:new-tab": [],
+  "various-complements:reload-custom-dictionaries": []
 }
