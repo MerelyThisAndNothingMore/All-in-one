@@ -7,10 +7,7 @@
   "showLineNumber": true,
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "spellcheckLanguages": [
-    "zh-CN",
-    "en-US"
-  ],
+  "spellcheckLanguages": null,
   "attachmentFolderPath": "Resources/Images",
   "newFileLocation": "current",
   "livePreview": true,
