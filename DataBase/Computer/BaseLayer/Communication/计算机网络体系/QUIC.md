@@ -3,6 +3,7 @@ tags:
 alias:
 - Quick Udp Internet Connection
 ---
+https://zhuanlan.zhihu.com/p/531813080
 
 # 是什么
 QUIC最重要的特点是使用[[UDP]]，且基于[[TLS1.3]]，前者保证了速度，后者保证了安全性。
