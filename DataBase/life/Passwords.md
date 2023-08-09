@@ -1,6 +1,3 @@
-wQNcUpNL1UEXmIAx
-- 
-- zhangjing.rolling@gmail.com
 - Qr3tMiOkOvUMI92c
 - 龙空
   nQ1mhxWVKeeVBN41
@@ -34,6 +31,10 @@ wQNcUpNL1UEXmIAx
 wifi
 zxc12345.a
 
+### github
+982273937@qq.com
+ZrOy5N6Jh6
+
 学信网
 - 15571172657
 - 2@wsx2@wsxWANG
@@ -61,11 +62,6 @@ seizethedayzj@gmail.com
 ### 谷歌邮箱
 imranulh868@gmail.com
 ntxzshr0421
-### 谷歌邮箱
-zhangjing.rolling@gmail.com
-wQNcUpNL1UEXmIAx
-
-
 
 d5c4bb9z75gj63nu@outlook.com
 
