@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Prefetto",
-      "path": "DataBase/Computer/ApplicationLayer/Android/performance/分析工具/Prefetto.md"
+      "basename": "Perfetto",
+      "path": "DataBase/Computer/ApplicationLayer/Android/performance/分析工具/Perfetto.md"
+    },
+    {
+      "basename": "Systrace",
+      "path": "DataBase/Computer/ApplicationLayer/Android/performance/分析工具/Systrace.md"
+    },
+    {
+      "basename": "启动优化",
+      "path": "DataBase/Computer/ApplicationLayer/Android/performance/启动优化/启动优化.md"
+    },
+    {
+      "basename": "包体积优化",
+      "path": "DataBase/Computer/ApplicationLayer/Android/performance/包体积优化/包体积优化.md"
+    },
+    {
+      "basename": "分析工具",
+      "path": "DataBase/Computer/ApplicationLayer/Android/performance/分析工具/分析工具.md"
+    },
+    {
+      "basename": "过度绘制",
+      "path": "DataBase/Computer/ApplicationLayer/Android/performance/分析工具/过度绘制.md"
     },
     {
       "basename": "OpenSourceFramework",
