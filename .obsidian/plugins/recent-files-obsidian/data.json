@@ -5,6 +5,10 @@
       "path": "DataBase/Computer/ApplicationLayer/Android/performance/分析工具/Perfetto.md"
     },
     {
+      "basename": "过度绘制",
+      "path": "DataBase/Computer/ApplicationLayer/Android/performance/分析工具/过度绘制.md"
+    },
+    {
       "basename": "Systrace",
       "path": "DataBase/Computer/ApplicationLayer/Android/performance/分析工具/Systrace.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "分析工具",
       "path": "DataBase/Computer/ApplicationLayer/Android/performance/分析工具/分析工具.md"
-    },
-    {
-      "basename": "过度绘制",
-      "path": "DataBase/Computer/ApplicationLayer/Android/performance/分析工具/过度绘制.md"
     },
     {
       "basename": "OpenSourceFramework",
