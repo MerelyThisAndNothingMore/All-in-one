@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Home Page",
+      "path": "Home Page.md"
+    },
+    {
+      "basename": "线程同步",
+      "path": "DataBase/Computer/ApplicationLayer/ProgrammingLanguage/Java/MultiThread/线程同步.md"
+    },
+    {
       "basename": "MultiThread",
       "path": "DataBase/Computer/ApplicationLayer/ProgrammingLanguage/Java/MultiThread/MultiThread.md"
     },
@@ -83,10 +91,6 @@
     {
       "basename": "Passwords",
       "path": "DataBase/life/Passwords.md"
-    },
-    {
-      "basename": "Home Page",
-      "path": "Home Page.md"
     },
     {
       "basename": "2023-08-09",
