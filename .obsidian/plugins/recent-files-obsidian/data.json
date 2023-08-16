@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Home Page",
+      "path": "Home Page.md"
+    },
+    {
+      "basename": "微派入职",
+      "path": "DataBase/Tasks/data/微派入职.md"
+    },
+    {
+      "basename": "微派新人培训",
+      "path": "Work/工作经历/微派/微派新人培训.md"
+    },
+    {
+      "basename": "微派",
+      "path": "Work/工作经历/微派/微派.md"
+    },
+    {
       "basename": "2023-08-16",
       "path": "DataBase/life/diary/Daily/2023-08-16.md"
     },
@@ -59,10 +75,6 @@
     {
       "basename": "线程池",
       "path": "DataBase/Computer/ApplicationLayer/ProgrammingLanguage/Java/MultiThread/线程池.md"
-    },
-    {
-      "basename": "Home Page",
-      "path": "Home Page.md"
     },
     {
       "basename": "MultiThread",
