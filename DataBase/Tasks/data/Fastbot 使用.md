@@ -12,6 +12,17 @@ adb -s 设备号 shell CLASSPATH=/sdcard/monkeyq.jar:/sdcard/framework.jar:/sdca
 
 实际使用命令
 ```shell
-adb -s 5PD6SCZHCQEEPREQ shell CLASSPATH=/sdcard/monkeyq.jar:/sdcard/framework.jar:/sdcard/fastbot-thirdpart.jar exec app_process /system/bin com.android.commands.monkey.Monkey -p com.wejoy.weplay.jp --agent reuseq --running-minutes 900 --throttle 500 -v -v
-```
+cd ~/Desktop/Project/Fastbot_Android
 
+adb push *.jar /sdcard
+adb push libs/* /data/local/tmp/
+
+
+adb -s 5PD6SCZHCQEEPREQ shell CLASSPATH=/sdcard/monkeyq.jar:/sdcard/framework.jar:/sdcard/fastbot-thirdpart.jar exec app_process /system/bin com.android.commands.monkey.Monkey -p com.wejoy.weplay.jp --agent reuseq --running-minutes 900 --throttle 500 -v -v
+
+
+
+```
+# 结果
+Crash:/sdcard/crash-dump.log
+ANR:/sdcard/oom-traces.log
