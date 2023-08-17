@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "volatile",
+      "path": "DataBase/Computer/ApplicationLayer/ProgrammingLanguage/Java/MultiThread/volatile.md"
+    },
+    {
       "basename": "共享内存",
       "path": "DataBase/Computer/BaseLayer/Computer Architecture/共享内存.md"
     },
