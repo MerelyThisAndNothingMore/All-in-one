@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Systrace",
+      "path": "DataBase/Computer/ApplicationLayer/Android/performance/分析工具/Systrace.md"
+    },
+    {
       "basename": "volatile",
       "path": "DataBase/Computer/ApplicationLayer/ProgrammingLanguage/Java/MultiThread/volatile.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "Perfetto",
       "path": "DataBase/Computer/ApplicationLayer/Android/performance/分析工具/Perfetto.md"
-    },
-    {
-      "basename": "Systrace",
-      "path": "DataBase/Computer/ApplicationLayer/Android/performance/分析工具/Systrace.md"
     },
     {
       "basename": "过度绘制",
