@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "simplePerf",
+      "path": "DataBase/Computer/ApplicationLayer/Android/performance/分析工具/simplePerf.md"
+    },
+    {
       "basename": "Systrace",
       "path": "DataBase/Computer/ApplicationLayer/Android/performance/分析工具/Systrace.md"
+    },
+    {
+      "basename": "过度绘制",
+      "path": "DataBase/Computer/ApplicationLayer/Android/performance/分析工具/过度绘制.md"
+    },
+    {
+      "basename": "FlameGraph",
+      "path": "DataBase/Computer/ApplicationLayer/Android/performance/分析工具/FlameGraph.md"
+    },
+    {
+      "basename": "Perfetto",
+      "path": "DataBase/Computer/ApplicationLayer/Android/performance/分析工具/Perfetto.md"
     },
     {
       "basename": "volatile",
@@ -29,20 +45,8 @@
       "path": "DataBase/Computer/ApplicationLayer/Android/Framework/View/RecyclerView/RecyclerView的四级缓存机制.md"
     },
     {
-      "basename": "Perfetto",
-      "path": "DataBase/Computer/ApplicationLayer/Android/performance/分析工具/Perfetto.md"
-    },
-    {
-      "basename": "过度绘制",
-      "path": "DataBase/Computer/ApplicationLayer/Android/performance/分析工具/过度绘制.md"
-    },
-    {
       "basename": "分析工具",
       "path": "DataBase/Computer/ApplicationLayer/Android/performance/分析工具/分析工具.md"
-    },
-    {
-      "basename": "FlameGraph",
-      "path": "DataBase/Computer/ApplicationLayer/Android/performance/分析工具/FlameGraph.md"
     },
     {
       "basename": "Fastbot 使用",
