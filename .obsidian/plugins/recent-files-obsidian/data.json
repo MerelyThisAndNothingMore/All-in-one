@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home Page",
+      "path": "Home Page.md"
+    },
+    {
       "basename": "simplePerf",
       "path": "DataBase/Computer/ApplicationLayer/Android/performance/分析工具/simplePerf.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "Fastbot 使用",
       "path": "DataBase/Tasks/data/Fastbot 使用.md"
-    },
-    {
-      "basename": "Home Page",
-      "path": "Home Page.md"
     },
     {
       "basename": "微派入职",
