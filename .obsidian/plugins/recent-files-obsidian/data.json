@@ -1,12 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "2023-08-21",
-      "path": "DataBase/life/diary/Daily/2023-08-21.md"
+      "basename": "Charles",
+      "path": "DataBase/Tools/Charles.md"
+    },
+    {
+      "basename": "Obsidian",
+      "path": "DataBase/Tools/Obsidian/Obsidian.md"
+    },
+    {
+      "basename": "VAM",
+      "path": "DataBase/Tools/VAM/VAM.md"
+    },
+    {
+      "basename": "Program",
+      "path": "DataBase/Tools/Program/Program.md"
+    },
+    {
+      "basename": "Unity",
+      "path": "DataBase/Computer/ApplicationLayer/Utils/Unity/Unity.md"
+    },
+    {
+      "basename": "Android",
+      "path": "DataBase/Computer/ApplicationLayer/Android/Android.md"
+    },
+    {
+      "basename": "Characters",
+      "path": "DataBase/Literature/Characters/Characters.md"
+    },
+    {
+      "basename": "Systrace",
+      "path": "DataBase/Computer/ApplicationLayer/Android/performance/分析工具/Systrace.md"
     },
     {
       "basename": "Fastbot 使用",
       "path": "DataBase/Tasks/data/Fastbot 使用.md"
+    },
+    {
+      "basename": "2023-08-21",
+      "path": "DataBase/life/diary/Daily/2023-08-21.md"
     },
     {
       "basename": "Home Page",
@@ -15,10 +47,6 @@
     {
       "basename": "simplePerf",
       "path": "DataBase/Computer/ApplicationLayer/Android/performance/分析工具/simplePerf.md"
-    },
-    {
-      "basename": "Systrace",
-      "path": "DataBase/Computer/ApplicationLayer/Android/performance/分析工具/Systrace.md"
     },
     {
       "basename": "过度绘制",
@@ -171,26 +199,6 @@
     {
       "basename": "启动优化",
       "path": "DataBase/Computer/ApplicationLayer/Android/performance/启动优化/启动优化.md"
-    },
-    {
-      "basename": "包体积优化",
-      "path": "DataBase/Computer/ApplicationLayer/Android/performance/包体积优化/包体积优化.md"
-    },
-    {
-      "basename": "OpenSourceFramework",
-      "path": "DataBase/Computer/ApplicationLayer/Android/OpenSourceFramework/OpenSourceFramework.md"
-    },
-    {
-      "basename": "Android",
-      "path": "DataBase/Computer/ApplicationLayer/Android/Android.md"
-    },
-    {
-      "basename": "Passwords",
-      "path": "DataBase/life/Passwords.md"
-    },
-    {
-      "basename": "2023-08-09",
-      "path": "DataBase/life/diary/Daily/2023-08-09.md"
     }
   ],
   "omittedPaths": [],
