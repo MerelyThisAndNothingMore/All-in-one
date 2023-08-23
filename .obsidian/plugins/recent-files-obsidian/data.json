@@ -5,6 +5,10 @@
       "path": "DataBase/life/diary/Daily/2023-08-23.md"
     },
     {
+      "basename": "View事件分发",
+      "path": "DataBase/Computer/ApplicationLayer/Android/Framework/View/View事件分发/View事件分发.md"
+    },
+    {
       "basename": "Charles",
       "path": "DataBase/Tools/Charles.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2023-08-15",
       "path": "DataBase/life/diary/Daily/2023-08-15.md"
-    },
-    {
-      "basename": "2023-08-14",
-      "path": "DataBase/life/diary/Daily/2023-08-14.md"
     }
   ],
   "omittedPaths": [],
