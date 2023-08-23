@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "麻将出牌提示不出230823",
+      "path": "DataBase/Tasks/data/麻将出牌提示不出230823.md"
+    },
+    {
+      "basename": "230605杭州",
+      "path": "DataBase/Tasks/data/230605杭州.md"
+    },
+    {
       "basename": "2023-08-23",
       "path": "DataBase/life/diary/Daily/2023-08-23.md"
     },
     {
+      "basename": "嵌套滚动",
+      "path": "DataBase/Computer/ApplicationLayer/Android/Framework/View/View滚动/嵌套滚动.md"
+    },
+    {
+      "basename": "View",
+      "path": "DataBase/Computer/ApplicationLayer/Android/Framework/View/View.md"
+    },
+    {
+      "basename": "RecyclerView",
+      "path": "DataBase/Computer/ApplicationLayer/Android/Framework/View/RecyclerView/RecyclerView.md"
+    },
+    {
       "basename": "View事件分发",
       "path": "DataBase/Computer/ApplicationLayer/Android/Framework/View/View事件分发/View事件分发.md"
+    },
+    {
+      "basename": "RecyclerView的四级缓存机制",
+      "path": "DataBase/Computer/ApplicationLayer/Android/Framework/View/RecyclerView/RecyclerView的四级缓存机制.md"
     },
     {
       "basename": "Charles",
@@ -87,10 +111,6 @@
     {
       "basename": "Network",
       "path": "DataBase/Computer/BaseLayer/Communication/Network.md"
-    },
-    {
-      "basename": "RecyclerView的四级缓存机制",
-      "path": "DataBase/Computer/ApplicationLayer/Android/Framework/View/RecyclerView/RecyclerView的四级缓存机制.md"
     },
     {
       "basename": "分析工具",
@@ -179,26 +199,6 @@
     {
       "basename": "第二章",
       "path": "Outputs/BooksTranslation/奇想之年/第二章.md"
-    },
-    {
-      "basename": "工作",
-      "path": "DataBase/Tasks/data/工作.md"
-    },
-    {
-      "basename": "2023-08-10",
-      "path": "DataBase/life/diary/Daily/2023-08-10.md"
-    },
-    {
-      "basename": "2023-08-11",
-      "path": "DataBase/life/diary/Daily/2023-08-11.md"
-    },
-    {
-      "basename": "Production Environment",
-      "path": "DataBase/Computer/ApplicationLayer/Production Environment/Production Environment.md"
-    },
-    {
-      "basename": "2023-08-15",
-      "path": "DataBase/life/diary/Daily/2023-08-15.md"
     }
   ],
   "omittedPaths": [],
