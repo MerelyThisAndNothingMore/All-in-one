@@ -31,6 +31,12 @@
 wifi
 zxc12345.a
 
+### z-library
+```passwords
+982273937@qq.com
+&*kjshdfn@
+```
+
 ### github
 982273937@qq.com
 ZrOy5N6Jh6
