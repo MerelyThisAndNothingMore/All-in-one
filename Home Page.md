@@ -6,7 +6,7 @@ await dv.view('/Resources/CustomView/Heatmap', {type: 'cday'})
 
 Turing Complete
 [[Android-Demo]]
-
+思辨与立场
 大学之道，在明明德，在亲民，在止于至善。
 前进的道路永无止境！
 上士闻道，勤而行之
