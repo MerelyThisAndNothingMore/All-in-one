@@ -11,7 +11,7 @@ Perfetto存在一个[在线分析工具](https://ui.perfetto.dev/)，对Perfetto
 [Perfetto docs-quick start](https://perfetto.dev/docs/quickstart/android-tracing)
 
 ## 获取Trace命令
-在在线f分析工具中，选择"Record new trace"，
+在在线分析工具中，选择"Record new trace"，
 
 
 
