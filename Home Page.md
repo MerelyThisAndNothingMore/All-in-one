@@ -7,7 +7,6 @@ https://book.douban.com/top250
 Turing Complete
 [[Android-Demo]]
 思辨与立场
-- 手套
 大学之道，在明明德，在亲民，在止于至善。
 前进的道路永无止境！
 上士闻道，勤而行之
