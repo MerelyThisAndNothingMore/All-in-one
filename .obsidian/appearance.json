@@ -3,5 +3,6 @@
   "theme": "obsidian",
   "translucency": true,
   "cssTheme": "Blue Topaz",
-  "accentColor": ""
+  "accentColor": "",
+  "textFontFamily": "Weibei SC"
 }
