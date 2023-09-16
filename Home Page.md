@@ -8,7 +8,6 @@ Turing Complete
 [[Android-Demo]]
 思辨与立场
 https://wwsp3mpn0v.feishu.cn/docx/DvN7dTCcLoVp37xOYKScvwbGn9e
-大学之道，在明明德，在亲民，在止于至善。
 前进的道路永无止境！
 上士闻道，勤而行之
 - Chalase抓包配置
