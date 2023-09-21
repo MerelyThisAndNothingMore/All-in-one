@@ -5,12 +5,8 @@ await dv.view('/Resources/CustomView/Heatmap', {type: 'cday'})
 ```
 
 
-租房
-转租
-发视频
 
-
-
+视频播放
 
 https://book.douban.com/top250
 Turing Complete
