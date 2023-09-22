@@ -29,6 +29,8 @@ https://wwsp3mpn0v.feishu.cn/docx/DvN7dTCcLoVp37xOYKScvwbGn9e
 
 [[WorkDesk.canvas]]
 
+https://androidperformance.com/2018/05/07/Android-performance-optimization-skills-and-tools/#/IO
+
 <https://labuladong.github.io/algo/>
 
 <https://mp.weixin.qq.com/s/a8yrhZ6Mg9n4tnTHO1N7IQ>
