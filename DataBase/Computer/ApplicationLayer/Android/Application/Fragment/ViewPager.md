@@ -13,3 +13,4 @@ FragmentPagerAdapter最好用在少数静态Fragments的场景，用户访问过
 页面很多时，可以考虑FragmentStatePagerAdapter
 
 
+https://github.com/romandanylyk/PageIndicatorView
