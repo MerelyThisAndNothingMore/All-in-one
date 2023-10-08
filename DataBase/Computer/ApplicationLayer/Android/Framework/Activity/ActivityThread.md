@@ -8,11 +8,24 @@ ActivityThread就是我们常说的主线程或UI线程，ActivityThread的main�
 
 ## 初始化
 
-ActivityThread的main方法是一个APP的真正入口
+ActivityThread的main方法是一个APP的真正入口：这里会执行[[Looper]]的初始化
 
-主线程的Handler以及MainLooper的初始化时机都是在ActivityThread创建的时候
+```java
+public static void main(String[] args) {
+	...
+	Looper.prepareMainLooper();
+	ActivityThread thread = new ActivityThread();
+	//在attach方法中会完成Application对象的初始化，然后调用Application的onCreate()方法
+	thread.attach(false);
 
-
+	if (sMainThreadHandler == null) {
+		sMainThreadHandler = thread.getHandler();
+	}
+	...
+	Looper.loop();
+	throw new RuntimeException("Main thread loop unexpectedly exited");
+}
+```
 
 
 ActivityThread 在Android中它就代表了Android的主线程,它是创建完新进程之后,main函数被加载，然后执行一个loop的循环
