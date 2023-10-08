@@ -28,10 +28,6 @@ public static void main(String[] args) {
 ```
 
 
-ActivityThread 在Android中它就代表了Android的主线程,它是创建完新进程之后,main函数被加载，然后执行一个loop的循环
-从消息队列中取消息可能会阻塞，取到消息会做出相应的处理。如果某个消息处理时间过长，就可能会影响UI线程的刷新速率，造成卡顿的现象。
-
-使当前线程进入消息循环，并且作为主线程。
 
 ApplicationThread  
 ApplicationThread是ActivityThread的内部类， 是一个Binder对象。在此处它是作为IApplicationThread对象
