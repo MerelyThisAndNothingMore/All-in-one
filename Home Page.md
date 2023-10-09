@@ -33,21 +33,14 @@ https://androidperformance.com/2018/05/07/Android-performance-optimization-skill
 
 <https://labuladong.github.io/algo/>
 
-<https://mp.weixin.qq.com/s/a8yrhZ6Mg9n4tnTHO1N7IQ>
-
 <https://github.com/xfhy/Android-Notes>
 
 <https://github.com/labuladong/fucking-algorithm>
 
-<https://juejin.cn/post/6876968255597051917>
 
 <https://github.com/JsonChao/Awesome-Android-Exercise>
 
-<https://juejin.cn/post/6844904106545414157>
-
-<https://juejin.cn/post/6844903613865672718>
-
-
+https://github.com/JsonChao/Awesome-Android-Notebook
 
 
 
