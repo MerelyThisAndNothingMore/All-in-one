@@ -51,7 +51,5 @@ https://androidperformance.com/2018/05/07/Android-performance-optimization-skill
 
 <https://rengwuxian.com/tag/kotlin/>
 
-<https://rengwuxian.com/tag/custom-view/>
-
 
 
