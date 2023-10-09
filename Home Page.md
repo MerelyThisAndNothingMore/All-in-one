@@ -53,8 +53,5 @@ https://androidperformance.com/2018/05/07/Android-performance-optimization-skill
 
 <https://rengwuxian.com/tag/custom-view/>
 
-<https://juejin.cn/post/6862548590092140558>
-
-<https://juejin.cn/post/6914802148614242312>
 
 
