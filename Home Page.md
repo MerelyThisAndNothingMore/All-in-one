@@ -15,6 +15,7 @@ Turing Complete
 https://wwsp3mpn0v.feishu.cn/docx/DvN7dTCcLoVp37xOYKScvwbGn9e
 前进的道路永无止境！
 上士闻道，勤而行之
+如果我完全没有强迫你，并使你处于完全自由的状态，你依然选择了我为你预设的道路，那才是我开始运用权力之时。 ​​​
 - Chalase抓包配置
 [[阅读]]
 [[VAM]]
