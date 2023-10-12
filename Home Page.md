@@ -11,8 +11,7 @@ https://cchere.com/
 https://book.douban.com/top250
 Turing Complete
 [[Android-Demo]]
-思辨与立场
-https://wwsp3mpn0v.feishu.cn/docx/DvN7dTCcLoVp37xOYKScvwbGn9e
+[[思辨与立场-生活中无处不在的批判性思维工具|思辨与立场-生活中无处不在的批判性思维工具]] 
 前进的道路永无止境！
 上士闻道，勤而行之
 如果我完全没有强迫你，并使你处于完全自由的状态，你依然选择了我为你预设的道路，那才是我开始运用权力之时。 ​​​
