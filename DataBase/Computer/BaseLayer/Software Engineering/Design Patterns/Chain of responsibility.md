@@ -13,3 +13,5 @@ alias:
 -   记录日志；
 -   检查权限；
 -   准备相关资源；
+# Reference 
+[[Design pattern|设计模式]]
