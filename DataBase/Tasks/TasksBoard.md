@@ -4,35 +4,29 @@ kanban-plugin: basic
 
 ---
 
-## Important and urgent
+## 重要且紧急
 
-- [ ] [[StockWorkdesk]]
-- [ ] [[Interview preparation]]
-
-
-## Important but not urgent
-
-- [ ] [[毛泽东选集]]
-- [ ] [[毛主席语录]]
+- [ ] [[思辨与立场分享]]
 
 
-## not important but urgent
+## 不重要但紧急
 
 
 
-## not important and not urgent
-
-- [ ] [[奇想之年]]
-- [ ] [[THE PRINCIPIA]]
-- [ ] 社会心理学
-- [ ] 自卑与超越
+## 重要不紧急
 
 
-***
+
+## 不重要且不紧急
+
+
 
 ## Archive
 
 - [x] 清空gitbook
+
+
+
 
 %% kanban:settings
 ```
