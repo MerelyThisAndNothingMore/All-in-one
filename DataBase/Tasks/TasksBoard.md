@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## 重要且紧急
 
-- [ ] [[日韩服3.6.7发版]]
 - [ ] [[第三季度总结]] 0%
 - [ ] [[HttpDNS接入]] 50%
 - [ ] [[思辨与立场分享]] 0%
@@ -29,15 +28,15 @@ kanban-plugin: basic
 
 
 
-## Archive
+***
 
+## 归档
+
+- [x] [[日韩服3.6.7发版]] 100%
 - [x] 清空gitbook
-
-
-
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic"}
+{"kanban-plugin":"basic","date-picker-week-start":1}
 ```
 %%
