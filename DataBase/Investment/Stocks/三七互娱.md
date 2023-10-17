@@ -1,8 +1,0 @@
----
-Sectors: [""]
-tags:
-- stock
-- stockInFocus 
----
-
-
