@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## 重要且紧急
 
-- [ ] [[第三季度总结]] 60%
 - [ ] [[HttpDNS接入]] 50%
 - [ ] [[思辨与立场分享]] 0%
 - [ ] [[分享成功回调问题]] 80%
@@ -34,6 +33,7 @@ kanban-plugin: basic
 
 - [x] [[日韩服3.6.7发版]] 100%
 - [x] 清空gitbook
+- [x] [[第三季度总结]] 100%
 
 %% kanban:settings
 ```
