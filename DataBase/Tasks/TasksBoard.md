@@ -24,6 +24,7 @@ kanban-plugin: basic
 - [ ] [[Okhttp和Cronet分析]]
 - [ ] [[Jsb测试面板]]
 - [ ] [[写一个视频播放列表Demo]]
+- [ ] [[依赖注入框架]]
 
 
 ## 不重要且不紧急
