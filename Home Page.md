@@ -10,7 +10,14 @@ await dv.view('/Resources/CustomView/Heatmap', {type: 'cday'})
 
 视频播放Feed流实现
 视频转译
-电饭煲
+
+- 富兰克林自传
+- 洛克菲勒：一个关于财富的神话
+- 我生活的种种模式：赫尔波特
+- 安德鲁卡耐基自传
+- 活出生活的意义
+- 
+
 
 <https://book.douban.com/top250>
 Turing Complete
