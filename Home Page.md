@@ -23,7 +23,6 @@ await dv.view('/Resources/CustomView/Heatmap', {type: 'cday'})
 Turing Complete
 [[Android-Demo]]
 
-[[思辨与立场-生活中无处不在的批判性思维工具|思辨与立场-生活中无处不在的批判性思维工具]]
 
 <https://wwsp3mpn0v.feishu.cn/docx/DvN7dTCcLoVp37xOYKScvwbGn9e>
 
