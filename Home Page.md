@@ -14,8 +14,7 @@ await dv.view('/Resources/CustomView/Heatmap', {type: 'cday'})
 手把手教你从一无所有到财务自由
 视频播放Feed流实现
 视频转译
-- 茶杯
-- 头盔
+https://pan.xunlei.com/s/VNj1rI2KN7uKdUQkrMaGqYeiA1?pwd=i7j2
 
 - 富兰克林自传
 - 洛克菲勒：一个关于财富的神话
