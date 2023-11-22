@@ -79,3 +79,8 @@ xiangxue888
 ### Facebook
 15571172657 
 FFRpCNVDY4Yp266j
+
+### 谷歌开发者账号
+15571172657 
+merelythisandnothingmorezj@gmail.com
+hh9LMIGzrZpEbNbB
