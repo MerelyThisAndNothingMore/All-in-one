@@ -84,3 +84,7 @@ FFRpCNVDY4Yp266j
 15571172657 
 merelythisandnothingmorezj@gmail.com
 hh9LMIGzrZpEbNbB
+
+### Capcom
+982273937@qq.com
+iKs2aM22MEkHorg0
