@@ -1,9 +1,22 @@
 ---
 tags: 
-alias:
+aliases:
+  - Android Package
 ---
+
+# 概述
+## 定义
+APK是[[Android]]应用的传统打包格式，包含应用的所有代码、资源和元数据。
+## 打包方法
+- 在Android Studio中，可以通过点击菜单栏中的`Build > Build Bundle(s) / APK(s) > Build APK(s)`来生成APK。
+- 使用Gradle命令行工具，运行`./gradlew assembleRelease`（或`gradlew.bat assembleRelease`在Windows上）来生成APK。
+## 特点
+- APK是单一的文件，包含应用的所有内容。
+- 用户下载的是完整的应用包，无论设备的配置如何。
+- 简单直接，容易理解和处理。
 # apk组成
 **APK 其实是一个 zip 类型的压缩包**
+
 ## 文件目录
 ### AndroidManifest.xml
 程序的全局清单配置文件
