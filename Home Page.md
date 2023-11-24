@@ -21,7 +21,7 @@ https://pan.xunlei.com/s/VNj1rI2KN7uKdUQkrMaGqYeiA1?pwd=i7j2
 - 我生活的种种模式：赫尔波特
 - 安德鲁卡耐基自传
 - 活出生活的意义
-- 
+- 底层逻辑
 
 
 <https://book.douban.com/top250>
