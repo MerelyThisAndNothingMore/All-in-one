@@ -15,7 +15,7 @@ kanban-plugin: basic
 
 ## 不重要但紧急
 
-- [ ] [[值班bug处理]]
+- [x] [[值班bug处理]]
 - [ ] [[一年目标制定]]
 
 
@@ -37,8 +37,6 @@ kanban-plugin: basic
 
 
 
-***
-
 ## Archive
 
 - [x] [[日韩服3.6.7发版]] 100%
@@ -50,6 +48,9 @@ kanban-plugin: basic
 - [x] [[HttpDNS接入]] 100%
 - [x] [[Api备用域名策略]] 100%
 - [x] [[分享成功回调问题]] 100%
+
+
+
 
 %% kanban:settings
 ```
