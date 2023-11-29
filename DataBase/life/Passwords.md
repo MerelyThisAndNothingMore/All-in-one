@@ -82,6 +82,12 @@ merelythisandnothingmorezj@gmail.com
 FFRpCNVDY4Yp266j
 t35MjV/GRyBe#NL
 
+adb shell input text "merelythisandnothingmorezj@gmail.com"
+adb shell input text "t35MjV/GRyBe#NL"
+
+merelythisandnothingmorezj@gmail.com
+t35MjV/GRyBe#NL
+
 ### 谷歌开发者账号
 15571172657 
 merelythisandnothingmorezj@gmail.com
