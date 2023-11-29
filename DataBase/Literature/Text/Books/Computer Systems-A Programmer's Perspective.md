@@ -19,7 +19,7 @@ alias:
 	3. Arithmetic and Logical Operations 
 	4. Control 
 	5. Procedures 
-	6. [[Array]] Allocation and Access 
+	6. [[数组]] Allocation and Access 
 	7. Heterogeneous Data Structures
 	8. Combining Control and Data in Machine-Level 
 	9. Floating-Point Code 

@@ -4,7 +4,7 @@ tags:
 - coding
 ---
 # Introduction
-See [[Array]], to get more common scene.
+See [[数组]], to get more common scene.
 ## Declaring
 ```java
 // declare 
