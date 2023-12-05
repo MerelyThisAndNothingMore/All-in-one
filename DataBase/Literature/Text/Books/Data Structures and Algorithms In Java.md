@@ -6,7 +6,7 @@ tags:
 # Introduction 
 # Content
 1. Java Primer
-2. [[Object-oriented]] Design 
+2. [[面向对象]] Design 
 3. Fundamental Data Structure 
 	1. Arrays
 	2. Linked List
