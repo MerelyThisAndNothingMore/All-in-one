@@ -4,7 +4,7 @@ tags:
 alias:
 used: 0
 ---
-[[苏联笑话]]
+
 
 
 

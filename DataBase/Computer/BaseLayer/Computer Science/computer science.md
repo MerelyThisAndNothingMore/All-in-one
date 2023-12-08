@@ -8,7 +8,7 @@ tags:
 # Programming 
 # [[Computer System]] 
 # [[Data Structure]] 
-# [[Algorithm|Algorithm]] 
+# [[算法]] 
 # [[Design pattern]] 
 # Database 
 # Networking 

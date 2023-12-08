@@ -1,5 +1,16 @@
 # 行动、思考、创造！
 
+## 行动
+
+- 阅读
+	- 
+
+
+
+
+
+
+## 思考
 
 ```dataviewjs
 await dv.view('/Resources/CustomView/Heatmap', {type: 'cday'})
