@@ -6,10 +6,24 @@
 - 计算机
 - 视频生产
 - 入门课程
-	- [[普通高中教科书语文必修上册]]
 
-KAPT
-KSP
+史记(精注全译)(套装共6册)（崇贤馆图书精编无障碍阅读版本，纸质书畅销数百万册！原文参考多种通行的《史记》版本与校勘著作！生僻字、疑难字加注音、释义！白话译文忠实原意，通俗流利！古典整页版画插图，乐趣横生！文白对照、原文精校、注音注释、译文精准，全本附年表）
+
+司马迁
+
+1个笔记
+
+  
+
+卷五 秦本纪第五
+
+  
+
+![underline](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCAyMCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iMTAiIGN5PSIxMCIgcj0iMTAiIGZpbGw9IiM3Nzc3NzciIGZpbGwtb3BhY2l0eT0iMC4xNyIvPgo8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTEzLjM1MDUgMTIuMDgzMkgxMi4xMDQ3TDExLjU3MzggMTAuNTM0SDguNTI5NjhMNy45OTg4NCAxMi4wODMySDYuNzUzMDFMOS41ODA1MSA0LjM2OTg3SDEwLjUyM0wxMy4zNTA1IDEyLjA4MzJaTTExLjI0ODggOS41MzczN0wxMC4wNzg4IDYuMTE0MDRMOC44NzYzNCA5LjUzNzM3SDExLjI0ODhaTTEzLjMzMzQgMTMuNzVINi42NjY3NVYxNUgxMy4zMzM0VjEzLjc1WiIgZmlsbD0iIzk5QTBBQSIvPgo8L3N2Zz4K)
+
+哀公八年（前529年），楚国的公子弃疾杀死灵王而自立，他就是楚平王。哀公十一年（前526年），楚平王使人前来求娶秦国女子为太子建的妻子。接回楚国，平王看到秦女长得漂亮，就自己娶了她。十五年（前522年），楚平王想要诛杀太子建，太子建逃跑。
+
+微信读书
 
 
 
