@@ -18,7 +18,7 @@ adb push *.jar /sdcard
 adb push libs/* /data/local/tmp/
 
 
-adb -s 5PD6SCZHCQEEPREQ shell CLASSPATH=/sdcard/monkeyq.jar:/sdcard/framework.jar:/sdcard/fastbot-thirdpart.jar exec app_process /system/bin com.android.commands.monkey.Monkey -p com.wejoy.weplay.jp --agent reuseq --running-minutes 1000 --throttle 500 -v -v
+adb -s T8OJSS4DKBBUCUGY shell CLASSPATH=/sdcard/monkeyq.jar:/sdcard/framework.jar:/sdcard/fastbot-thirdpart.jar exec app_process /system/bin com.android.commands.monkey.Monkey -p com.wejoy.weplay.ru.mi --agent reuseq --running-minutes 1000 --throttle 500 -v -v
 
 
 
