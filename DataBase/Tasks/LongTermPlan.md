@@ -1,6 +1,6 @@
 
 # Practical
-- [[Interview preparation]]
+- [[DataBase/Computer/ApplicationLayer/Interview Preparation/面试准备]]
 - [[身体状态管理]]
 - [[Computer knowledge learning]]
 # Interest

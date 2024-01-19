@@ -16,7 +16,7 @@
 		{"type":"text","text":"[[Android Docs]]","id":"2f4cd26a111979ef","x":1280,"y":-1030,"width":250,"height":60},
 		{"type":"text","text":"[[设计模式之禅|设计模式之禅]] ","id":"7e781df6a76e2ced","x":1280,"y":-940,"width":250,"height":60},
 		{"type":"text","text":"[[简历准备]]","id":"d25ee57a2dea623b","x":885,"y":-910,"width":250,"height":60,"color":"1"},
-		{"type":"text","text":"[[面试准备]]","id":"5cc1d6f68a02948a","x":885,"y":-780,"width":250,"height":60},
+		{"type":"text","text":"[[DataBase/Tasks/data/面试准备]]","id":"5cc1d6f68a02948a","x":885,"y":-780,"width":250,"height":60},
 		{"type":"text","text":"工作","id":"5dd923f540c2525d","x":-20,"y":-1030,"width":250,"height":60},
 		{"type":"text","text":"[[Psychology]]","id":"958b12369a8432fe","x":460,"y":200,"width":250,"height":60},
 		{"type":"text","text":"[[the psychology of leadership]]","id":"25556edc595281a4","x":980,"y":185,"width":250,"height":90}
