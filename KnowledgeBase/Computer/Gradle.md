@@ -63,5 +63,13 @@ org.gradle.caching=true
 
 通过 `./gradlew :app:dependencies` 查看项目的依赖树。
 
+## 多项目构建
+
+多项目构建由一个根项目和一个或多个子项目组成：
+1. 根目录的`settings.gradle.kts`文件应包含所有子项目。
+2. 每个子项目都应该有自己的`build.gradle.kts`文件。
+
+
+
 # 引用
-[官方文档](https://docs.gradle.org/current/userguide/getting_started_eng.html)
+[官方文档](https://docs.gradle.org/current/userguide/getting_started_eng.html) ——这个是最好的学习资料，广度优先。
