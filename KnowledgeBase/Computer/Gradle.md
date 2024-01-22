@@ -26,7 +26,9 @@ application {
 项目中的任务来自于Gradle插件或构建脚本，通过`./gradlew tasks` 命令，可以列出所有的构建任务；`./gradlew run` 将会执行当前目录下的所有任务。
 
 ## 插件
-插件用于
+插件用于**扩展构建功能和自定义 Gradle**，大多数功能（例如编译 Java 代码的能力）都是通过 _插件_ 添加的。
+插件可以提供有用的任务，例如运行代码、创建文档、设置源文件、发布档案等。
+
 
 # 引用
 [官方文档](https://docs.gradle.org/current/userguide/getting_started_eng.html)
