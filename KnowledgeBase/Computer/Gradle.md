@@ -71,6 +71,20 @@ org.gradle.caching=true
 
 ## 生命周期
 
+![](https://docs.gradle.org/current/userguide/img/build-lifecycle-example.png)
+Gradle构建具有三个阶段：
+1. 初始化
+	- 检测到`settings.gradle(.kts)`文件。
+	- 创建一个[`Settings`](https://docs.gradle.org/current/dsl/org.gradle.api.initialization.Settings.html)实例。
+	- 评估设置文件以确定哪些项目（以及包含的构建）构成了构建。
+	- 为每个项目创建一个[`Project`](https://docs.gradle.org/current/dsl/org.gradle.api.Project.html)实例。
+2. 配置
+	- `build.gradle(.kts)`评估参与构建的每个项目的构建脚本。
+	- 为请求的任务创建任务图。
+3. 执行
+	- 安排并执行选定的任务。
+	- 任务之间的依赖关系决定了执行顺序。
+	- 任务的执行可以并行发生。
 
 
 # 引用
