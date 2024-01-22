@@ -43,8 +43,21 @@ application {
 ## 增量构建和构建缓存
 
 为了使增量构建发挥作用，任务必须定义其输入和输出。Gradle 将确定输入或输出在构建时是否已更改。如果它们发生了变化，Gradle 将执行任务。否则，它将跳过执行。
+```
+// 新建properties文件
+$ touch gradle.properties
+// 设置配置参数
+org.gradle.console=verbose
+// 进行打包，此时会输出所有任务的构建情况。
+./gradlew :app:clean :app:build
+```
 
 构建缓存用来处理切换分支的情况，它存储以前的构建结果并在需要时恢复它们，避免浪费周期来重新构建不受新代码更改影响的二进制文件。
+
+```
+// properties文件中设置参数以开启构建缓存
+org.gradle.caching=true
+```
 
 ## 依赖
 
