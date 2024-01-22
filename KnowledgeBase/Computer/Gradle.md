@@ -2,12 +2,19 @@
 tags:
   - android
 aliases:
+  - Gradle Build Tool
 ---
 # 简介
 ![](https://docs.gradle.org/current/userguide/img/gradle-basic-1.png)
+
+Gradle是一种 [[JVM]] 构建系统，通过声明性构建语言完成构建配置。
+
 ## 配置文件
-settings.gradle/settings.gradle.kts文件是一个Gradle项目的入口，前者接受Groovy DSL语言，后者接受Kotlin DSL语言。这里可以设置项目名称，添加子项目。
+
+settings.gradle/settings.gradle.kts文件是一个Gradle项目的入口，前者接受[[Groovy]] DSL语言，后者接受[[Kotlin]] DSL语言。这里可以设置项目名称，添加子项目。
+
 ## 打包脚本
+
 每个 Gradle 构建至少包含一个构建脚本，
 ```
 // 设置插件
@@ -28,6 +35,16 @@ application {
 ## 插件
 插件用于**扩展构建功能和自定义 Gradle**，大多数功能（例如编译 Java 代码的能力）都是通过 _插件_ 添加的。
 插件可以提供有用的任务，例如运行代码、创建文档、设置源文件、发布档案等。
+插件分为三类：
+1. **核心插件**- Gradle 开发并维护一组[核心插件](https://docs.gradle.org/current/userguide/plugin_reference.html#plugin_reference)。
+2. **社区插件**- Gradle 社区通过[Gradle 插件门户](https://plugins.gradle.org/)共享插件。
+3. **本地插件- Gradle 使用户能够使用**[API](https://docs.gradle.org/current/javadoc/org/gradle/api/Plugin.html)创建自定义插件。
+
+## 增量构建和构建缓存
+
+为了使增量构建发挥作用，任务必须定义其输入和输出。Gradle 将确定输入或输出在构建时是否已更改。如果它们发生了变化，Gradle 将执行任务。否则，它将跳过执行。
+
+构建缓存用来处理切换分支的情况，它存储以前的构建结果并在需要时恢复它们，避免浪费周期来重新构建不受新代码更改影响的二进制文件。
 
 
 # 引用
