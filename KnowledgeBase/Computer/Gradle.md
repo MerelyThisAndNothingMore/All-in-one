@@ -69,6 +69,8 @@ org.gradle.caching=true
 1. 根目录的`settings.gradle.kts`文件应包含所有子项目。
 2. 每个子项目都应该有自己的`build.gradle.kts`文件。
 
+## 生命周期
+
 
 
 # 引用
