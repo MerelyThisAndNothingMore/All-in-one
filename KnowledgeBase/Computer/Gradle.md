@@ -46,6 +46,9 @@ application {
 
 构建缓存用来处理切换分支的情况，它存储以前的构建结果并在需要时恢复它们，避免浪费周期来重新构建不受新代码更改影响的二进制文件。
 
+## 依赖
+
+通过 `./gradlew :app:dependencies` 查看项目的依赖树。
 
 # 引用
 [官方文档](https://docs.gradle.org/current/userguide/getting_started_eng.html)
