@@ -1,13 +1,13 @@
 {
   "blue-topaz-theme@@transparent-setting-panel": false,
-  "blue-topaz-theme@@background-image-settings-switch": false,
+  "blue-topaz-theme@@background-image-settings-switch": true,
   "blue-topaz-theme@@toggle-nonoverlapping-bg": false,
   "blue-topaz-theme@@background-image-settings-markdown-page-options": "background-image-settings-markdown-page-default",
   "blue-topaz-theme@@background-notebook-liked-switch": false,
   "blue-topaz-theme@@show-full-metadata": true,
   "blue-topaz-theme@@table-style-options": "table-style-one",
   "blue-topaz-theme@@file-bg-shape-option": "file-bg-pill",
-  "blue-topaz-theme@@color-scheme-options": "null",
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-avocado-topaz",
   "minimal-advanced@@styled-scrollbars": false,
   "minimal-style@@active-line-on": false,
   "floating-toc-styles@@floating-toc-remove-heading-indicator": true,
@@ -19,5 +19,7 @@
   "Blue-Topaz-Codebox-Highlight@@remove-language-type": true,
   "Blue-Topaz-Codebox-Highlight@@nowrap-edit-codebox": false,
   "Blue-Topaz-Codebox-Highlight@@whole-code-wrap": false,
-  "Blue-Topaz-Codebox-Highlight@@code-box-style-option": "codebox-frosted-glass"
+  "Blue-Topaz-Codebox-Highlight@@code-box-style-option": "codebox-frosted-glass",
+  "blue-topaz-theme@@background-settings-workplace-background-image": true,
+  "blue-topaz-theme@@font-family-change-to-default": true
 }
