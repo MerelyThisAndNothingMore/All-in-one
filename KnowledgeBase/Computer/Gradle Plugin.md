@@ -82,3 +82,21 @@ tasks.register('encode') {
 }
 ```
 
+# 自定义插件
+
+通过自定义插件可以更好地组织构建逻辑，任何实现了Plugin接口的类都可以称为是插件。
+
+```kotlin
+import org.gradle.api.Plugin
+import org.gradle.api.Project
+
+abstract class SamplePlugin : Plugin<Project> {
+    override fun apply(project: Project) {
+        project.tasks.create("SampleTask") {
+            println("Hello world!")
+        }
+    }
+}
+```
+
+

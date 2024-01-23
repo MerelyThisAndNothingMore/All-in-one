@@ -29,11 +29,11 @@ application {
 
 ## 任务
 
-![[Gradle Task]]
+![[Gradle Task#简介]]
 
 ## 插件
 
-![[Gradle Plugin]]
+![[Gradle Plugin#简介]]
 
 ## 增量构建和构建缓存
 
