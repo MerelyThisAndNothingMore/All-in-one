@@ -29,29 +29,10 @@ application {
 
 ## 任务
 
-任务是构建执行的独立单元，每一个任务可以执行编译类、创建JAR、生成JavaDoc等工作。
-项目中的任务来自于Gradle插件或构建脚本，通过`./gradlew tasks` 命令，可以列出所有的构建任务；`./gradlew run` 将会执行当前目录下的所有任务。
-
-任务通常在插件中进行定义，如果要在构建脚本中定义，需要如下语法：
-```groovy
-tasks.register<Zip>("zip-reports") {
-    from 'Reports/'
-    include '*'
-    archiveName 'Reports.zip'
-    destinationDir(file('/dir'))
-}
-```
-构建脚本中设置任务属性：
-```groovy
-tasks.named("javadoc").configure {
-    exclude 'app/Internal*.java'
-    exclude 'app/internal/*'
-    exclude 'app/internal/*'
-}
-```
-
+![[Gradle Task]]
 
 ## 插件
+
 插件用于**扩展构建功能和自定义 Gradle**，大多数功能（例如编译 Java 代码的能力）都是通过 _插件_ 添加的。
 插件可以提供有用的任务，例如运行代码、创建文档、设置源文件、发布档案等。
 插件分为三类：
