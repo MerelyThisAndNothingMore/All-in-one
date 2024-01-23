@@ -1,6 +1,0 @@
----
-authors:
-tags:
-- books 
-alias:
----

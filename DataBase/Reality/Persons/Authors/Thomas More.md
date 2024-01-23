@@ -1,7 +1,0 @@
----
-birth: 
-death:
-tags:
-- celebrities 
----
-

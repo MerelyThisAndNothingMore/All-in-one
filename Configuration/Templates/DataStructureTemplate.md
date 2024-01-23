@@ -1,6 +1,0 @@
----
-tags:
- - dataStructure 
-alias:
-
----

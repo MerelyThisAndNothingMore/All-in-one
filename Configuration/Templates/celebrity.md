@@ -1,5 +1,0 @@
----
-birth: 
-death:
----
-#celebrities 
