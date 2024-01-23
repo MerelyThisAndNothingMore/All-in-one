@@ -1,6 +1,6 @@
 ---
 tags: 
-alias:
+aliases:
 ---
 
 ![](https://gd-hbimg.huaban.com/92961f8b40f74ba18f83194343ffba14bb6082d18aae-vyGrL4)
