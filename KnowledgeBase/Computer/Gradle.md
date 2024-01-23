@@ -67,6 +67,8 @@ org.gradle.caching=true
 ## 生命周期
 
 ![](https://docs.gradle.org/current/userguide/img/build-lifecycle-example.png)
+![](https://docs.gradle.org/current/userguide/img/gradle-build-lifecycle.png)
+
 Gradle构建具有三个阶段：
 1. 初始化
 	- 检测到`settings.gradle(.kts)`文件。
