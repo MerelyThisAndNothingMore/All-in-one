@@ -1,11 +1,15 @@
 {
-  "shouldDebug": false,
+  "logLevel": "off",
   "createAtObsidianAttachmentFolder": false,
   "customFolderForNewFiles": "",
-  "exportRenderMarkdown": true,
+  "removeMarkdownOnExport": true,
   "defaultEmbedWidth": "100%",
   "defaultEmbedHeight": "340px",
   "hasMigratedTo800": true,
   "showWelcomeModal": false,
-  "pluginVersion": "8.0.0"
+  "showWhatsNewModal": true,
+  "defaultFrozenColumnCount": 1,
+  "pluginVersion": "8.15.11",
+  "shouldDebug": false,
+  "exportRenderMarkdown": true
 }

@@ -8,7 +8,7 @@ aliases:
 
 ![](https://docs.gradle.org/current/userguide/img/author-gradle-5.png)
 
-任务是构建执行的独立单元，每一个任务可以执行编译类、创建JAR、生成JavaDoc等工作。
+任务是[[Gradle]]构建执行的独立单元，每一个任务可以执行编译类、创建JAR、生成JavaDoc等工作。
 项目中的任务来自于Gradle插件或构建脚本，通过`./gradlew tasks` 命令，可以列出所有的构建任务；`./gradlew run` 将会执行当前目录下的所有任务。
 
 任务通常在插件中进行定义，如果要在构建脚本中定义，需要如下语法：

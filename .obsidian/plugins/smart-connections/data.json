@@ -15,7 +15,7 @@
   "skip_sections": false,
   "smart_chat_model": "gpt-3.5-turbo-16k",
   "view_open": true,
-  "version": "1.6.37",
+  "version": "1.6.55",
   "failed_files": [
     "",
     "Configuration/Templates/BaseTemplate.md",
@@ -86,5 +86,6 @@
     "DataBase/Reality/Persons/Entrepreneurs/Steve Jobs.md",
     "DataBase/Reality/Websites/The Missing Semester.md",
     "DataBase/Tools/Obsidian/Obsidian Charts.md"
-  ]
+  ],
+  "best_new_plugin": false
 }
