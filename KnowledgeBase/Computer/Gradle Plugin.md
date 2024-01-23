@@ -100,3 +100,7 @@ abstract class SamplePlugin : Plugin<Project> {
 ```
 
 
+https://docs.gradle.org/current/userguide/writing_plugins.html
+## 约定插件
+
+## 二进制插件
