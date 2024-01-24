@@ -3,7 +3,15 @@ tags:
 - coding
 alias:
 ---
-# Introduction 
+# 简介 
+
+从广义上讲，[[Kotlin]]、Clojure、JRuby、Groovy等运行于Java虚拟机上的编程语言及其相关的程序都属于Java技术体系中的一员。如果仅从传统意义上来看，JCP官方[1]所定义的Java技术体系包括了以下几个组成部分:
+
+- Java程序设计语言
+- 各种硬件平台上的Java虚拟机实现
+- [[class文件]]格式
+- Java类库API
+- 来自商业机构和开源社区的第三方Java类库
 
 
 ## Classes and Objects 
