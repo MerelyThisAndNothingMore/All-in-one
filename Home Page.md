@@ -1,4 +1,4 @@
-# 行动、思考、创造！
+做一些能够记录下来的事情。
 
 ## 行动
 - 传记
@@ -8,17 +8,11 @@
 - 入门课程
 
 
-
-
-
-## 思考
-
 ```dataviewjs
 await dv.view('/Resources/CustomView/Heatmap', {type: 'cday'})
 
 ```
 [[TasksBoard]]
-<https://cchere.com/>
 
 - 入门课程
 - 人物传记
