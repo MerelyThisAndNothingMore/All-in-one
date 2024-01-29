@@ -35,16 +35,9 @@ alias:
 
 ![](https://imgconvert.csdnimg.cn/aHR0cDovL3VwbG9hZC1pbWFnZXMuamlhbnNodS5pby91cGxvYWRfaW1hZ2VzLzk0NDM2NS1mOWQyNTk3NTczMjE2NGJjLnBuZw?x-oss-process=image/format,png)
 # 对象的访问定位
-问：建立对象后，该如何访问对象呢？
-实际上需访问的是 对象类型数据 & 对象实例数据
 
-答：Java程序 通过 栈上的引用类型数据（reference） 来访问Java堆上的对象
-由于引用类型数据（reference）在 Java虚拟机中只规定了一个指向对象的引用，但没定义该引用应该通过何种方式去定位、访问堆中的对象的具体位置
+[[Java]]程序通过栈上的引用类型数据（reference） 来访问Java堆上的对象
 
-所以对象访问方式取决于虚拟机实现。目前主流的对象访问方式有两种：
-
-句柄 访问
-直接指针 访问
 ![](https://imgconvert.csdnimg.cn/aHR0cDovL3VwbG9hZC1pbWFnZXMuamlhbnNodS5pby91cGxvYWRfaW1hZ2VzLzk0NDM2NS0yZjQ5MjgxNzNlNzM0ZTNlLnBuZw?x-oss-process=image/format,png)
 
 # Java对象如何判断存活
