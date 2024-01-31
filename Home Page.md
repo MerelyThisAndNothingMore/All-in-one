@@ -1,4 +1,9 @@
-做一些能够记录下来的事情。
+```ad-hint
+唯快不破
+```
+
+
+
 
 ```dataviewjs
 await dv.view('/Resources/CustomView/Heatmap', {type: 'cday'})
