@@ -14,7 +14,7 @@ aliases:
 [[Java]]
 ## 函数式编程
 ## 并发编程
-[[MultiThread|多线程]]
+
 ## 事件驱动编程
 
 
