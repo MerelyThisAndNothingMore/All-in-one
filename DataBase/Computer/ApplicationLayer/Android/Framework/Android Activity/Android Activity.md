@@ -46,7 +46,7 @@ mAppThread.scheduleTransaction(clientTransaction)
 - Activity.startActivity
 - Activity.startActivityForResult
 - Instrumentation.execStartActivity
-- 获取到服务线程的IActivityTaskManager.aidl，这里定义了[[IPC]]使用到的[[Binder]]
+- 获取到服务线程的IActivityTaskManager.aidl，这里定义了[[进程间通信]]使用到的[[Binder]]
 ### [[system_server进程|system_server进程]] 调用Process.start
 [[AMS]]:解析Activity信息、处理启动参数
 ### Process.start 调用 startViaZygote

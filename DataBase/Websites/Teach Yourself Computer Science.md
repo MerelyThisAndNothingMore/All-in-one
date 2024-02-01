@@ -9,7 +9,7 @@ work through at least the first three chapters.
 Lectures : [MIT video lectures](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/),  [Brian Harvey’s SICP lectures](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter) 
 Practice : [exercism](http://exercism.io/) 
 ## Computer Architecture 
-Recommendation: [[Computer Systems-A Programmer's Perspective]]
+Recommendation: [[深入理解计算机系统（原书第3版）]]
 _The Elements of Computing Systems_  [the Nand2Tetris website](http://www.nand2tetris.org/) 
 Lecture : http://csapp.cs.cmu.edu/3e/courses.html  [CS61C course](http://inst.eecs.berkeley.edu/~cs61c/sp15/) 
 ## Algorithms and Data Structure 

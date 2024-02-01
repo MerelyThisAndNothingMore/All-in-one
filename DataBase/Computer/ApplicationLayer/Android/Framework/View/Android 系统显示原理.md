@@ -3,7 +3,7 @@ tags:
 alias:
 ---
 Android应用程序把经过测量、布局、绘制后的surface缓存数据、通过SurfaceFlinger把数据渲染到显示屏幕上，通过Android的刷新机制来刷新数据。
-也就是说应用层负责绘制，系统层负责渲染，通过[[IPC|进程间通信]]把应用层需要绘制的数据传递到系统层服务，系统层服务通过刷新机制把数据更新到屏幕。
+也就是说应用层负责绘制，系统层负责渲染，通过[[进程间通信|进程间通信]]把应用层需要绘制的数据传递到系统层服务，系统层服务通过刷新机制把数据更新到屏幕。
 
 # 绘制原理
 1.在 App 进程中创建PhoneWindow 后会创建ViewRoot。ViewRoot 的创建会创建一个 Surface壳子，请求 WMS填充Surface，WMS copyFrom() 一个 NativeSurface。

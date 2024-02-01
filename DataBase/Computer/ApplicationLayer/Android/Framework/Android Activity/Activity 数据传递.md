@@ -15,6 +15,6 @@ intent中携带的数据要从[[app进程]]传输到[[AMS]]进程，再由AMS进
 ## 更多方案
 ### 非IPC
 单例,eventBus, Application, sqlite、shared preference、file 都可以;
-### [[IPC]]
+### [[进程间通信]]
 [[共享内存]]
 

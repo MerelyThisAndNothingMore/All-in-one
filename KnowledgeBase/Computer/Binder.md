@@ -19,7 +19,7 @@ alias:
 
 Client、Server、ServiceManager均在用户空间中实现，而Binder驱动程序则是在内核空间中实现的;
 
-Binder是Android中独有的一种[[IPC|进程间通信]]方式。它底层依靠mmap,只需要一次数据拷贝，把一块物理内存同时映射到内核和目标进程的[[用户空间]]。
+Binder是Android中独有的一种[[进程间通信|进程间通信]]方式。它底层依靠mmap,只需要一次数据拷贝，把一块物理内存同时映射到内核和目标进程的[[用户空间]]。
 在[[Android]]中，Binder机制包含三个部分，
 Java Binder、
 [[Native Binder]]、
