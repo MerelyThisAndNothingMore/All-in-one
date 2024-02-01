@@ -3,7 +3,7 @@ tags:
 alias:
 ---
 # 介绍
-[[Activity]]、[[Service]]、[[BroadcastReceiver]]之间的通信载体 = `Intent`
+[[Android Activity]]、[[Service]]、[[BroadcastReceiver]]之间的通信载体 = `Intent`
 # 能力
 ## 指定当前组件要完成的动作
 

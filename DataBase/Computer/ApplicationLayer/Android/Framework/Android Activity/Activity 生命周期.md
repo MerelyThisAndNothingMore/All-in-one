@@ -26,7 +26,7 @@ alias:
 
 ## 调用原理
 生命周期回调由[[AMS]]通过[[Binder]]通知应用进程调用。
-对于 onSaveInstanceState ，由于[[Activity]]的状态是由ActivityManager进行管理的，因此这里会通过[[Binder]]将Bundle信息传输到ActivityManager进行管理。
+对于 onSaveInstanceState ，由于[[Android Activity]]的状态是由ActivityManager进行管理的，因此这里会通过[[Binder]]将Bundle信息传输到ActivityManager进行管理。
 系统会调用ActivityThread的performStopActivity方法中掉用onSaveInstanceState， 将状态保存在mActivities 中，mActivities维护了一个Activity的信息表，当Activity重启时候，会从mActivities中查询到对应的 ActivityClientRecord。
 如果有信息，则调用Activity的onResoreInstanceState方法，
 在ActivityThread的performLaunchActivity方法中，统会判断ActivityClientRecord对象的state是否为空
@@ -51,7 +51,7 @@ onSaveInstanceState(Bundle outState)会在以下情况被调用：
 4、从当前activity启动一个新的activity时。
 5、屏幕方向切换时(无论竖屏切横屏还是横屏切竖屏都会调用)。
 # onRestoreInstanceState的调用时机
-只有在[[Activity]]确实被系统回收，重新创建时才会被调用：
+只有在[[Android Activity]]确实被系统回收，重新创建时才会被调用：
 - 屏幕切换
 - 后台程序被kill
 # ActivityA打开 ActivityB时的生命周期

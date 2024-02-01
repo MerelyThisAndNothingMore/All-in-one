@@ -60,7 +60,7 @@ https://www.cnblogs.com/jimuzz/p/14187408.html
 —> [[Message Queue]] 
 —> [[Message]] 
 —> [[Handler]] 
-—> [[Activity|Activity]] 
+—> [[Android Activity|Android Activity]] 
 
   所以这次引用的`头头`就是`主线程`，主线程肯定是不会被回收的，只要是`运行中的线程`都不会被[[Java 虚拟机|JVM]]回收，跟`静态变量`一样被JVM特殊照顾。
 ## 子线程运行没结束
