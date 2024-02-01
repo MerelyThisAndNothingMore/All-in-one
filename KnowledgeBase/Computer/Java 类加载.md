@@ -15,7 +15,7 @@ alias:
 
 ![](https://upload-images.jianshu.io/upload_images/944365-31072687a32f8861.png?imageMogr2/auto-orient/strip|imageView2/2/format/webp)
 
-## 1. 加载
+## 1.加载
 
 ![](https://upload-images.jianshu.io/upload_images/944365-248b92b723ae3aa6.png?imageMogr2/auto-orient/strip|imageView2/2/format/webp)
 
@@ -27,7 +27,7 @@ alias:
 
 加载阶段结束后，Java 虚拟机外部的二进制字节流就按照虚拟机所设定的格式存储在[[Java 方法区]]之中 了，方法区中的数据存储格式完全由虚拟机实现自行定义，《Java虚拟机规范》未规定此区域的具体数据结构。类型数据妥善安置在方法区之后，会在[[Java 堆]]内存中实例化一个java.lang.Class类的对象， 这个[[对象]]将作为程序访问方法区中的类型数据的外部接口。
 
-# 步骤2：验证
+## 2.验证
 
 ![](https://upload-images.jianshu.io/upload_images/944365-09f423a9f9e47af7.png?imageMogr2/auto-orient/strip|imageView2/2/format/webp)
 
@@ -40,11 +40,31 @@ Java语言本身是相对安全的编程语言(起码对于C/C++来说是相对�
 1. 文件格式验证 (字节流解析到方法区)
 2. 元数据验证（类的语义校验）
 3. 字节码验证：整个验证过程中最复杂的一个阶段，主要目的是通过数据流分析和控制流分析，确定程序语义是合法的、符合逻辑的。
+4. 符号引用验证：符号引用验证可以看作是对类自身以外(常量池中的各种符号 引用)的各类信息进行匹配性校验，通俗来说就是，该类是否缺少或者被禁止访问它依赖的某些外部 类、方法、字段等资源。
 
-# 步骤3：准备
+## 3.准备
+
 ![](https://upload-images.jianshu.io/upload_images/944365-f700de8a0d2b4ef0.png?imageMogr2/auto-orient/strip|imageView2/2/format/webp)
-# 步骤4：解析
+
+准备阶段是正式为类中定义的变量(即静态变量，被static修饰的变量)分配[[内存]]并设置类变量初始值的阶段。
+
+从概念上讲，这些变量所使用的内存都应当在[[Java 方法区]]中进行分配，在JDK 8及之后，类变量则会随着Class对象一起存放在Java堆中，这时候“类变量在方法区”就完全是一种对逻辑概念的表述了。
+
+## 4.解析
+
 ![](https://upload-images.jianshu.io/upload_images/944365-ae7602d88369eae8.png?imageMogr2/auto-orient/strip|imageView2/2/format/webp)
+
+解析阶段是Java虚拟机将常量池内的符号引用替换为直接引用的过程
+
+>符号引用(Symbolic References):符号引用以一组符号来描述所引用的目标，符号可以是任何 形式的字面量，只要使用时能无歧义地定位到目标即可。符号引用与虚拟机实现的内存布局无关，引用的目标并不一定是已经加载到虚拟机内存当中的内容。各种虚拟机实现的内存布局可以各不相同， 但是它们能接受的符号引用必须都是一致的，因为符号引用的字面量形式明确定义在《Java虚拟机规 范》的Class文件格式中。
+
+>直接引用(Direct References):直接引用是可以直接指向目标的[[指针]]、相对偏移量或者是一个能 间接定位到目标的句柄。直接引用是和虚拟机实现的内存布局直接相关的，同一个符号引用在不同虚 拟机实例上翻译出来的直接引用一般不会相同。如果有了直接引用，那引用的目标必定已经在虚拟机 的内存中存在。
+
+### 1. 类或接口的解析
+
+
+
+
 # 步骤5：初始化
 ![](https://upload-images.jianshu.io/upload_images/944365-3064969a380dde0b.png?imageMogr2/auto-orient/strip|imageView2/2/format/webp)
 
