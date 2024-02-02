@@ -7,5 +7,5 @@ alias:
 # Introduction 
 We use the term concurrency to refer to the general concept of a system with multiple,
 simultaneous activities.
-## [Thread-Level]([[Threads|Threads]]) Concurrency
+## [[线程|Thread]] Level Concurrency
 With [[线程|线程]], we can have multiple control flows executing within a single [[Processes|process]].

@@ -7,7 +7,7 @@ aliases:
 # 简介
 ![](https://docs.gradle.org/current/userguide/img/gradle-basic-1.png)
 
-Gradle是一种 [[JVM]] 构建系统，通过声明性构建语言完成构建配置。
+Gradle是一种[[Java 虚拟机|JVM]]构建系统，通过声明性构建语言完成构建配置。
 
 ## 配置文件
 
