@@ -19,3 +19,5 @@ alias:
 ## 应用程序类加载器
 
 应用程序类加载器(Application Class Loader):这个类加载器由  sun.misc.Launcher$Ap p ClassLoader来实现。由于应用程序类加载器是ClassLoader类中的getSy stem- ClassLoader()方法的返回值，所以有些场合中也称它为“系统类加载器”。它负责加载用户类路径 (ClassPath)上所有的类库，开发者同样可以直接在代码中使用这个类加载器。如果应用程序中没有 自定义过自己的类加载器，一般情况下这个就是程序中默认的类加载器。
+
+
