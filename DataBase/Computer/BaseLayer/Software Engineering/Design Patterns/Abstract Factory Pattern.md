@@ -5,7 +5,7 @@ alias:
 - 抽象工厂模式
 ---
 # Introduction 
->Provide an [[interface]] for creating families of related or dependent [[对象]]s without specifying their concrete [[class]]es.
+>Provide an [[接口]] for creating families of related or dependent [[对象]]s without specifying their concrete [[class]]es.
 >提供一个创建一系列相关或相互依赖对象的接口，而无需指定它们具体的类。
 
 抽象工厂模式（Abstract Factory）是一个比较复杂的创建型模式。
