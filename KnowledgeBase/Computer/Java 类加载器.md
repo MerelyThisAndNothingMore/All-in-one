@@ -5,4 +5,6 @@ alias:
 ---
 
 通过一个类的全限定名来获取描述该类的二进制字节流
-![](https://img-blog.csdnimg.cn/20200520120007810.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2x1b19ib2tl,size_16,color_FFFFFF,t_70)
+
+> 比较两个类是否“相等”，只有在这两个类是由同一个类加载器加载的前提下才有意义，否则，即使这两个类来源于同一个[[Class文件]]，被同一个[[Java 虚拟机]]加载，只要加载它们的类加载器不同，那这两个类就必定不相等。
+
