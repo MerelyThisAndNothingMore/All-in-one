@@ -6,7 +6,7 @@ tags:
 ![[Hardware Organization.png|cneter]]
 [[Buses]]
 [[I-O Devices]]
-[[主存]]
+[[主内存]]
 [[CPU]]
 
 
