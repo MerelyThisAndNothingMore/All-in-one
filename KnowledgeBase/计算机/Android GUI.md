@@ -11,8 +11,8 @@ alias:
 ![](https://gd-hbimg.huaban.com/756305c2f6766259704f1d881a5983cc0399ea76129ac-vQAnhL_fw1200webp)
 
 # 角色分析
-## [[Window]]
-[[Window]]是一个抽象类，通过控制 [[DecorView]] 提供了一些标准的 UI 方案，比如背景、标题、虚拟按键等，而 PhoneWindow 是 Window 的唯一实现类，在 Activity 创建后的 attach 流程中创建，应用启动显示的内容装载到其内部的 mDecor（DecorView）；
+## [[Android Window]]
+[[Android Window]]是一个抽象类，通过控制 [[DecorView]] 提供了一些标准的 UI 方案，比如背景、标题、虚拟按键等，而 PhoneWindow 是 Window 的唯一实现类，在 Activity 创建后的 attach 流程中创建，应用启动显示的内容装载到其内部的 mDecor（DecorView）；
 
 ## [[DecorView]]
 DecorView 是整个界面布局 View 控件树的根节点，通过它可以遍历访问到整个 View 控件树上的任意节点；
