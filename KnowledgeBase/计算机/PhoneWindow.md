@@ -15,4 +15,4 @@ alias:
     
 5. **主题和样式**：`PhoneWindow`支持通过主题（Themes）和样式（Styles）来定制窗口的外观和行为。开发者可以在应用的主题中声明窗口相关的属性，`PhoneWindow`会在窗口创建时应用这些属性。
 
-在Android应用中，每个`Activity`都有一个与之关联的`Window`对象，用于呈现该`Activity`的界面。在大多数情况下，这个`Window`对象实际上是一个`PhoneWindow`实例。当[[Android Activity]]被创建时，系统会为其创建一个`PhoneWindow`对象，并通过这个`PhoneWindow`来加载和显示`Activity`的布局。
+在Android应用中，每个`Activity`都有一个与之关联的`Window`对象，用于呈现该`Activity`的界面。在大多数情况下，这个`Window`对象实际上是一个`PhoneWindow`实例。当[[Activity]]被创建时，系统会为其创建一个`PhoneWindow`对象，并通过这个`PhoneWindow`来加载和显示`Activity`的布局。

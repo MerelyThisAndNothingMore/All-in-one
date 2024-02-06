@@ -11,7 +11,9 @@ https://blog.csdn.net/qq_20798591/article/details/122120434
 
 https://blog.csdn.net/aaajj/article/details/126453103
 # 主流程介绍
-performTraversals()会依次调用performMeasure、performLayout、performDraw方法,而这三个方法是View的绘制流程的核心所在.
+
+[[ViewRootImpl]].performTraversals()方法是[[View]]绘制的起点，会依次调用performMeasure、performLayout、performDraw方法，在其方法的内部又会分别调用 View 的 [[Measure]]、[[Layout]] 和 [[Draw]] 方法。
+
 
 -   performMeasure : 在performMeasure里面会调用measure方法,然后measure会调用onMeasure方法,而在onMeasure方法中则会对所有的子元素进行measure过程.这相当于完成了一次从父元素到子元素的measure传递过程,如果子元素是一个ViewGroup,那么继续向下传递,直到所有的View都已测量完成.测量完成之后,我们可以根据getMeasureHeight和getMeasureWidth方法获取该View的高度和宽度.
 -   performLayout : performLayout的原理其实是和performMeasure差不多,在performLayout里面调用了layout方法,然后在layout方法会调用onLayout方法,onLayout又会对所有子元素进行layout过程.由父元素向子元素传递,最终完成所有View的layout过程.确定View的4个点: left+top+right+bottom,layout完成之后可以通过getWidth和getHeight获取View的最终宽高.

@@ -3,7 +3,7 @@ tags:
 alias:
 ---
 # 定义
-Lifecycle，顾名思义，是用于帮助开发者管理[[Android Activity]]和[[Fragment]] 的生命周期，它是LiveData和ViewModel的基础。
+Lifecycle，顾名思义，是用于帮助开发者管理[[Activity]]和[[Fragment]] 的生命周期，它是LiveData和ViewModel的基础。
 # 使用
 - 1、生命周期拥有者 使用getLifecycle()获取Lifecycle实例，然后代用addObserve()添加观察者；
 - 2、观察者实现LifecycleObserver，方法上使用OnLifecycleEvent注解关注对应生命周期，生命周期触发时就会执行对应方法；

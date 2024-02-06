@@ -6,7 +6,7 @@ alias:
 [[Android 复习路径|Android 复习路径]] 
 ![](https://gd-hbimg.huaban.com/2e64c959a359c60889ab92745205d63e0ce8e48e688e7-PlteSl)
 ## 四大组件
-### [[Android Activity|Android Activity]] 
+### [[Activity|Activity]] 
 #### 生命周期
 [[Activity 生命周期]]
 [[Fragment生命周期]]

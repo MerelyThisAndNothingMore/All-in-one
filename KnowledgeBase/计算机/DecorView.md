@@ -34,6 +34,6 @@ DecorView在Activity.onCreate()时创建
 
 ## 绑定
 
-DecorView创建后尚不能展示，还需要在Activity.onResume()方法里被添加到Window里后才能展示在用户屏幕上。
+DecorView创建后尚不能展示，还需要在[[Activity]].onResume()方法里被添加到Window里后才能展示在用户屏幕上。
 
 
