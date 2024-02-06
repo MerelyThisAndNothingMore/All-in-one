@@ -15,19 +15,11 @@ https://blog.csdn.net/aaajj/article/details/126453103
 [[ViewRootImpl]].performTraversals()方法是[[View]]绘制的起点，会依次调用performMeasure、performLayout、performDraw方法，在其方法的内部又会分别调用 View 的 [[Measure]]、[[Layout]] 和 [[Draw]] 方法。
 
 
--   performMeasure : 在performMeasure里面会调用measure方法,然后measure会调用onMeasure方法,而在onMeasure方法中则会对所有的子元素进行measure过程.这相当于完成了一次从父元素到子元素的measure传递过程,如果子元素是一个ViewGroup,那么继续向下传递,直到所有的View都已测量完成.测量完成之后,我们可以根据getMeasureHeight和getMeasureWidth方法获取该View的高度和宽度.
 -   performLayout : performLayout的原理其实是和performMeasure差不多,在performLayout里面调用了layout方法,然后在layout方法会调用onLayout方法,onLayout又会对所有子元素进行layout过程.由父元素向子元素传递,最终完成所有View的layout过程.确定View的4个点: left+top+right+bottom,layout完成之后可以通过getWidth和getHeight获取View的最终宽高.
 -   performDraw : 也是和performMeasure差不多,从父元素从子元素传递.在performDraw里面会调用draw方法,draw方法再调用drawSoftware方法,drawSoftware方法里面回调用View的draw方法,然后再通过dispatchDraw方法分发,遍历所有子元素的draw方法,draw事件就这样一层层地传递下去.
 
-## Measure
-主要用于确定 View 的测量宽/高。
-主要包含两个步骤：
-1.  求取 View 的测量规格[[MeasureSpec]]。
-2.  依据上一步求得的[[MeasureSpec]]，对 View 进行测量，求取得到 View 的最终测量宽/高。
-`LayoutParams`会受到父容器的`MeasureSpec`的影响，测量过程会依据两者之间的相互约束最终生成子View 的`MeasureSpec`，完成 View 的测量规格。
 
-简而言之，View 的`MeasureSpec`受自身的`LayoutParams`和父容器的`MeasureSpec`共同决定（`DecorView`的`MeasureSpec`是由自身的`LayoutParams`和屏幕尺寸共同决定，参考后文）。也因此，如果要求取子View 的`MeasureSpec`，那么首先就需要知道父容器的`MeasureSpec`，层层逆推而上，即最终就是需要知道顶层View（即`DecorView`）的`MeasureSpec`，这样才能一层层传递下来，这整个过程需要结合`Activity`的启动过程进行分析。
-![](https://gd-hbimg.huaban.com/855ca61cf63d564022c99601d05350779a77b22f2d8a6-BK7djg)
+
 
 ### DecorView 的MeasureSpec
 **`DecorView`的布局参数为`MATCH_PARENT`**
