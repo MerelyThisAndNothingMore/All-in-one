@@ -6,6 +6,47 @@ alias:
 ![[Pasted image 20240206132623.png]]
 椭圆代表[[Android MediaPlayer|MediaPlayer]]驻留的状态，弧代表播放控制且驱动MediaPlayer状态进行过渡。有两种类型的弧，单箭头弧表示的是同步函数调用，双箭头弧表示的是异步函数调用。
 
+## Idle状态及End状态
 
+在MediaPlayer创建实例或者调用reset函数后，播放器就被创建了，这时处于Idle（就绪）状态，调用release函数后，就会变成End（结束）状态，在这两种状态之间的就是MediaPlayer的生命周期。
 
+## Error状态
+
+在构造一个新MediaPlayer或者调用reset函数后，上层应用程序调用getCurrentPosition、getVideoHeight、getDuration、getVideoWidth、setAudioStreamType(int)、setLooping(boolean)、setVolume(float,float)、pause、start、stop、seekTo(int)、prepare、prepareAsync这些函数会出错。如果调用reset函数后再调用它们，用户提供的回调函数OnErrorListener.onError将触发MediaPlayer状态到Error（错误）状态，所以一旦不再使用MediaPlayer，就需要调用release函数，以便MediaPlayer资源得到合理释放。
+
+当MediaPlayer处于End（结束）状态时，它将不能再被使用，这时不能再回到MediaPlayer的其他状态，因为本次生命周期已经终止。
+
+由于支持的音视频格式分辨率过高，输入数据流超时，或者其他各种各样的原因将导致播放失败。在这种错误的条件下，如果用户事先通过setOnErrorListener注册过OnErrorListener，当player内部调用OnErrorListener.onError回调函数时，将会返回错误信息。一旦有错误，MediaPlayer会进入Error（错误）状态，为了重新使用MediaPlayer，调用reset函数，这时将重新恢复到Idle（就绪）状态，所以需要给MediaPlayer设置错误监听，出错后就可以从播放器内部返回的信息中找到错误原因。
+
+## Initialized状态
+
+当调用setDataSource(FileDescriptor)、setDataSource(String)、setDataSource(Context, Uri)、setDataSource(FileDescriptor, long, long)其中一个函数时，将传递MediaPlayer的Idle状态变成Initialized（初始化）状态，如果setDataSource在非Idle状态时调用，会抛出IllegalStateException异常。当重载setDataSource时，需要抛出IllegalArgumentException和IOException这两个异常。
+
+## Prepared状态
+
+MediaPlayer有两种途径到达Prepared状态，一种是同步方式，另一种是异步方式。同步方式主要使用本地音视频文件，异步方式主要使用网络数据，需要缓冲数据。调用prepare（同步函数）将传递MediaPlayer的Initialized状态变成Prepared状态，或者调用prepareAsync（异步函数）将传递MediaPlayer的Initialized状态变成Preparing状态，最后到Prepared状态。如果应用层事先注册过setOnPreparedListener，播放器内部将回调用户设置的OnPreparedListener中的onPrepared回调函数。注意，Preparing是一个瞬间状态（可理解为时间比较短）。
+
+## Started状态
+
+在MediaPlayer进入Prepared状态后，上层应用即可设置一些属性，如音视频的音量、screenOnWhilePlaying、looping等。在播放控制开始之前，必须调用start函数并成功返回，MediaPlayer的状态开始由Prepared状态变成Started状态。当处于Started状态时，如果用户事先注册过setOnBufferingUpdateListener，播放器内部会开始回调OnBufferingUpdateListener.on BufferingUpdate，这个回调函数主要使应用程序保持跟踪音视频流的buffering（缓冲）status，如果MediaPlayer已经处于Started状态，再调用start函数是没有任何作用的。
+
+## Paused状态
+
+MediaPlayer在播放控制时可以是Paused（暂停）和Stopped（停止）状态的，且当前的播放时进度可以被调整，当调用MediaPlayer.pause函数时，MediaPlayer开始由Started状态变成Paused状态，这个从Started状态到Paused状态的过程是瞬间的，反之在播放器内部是异步过程的。在状态更新并调用isPlaying函数前，将有一些耗时。已经缓冲过的数据流，也要耗费数秒。
+
+当start函数从Paused状态恢复回来时，playback恢复之前暂停时的位置，接着开始播放，这时MediaPlayer的Paused状态又变成Started状态。如果MediaPlayer已经处于Paused状态，这时再调用pause函数是没有任何作用的，将保持Paused状态。
+
+## Stopped状态
+
+当调用stop函数时，MediaPlayer无论正处于Started、Paused、Prepared或PlaybackCompleted中的哪种状态，都将进入Stopped状态。一旦处于Stopped状态，playback将不能开始，直到重新调用prepare或prepareAsync函数，且处于Prepared状态时才可以开始。
+
+如果MediaPlayer已经处于Stopped状态了，这时再调用stop函数是没有任何作用的，将保持Stopped状态。
+
+在Seek操作完成后，如果事先在MediaPlayer注册了setOnSeekCompleteListener，播放器内部将回调OnSeekComplete.onSeekComplete函数。当然seekTo函数也可以在其他状态下被调用，如Prepared、Paused及PlaybackCompleted状态。
+
+## PlaybackCompleted状态
+
+当前播放的位置可以通过getCurrentPosition函数获取，通过getCurrentPosition函数，可以跟踪播放器的播放进度。
+
+当MediaPlayer播放到数据流的末尾时，一次播放过程完成。在MediaPlayer中事先调用setLooping(boolean)并设置为true，表示循环播放，MediaPlayer依然处于Started状态。如果调用setLooping(boolean)并设置为false（表示不循环播放），并且事先在MediaPlayer上注册过setOnCompletionListener，播放器内部将回调OnCompletion.onCompletion函数，这就表明MediaPlayer开始进入PlaybackCompleted（播放完成）状态。当处于PlaybackCompleted状态时，调用start函数，将重启播放器从头开始播放数据。
 
