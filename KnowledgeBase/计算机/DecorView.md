@@ -3,6 +3,8 @@ tags:
 alias:
 ---
 
+# 简介
+
 在Android中，`DecorView`是每个[[Android Window|Window]]的最顶层视图，它是`Window`中所有视图的根视图。`DecorView`包裹了应用程序窗口的整个内容，包括应用的布局和系统级的UI元素，如状态栏和导航栏（如果窗口具有这些系统UI元素的话）。
 
 ### DecorView的结构和组成
@@ -24,10 +26,14 @@ alias:
 - **事件分发**：接收并分发触摸事件、按键事件等到窗口中的其他视图。
 - **绘制窗口**：在屏幕上绘制窗口的内容，包括应用的布局和系统UI。
 
+# 生命周期
+
+## 创建
+
+DecorView在Activity.onCreate()时创建
+
+## 绑定
+
+DecorView创建后尚不能展示，还需要在Activity.onResume()方法里被添加到Window里后才能展示在用户屏幕上。
 
 
-
-# DecorView什么时候被WindowManager添加到Window中
-即使Activity的布局已经成功添加到DecorView中，DecorView此时还没有添加到Window中 
-ActivityThread的 handleResumeActivity方法中，首先会调用Activity的onResume方法，接着调用Activity的makeVisible()方法 
-makeVisible()中完成了DecorView的添加和显示两个过程
