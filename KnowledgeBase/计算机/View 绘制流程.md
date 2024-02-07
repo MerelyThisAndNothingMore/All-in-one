@@ -19,7 +19,7 @@ https://blog.csdn.net/aaajj/article/details/126453103
 -   performDraw : 也是和performMeasure差不多,从父元素从子元素传递.在performDraw里面会调用draw方法,draw方法再调用drawSoftware方法,drawSoftware方法里面回调用View的draw方法,然后再通过dispatchDraw方法分发,遍历所有子元素的draw方法,draw事件就这样一层层地传递下去.
 
 
-# 为什么自定义View wrap_content不生效
+# 为什么[[自定义View]] wrap_content不生效
 ## 原因分析
 ### `wrap_content`起到与`match_parent`相同的作用
 在onMeasure()中的getDefaultSize（）的默认实现中，当View的测量模式是AT_MOST或EXACTLY时，View的大小都会被设置成子View MeasureSpec的specSize。
