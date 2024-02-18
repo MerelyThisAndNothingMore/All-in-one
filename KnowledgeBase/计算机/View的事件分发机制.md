@@ -23,11 +23,9 @@ alias:
 public boolean dispatchTouchEvent(MotionEvent ev) {
 boolean result=false;
 if(onInterceptTouchEvent(ev)){
-
-     result=super.onTouchEvent(ev);
+	result=super.onTouchEvent(ev);
  }else{
-
-     result=child.dispatchTouchEvent(ev);
+	result=child.dispatchTouchEvent(ev);
 }
 
 return result;
