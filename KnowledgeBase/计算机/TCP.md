@@ -5,16 +5,6 @@ alias:
 - 传输控制协议
 ---
 
-https://carsonho.blog.csdn.net/article/details/85316719
-1.  属于 传输层通信协议
-2.  基于`TCP`的应用层协议有`HTTP`、`SMTP`、`FTP`、`Telnet` 和 `POP3`
-# 特点
--   面向连接、面向字节流、全双工通信、可靠
-![](https://imgconvert.csdnimg.cn/aHR0cDovL3VwbG9hZC1pbWFnZXMuamlhbnNodS5pby91cGxvYWRfaW1hZ2VzLzk0NDM2NS1jNzcwNTNjOTg4MTU5MmFiLnBuZz9pbWFnZU1vZ3IyL2F1dG8tb3JpZW50L3N0cmlwJTdDaW1hZ2VWaWV3Mi8yL3cvMTI0MA)
-# 优缺点
-
--   优点：数据传输可靠
--   缺点：效率慢（因需建立连接、发送确认包等）
 # 应用场景（对应的应用层协议）
 
 要求通信数据可靠时，即 数据要准确无误地传递给对方

@@ -38,56 +38,46 @@ alias:
 ![](https://img-blog.csdnimg.cn/img_convert/8c39dcc0786d030dce0453cb5967e5bb.png)
 ### 定长线程池（FixedThreadPool）
 
--   特点：只有核心线程 & 不会被回收、线程数量固定、任务队列无大小限制（超出的线程任务会在队列中等待）
--   应用场景：控制线程最大并发数
--   具体使用：通过 _Executors.newFixedThreadPool()_ 创建
+```java
+public static ExecutorService newFixedThreadPool(int nThreads) {  
+    return new ThreadPoolExecutor(nThreads, nThreads,  
+                                  0L, TimeUnit.MILLISECONDS,  
+                                  new LinkedBlockingQueue<Runnable>());  
+}
+```
 
 ### 定时线程池（ScheduledThreadPool ）
 
--   特点：核心线程数量固定、非核心线程数量无限制（闲置时马上回收）
--   应用场景：执行定时 / 周期性 任务
--   使用：通过*Executors.newScheduledThreadPool()*创建
+```java
+public ScheduledThreadPoolExecutor(int corePoolSize) {  
+    super(corePoolSize, Integer.MAX_VALUE,  
+          DEFAULT_KEEPALIVE_MILLIS, MILLISECONDS,  
+          new DelayedWorkQueue());  
+}
+```
 
 ### 可缓存线程池（CachedThreadPool）
-特点：只有非核心线程、线程数量不固定（可无限大）、灵活回收空闲线程（具备超时机制，全部回收时几乎不占系统资源）、新建线程（无线程可用时）
-任何线程任务到来都会立刻执行，不需要等待
-应用场景：执行大量、耗时少的线程任务
+
+```java
+public static ExecutorService newCachedThreadPool() {  
+    return new ThreadPoolExecutor(0, Integer.MAX_VALUE,  
+                                  60L, TimeUnit.SECONDS,  
+                                  new SynchronousQueue<Runnable>());  
+}
+```
 
 ### 单线程化线程池（SingleThreadExecutor）
-特点：只有一个核心线程（保证所有任务按照指定顺序在一个线程中执行，不需要处理线程同步的问题）
 
-应用场景：不适合并发但可能引起IO阻塞性及影响UI线程响应的操作，如数据库操作，文件操作等
+```java
+public static ExecutorService newSingleThreadExecutor() {  
+    return new FinalizableDelegatedExecutorService  
+        (new ThreadPoolExecutor(1, 1,  
+                                0L, TimeUnit.MILLISECONDS,  
+                                new LinkedBlockingQueue<Runnable>()));  
+}
+```
 
-使用：通过*Executors.newSingleThreadExecutor()*创建*
-# 使用场景
-## IO密集型
 
-## CPU密集型
-如果是 CPU 密集型的，可以把核心线程数设置为核心数+1。
-
-# 异常处理
-#### Runable执行异常(业务异常)处理方式
-
-由于Runable执行异常并不会影响到整个系统的运行，不会因为在线程池中执行任务报错导致真系统错误退出。所以线程池执行任务的异常处理方式通常有两种：
-
--   **直接不处理(也可以打印日志)**
--   **捕获异常不让异常往外抛**
-
-#### 提交任务到任务队列已满异常处理
-
-这个异常取决于使用的何种拒绝策略。Java内置的拒绝策略有四种：
-
--   **CallerRunsPolicy：在任务被拒绝添加后，会调用当前线程池的所在的线程去执行被拒绝的任务**
--   **AbortPolicy：直接抛出异常**
--   **DiscardPolicy：会让被线程池拒绝的任务直接抛弃，不会抛异常也不会执行。**
--   **DiscardOldestPolicy：当任务呗拒绝添加时，会抛弃任务队列中最旧的任务也就是最先加入队列的，再把这个新任务添加进去。**
--   **自定义策略，只要实现RejectedExecutionHandler接口**
-
-对于提交任务到任务队列已满异常，如果不进行catch不影响整个整个系统的运行可以不进行处理，如果可能会导致系统中断。就需要对错误进行处理。
-
-#### 2.3 线程池本身导致的异常
-
-线程池本身导致的异常可能会导致程序的中断，如果程序必须依靠线程池才能完成对应功能，当线程池本身导致异常如上面演示的。那么是否处理异常都无关紧要。整个程序直接崩溃！但是线程池只是一个备选方案，可以将可能的异常进行捕获处理。(但是不能完全杜绝让程序崩溃的问题)
 
   
 
