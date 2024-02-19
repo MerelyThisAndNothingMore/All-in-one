@@ -7,13 +7,15 @@ alias:
 在编程中经常会使用[[线程]]来异步处理任务，但是每个线程的创建和销毁都需要一定的开销。 如果每次执行一个任务都需要开一个新线程去执行，则这些线程的创建和销毁将消耗大量的资源;并且线程都是“各自为政”的，很难对其进行控制。
 这时就 需要线程池来对线程进行管理。在[[Java]]1.5中提供了Executor框架用于把任务的提交和执行解耦，任务的提交交给 Runnable 或者 Callable，而 Executor 框架用来处理任务。Executor 框架中 最核心的成员就是 ThreadPoolExecutor，它是线程池的核心实现类。
 
+![[Pasted image 20240219195259.png]]
+
 ## ThreadPoolExecutor
 
 ![](https://img-blog.csdnimg.cn/20190423104753143.png)
 
 对应参数的说明：
 
-- corePoolSize:核心线程数。默认情况下线程池是空的，只有任务提交时才会创建线程。 如果当前运行的线程数少于 corePoolSize，则创建新线程来处理任务;如果等于或者多 于 corePoolSize，则不再创建。如果调用线程池的 prestartAllcoreThread 方法，线程池会 提前创建并启动所有的核心线程来等待任务。
+- corePoolSize:核心线程数。默认情况下线程池是空的，只有任务提交时才会创建线程。 如果当前运行的线程数少于 corePoolSize，则创建新线程来处理任务;如果等于或者多于 corePoolSize，则不再创建。如果调用线程池的 prestartAllcoreThread 方法，线程池会 提前创建并启动所有的核心线程来等待任务。
     
 - maximumPoolSize:线程池允许创建的最大线程数。如果任务队列满了并且线程数小于 maximumPoolSize 时，则线程池仍旧会创建新的线程来处理任务。
     
