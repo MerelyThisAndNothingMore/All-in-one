@@ -1,11 +1,11 @@
 #softwareEngineering 
 # Introduction 
-Access control [[Modifiers]] control the level of access. The ability to limit access among [[class]]es supports a key principle of [[面向对象编程]] known as [[encapsulation]].
+Access control [[Modifiers]] control the level of access. The ability to limit access among [[类]]es supports a key principle of [[面向对象编程]] known as [[encapsulation]].
 # Implementation 
 ## Java
 | [[Modifiers]] |                                                                        remark                                                                         |
 |:-------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------:|
-|    public     |            all classes may access the defined aspect.  <br> each public [[class]] must be defined in a separate file named classname.java             |
-|   protected   | Classes that are designated as subclasses of the given [[class]] through inheritance.<br> Classes that belong to the same package as the given class. |
-|    private    |                                                               code within the [[class]]                                                               |
+|    public     |            all classes may access the defined aspect.  <br> each public [[类]] must be defined in a separate file named classname.java             |
+|   protected   | Classes that are designated as subclasses of the given [[类]] through inheritance.<br> Classes that belong to the same package as the given class. |
+|    private    |                                                               code within the [[类]]                                                               |
 |    default    |                                             package-private: classes in the same package to have access.                                              |

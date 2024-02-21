@@ -6,7 +6,7 @@ alias:
 ---
 # Introduction
 [[方法|方法]]s that use pointers or references to base
-[[class|class]]es must be able to use [[对象|对象]]s of derived classes without knowing it.
+[[类|类]]es must be able to use [[对象|对象]]s of derived classes without knowing it.
 
 1. 子类必须完全实现父类的方法
 2. 子类可以有自己的个性
