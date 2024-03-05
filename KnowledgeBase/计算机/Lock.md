@@ -10,8 +10,6 @@ alias:
 `ReadWriteLock` 一个用来获取读锁，一个用来获取写锁。也就是说将文件的读写操作分开，分成2个锁来分配给线程，从而使得多个线程可以同时进行读操作。ReentrantReadWirteLock实现了ReadWirteLock接口，并未实现Lock接口。
 
 
-
-
 # Synchronized 和 Lock 的主要区别
 -   **存在层面**：Syncronized 是Java 中的一个关键字，存在于 JVM 层面，Lock 是 Java 中的一个接口  
     
