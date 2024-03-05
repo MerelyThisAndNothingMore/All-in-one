@@ -19,19 +19,7 @@ https://blog.csdn.net/aaajj/article/details/126453103
 -   performDraw : 也是和performMeasure差不多,从父元素从子元素传递.在performDraw里面会调用draw方法,draw方法再调用drawSoftware方法,drawSoftware方法里面回调用View的draw方法,然后再通过dispatchDraw方法分发,遍历所有子元素的draw方法,draw事件就这样一层层地传递下去.
 
 
-## Layout
-主要用于确定 View 在父容器中的放置位置。
-先通过 measure 测量出 ViewGroup 宽高，ViewGroup 再通过 layout 方法根据自身宽高来确定自身位置。当 ViewGroup 的位置被确定后，就开始在 onLayout 方法中调用子元素的 layout 方法确定子元素的位置。子元素如果是 ViewGroup 的子类，又开始执行 onLayout，如此循环往复，直到所有子元素的位置都被确定，整个 View 树的 layout 过程就执行完了。
-## Draw
-ViewRoot创建一个Canvas对象，然后调用OnDraw()。六个步骤:
-1、绘制视图的背景; 
-2、保存画布的图层(Layer);
-3、绘制View的内容;
-4、绘制View子视图，如果没有就不用;
-5、还原图层 (Layer);
-6、绘制View的装饰(例如滚动条等等)。
-
-# 为什么自定义View wrap_content不生效
+# 为什么[[自定义View]] wrap_content不生效
 ## 原因分析
 ### `wrap_content`起到与`match_parent`相同的作用
 在onMeasure()中的getDefaultSize（）的默认实现中，当View的测量模式是AT_MOST或EXACTLY时，View的大小都会被设置成子View MeasureSpec的specSize。

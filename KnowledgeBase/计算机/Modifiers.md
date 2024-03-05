@@ -1,7 +1,7 @@
 #coding 
 # Introduction 
 Modifiers in program  are used to convey additional stipulations.
-[[Access Control Modifiers]]
+[[权限控制操作符]]
 [[Static modifier]]
 ## The abstract modifier 
 A method of a class may be declared as abstract, in which case its signature is provided but without an implementation of the method body.
