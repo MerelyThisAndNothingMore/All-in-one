@@ -9,6 +9,15 @@ Achievement
 《社会主义史》 柯卡普
 
 
+- 市盈率
+- 市净率
+- 股权分布
+- 月线
+
+比亚迪
+
+
+
 ```dataviewjs
 await dv.view('/Resources/CustomView/Heatmap', {type: 'cday'})
 
