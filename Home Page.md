@@ -11,12 +11,6 @@ Achievement
 《社会主义史》 柯卡普
 
 
-- 市盈率
-- 市净率
-- 股权分布
-- 月线
-
-比亚迪
 
 
 
@@ -38,9 +32,6 @@ await dv.view('/Resources/CustomView/Heatmap', {type: 'cday'})
 <https://github.com/JsonChao/Awesome-Android-Notebook>
 
 <https://juejin.cn/post/6881442312560803853#heading-9>
-
-
-https://www.zhihu.com/question/68611994/answer/3188443851
 
 
 
