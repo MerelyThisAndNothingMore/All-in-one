@@ -4,7 +4,7 @@ alias:
 ---
 https://blog.csdn.net/luo_boke/article/details/106004778
 # 介绍
-ART 是 [[JVM]]的一种，在4.4(L)之后推出，用来替换[[Dalvik]]。
+ART 是 [[Java 虚拟机|JVM]]的一种，在4.4(L)之后推出，用来替换[[Dalvik]]。
 ## 原理
 JIT是运行时编译，这样可以对执行次数频繁的dex代码进行编译和优化，减少以后使用时的翻译时间， 但将dex 翻译为本地机器码也要占用时间，所以Google在4.4(L)之后推出了ART，用来替换Dalvik。
 
