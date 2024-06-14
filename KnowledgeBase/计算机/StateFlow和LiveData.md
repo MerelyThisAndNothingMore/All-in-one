@@ -3,7 +3,7 @@ tags:
 alias:
 ---
 
-StateFlow 和 LiveData 都是用于在 Android 应用中管理和观察状态的工具，但它们有不同的特性和优劣。以下是 StateFlow 和 LiveData 的主要区别及各自的优势：
+[[StateFlow]] 和 [[LiveData]] 都是用于在 Android 应用中管理和观察状态的工具，但它们有不同的特性和优劣。以下是 StateFlow 和 LiveData 的主要区别及各自的优势：
 
 StateFlow 的优势
 
