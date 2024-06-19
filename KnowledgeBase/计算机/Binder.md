@@ -1,10 +1,11 @@
 ---
-tags: 
-alias:
-- Binder IPC
+tags:
+  - Android_framework
+aliases:
+  - Binder IPC
 ---
 # 特性
-从进程间通信的角度看，Binder 是一种进程间通信的机制;
+从[[进程间通信]]的角度看，Binder 是一种进程间通信的机制;
 
 从 Server 进程的角度看，Binder 指的是 Server 中的 Binder 实体对象(Binder类 IBinder);
 
