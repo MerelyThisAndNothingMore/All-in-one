@@ -2,6 +2,9 @@
 tags: 
 alias:
 ---
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/JbNtVM0Jpq0uZt4qOD7uNyhLQR65X3EpsojZkLKlc7T8Y0QPskEzSHbQDUBibzBy0cjMpC7Z4qw0AuJDgAcwngQ/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+
 Android应用程序把经过测量、布局、绘制后的surface缓存数据、通过SurfaceFlinger把数据渲染到显示屏幕上，通过Android的刷新机制来刷新数据。
 也就是说应用层负责绘制，系统层负责渲染，通过[[进程间通信|进程间通信]]把应用层需要绘制的数据传递到系统层服务，系统层服务通过刷新机制把数据更新到屏幕。
 
