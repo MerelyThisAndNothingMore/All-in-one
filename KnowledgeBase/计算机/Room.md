@@ -6,7 +6,8 @@ aliases:
 
 # 简介
 
-Jetpack’s Room 是一个[[持久化]]库，它为应用程序提供了一个抽象层，用于简化对 SQLite 数据库的访问。Room 通过使用[[注解]]和强类型 API 来管理数据库操作，提供了比直接使用 SQLite 更便捷和安全的方式。
+[[Jetpack]]’s Room 是一个[[持久化]]库，它为应用程序提供了一个抽象层，用于简化对 SQLite 数据库的访问。
+Room 是 Google 官方推出的数据库 **ORM 框架**。[ORM](https://so.csdn.net/so/search?q=ORM&spm=1001.2101.3001.7020)：即 Object Relational Mapping，即对象关系映射，也就是将关系型数据库映射为[[面向对象]]的语言。它通过使用[[注解]]和强类型 API 来管理数据库操作，提供了比直接使用 SQLite 更便捷和安全的方式。
 
 Room中对数据的操作不需要通过SQL语句，而是通过注解后的方法：
 
@@ -35,6 +36,11 @@ interface UserDao {
     fun delete(user: User)
 }
 ```
+
+Room 包含三个组件：Entity、DAO 和 Database。
+Entity：实体类，数据库中的表（table），保存数据库并作为应用持久性数据底层连接的主要访问点。
+DAO：数据库访问对象，提供访问 DB 的 API，如增删改查等方法。
+Database：访问底层数据库的入口，管理着真正的数据库文件。
 
 ![](https://img-blog.csdnimg.cn/c98ad91d8f2b45dea5db4608dcd765bf.png)
 
