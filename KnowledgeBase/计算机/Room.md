@@ -37,6 +37,8 @@ interface UserDao {
 }
 ```
 
+# 组件
+
 Room 包含三个组件：Entity、DAO 和 Database。
 Entity：实体类，数据库中的表（table），保存数据库并作为应用持久性数据底层连接的主要访问点。
 DAO：数据库访问对象，提供访问 DB 的 API，如增删改查等方法。
