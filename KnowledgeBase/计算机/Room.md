@@ -45,3 +45,30 @@ Database：访问底层数据库的入口，管理着真正的数据库文件。
 ![](https://img-blog.csdnimg.cn/c98ad91d8f2b45dea5db4608dcd765bf.png)
 
 
+## Dao
+
+```kotlin
+// 该注解代表数据库一张表，tableName为该表名字，不设置则默认类名
+// 注解必须有！！tableName可以不设置
+@Entity(
+    tableName = "User",
+    indices = [Index(
+        value = ["userName"],
+        unique = true
+    )]
+)
+data class User(
+    // 该注解指定该字段作为表的主键, 自增长。注解必须有！！
+    @PrimaryKey(autoGenerate = true)
+    val id: Int? = null,
+
+    // 该注解设置当前属性在数据库表中的列名和类型，注解可以不设置，不设置默认列名和属性名相同
+    @ColumnInfo(name = "user_name", typeAffinity = ColumnInfo.TEXT)
+    val userName: String?,
+    
+    // Entity 中的所有属性都会被持久化到数据库，除非使用 @Ignore
+    @ColumnInfo(name = "user_gender", typeAffinity = ColumnInfo.TEXT)
+    @Ignore val userGender: String?
+)
+
+```
