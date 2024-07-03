@@ -44,7 +44,6 @@ Database：访问底层数据库的入口，管理着真正的数据库文件。
 
 ![](https://img-blog.csdnimg.cn/c98ad91d8f2b45dea5db4608dcd765bf.png)
 
-
 ## Dao
 
 ```kotlin

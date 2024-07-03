@@ -4,7 +4,7 @@
   "blue-topaz-theme@@color-scheme-options": "color-scheme-options-default",
   "Blue-Topaz-Codebox-Highlight@@code-theme-selection": "code-theme-dracula",
   "Blue-Topaz-Codebox-Highlight@@whole-code-wrap": false,
-  "Blue-Topaz-Codebox-Highlight@@nowrap-edit-codebox": true,
+  "Blue-Topaz-Codebox-Highlight@@nowrap-edit-codebox": false,
   "Blue-Topaz-Codebox-Highlight@@code-box-style-option": "codebox-frosted-glass",
   "Blue-Topaz-Codebox-Highlight@@mute-code-indent-line": true
 }
