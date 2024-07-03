@@ -44,7 +44,7 @@ Database：访问底层数据库的入口，管理着真正的数据库文件。
 
 ![](https://img-blog.csdnimg.cn/c98ad91d8f2b45dea5db4608dcd765bf.png)
 
-## Dao
+## Database
 
 ```kotlin
 // 该注解代表数据库一张表，tableName为该表名字，不设置则默认类名
@@ -71,3 +71,4 @@ data class User(
 )
 
 ```
+
