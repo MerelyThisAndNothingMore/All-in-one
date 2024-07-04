@@ -35,5 +35,9 @@
   "obsidian-tasks-plugin",
   "smart-connections",
   "find-unlinked-files",
-  "obsidian-douban-plugin"
+  "obsidian-douban-plugin",
+  "obsidian-tracker",
+  "file-explorer-note-count",
+  "better-word-count",
+  "obsidian-activity-history"
 ]

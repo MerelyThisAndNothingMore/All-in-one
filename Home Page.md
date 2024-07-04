@@ -5,6 +5,12 @@ Achievement
 
 ```
 
+ /count
+
+
+
+
+
 
 《阶级斗争》考茨基
 
