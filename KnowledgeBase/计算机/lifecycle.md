@@ -3,6 +3,7 @@ tags:
 alias:
 ---
 # 定义
+
 Lifecycle，顾名思义，是用于帮助开发者管理[[Activity]]和[[Fragment]] 的生命周期，它是LiveData和ViewModel的基础。
 # 使用
 - 1、生命周期拥有者 使用getLifecycle()获取Lifecycle实例，然后代用addObserve()添加观察者；
