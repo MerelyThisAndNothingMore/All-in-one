@@ -7,8 +7,6 @@ Achievement
 
 
 
-
-
 ```dataviewjs
 await dv.view('/Resources/CustomView/Heatmap', {type: 'cday'})
 
