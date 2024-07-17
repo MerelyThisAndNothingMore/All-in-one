@@ -3,24 +3,9 @@ tags:
 alias:
 ---
 ![](https://gd-hbimg.huaban.com/be208186d15151d85cb07c72df8d13727a6e1b7d6650-oIyfCw)
-## 三个角色
-1、Activity:只有分发dispatchTouchEvent和消费onTouchEvent两个方法。 事件由ViewRootImpl中 DecorView dispatchTouchEvent分发Touch事件->Activity的dispatchTouchEvent()- DecorView。 superDispatchTouchEvent-> ViewGroup的dispatchTouchEvent()。 如果返回false直接掉用onTouchEvent，true 表示被消费
 
-2、ViewGroup:拥有分发、拦截和消费三个方法。:对应一个根ViewGroup来说，点击事件产生后，首先会传 递给它，dispatchTouchEvent就会被调用，如果这个ViewGroup的onInterceptTouchEvent方法返回true就表示它 要拦截当前事件， 事件就会交给这个ViewGroup的onTouchEvent处理。如果这个ViewGroup的 onInterceptTouchEvent方法返回false就表示它不拦截当前事件，这时当前事件就会继续传递给它的子元素，接着子 元素的dispatchTouchEvent方法就会被调用。
 
-3、View:只有分发和消费两个方法。方法返回值为true表示当前视图可以处理对应的事件;返回值为false表示 当前视图不处理这个事件，会被传递给父视图的
-## 三个核心事件
-1、dispatchTouchEvent():
-方法返回值为true表示事件被当前视图消费掉; 
-返回为false表示 停止往子View传 递和分发,交给父类的onTouchEvent处理
 
-2、onInterceptTouchEvent() : 
-return false 表示不拦截，需要继续传递给子视图。
-return true 拦截这个事件 并交由自身的onTouchEvent方法进行消费.
-
-3、 onTouchEvent() : 
-return false 是不消费事件，会被传递给父视图的onTouchEvent方法进行处理。
-return true 是消费事件。
 # view的onTouchEvent，OnClickListerner和OnTouchListener的 onTouch方法 三者优先级
 **dispatchTouchEvent->onTouch->onInterceptTouchEvent->onTouchEvent**
 
