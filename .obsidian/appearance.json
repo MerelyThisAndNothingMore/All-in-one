@@ -4,6 +4,6 @@
   "translucency": true,
   "cssTheme": "Blue Topaz",
   "accentColor": "",
-  "textFontFamily": "Songti SC",
-  "interfaceFontFamily": "Songti SC"
+  "textFontFamily": "FangSong_GB2312,Songti SC",
+  "interfaceFontFamily": "FangSong_GB2312,Songti SC"
 }
