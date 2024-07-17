@@ -7,7 +7,7 @@ tags:
 
 # Programming 
 # [[Computer System]] 
-# [[Data Structure]] 
+# [[数据结构]] 
 # [[算法]] 
 # [[Design pattern]] 
 # Database 
