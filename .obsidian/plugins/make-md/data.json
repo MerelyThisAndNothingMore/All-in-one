@@ -41,7 +41,10 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/"
+    "//Resources/Resources/CustomVIew/Resources/CustomVIew/Heatmap",
+    "/",
+    "//KnowledgeBase",
+    "//KnowledgeBase/KnowledgeBase/计算机"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
