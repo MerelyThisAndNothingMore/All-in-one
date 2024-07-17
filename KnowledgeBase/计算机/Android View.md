@@ -1,6 +1,7 @@
 ---
 tags: 
-alias:
+aliases:
+  - View
 ---
 # 介绍
 

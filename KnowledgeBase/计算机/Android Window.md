@@ -5,7 +5,7 @@ alias:
 
 # 定义
 
-所有视图（[[View]]）和视图组（[[ViewGroup]]）的容器，提供了一个可以绘制应用界面的区域。在Android UI系统中，`Window`不仅仅是指应用程序的整个屏幕，它可以是应用内的任何可视化内容区域，包括活动窗口（[[Activity|Activity]] Window）、对话框窗口（[[Android Dialog|Dialog]] Window）和菜单窗口（Menu Window）等。
+所有视图（[[Android View]]）和视图组（[[ViewGroup]]）的容器，提供了一个可以绘制应用界面的区域。在Android UI系统中，`Window`不仅仅是指应用程序的整个屏幕，它可以是应用内的任何可视化内容区域，包括活动窗口（[[Activity|Activity]] Window）、对话框窗口（[[Android Dialog|Dialog]] Window）和菜单窗口（Menu Window）等。
 
 在Android中，Window也表现为一个抽象类，定义了窗口的基本行为，而[[PhoneWindow]]则是这个抽象的一个具体实现。
 

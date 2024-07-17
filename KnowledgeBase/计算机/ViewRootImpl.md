@@ -6,7 +6,7 @@ https://mp.weixin.qq.com/s/b6-leHKQZkuxkjll-1109A
 
 它是GUI管理系统与GUI呈现系统之间的桥梁。**每一个ViewRootImpl关联一个Window， ViewRootImpl 最终会通过它的setView方法绑定Window所对应的View，并通过其performTraversals方法对View进行布局、测量和绘制**。
 
-[[ViewRootImpl|ViewRootImpl]] 是所有[[View]]的Parent，用来总体管理 View 的绘制以及与系统 [[WMS]] 窗口管理服务的 IPC 交互从而实现窗口的开辟；
+[[ViewRootImpl|ViewRootImpl]] 是所有[[Android View]]的Parent，用来总体管理 View 的绘制以及与系统 [[WMS]] 窗口管理服务的 IPC 交互从而实现窗口的开辟；
 
 ViewRootImpl 是应用进程运转的发动机，可以看到 ViewRootImpl 内部包含 mView（就是 [[DecorView]]）、mSurface、Choregrapher，
 

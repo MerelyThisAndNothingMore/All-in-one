@@ -4,7 +4,7 @@ alias:
 ---
 # 定义
 
-MeasureSpec 是 [[View]] 的内部类，其封装了一个 View 的规格尺寸，包括 View 的宽和高的信 息，它的作用是在 [[Measure]] 流程中，系统会将 View 的 LayoutParams 根据父容器所施加的规则 转换成对应的 MeasureSpec，然后在 onMeasure 方法中根据这个 MeasureSpec 来确定 View 的宽和高。
+MeasureSpec 是 [[Android View]] 的内部类，其封装了一个 View 的规格尺寸，包括 View 的宽和高的信 息，它的作用是在 [[Measure]] 流程中，系统会将 View 的 LayoutParams 根据父容器所施加的规则 转换成对应的 MeasureSpec，然后在 onMeasure 方法中根据这个 MeasureSpec 来确定 View 的宽和高。
 
 在 View 的测量流程中，通过 makeMeasureSpec 来保存宽和高的信息。通过 getMode 或 getSize 得到模式和宽、高。
 

@@ -15,7 +15,7 @@ alias:
 
 首先判断OnTouchListener是否消费事件，不消费则调用onTouchEvent(event)方法。
 
-在onTouchEvent中会判断CLICKABLE和LONG_CLICKABLE是否为true，CLICKABLE 和 LONG_CLICKABLE 代表[[View]]可以被点击和长按点击，可以通过 View 的 setClickable 和 setLongClickable 方法来设置，也可以 通过 View 的 setOnClickListenter 和 setOnLongClickListener 来设置
+在onTouchEvent中会判断CLICKABLE和LONG_CLICKABLE是否为true，CLICKABLE 和 LONG_CLICKABLE 代表[[Android View]]可以被点击和长按点击，可以通过 View 的 setClickable 和 setLongClickable 方法来设置，也可以 通过 View 的 setOnClickListenter 和 setOnLongClickListener 来设置
 
 # 传递规则
 

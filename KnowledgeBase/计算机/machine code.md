@@ -4,4 +4,4 @@ alias:
 tags:
 - computerArchitecture 
 ---
-Computers execute machine code, sequences of [[Byte|bytes]] encoding the low-level operations that manipulate data, manage memory, read and write data on storage devices, and communicate over networks.
+Computers execute machine code, sequences of [[字节|bytes]] encoding the low-level operations that manipulate data, manage memory, read and write data on storage devices, and communicate over networks.

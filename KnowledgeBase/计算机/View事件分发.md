@@ -16,7 +16,7 @@ alias:
 
 - **[[Activity]]**：`Activity` 的 `dispatchTouchEvent` 将事件分发给根视图（即 [[DecorView]]）。
 - **ViewGroup**：`ViewGroup` 的 `dispatchTouchEvent` 会先调用 `onInterceptTouchEvent` 判断是否拦截事件，然后决定是交给子视图处理还是自己处理。
-- **[[View]]**：`View` 的 `dispatchTouchEvent` 直接调用 `onTouchEvent` 处理事件。
+- **[[Android View]]**：`View` 的 `dispatchTouchEvent` 直接调用 `onTouchEvent` 处理事件。
 
 ## 2. `onInterceptTouchEvent(MotionEvent event)`
 

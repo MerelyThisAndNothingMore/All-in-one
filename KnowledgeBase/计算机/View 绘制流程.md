@@ -12,7 +12,7 @@ https://blog.csdn.net/qq_20798591/article/details/122120434
 https://blog.csdn.net/aaajj/article/details/126453103
 # 主流程介绍
 
-[[ViewRootImpl]].performTraversals()方法是[[View]]绘制的起点，会依次调用performMeasure、performLayout、performDraw方法，在其方法的内部又会分别调用 View 的 [[Measure]]、[[Layout]] 和 [[Draw]] 方法。
+[[ViewRootImpl]].performTraversals()方法是[[Android View]]绘制的起点，会依次调用performMeasure、performLayout、performDraw方法，在其方法的内部又会分别调用 View 的 [[Measure]]、[[Layout]] 和 [[Draw]] 方法。
 
 
 -   performLayout : performLayout的原理其实是和performMeasure差不多,在performLayout里面调用了layout方法,然后在layout方法会调用onLayout方法,onLayout又会对所有子元素进行layout过程.由父元素向子元素传递,最终完成所有View的layout过程.确定View的4个点: left+top+right+bottom,layout完成之后可以通过getWidth和getHeight获取View的最终宽高.

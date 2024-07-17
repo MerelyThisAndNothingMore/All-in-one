@@ -29,7 +29,7 @@ alias:
 
 调用LinkedHashMap的get()方法，注意如果该元素存在，这个方法会将该元素移动到表尾.
 
-# [[View]]生成bitmap
+# [[Android View]]生成bitmap
 
 view.draw(canvas)
 
