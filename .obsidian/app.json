@@ -11,5 +11,6 @@
   "attachmentFolderPath": "Resources/Images",
   "newFileLocation": "current",
   "livePreview": true,
-  "readableLineLength": true
+  "readableLineLength": true,
+  "propertiesInDocument": "hidden"
 }

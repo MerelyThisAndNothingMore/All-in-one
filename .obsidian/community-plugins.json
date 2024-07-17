@@ -8,7 +8,6 @@
   "obsidian-admonition",
   "obsidian-checklist-plugin",
   "dataview",
-  "multi-column-markdown",
   "obsidian-git",
   "obsidian-advanced-slides",
   "templater-obsidian",
@@ -41,5 +40,6 @@
   "obsidian-activity-history",
   "size-history",
   "editing-toolbar",
-  "make-md"
+  "make-md",
+  "obsidian-projects"
 ]
