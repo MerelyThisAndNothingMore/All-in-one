@@ -45,11 +45,11 @@ Jetpack Compose 是一种用于构建 [[Android]] 应用界面的现代工具包
    - **Jetpack Compose**：直接构建在 Android 原生框架之上，性能较高。
    - **React Native**：通过桥接机制与原生代码交互，性能可能略逊于原生解决方案。
 
-## 原理
+# 原理
 
-Jetpack Compose 通过一系列声明式函数来定义 UI 组件，这些函数通常被称为 Composable 函数。每个 Composable 函数可以接收输入参数，并返回描述界面的组件树。框架会根据这些组件树自动管理和更新界面。
+Jetpack Compose 通过一系列声明式[[函数]]来定义 UI 组件，这些函数通常被称为 Composable 函数。每个 Composable 函数可以接收输入参数，并返回描述界面的组件树。框架会根据这些组件树自动管理和更新界面。
 
-### 示例：基础 Composable 函数
+# 示例：基础 Composable 函数
 
 ```kotlin
 @Composable
@@ -66,7 +66,7 @@ fun PreviewGreeting() {
 
 在上面的示例中，`Greeting` 函数是一个 Composable 函数，使用 `@Composable` 注解定义。`PreviewGreeting` 函数用于在开发工具中实时预览 `Greeting` 组件的效果。
 
-### 示例：布局和状态管理
+# 示例：布局和状态管理
 
 ```kotlin
 @Composable
@@ -83,7 +83,7 @@ fun Counter() {
 
 在这个示例中，`Counter` 函数定义了一个计数器组件，包含一个文本显示计数值和一个按钮来增加计数。`remember` 和 `mutableStateOf` 用于管理组件的内部状态，确保状态变化时 UI 自动更新。
 
-## 使用
+# 使用
 
 1. **UI 组件**：构建应用的基本界面元素，如按钮、文本框、图像等。
 2. **布局管理**：通过 `Column`、`Row`、`Box` 等布局组件管理 UI 元素的排列和布局。
@@ -91,7 +91,7 @@ fun Counter() {
 4. **动画**：通过 Compose 的动画 API 实现复杂的界面动画效果。
 5. **主题和样式**：使用 Compose 的主题系统定义应用的一致样式和配色方案。
 
-## Q & A
+# Q & A
 
 **Q1: Jetpack Compose 与传统 Android UI 开发相比有什么优势？**
 
