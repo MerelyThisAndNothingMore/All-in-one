@@ -7,16 +7,6 @@ Achievement
 
 
 
-``` tracker
-searchType: fileMeta
-searchTarget: cDate, numWords
-xDataset: 0
-folder: /
-summary:
-    template: "Total word count: {{sum(dataset(1))}}"
-```
-
-
 ```dataviewjs
 await dv.view('/Resources/CustomView/Heatmap', {type: 'cday'})
 
