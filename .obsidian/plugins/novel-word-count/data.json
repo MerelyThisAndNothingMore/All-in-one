@@ -2,14 +2,13 @@
   "settings": {
     "useAdvancedFormatting": true,
     "countType": "word",
-    "countTypeSuffix": "w",
+    "countTypeSuffix": "",
     "countType2": "note",
-    "countType2Suffix": "n",
+    "countType2Suffix": "",
     "countType3": "none",
-    "countType3Suffix": "",
     "pipeSeparator": "|",
     "abbreviateDescriptions": false,
-    "alignment": "inline",
+    "alignment": "right",
     "showSameCountsOnFolders": true,
     "folderCountType": "word",
     "folderCountTypeSuffix": "w",
@@ -305,26 +304,6 @@
       "createdDate": 1703772188795,
       "modifiedDate": 1703772188796,
       "sizeInBytes": 20591
-    },
-    "Resources/pdf/pdf.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 14,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.04666666666666667,
-      "characterCount": 36,
-      "nonWhitespaceCharacterCount": 21,
-      "readingTimeInMinutes": 0.028,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "PDF"
-      ],
-      "createdDate": 1687168603854,
-      "modifiedDate": 1721131187361,
-      "sizeInBytes": 95
     },
     "Resources/Images/image01197.jpeg": {
       "isCountable": false,
@@ -1538,19 +1517,21 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 1583,
+      "wordCount": 1577,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 5.276666666666666,
-      "characterCount": 3185,
-      "nonWhitespaceCharacterCount": 2725,
-      "readingTimeInMinutes": 3.414301886792453,
-      "linkCount": 0,
+      "pageCount": 5.256666666666667,
+      "characterCount": 3169,
+      "nonWhitespaceCharacterCount": 2713,
+      "readingTimeInMinutes": 3.398754716981132,
+      "linkCount": 3,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [
+        "Neural Networks"
+      ],
       "createdDate": 1721812592414,
-      "modifiedDate": 1721812599524,
-      "sizeInBytes": 6428
+      "modifiedDate": 1721813582868,
+      "sizeInBytes": 6422
     },
     "KnowledgeBase/计算机/剪枝.md": {
       "isCountable": true,
@@ -14419,6 +14400,26 @@
       "createdDate": 1705463766689,
       "modifiedDate": 1705463802486,
       "sizeInBytes": 24
+    },
+    "KnowledgeBase/计算机/反向传播.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 1577,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 5.256666666666667,
+      "characterCount": 3534,
+      "nonWhitespaceCharacterCount": 2991,
+      "readingTimeInMinutes": 3.501622641509434,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": [
+        "Backpropagation"
+      ],
+      "createdDate": 1721813836530,
+      "modifiedDate": 1721815058946,
+      "sizeInBytes": 6603
     }
   }
 }
