@@ -1,13 +1,12 @@
 ---
 tags: 
-alias:
+aliases:
+  - Kotlin Symbol Processing
 ---
-
-# KSP（Kotlin Symbol Processing）
 
 ## 定义
 
-KSP（Kotlin Symbol Processing）是 JetBrains 提供的一种新的工具，用于在 Kotlin 中进行编译时代码生成。KSP 类似于 Java 的注解处理器（Annotation Processing），但它是为 Kotlin 量身定制的，旨在为 Kotlin 提供更高效和更灵活的编译时处理支持。
+KSP（Kotlin Symbol Processing）是 JetBrains 提供的一种新的工具，用于在 [[Kotlin]] 中进行编译时代码生成。KSP 类似于 [[Java]] 的注解处理器（Annotation Processing），但它是为 Kotlin 量身定制的，旨在为 Kotlin 提供更高效和更灵活的编译时处理支持。
 
 ## 特点
 
