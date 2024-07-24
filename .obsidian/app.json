@@ -4,7 +4,7 @@
   "foldHeading": true,
   "foldIndent": true,
   "defaultViewMode": "source",
-  "showLineNumber": true,
+  "showLineNumber": false,
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "spellcheckLanguages": null,

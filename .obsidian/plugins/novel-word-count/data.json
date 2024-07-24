@@ -1517,21 +1517,21 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 1577,
+      "wordCount": 1573,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 5.256666666666667,
-      "characterCount": 3169,
-      "nonWhitespaceCharacterCount": 2713,
-      "readingTimeInMinutes": 3.398754716981132,
+      "pageCount": 5.243333333333333,
+      "characterCount": 3165,
+      "nonWhitespaceCharacterCount": 2709,
+      "readingTimeInMinutes": 3.390754716981132,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": [
         "Neural Networks"
       ],
       "createdDate": 1721812592414,
-      "modifiedDate": 1721813582868,
-      "sizeInBytes": 6422
+      "modifiedDate": 1721820589262,
+      "sizeInBytes": 6410
     },
     "KnowledgeBase/计算机/剪枝.md": {
       "isCountable": true,
@@ -14420,6 +14420,86 @@
       "createdDate": 1721813836530,
       "modifiedDate": 1721815058946,
       "sizeInBytes": 6603
+    },
+    "KnowledgeBase/计算机/激活函数.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 1070,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.566666666666667,
+      "characterCount": 2463,
+      "nonWhitespaceCharacterCount": 2111,
+      "readingTimeInMinutes": 2.4184528301886794,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": [
+        "Activation Function"
+      ],
+      "createdDate": 1721819238459,
+      "modifiedDate": 1721819714836,
+      "sizeInBytes": 4522
+    },
+    "KnowledgeBase/计算机/梯度下降.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 1519,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 5.0633333333333335,
+      "characterCount": 3149,
+      "nonWhitespaceCharacterCount": 2793,
+      "readingTimeInMinutes": 3.312905660377359,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": [
+        "Gradient Descent"
+      ],
+      "createdDate": 1721819736535,
+      "modifiedDate": 1721819933507,
+      "sizeInBytes": 6211
+    },
+    "KnowledgeBase/计算机/机器学习.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 1516,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 5.053333333333334,
+      "characterCount": 2869,
+      "nonWhitespaceCharacterCount": 2573,
+      "readingTimeInMinutes": 3.2217735849056606,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": [
+        "Machine Learning"
+      ],
+      "createdDate": 1721820014798,
+      "modifiedDate": 1721820081381,
+      "sizeInBytes": 6043
+    },
+    "KnowledgeBase/计算机/深度学习.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 618,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.06,
+      "characterCount": 857,
+      "nonWhitespaceCharacterCount": 795,
+      "readingTimeInMinutes": 1.2732452830188679,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": [
+        "Deep Learning"
+      ],
+      "createdDate": 1721820140310,
+      "modifiedDate": 1721820330031,
+      "sizeInBytes": 2224
     }
   }
 }
