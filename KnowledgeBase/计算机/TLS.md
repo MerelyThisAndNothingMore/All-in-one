@@ -1,11 +1,10 @@
 ---
 tags: 
-alias:
+aliases:
+  - 传输层安全协议
 ---
 
-# TLS（传输层安全协议）
-
-## 定义
+# 定义
 
 传输层安全协议（Transport Layer Security，简称 TLS）是用于在计算机网络上提供安全通信的加密协议。TLS 通过加密、认证和完整性保护机制，确保在两个通信端之间传输的数据的机密性和完整性。TLS 是 SSL（Secure Sockets Layer）的后继者，SSL 已逐渐被弃用，TLS 成为了更现代和安全的标准。
 
