@@ -8009,15 +8009,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 3.8133333333333335,
-      "characterCount": 4850,
-      "nonWhitespaceCharacterCount": 3698,
+      "characterCount": 4859,
+      "nonWhitespaceCharacterCount": 3707,
       "readingTimeInMinutes": 2.758,
-      "linkCount": 3,
+      "linkCount": 6,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1707121043353,
-      "modifiedDate": 1721887355023,
-      "sizeInBytes": 6847
+      "modifiedDate": 1721889406566,
+      "sizeInBytes": 6856
     },
     "KnowledgeBase/计算机/N皇后问题.md": {
       "isCountable": true,

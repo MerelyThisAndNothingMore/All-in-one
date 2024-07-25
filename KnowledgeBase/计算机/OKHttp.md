@@ -11,12 +11,12 @@ OKHttp 是一个用于 [[Android]] 和 [[Java]] 应用程序的高效 [[HTTP]] &
 
 1. **异步和同步请求**：支持同步和异步的 HTTP 请求方式，满足不同场景的需求。
 2. **连接池**：通过连接池复用 HTTP 连接，提高请求效率和性能。
-3. **支持 HTTP/2**：提供对 HTTP/2 的支持，允许多路复用和减少延迟。
+3. **支持 HTTP/2**：提供对 HTTP/2 的支持，允许[[多路复用]]和减少延迟。
 4. **缓存**：内置缓存机制，提高响应速度并减少网络请求。
 5. **拦截器**：支持请求和响应的拦截器，便于对请求和响应进行统一处理和修改。
 6. **自动重试**：在网络请求失败时，支持自动重试机制，提高请求的可靠性。
 
-## 工作原理
+# 工作原理
 
 OKHttp 的工作原理主要涉及以下几个组件：
 
@@ -144,7 +144,7 @@ public class OkHttpExample {
 }
 ```
 
-## 使用场景
+# 使用场景
 
 OKHttp 广泛应用于需要进行 HTTP 请求的各种场景，主要包括但不限于：
 
@@ -154,7 +154,7 @@ OKHttp 广泛应用于需要进行 HTTP 请求的各种场景，主要包括但�
 4. **API 调用**：调用各种 RESTful API，获取和提交数据。
 5. **WebSocket**：支持 WebSocket 协议，实现实时通信。
 
-## Q & A
+# Q & A
 
 **Q1: OKHttp 与 HttpURLConnection 有什么区别？**
 
@@ -166,7 +166,7 @@ A2: OKHttp 内置了自动重试机制，对于某些常见的网络错误（如
 
 **Q3: OKHttp 如何处理 HTTPS 请求？**
 
-A3: OKHttp 默认支持 HTTPS 请求，并会自动处理 SSL/TLS 握手。如果需要自定义 SSL 配置，可以通过 OkHttpClient.Builder 的 `sslSocketFactory` 方法设置自定义的 SSL 套接字工厂和信任管理器。
+A3: OKHttp 默认支持 [[HTTPS]] 请求，并会自动处理 SSL/[[TLS]] 握手。如果需要自定义 SSL 配置，可以通过 OkHttpClient.Builder 的 `sslSocketFactory` 方法设置自定义的 SSL 套接字工厂和信任管理器。
 
 **Q4: OKHttp 是否支持 HTTP/2？**
 
