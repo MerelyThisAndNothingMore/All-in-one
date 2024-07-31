@@ -50,7 +50,7 @@ Launcher 是一个特殊的 Android 应用，通常在系统启动时由系统�
    - Launcher 使用布局文件定义其界面，通常包含多个 `ViewGroup` 组件，如 `FrameLayout`、`RelativeLayout` 等，用于组织和管理应用图标和小部件。
 
 4. **Intent 处理**：
-   - Launcher 处理用户的点击事件，通过 Intent 启动相应的应用程序。Launcher 还处理其他系统 Intent，如更新应用图标、显示通知等。
+   - Launcher 处理用户的点击事件，通过 Intent 启动相应的应用程序。Launcher 还处理其他系统 [[Intent]]，如更新应用图标、显示通知等。
 
 # 使用
 
