@@ -1915,21 +1915,21 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 1025,
+      "wordCount": 1027,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 3.4166666666666665,
-      "characterCount": 2203,
-      "nonWhitespaceCharacterCount": 1900,
-      "readingTimeInMinutes": 2.209622641509434,
+      "pageCount": 3.4233333333333333,
+      "characterCount": 2185,
+      "nonWhitespaceCharacterCount": 1884,
+      "readingTimeInMinutes": 2.208301886792453,
       "linkCount": 15,
       "embedCount": 0,
       "aliases": [
         "Design Patterns"
       ],
       "createdDate": 1721121555289,
-      "modifiedDate": 1721733531108,
-      "sizeInBytes": 4394
+      "modifiedDate": 1722513794009,
+      "sizeInBytes": 4386
     },
     "KnowledgeBase/计算机/计算机网络体系.md": {
       "isCountable": true,
@@ -11035,26 +11035,6 @@
       "modifiedDate": 1707121043325,
       "sizeInBytes": 1532
     },
-    "KnowledgeBase/计算机/Chain of responsibility.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 228,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.76,
-      "characterCount": 386,
-      "nonWhitespaceCharacterCount": 357,
-      "readingTimeInMinutes": 0.4790566037735849,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": [
-        "责任链模式"
-      ],
-      "createdDate": 1707121043325,
-      "modifiedDate": 1707121043325,
-      "sizeInBytes": 905
-    },
     "KnowledgeBase/计算机/CPU.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -14574,8 +14554,8 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 4.49,
-      "characterCount": 2134,
-      "nonWhitespaceCharacterCount": 1866,
+      "characterCount": 2133,
+      "nonWhitespaceCharacterCount": 1865,
       "readingTimeInMinutes": 2.8429811320754714,
       "linkCount": 1,
       "embedCount": 0,
@@ -14583,8 +14563,28 @@
         "Interest Rate"
       ],
       "createdDate": 1722408367145,
-      "modifiedDate": 1722408423415,
-      "sizeInBytes": 4973
+      "modifiedDate": 1722513497375,
+      "sizeInBytes": 4972
+    },
+    "KnowledgeBase/计算机/责任链模式.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 1405,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 4.683333333333334,
+      "characterCount": 4433,
+      "nonWhitespaceCharacterCount": 3614,
+      "readingTimeInMinutes": 3.210830188679245,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": [
+        "Chain of Responsibility Pattern"
+      ],
+      "createdDate": 1707121043325,
+      "modifiedDate": 1722513810983,
+      "sizeInBytes": 7084
     }
   }
 }
