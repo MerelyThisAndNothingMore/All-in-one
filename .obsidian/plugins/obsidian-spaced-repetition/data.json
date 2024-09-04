@@ -1,8 +1,8 @@
 {
   "settings": {
-    "flashcardEasyText": "简单",
-    "flashcardGoodText": "记得",
-    "flashcardHardText": "较难",
+    "flashcardEasyText": "Easy",
+    "flashcardGoodText": "Good",
+    "flashcardHardText": "Hard",
     "flashcardTags": [
       "#flashcards"
     ],
@@ -28,8 +28,8 @@
       "#review"
     ],
     "noteFoldersToIgnore": [],
-    "openRandomNote": false,
-    "autoNextNote": false,
+    "openRandomNote": true,
+    "autoNextNote": true,
     "disableFileMenuReviewOptions": false,
     "maxNDaysNotesReviewQueue": 365,
     "initiallyExpandAllSubdecksInTree": false,
@@ -40,7 +40,7 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
-  "buryDate": "2024-05-05",
+  "buryDate": "2024-03-28",
   "buryList": [],
   "historyDeck": null
 }
