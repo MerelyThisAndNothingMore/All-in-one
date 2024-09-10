@@ -16,6 +16,7 @@ SORT FILE.ctime
 LIST
 FROM ""
 WHERE contains(tags, "book")
+AND contains(file.name, "深入")
 ```
 ## 列表
 
