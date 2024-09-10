@@ -1,9 +1,5 @@
 ---
 tags:
-- obsidianPlugin
-alias:
+  - obsidian插件
+aliases:
 ---
-# Introduction
-
-# Reference
-https://blacksmithgu.github.io/obsidian-dataview/api/code-reference/#dvpagessource
