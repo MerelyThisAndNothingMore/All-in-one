@@ -3,11 +3,19 @@ tags:
 alias:
 ---
 
-## From 示例
+### LIST
 
 ```dataview
-
+LIST 
+FROM "book"
+WHERE contains(file.name, "深入")
+SORT FILE.ctime
 ```
 
+```dataview
+LIST
+FROM ""
+WHERE contains(tags, "book")
+```
 ## 列表
 
