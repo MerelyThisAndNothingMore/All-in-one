@@ -3665,7 +3665,7 @@ var Logger = class {
 var log = new Logger();
 
 // src/org/wanxp/utils/HttpUtil.ts
-var import_obsidian3 = __toModule(require("obsidian"));
+var import_obsidian4 = __toModule(require("obsidian"));
 
 // src/org/wanxp/utils/model/HttpResponse.ts
 var HttpResponse = class {
@@ -3853,125 +3853,10 @@ ${JSON.stringify(response.headers)}`);
 };
 
 // src/org/wanxp/utils/mobile/MobileHttpUtil.ts
-var import_obsidian2 = __toModule(require("obsidian"));
-var MobileHttpUtil = class {
-  static httpRequestGet(url, headers, settingsManager) {
-    return this.httpRequestGetInner(url, headers, 0, settingsManager);
-  }
-  static httpRequestGetInner(url, headers, times, settingsManager) {
-    return __async(this, null, function* () {
-      let requestUrlParam = {
-        url,
-        method: "GET",
-        headers: __spreadValues({}, headers),
-        throw: true
-      };
-      return yield (0, import_obsidian2.requestUrl)(requestUrlParam).then((response) => {
-        if (response && response.text.indexOf("https://sec.douban.com/a") > 0) {
-          log.notice(i18nHelper.getMessage("130105"));
-          if (settingsManager) {
-            settingsManager.debug(`Obsidian-Douban:\u83B7\u53D6\u5F02\u5E38\u7F51\u9875\u5982\u4E0B:
-${response}`);
-          }
-        }
-        if (response.status == 301 || response.status == 302 || response.status == 303 || response.status == 307) {
-          if (times > 2) {
-            throw new Error("\u91CD\u5B9A\u5411\u6B21\u6570\u8FC7\u591A");
-          }
-          let location = response.headers["location"];
-          settingsManager.debug(`Obsidian-Douban:\u83B7\u53D6\u91CD\u5B9A\u5411\u5730\u5740\u5982\u4E0B:
-${location}`);
-          if (location.indexOf("http") != 0) {
-            return this.httpRequestGetInner(location, headers, times + 1, settingsManager);
-          } else {
-            throw new Error("\u91CD\u5B9A\u5730\u5740\u9519\u8BEF");
-          }
-        }
-        settingsManager.debug(`Obsidian-Douban:\u83B7\u53D6\u7F51\u9875\u5982\u4E0B:
-${response}`);
-        return response;
-      }).then((s) => DoubanHttpUtil.humanCheck(s, url, settingsManager)).catch((e) => {
-        if (e.toString().indexOf("403") > 0) {
-          throw log.error(i18nHelper.getMessage("130105"), e);
-        } else {
-          throw log.error(i18nHelper.getMessage("130101").replace("{0}", e.toString()), e);
-        }
-      });
-    });
-  }
-};
-
-// src/org/wanxp/utils/HttpUtil.ts
-var HttpUtil = class {
-  static httpRequest(url, headers, settingsManager, options) {
-    return __async(this, null, function* () {
-      const _a2 = headers, { ["Accept-Encoding"]: acceptEncoding } = _a2, headersInner = __objRest(_a2, ["Accept-Encoding"]);
-      settingsManager.debug(`Obsidian-Douban:\u4ECE\u7F51\u7EDC\u83B7\u53D6json\u5F00\u59CB:
-url:${url}
-headers:${JSON.stringify(headers)}`);
-      if (import_obsidian3.Platform.isDesktopApp) {
-        return DesktopHttpUtil.request(url, headers, settingsManager, options);
-      } else {
-        const response = yield MobileHttpUtil.httpRequestGet(url, headers, settingsManager);
-        return new HttpResponse(response.status, response.headers, response.text);
-      }
-    });
-  }
-  static getText(url, headers, settingsManager) {
-    return __async(this, null, function* () {
-      const _a2 = headers, { ["Accept-Encoding"]: acceptEncoding } = _a2, headersInner = __objRest(_a2, ["Accept-Encoding"]);
-      settingsManager.debug(`Obsidian-Douban:\u4ECE\u7F51\u7EDC\u83B7\u53D6json\u5F00\u59CB:
-url:${url}
-headers:${JSON.stringify(headers)}`);
-      if (import_obsidian3.Platform.isDesktopApp) {
-        return DesktopHttpUtil.request(url, headers, settingsManager, { method: "GET" });
-      } else {
-        const response = yield MobileHttpUtil.httpRequestGet(url, headers, settingsManager);
-        return new HttpResponse(response.status, response.headers, response.text);
-      }
-    });
-  }
-  static httpRequestBuffer(url, headers, settingsManager) {
-    if (import_obsidian3.Platform.isDesktopApp) {
-      return DesktopHttpUtil.requestBuffer(url, headers, settingsManager);
-    } else {
-      return MobileHttpUtil.httpRequestGet(url, headers, settingsManager).then((response) => {
-        return new HttpResponse(response.status, response.headers, response.arrayBuffer);
-      });
-    }
-  }
-  static parse(url) {
-    const regex = /^(.*?):\/\/([^\/:]+)(?::(\d+))?([^?]*)$/;
-    const matches = url.match(regex);
-    if (matches) {
-      const protocol = matches[1];
-      const host = matches[2];
-      const port = matches[3] || "";
-      const path = matches[4];
-      return { protocol, host, port, path };
-    }
-    throw new Error("Invalid URL");
-  }
-  static replaceUrlPath(url, newPath) {
-    const regex = /^(https?:\/\/[^\/]+)(:\d+)?(\/.*)$/;
-    const matches = url.match(regex);
-    if (matches && matches.length === 4) {
-      return matches[1] + (matches[2] || "") + newPath;
-    }
-    return url;
-  }
-  static extractURLFromString(str) {
-    const urlRegex = /(?:!\[.*?\]\()?(https?:\/\/[^\s)]+)/g;
-    const matches = str.match(urlRegex);
-    if (matches && matches.length > 0) {
-      return matches[0];
-    }
-    return str;
-  }
-};
+var import_obsidian3 = __toModule(require("obsidian"));
 
 // src/org/wanxp/douban/component/DoubanHumanCheckModel.ts
-var import_obsidian4 = __toModule(require("obsidian"));
+var import_obsidian2 = __toModule(require("obsidian"));
 var DoubanHumanCheckModel = class {
   constructor(url) {
     this.url = url;
@@ -4033,7 +3918,7 @@ var DoubanHumanCheckModel = class {
   }
   onClose() {
     this.modal.close();
-    new import_obsidian4.Notice(i18nHelper.getMessage("100103"));
+    new import_obsidian2.Notice(i18nHelper.getMessage("100103"));
   }
   onReload() {
     this.modal.reload();
@@ -4079,6 +3964,129 @@ headers:${JSON.stringify(headers)}`);
   }
 };
 
+// src/org/wanxp/utils/mobile/MobileHttpUtil.ts
+var MobileHttpUtil = class {
+  static httpRequestGet(url, headers, settingsManager) {
+    return this.httpRequestGetInner(url, headers, 0, settingsManager);
+  }
+  static httpRequestGetInner(url, headers, times, settingsManager) {
+    return __async(this, null, function* () {
+      let requestUrlParam = {
+        url,
+        method: "GET",
+        headers: __spreadValues({}, headers),
+        throw: true
+      };
+      return yield (0, import_obsidian3.requestUrl)(requestUrlParam).then((response) => {
+        if (response && response.text.indexOf("https://sec.douban.com/a") > 0) {
+          log.notice(i18nHelper.getMessage("130105"));
+          if (settingsManager) {
+            settingsManager.debug(`Obsidian-Douban:\u83B7\u53D6\u5F02\u5E38\u7F51\u9875\u5982\u4E0B:
+${response}`);
+          }
+        }
+        if (response.status == 301 || response.status == 302 || response.status == 303 || response.status == 307) {
+          if (times > 2) {
+            throw new Error("\u91CD\u5B9A\u5411\u6B21\u6570\u8FC7\u591A");
+          }
+          let location = response.headers["location"];
+          settingsManager.debug(`Obsidian-Douban:\u83B7\u53D6\u91CD\u5B9A\u5411\u5730\u5740\u5982\u4E0B:
+${location}`);
+          if (location.indexOf("http") != 0) {
+            return this.httpRequestGetInner(location, headers, times + 1, settingsManager);
+          } else {
+            throw new Error("\u91CD\u5B9A\u5730\u5740\u9519\u8BEF");
+          }
+        }
+        settingsManager.debug(`Obsidian-Douban:\u83B7\u53D6\u7F51\u9875\u5982\u4E0B:
+${response}`);
+        return response;
+      }).then((s) => DoubanHttpUtil.humanCheck(s, url, settingsManager)).catch((e) => {
+        if (e.toString().indexOf("403") > 0) {
+          throw log.error(i18nHelper.getMessage("130105"), e);
+        } else {
+          throw log.error(i18nHelper.getMessage("130101").replace("{0}", e.toString()), e);
+        }
+      });
+    });
+  }
+};
+
+// src/org/wanxp/utils/HttpUtil.ts
+var HttpUtil = class {
+  static httpRequest(url, headers, settingsManager, options) {
+    return __async(this, null, function* () {
+      const _a2 = headers, { ["Accept-Encoding"]: acceptEncoding } = _a2, headersInner = __objRest(_a2, ["Accept-Encoding"]);
+      settingsManager.debug(`Obsidian-Douban:\u4ECE\u7F51\u7EDC\u83B7\u53D6json\u5F00\u59CB:
+url:${url}
+headers:${JSON.stringify(headers)}`);
+      if (import_obsidian4.Platform.isDesktopApp) {
+        return DesktopHttpUtil.request(url, headers, settingsManager, options);
+      } else {
+        const response = yield MobileHttpUtil.httpRequestGet(url, headers, settingsManager);
+        return new HttpResponse(response.status, response.headers, response.text);
+      }
+    });
+  }
+  static getText(url, headers, settingsManager) {
+    return __async(this, null, function* () {
+      const _a2 = headers, { ["Accept-Encoding"]: acceptEncoding } = _a2, headersInner = __objRest(_a2, ["Accept-Encoding"]);
+      settingsManager.debug(`Obsidian-Douban:\u4ECE\u7F51\u7EDC\u83B7\u53D6json\u5F00\u59CB:
+url:${url}
+headers:${JSON.stringify(headers)}`);
+      if (import_obsidian4.Platform.isDesktopApp) {
+        return DesktopHttpUtil.request(url, headers, settingsManager, { method: "GET" });
+      } else {
+        const response = yield MobileHttpUtil.httpRequestGet(url, headers, settingsManager);
+        return new HttpResponse(response.status, response.headers, response.text);
+      }
+    });
+  }
+  static httpRequestBuffer(url, headers, settingsManager) {
+    if (import_obsidian4.Platform.isDesktopApp) {
+      return DesktopHttpUtil.requestBuffer(url, headers, settingsManager);
+    } else {
+      return MobileHttpUtil.httpRequestGet(url, headers, settingsManager).then((response) => {
+        return new HttpResponse(response.status, response.headers, response.arrayBuffer);
+      });
+    }
+  }
+  static parse(url) {
+    const regex = /^(.*?):\/\/([^\/:]+)(?::(\d+))?([^?]*)$/;
+    const matches = url.match(regex);
+    if (matches) {
+      const protocol = matches[1];
+      const host = matches[2];
+      const port = matches[3] || "";
+      const path = matches[4];
+      return { protocol, host, port, path };
+    }
+    throw new Error("Invalid URL");
+  }
+  static replaceUrlPath(url, newPath) {
+    const regex = /^(https?:\/\/[^\/]+)(:\d+)?(\/.*)$/;
+    const matches = url.match(regex);
+    if (matches && matches.length === 4) {
+      return matches[1] + (matches[2] || "") + newPath;
+    }
+    return url;
+  }
+  static extractURLFromString(str) {
+    const urlRegex = /(?:!\[.*?\]\()?(https?:\/\/[^\s)]+)/g;
+    const matches = str.match(urlRegex);
+    if (matches && matches.length > 0) {
+      return matches[0];
+    }
+    return str;
+  }
+  static encodeUrl(keyword) {
+    if (!keyword) {
+      return "";
+    }
+    return encodeURIComponent(keyword);
+  }
+};
+
 // src/org/wanxp/douban/data/search/searcher/AbstractSearchPageFetcher.ts
 var AbstractSearchPageFetcher = class {
   constructor(settingsManager) {
@@ -4088,14 +4096,22 @@ var AbstractSearchPageFetcher = class {
     throw new Error("Method not implemented.");
   }
   fetch(keyword, pageNum, pageSize) {
-    const start2 = (pageNum - 1) * pageSize;
-    const url = this.getUrl(keyword, start2, pageSize);
+    const start2 = Math.floor((pageNum - 1) * pageSize);
+    const url = this.getSearchUrl(keyword, start2, pageSize);
     if (!url) {
       return Promise.resolve("");
     }
     return DoubanHttpUtil.httpRequestGet(url, this.settingsManager.getHeaders(), this.settingsManager).catch((e) => {
       throw log.error(i18nHelper.getMessage("130101").replace("{0}", e.toString()), e);
     });
+  }
+  getSearchUrl(keyword, start2, pageSize) {
+    keyword = keyword.trim();
+    if (keyword.length == 0) {
+      return "";
+    }
+    keyword = HttpUtil.encodeUrl(keyword);
+    return this.getUrl(keyword, start2, pageSize);
   }
 };
 
@@ -17636,12 +17652,12 @@ var SearchParserHandler = class {
       return result;
     });
   }
-  static parseSearchJson(result, type, start2) {
+  static parseSearchJson(result, type, pageNum) {
     log.debug("\u89E3\u6790\u7ED9\u591A\u9875\u9762\u7ED3\u679C");
     const data2 = JSON.parse(result);
     const list = data2.items;
     const resultList = list.map((e) => load(e)).map((e) => this.parseSearch(e)).map((e) => e ? e[0] : null);
-    return new SearchPage(data2.total, start2 / data2.limit, data2.limit, type, resultList);
+    return new SearchPage(data2.total, pageNum, data2.limit, type, resultList);
   }
 };
 
