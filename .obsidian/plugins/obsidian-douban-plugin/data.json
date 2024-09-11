@@ -1,4 +1,9 @@
 {
+  "pictureBedFlag": true,
+  "pictureBedSetting": {
+    "url": "http://127.0.0.1:36677/upload"
+  },
+  "pictureBedType": "PicGo",
   "arraySettings": [
     {
       "arrayName": "ArrayType1",
@@ -29,7 +34,7 @@
   "personNameMode": "CH",
   "dataFilePath": "",
   "dataFileNamePath": "/{{type}}/{{title}}",
-  "statusBar": true,
+  "statusBar": false,
   "debugMode": false,
   "customProperties": [
     {
