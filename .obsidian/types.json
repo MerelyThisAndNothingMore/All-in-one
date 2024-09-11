@@ -25,6 +25,8 @@
     "excalidraw-open-md": "checkbox",
     "全部页数": "number",
     "已读页数": "number",
-    "总页数": "number"
+    "总页数": "number",
+    "开始时间": "date",
+    "开始日期": "date"
   }
 }
