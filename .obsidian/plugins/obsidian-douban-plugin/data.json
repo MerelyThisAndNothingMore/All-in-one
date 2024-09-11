@@ -18,7 +18,7 @@
   "onlineSettingsFileName": "obsidian_douban_plugin_online_settings.json",
   "onlineSettingsGistId": "35693f9ece9bd6abba98f94e81afde19",
   "movieTemplateFile": "",
-  "bookTemplateFile": "",
+  "bookTemplateFile": "Configuration/Templates/图书模板.md",
   "musicTemplateFile": "",
   "noteTemplateFile": "",
   "gameTemplateFile": "",
@@ -36,13 +36,7 @@
   "dataFileNamePath": "/{{type}}/{{title}}",
   "statusBar": false,
   "debugMode": false,
-  "customProperties": [
-    {
-      "name": "coverUrl",
-      "value": "{{image}}",
-      "field": "ALL"
-    }
-  ],
+  "customProperties": [],
   "loginCookiesContent": "",
   "loginHeadersContent": "{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7\",\"Accept-Encoding\":\"gzip, deflate, br\",\"Accept-Language\":\"zh-CN\",\"Cookie\":\"bid=wKYXM3AzM_Y; dbcl2=\\\"183471083:RY3xOvZMq4M\\\"\",\"Referer\":\"https://accounts.douban.com/\",\"Sec-Fetch-Mode\":\"navigate\",\"Sec-Fetch-Site\":\"same-site\",\"Sec-Fetch-User\":\"?1\",\"Upgrade-Insecure-Requests\":\"1\",\"User-Agent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) obsidian/1.4.16 Chrome/114.0.5735.289 Electron/25.8.1 Safari/537.36\"}",
   "cacheImage": true,
