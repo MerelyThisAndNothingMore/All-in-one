@@ -32,39 +32,14 @@
   "arrayElementEnd": "",
   "arrayEnd": "",
   "personNameMode": "CH",
-  "dataFilePath": "",
+  "dataFilePath": "DataBase",
   "dataFileNamePath": "/{{type}}/{{title}}",
   "statusBar": false,
   "debugMode": false,
   "customProperties": [
     {
-      "name": "myType",
-      "value": "movie",
-      "field": "movie"
-    },
-    {
-      "name": "myType",
-      "value": "book",
-      "field": "book"
-    },
-    {
-      "name": "myType",
-      "value": "music",
-      "field": "music"
-    },
-    {
-      "name": "myType",
-      "value": "note",
-      "field": "note"
-    },
-    {
-      "name": "myType",
-      "value": "game",
-      "field": "game"
-    },
-    {
-      "name": "myType",
-      "value": "teleplay",
+      "name": "coverUrl",
+      "value": "{{cover}}",
       "field": "teleplay"
     }
   ],
