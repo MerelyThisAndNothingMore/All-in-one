@@ -1,5 +1,5 @@
 {
-  "pictureBedFlag": true,
+  "pictureBedFlag": false,
   "pictureBedSetting": {
     "url": "http://127.0.0.1:36677/upload"
   },
