@@ -28,6 +28,7 @@
     "总页数": "number",
     "开始时间": "date",
     "开始日期": "date",
-    "readPage": "number"
+    "readPage": "number",
+    "createTime": "datetime"
   }
 }
