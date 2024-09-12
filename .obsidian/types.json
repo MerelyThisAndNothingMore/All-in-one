@@ -29,6 +29,10 @@
     "开始时间": "date",
     "开始日期": "date",
     "readPage": "number",
-    "createTime": "datetime"
+    "createTime": "datetime",
+    "readStartTime": "date",
+    "readEndTime": "date",
+    "readStartDate": "date",
+    "readEndDate": "date"
   }
 }
