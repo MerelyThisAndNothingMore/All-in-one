@@ -12,5 +12,7 @@
   "newFileLocation": "current",
   "livePreview": true,
   "readableLineLength": false,
-  "propertiesInDocument": "visible"
+  "propertiesInDocument": "visible",
+  "strictLineBreaks": false,
+  "rightToLeft": false
 }
