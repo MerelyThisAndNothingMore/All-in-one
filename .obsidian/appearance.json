@@ -1,9 +1,10 @@
 {
-  "baseFontSize": 14,
+  "baseFontSize": 25,
   "theme": "moonstone",
   "translucency": true,
   "cssTheme": "Minimal",
   "accentColor": "",
-  "textFontFamily": "FangSong_GB2312,Songti SC",
-  "interfaceFontFamily": "FangSong_GB2312,Songti SC"
+  "textFontFamily": "FangSong_GB2312,Songti SC,FangSong",
+  "interfaceFontFamily": "FangSong_GB2312,Songti SC,FangSong",
+  "nativeMenus": false
 }
