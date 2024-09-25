@@ -4,6 +4,6 @@ In [[软件工程]], SOLID is short for five design principles intended to make 
 The SOLID ideas are
 - [[单一职责原则]]
 - [[Open-closed principle]]
-- [[Liskov substitution principle]]
-- [[Interface segregation principle]]
-- [[Dependency inversion principle]]
+- [[里氏替换原则]]
+- [[接口隔离原则]]
+- [[依赖倒置原则]]
